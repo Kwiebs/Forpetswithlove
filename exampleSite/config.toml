@@ -19,10 +19,6 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Contact"
-url = "contact/"
-weight = 2
-[[menu.footer]]
 name = "Terms & Conditions"
 url = "terms-conditions/"
 weight = 3
