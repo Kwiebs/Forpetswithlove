@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 {{- partial "head.html" . -}}
-
+<head>
+	{{ if .Site.Params.GoogleAnalyticsID }}
+	{{ partial "analytics-gtag.html" . }}
+	{{ end }}
+	...
+  </head>
 <body id="body">
 	{{- partial "preloader.html" . -}}
 	{{- partial "header.html" . -}}
