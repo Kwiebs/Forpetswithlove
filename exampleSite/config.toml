@@ -1,6 +1,6 @@
 baseurl = "https://forpetswithlove.netlify.app"
 disableLanguages = ["fr"]
-googleAnalytics = "G-GW45MT4LE0"
+googleAnalytics = 'G-GW45MT4LE0'
 summarylength = "20"
 theme = "vex-hugo"
 title = "For Pets With Love! Everything you need for your pet's needs."
