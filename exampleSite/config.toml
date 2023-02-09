@@ -7,13 +7,15 @@ theme = "vex-hugo"
 title = "For Pets With Love! Everything you need for your pet's needs."
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "© 2023, Forpetswithlove. All Rights Reserved.
+Forpetswithlove is reader-supported. When you buy through links on our site, we may earn a commission."
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "© 2023, Forpetswithlove. All Rights Reserved.
+Forpetswithlove is reader-supported. When you buy through links on our site, we may earn a commission."
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
