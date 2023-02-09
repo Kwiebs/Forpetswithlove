@@ -39,15 +39,6 @@ weight = "2"
 name = "Pets"
 url = "pets/"
 weight = "4"
-[[menu.main]]
-name = "Products"
-url = "products/"
-weight = 2
-[[menu.main]]
-name = "Reviews"
-pre = "#"
-url = "testimonial"
-weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
