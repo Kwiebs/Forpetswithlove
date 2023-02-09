@@ -6,9 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Homepage
-- type: directory
-  path: exampleSite/content/english/blog
-  label: Homepage (en)
 - type: document
   path: exampleSite/data/fr/homepage.yml
   label: Homepage (fr)
