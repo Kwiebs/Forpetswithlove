@@ -1,28 +1,24 @@
-baseurl = "https://forpetswithlove.netlify.app"
+baseurl = "https://forpetswithlove.netlify.app/blog"
 disableLanguages = ["fr"]
 googleAnalytics = "G-GW45MT4LE0"
 googleAnalyticsID = "G-GW45MT4LE0"
 summarylength = "20"
 theme = "vex-hugo"
-title = "For Pets With Love! Everything you need for your pet's needs."
+title = "For Pets With Love! Everything you want for your pet's needs."
 [Languages.en]
 contentDir = "content/english"
-copyright = "©2023, Forpetswithlove. All Rights Reserved. Forpetswithlove is reader-supported. When you buy through links on our site, we may earn a commission."
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "©2023, Forpetswithlove. All Rights Reserved. Forpetswithlove is reader-supported. When you buy through links on our site, we may earn a commission."
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
-weight = 3
 [[menu.footer]]
 name = "Privacy Policy"
 url = "privacy-policy/"
