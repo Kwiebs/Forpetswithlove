@@ -19,10 +19,8 @@ languageName = "Fr"
 weight = 2
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 4
+[menu]
+footer = []
 [[menu.main]]
 name = "Cats"
 url = "cats/"
