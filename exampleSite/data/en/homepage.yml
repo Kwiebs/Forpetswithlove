@@ -11,7 +11,7 @@ banner:
     label: Browse All Products
     link: products/
 features:
-  enable: true
+  enable: false
   title: Our Core Features
   image: images/watch-2.png
   left_side:
@@ -41,7 +41,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
 promo:
-  enable: true
+  enable: false
   image: images/watch.png
   title: Designed by professional , the benefit for creative gigs
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
@@ -49,7 +49,7 @@ promo:
     obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
-  enable: true
+  enable: false
   title: Why Choose Apple Watch
   items:
   - image: images/showcase/showcase-4.png
@@ -71,16 +71,16 @@ about_product:
       label: Check Features
       link: "#/"
 products:
-  enable: true
+  enable: false
   title: Checkout Our All Products
 subscription:
-  enable: true
+  enable: false
   bg_image: images/call-to-action.jpg
   title: Get Product Updates
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Your Email Address Here
 testimonial:
-  enable: true
+  enable: false
   title: Watch Review
   testimonial_item:
   - name: Jonathon Andrew
