@@ -52,7 +52,7 @@ The West Paw Zogoflex Bumi is a durable, chew-resistant tug toy made of BPA-free
 
 These dental chews are made of real bacon or peanut butter and are designed to clean your dog's teeth as they chew. The unique shape and texture also make them perfect for dogs who love to chew and need a little extra dental care.
 
-# 10. [Jolly Pet Rascals Ball](https://www.amazon.com/Jolly-Pets-8-Inch-Tug-n-Toss-Blue/dp/B0006G570G?crid=2T8GQGD4CXCCL&keywords=Jolly+Pet+Rascals+Ball&qid=1675961929&sprefix=jolly+pet+rascals+ball%2Caps%2C246&sr=8-1&linkCode=li3&tag=forpetswith0d-20&linkId=0434c9c3ca38268056ff7b91e4fdf34a&language=en_US&ref_=as_li_ss_il target="_blank")
+# 10. [Jolly Pet Rascals Ball](https://www.amazon.com/Jolly-Pets-8-Inch-Tug-n-Toss-Blue/dp/B0006G570G?crid=2T8GQGD4CXCCL&keywords=Jolly+Pet+Rascals+Ball&qid=1675961929&sprefix=jolly+pet+rascals+ball%2Caps%2C246&sr=8-1&linkCode=li3&tag=forpetswith0d-20&linkId=0434c9c3ca38268056ff7b91e4fdf34a&language=en_US&ref_=as_li_ss_il)
 <img src="/images/jolly_ball.jpg" alt="Jolly Pet Rascals Ball" width="150" height="150" ref= "https://www.amazon.com/Jolly-Pets-8-Inch-Tug-n-Toss-Blue/dp/B0006G570G?crid=2T8GQGD4CXCCL&keywords=Jolly+Pet+Rascals+Ball&qid=1675961929&sprefix=jolly+pet+rascals+ball%2Caps%2C246&sr=8-1&linkCode=li3&tag=forpetswith0d-20&linkId=0434c9c3ca38268056ff7b91e4fdf34a&language=en_US&ref_=as_li_ss_il" target="_blank"/>
 The Jolly Pet Rascals Ball is a durable, chew-resistant ball that is perfect for playing fetch with your dog. Made of tough, rubber material, this ball is designed to withstand even the toughest play sessions.
 
