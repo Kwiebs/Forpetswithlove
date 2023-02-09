@@ -34,7 +34,7 @@ weight = "2"
 [[menu.main]]
 name = "Pets"
 url = "pets/"
-weight = "1"
+weight = "4"
 [[menu.main]]
 name = "Products"
 url = "products/"
