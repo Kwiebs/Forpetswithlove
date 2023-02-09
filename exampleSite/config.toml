@@ -13,8 +13,7 @@ languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "©2023, Forpetswithlove. All Rights Reserved. 
-Forpetswithlove is reader-supported. When you buy through links on our site, we may earn a commission."
+copyright = "©2023, Forpetswithlove. All Rights Reserved. When you buy through links on our site, we may earn a commission."
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
