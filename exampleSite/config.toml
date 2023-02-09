@@ -28,6 +28,10 @@ name = "Privacy Policy"
 url = "privacy-policy/"
 weight = 4
 [[menu.main]]
+name = "Cats"
+url = "cats/"
+weight = "1"
+[[menu.main]]
 name = "Dogs"
 url = "dogs/"
 weight = "2"
