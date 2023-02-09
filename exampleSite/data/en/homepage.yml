@@ -7,7 +7,7 @@ banner:
     the best products and services for your furry friends.
   image: images/watch.png
   button:
-    enable: true
+    enable: false
     label: Browse All Products
     link: products/
 features:
