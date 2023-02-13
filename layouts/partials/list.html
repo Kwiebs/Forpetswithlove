@@ -3,7 +3,7 @@
 {{ if $data.homepage.list.enable }}
 {{ with $data.homepage.list }}
 
-  {{ range where .Data.Pages "Section" "english/blog" }}
+  {{ range where .Data.Pages "Section" "/blog" }}
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     <p>{{ .Summary }}</p>
   {{ end }}
