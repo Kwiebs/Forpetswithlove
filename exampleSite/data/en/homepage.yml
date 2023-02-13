@@ -6,9 +6,9 @@ list:
   button:
     enable: true
     label: View All
-    link: blog/ 
+    link: blog/
 banner:
-  enable: false
+  enable: true
   title: Believe in Technology, Make the change
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
