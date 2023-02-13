@@ -3,7 +3,10 @@ list:
   enable: true
   title: For pets with Love, Everything you want to know about your pets.
   image: images/logo.png
-  link: blog/ 
+  button:
+    enable: true
+    label: View All
+    link: blog/ 
 banner:
   enable: false
   title: Believe in Technology, Make the change
