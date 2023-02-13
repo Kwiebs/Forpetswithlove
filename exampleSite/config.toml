@@ -19,25 +19,15 @@ languageName = "Fr"
 weight = 2
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.main]]
-name = "Pets"
-url = "pets/"
-weight = 3
-[[menu.main]]
-name = "Dogs"
-url = "dogs/"
-weight = 2
-[[menu.main]]
-name = "Cats"
-url = "cats/"
-weight = 1
+[menu]
+main = []
 [params]
-author = "Themefisher"
+author = "|Kweebs"
 contact_form_action = "#"
 currency = "$"
 description = "Welcome to ForPetsWithLove.com, your one-stop shop for all things pet-related! We are a passionate team of pet lovers who are dedicated to providing you with the best products and services for your furry friends."
 logo = "images/logo.png"
-logo_width = "100px"
+logo_width = "200px"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
@@ -66,4 +56,4 @@ snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [permalinks]
-  posts = '/:filename'
+posts = "/:filename"
