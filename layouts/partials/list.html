@@ -1,5 +1,7 @@
-{{ define "main" }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
 
+{{- if $data.homepage.list.enable }}
+{{- with $data.homepage.list }}
 <section class="feature-list section">
   <div class="container">
     <div class="row">
@@ -38,5 +40,5 @@
     {{ end }}
   </div>
 </section>
-
-{{ end }}
+{{- end }}
+{{- end }}
