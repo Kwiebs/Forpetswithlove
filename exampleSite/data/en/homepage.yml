@@ -71,8 +71,8 @@ about_product:
       label: Check Features
       link: "#/"
 products:
-  enable: false
-  title: Checkout Our All Products
+  enable: true
+  title: For Pets With Love
 subscription:
   enable: false
   bg_image: images/call-to-action.jpg
