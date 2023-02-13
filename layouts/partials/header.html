@@ -16,6 +16,7 @@
           </li>
           {{ end }}
         </ul>
+        {{ partial "form.html" . }}
         <!-- Language List -->
         {{ if .IsTranslated }}
         <select class="lang-list" id="select-language" onchange="location = this.value;">
@@ -43,7 +44,6 @@
       {{ end }}
     </nav>
   </div>
-  {{ partial "form.html" . }}
   {{ with site.Params.googleAnalytics }}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
     <script>
