@@ -1,21 +1,26 @@
 {{ define "main" }}
-
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-5 mb-4 mb-md-0">
-        <div class="sticky-image">
-          <img class="img-fluid w-100" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
-        </div>
-      </div>
-      <div class="col-lg-6 col-md-7 offset-lg-1">
-        <h1 class="mb-4">{{.Title | markdownify}}</h1>
-        <div class="content">
-          {{.Content}}
-        </div>
-      </div>
-    </div>
+<section>
+  <h1>{{ .Title }}</h1>
+  <div>
+    <article>
+      {{ .Content }}
+    </article>
   </div>
 </section>
-
+<aside>
+  <div>
+    <section>
+      <h4>{{ .Date.Format "Mon Jan 2, 2006" }}</h4>
+      <h5>{{ .WordCount }} Words</h5>
+    </section>
+  </div>
+  <div>
+    {{ with .PrevInSection }}
+    <a class="previous" href="{{ .Permalink }}"> {{.Title}}</a>
+    {{ end }}
+    {{ with .NextInSection }}
+    <a class="next" href="{{ .Permalink }}"> {{.Title}}</a>
+    {{ end }}
+  </div>
+</aside>
 {{ end }}
