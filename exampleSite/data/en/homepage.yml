@@ -71,7 +71,7 @@ about_product:
       label: Check Features
       link: "#/"
 products:
-  enable: true
+  enable: false
   title: For Pets With Love
 subscription:
   enable: false
