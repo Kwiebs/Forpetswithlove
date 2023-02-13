@@ -3,6 +3,7 @@ title: The Top 10 Best-Selling Pet Food Brands of 2023
 description: The Top 10 Best-Selling Pet Food Brands of 2023
 image: images/pet_brands.jpg
 Tags: pet food, best-selling pet food brands, 2023, Royal Canin, Hill's Science Diet, Purina, Blue Buffalo, Iams, Eukanuba, Wellness, Nutro, Taste of the Wild
+permalink: /The-Top-10-Best-Selling-Pet-Food-Brands-of-2023/
 ---
 
 # Introduction

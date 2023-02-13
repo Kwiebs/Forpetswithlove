@@ -2,6 +2,7 @@
 title: Top 10 Best Toys for Dogs in 2023 - The Ultimate Guide for Pet Owners
 description: Want to keep your furry friend entertained? Here's a list of the top 10 best toys for dogs in 2023 to keep your pooch entertained and engaged.
 image: images/jolly_ball.jpg
+permalink : /top_best_dog_toys_2023/
 ---
 
 

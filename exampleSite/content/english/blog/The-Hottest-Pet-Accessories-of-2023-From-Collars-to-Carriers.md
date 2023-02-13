@@ -2,6 +2,7 @@
 title: The Hottest Pet Accessories of 2023 - From Collars to Carriers
 description: The Hottest Pet Accessories of 2023 - From Collars to Carriers
 image: images/pet_accessories.jpg
+permalink: /The-Hottest-Pet-Accessories-of-2023-From-Collars-to-Carriers/
 --- Tags: pet food, best-selling pet food brands, 2023, Royal Canin, Hill's Science Diet, Purina, Blue Buffalo, Iams, Eukanuba, Wellness, Nutro, Taste of the Wild
 ---
 
