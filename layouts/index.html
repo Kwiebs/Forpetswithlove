@@ -1,6 +1,6 @@
 {{ define "main" }}
-    {{ range first 10 .Data.Pages }}
-    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+  {{ range first 10 .Data.Pages }}
+  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
 
   {{- partial "banner.html" . }}
 
