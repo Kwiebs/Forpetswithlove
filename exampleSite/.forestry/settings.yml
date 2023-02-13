@@ -9,7 +9,6 @@ sections:
 - type: document
   path: exampleSite/data/en/homepage.yml
   label: Home En
-  match: "**/*"
 - type: heading
   label: Blog Post
 - type: directory
