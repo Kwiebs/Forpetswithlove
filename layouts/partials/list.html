@@ -2,13 +2,11 @@
 
 {{ if $data.homepage.list.enable }}
 {{ with $data.homepage.list }}
-{{ define "main" }}
 
   {{ range where .Data.Pages "Section" "english/blog" }}
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     <p>{{ .Summary }}</p>
   {{ end }}
 
-{{ end }}
 {{ end }}
 {{ end }}
