@@ -26,5 +26,3 @@ fields:
 - type: tag_list
   name: sizes
   label: sizes
-pages:
-- exampleSite/data/fr/homepage.yml
