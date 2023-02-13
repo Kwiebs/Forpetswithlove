@@ -19,10 +19,8 @@ languageName = "Fr"
 weight = 2
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.main]]
-name = "Homepage"
-url = "https://www.forpetswithlove.com/blog"
-weight = "1"
+[menu]
+main = ["Homepage"]
 [params]
 author = "|Kweebs"
 contact_form_action = "#"
