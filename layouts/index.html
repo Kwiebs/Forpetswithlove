@@ -1,8 +1,17 @@
 {{ define "main" }}
 
-  {{ range .Data.Pages }}
-    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Summary }}</p>
-  {{ end }}
+  {{- partial "banner.html" . }}
+
+  {{- partial "features.html" . }}
+
+  {{- partial "promo.html" . }}
+
+  {{- partial "about-product.html" . }}
+
+  {{- partial "products.html" . }}
+
+  {{- partial "subscription.html" . }}
+
+  {{- partial "testimonials.html" . }}
 
 {{ end }}
