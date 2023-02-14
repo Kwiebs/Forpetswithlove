@@ -1,143 +1,136 @@
-(function () {
-    const SEARCH_ID = 'search';
-    const ENABLE_SEARCH_ID = 'enable_search';
-    const REGEX_MODE_ID = 'regex_mode';
-    const COUNT_ID = 'count';
-    const LIST_ID = 'list';
-  
-    let list = null;
-    let filteredList = null;
-  
-    const logPerformance = (work, startTime, endTime) => {
-      const duration = (endTime - startTime).toFixed(2);
-      console.log(`${work} took ${duration} ms`);
-    };
-  
-    const getSearchEl = () => document.getElementById(SEARCH_ID);
-    const getEnableSearchEl = () => document.getElementById(ENABLE_SEARCH_ID);
-    const getRegexModeEl = () => document.getElementById(REGEX_MODE_ID);
-    const getCountEl = () => document.getElementById(COUNT_ID);
-    const getListEl = () => document.getElementById(LIST_ID);
-  
-    const disableSearchEl = placeholder => {
-      getSearchEl().disabled = true;
-      getSearchEl().placeholder = placeholder;
-    };
-  
-    const enableSearchEl = () => {
-      getSearchEl().disabled = false;
-      getSearchEl().placeholder =
-        'Case-insensitive search by title, content, or publish date';
-    };
-  
-    const disableRegexModeEl = () => {
-      getRegexModeEl().disabled = true;
-    };
-  
-    const enableRegexModeEl = () => {
-      getRegexModeEl().disabled = false;
-    };
-  
-    const fetchJsonIndex = () => {
-      const startTime = performance.now();
-      disableSearchEl('Loading ...');
-      const url = `${window.location.origin}/index.json`;
-      fetch(url)
-        .then(response => response.json())
-        .then(data => {
-          list = data.blog;
-          filteredList = data.blog;
-          enableSearchEl();
-          logPerformance('fetchJsonIndex', startTime, performance.now());
-        })
-        .catch(error =>
-          console.error(`Failed to fetch JSON index: ${error.message}`)
-        );
-    };
-  
-    const filterList = regexMode => {
-      const regexQuery = new RegExp(getSearchEl().value, 'i');
-      const query = getSearchEl().value.toUpperCase();
-      filteredList = list.filter(item => {
-        const title = item.Title.toUpperCase();
-        const content = item.PlainContent.toUpperCase();
-        const publishDate = item.PublishDateFormatted.toUpperCase();
-        if (regexMode) {
-          return (
-            regexQuery.test(title) ||
-            regexQuery.test(content) ||
-            regexQuery.test(publishDate)
-          );
-        } else {
-          return (
-            title.includes(query) ||
-            content.includes(query) ||
-            publishDate.includes(query)
-          );
+var summaryInclude = 180;
+var fuseOptions = {
+    shouldSort: true,
+    includeMatches: true,
+    includeScore: true,
+    tokenize: true,
+    location: 0,
+    distance: 100,
+    minMatchCharLength: 1,
+    keys: [
+        {name: "title", weight: 0.45},
+        {name: "contents", weight: 0.4},
+        {name: "tags", weight: 0.1},
+        {name: "categories", weight: 0.05}
+    ]
+};
+
+// =============================
+// Search
+// =============================
+
+var inputBox = document.getElementById('search-query');
+if (inputBox !== null) {
+    var searchQuery = param("q");
+    if (searchQuery) {
+        inputBox.value = searchQuery || "";
+        executeSearch(searchQuery, false);
+    } else {
+        document.getElementById('search-results').innerHTML = '<p class="search-results-empty">Please enter a word or phrase above, or see <a href="/tags/">all tags</a>.</p>';
+    }
+}
+
+function executeSearch(searchQuery) {
+
+    show(document.querySelector('.search-loading'));
+
+    fetch('/index.json').then(function (response) {
+        if (response.status !== 200) {
+            console.log('Looks like there was a problem. Status Code: ' + response.status);
+            return;
         }
-      });
-    };
-  
-    const renderCount = () => {
-      const count = `Count: ${filteredList.length}`;
-      getCountEl().textContent = count;
-    };
-  
-    const renderList = () => {
-      const newList = document.createElement('ul');
-      newList.id = LIST_ID;
-  
-      filteredList.forEach(item => {
-        const li = document.createElement('li');
-  
-        const publishDate = document.createElement('span');
-        publishDate.textContent = item.PublishDateFormatted;
-  
-        const titleLink = document.createElement('a');
-        titleLink.href = item.RelPermalink;
-        titleLink.textContent = item.Title;
-  
-        li.appendChild(publishDate);
-        li.appendChild(document.createTextNode(' '));
-        li.appendChild(titleLink);
-  
-        newList.appendChild(li);
-      });
-  
-      const oldList = getListEl();
-      oldList.replaceWith(newList);
-    };
-  
-    const handleSearchEvent = () => {
-      const startTime = performance.now();
-      const regexMode = getRegexModeEl().checked;
-      filterList(regexMode);
-      renderCount();
-      renderList();
-      logPerformance('handleSearchEvent', startTime, performance.now());
-    };
-  
-    const handleEnableSearchEvent = () => {
-      if (getEnableSearchEl().checked) {
-        fetchJsonIndex();
-        enableRegexModeEl();
-      } else {
-        disableSearchEl('Disabled ...');
-        disableRegexModeEl();
-      }
-    };
-  
-    const addEventListeners = () => {
-      getEnableSearchEl().addEventListener('change', handleEnableSearchEvent);
-      getSearchEl().addEventListener('keyup', handleSearchEvent);
-      getRegexModeEl().addEventListener('change', handleSearchEvent);
-    };
-  
-    const main = () => {
-      if (getSearchEl()) {
-        addEventListeners();
-      }
-    };
-  
-    main();
-  })();
+        // Examine the text in the response
+        response.json().then(function (pages) {
+            var fuse = new Fuse(pages, fuseOptions);
+            var result = fuse.search(searchQuery);
+            if (result.length > 0) {
+                populateResults(result);
+            } else {
+                document.getElementById('search-results').innerHTML = '<p class=\"search-results-empty\">No matches found</p>';
+            }
+            hide(document.querySelector('.search-loading'));
+        })
+        .catch(function (err) {
+            console.log('Fetch Error :-S', err);
+        });
+    });
+}
+
+function populateResults(results) {
+
+    var searchQuery = document.getElementById("search-query").value;
+    var searchResults = document.getElementById("search-results");
+
+    // pull template from hugo template definition
+    var templateDefinition = document.getElementById("search-result-template").innerHTML;
+
+    results.forEach(function (value, key) {
+
+        var contents = value.item.contents;
+        var snippet = "";
+        var snippetHighlights = [];
+
+        snippetHighlights.push(searchQuery);
+        snippet = contents.substring(0, summaryInclude * 2) + '&hellip;';
+
+        //replace values
+        var tags = ""
+        if (value.item.tags) {
+            value.item.tags.forEach(function (element) {
+                tags = tags + "<a href='/tags/" + element + "'>" + "#" + element + "</a> "
+            });
+        }
+
+        var output = render(templateDefinition, {
+            key: key,
+            title: value.item.title,
+            link: value.item.permalink,
+            tags: tags,
+            categories: value.item.categories,
+            snippet: snippet
+        });
+        searchResults.innerHTML += output;
+
+        snippetHighlights.forEach(function (snipvalue, snipkey) {
+            var instance = new Mark(document.getElementById('summary-' + key));
+            instance.mark(snipvalue);
+        });
+
+    });
+}
+
+function render(templateString, data) {
+    var conditionalMatches, conditionalPattern, copy;
+    conditionalPattern = /\$\{\s*isset ([a-zA-Z]*) \s*\}(.*)\$\{\s*end\s*}/g;
+    //since loop below depends on re.lastInxdex, we use a copy to capture any manipulations whilst inside the loop
+    copy = templateString;
+    while ((conditionalMatches = conditionalPattern.exec(templateString)) !== null) {
+        if (data[conditionalMatches[1]]) {
+            //valid key, remove conditionals, leave contents.
+            copy = copy.replace(conditionalMatches[0], conditionalMatches[2]);
+        } else {
+            //not valid, remove entire section
+            copy = copy.replace(conditionalMatches[0], '');
+        }
+    }
+    templateString = copy;
+    //now any conditionals removed we can do simple substitution
+    var key, find, re;
+    for (key in data) {
+        find = '\\$\\{\\s*' + key + '\\s*\\}';
+        re = new RegExp(find, 'g');
+        templateString = templateString.replace(re, data[key]);
+    }
+    return templateString;
+}
+
+// Helper Functions
+function show(elem) {
+    elem.style.display = 'block';
+}
+function hide(elem) {
+    elem.style.display = 'none';
+}
+function param(name) {
+    return decodeURIComponent((location.search.split(name + '=')[1] || '').split('&')[0]).replace(/\+/g, ' ');
+}
