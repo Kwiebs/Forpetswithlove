@@ -6,6 +6,12 @@
 	{{ partial "analytics-gtag.html" . }}
 	{{ end }}
 	...
+{{ if site.Params.search }}
+  {{ $searchJs := resources.Get "js/search.js"
+    | resources.ExecuteAsTemplate "js/search.js" .
+  	  | fingerprint }}
+  <script src="{{ $searchJs.RelPermalink }}"></script>
+{{ end }}
   </head>
 <body id="body">
 	{{- partial "preloader.html" . -}}
