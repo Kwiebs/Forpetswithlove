@@ -28,6 +28,8 @@ currency = "$"
 description = "Welcome to ForPetsWithLove.com, your one-stop shop for all things pet-related! We are a passionate team of pet lovers who are dedicated to providing you with the best products and services for your furry friends."
 logo = "images/logo.png"
 logo_width = "200px"
+search = true
+search_minify = false
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
@@ -53,6 +55,3 @@ preloader = ""
 blog = "/:filename/"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
-[params]
-search = true
-search_minify = false
