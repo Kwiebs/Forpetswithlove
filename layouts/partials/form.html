@@ -1,8 +1,11 @@
 {{ if site.Params.search }}
+<form action="/search" method="GET"></form>
 <input
   id="search"
   class="form-control"
   type="text"
   aria-label="Case-insensitive search by title, content, or publish date"
   placeholder="Search">
+  <button type="submit">Search</button>
+</form>
 {{ end }}
