@@ -14,3 +14,7 @@ fields:
 - type: text
   name: description
   label: description
+outputs:
+- html
+- rss
+- json
