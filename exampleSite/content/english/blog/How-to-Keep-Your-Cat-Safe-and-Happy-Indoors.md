@@ -15,10 +15,10 @@ As a cat owner, one of your primary concerns is probably to keep your furry frie
 
 One of the first things you need to do to keep your cat safe indoors is to cat-proof your home. This means taking steps to minimize the risk of accidents, injuries, and escapes by removing or securing potential hazards. Some of the most common cat-proofing tasks include:
 
-Covering or removing sharp edges, corners, and loose wires
-Closing windows, doors, and other potential escape routes
-Removing toxic plants, chemicals, and medications from your cat's reach
-Securing loose objects that may cause injury or suffocation
+- Covering or removing sharp edges, corners, and loose wires
+- Closing windows, doors, and other potential escape routes
+- Removing toxic plants, chemicals, and medications from your cat's reach
+- Securing loose objects that may cause injury or suffocation
 
 ### Creating a Comfortable and Safe Sleeping Area
 

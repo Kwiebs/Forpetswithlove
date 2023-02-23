@@ -7,19 +7,24 @@ tags: new puppy, puppy supplies, puppy checklist, must-have puppy supplies, pupp
 ---
 Bringing home a new puppy is an exciting and rewarding experience. However, as a new pet owner, it can be challenging to know exactly what supplies you need for your furry friend. To help make your shopping easier, we've put together a complete checklist of the 5 must-have supplies for your new puppy.
 
-1. High-Quality Puppy Food
+## 1. High-Quality Puppy Food
+
 The first and most important item on your puppy supply checklist should be high-quality puppy food. Puppies have specific dietary needs that are different from adult dogs, so it's crucial to choose a food that is specifically formulated for puppies. Look for a brand that contains high-quality ingredients such as protein, whole grains, and vegetables. It's also important to choose a food that is appropriate for your puppy's breed, age, and size.
 
-2. Water and Food Bowls
+## 2. Water and Food Bowls
+
 Your new puppy will need a set of water and food bowls for feeding and hydration. Stainless steel or ceramic bowls are the best options as they are durable, easy to clean, and don't contain harmful chemicals. Choose bowls that are appropriately sized for your puppy's breed and age, and make sure they are placed in a location that is easy for your puppy to access.
 
-3. A Comfortable Bed
+## 3. A Comfortable Bed
+
 A comfortable bed is essential for your new puppy's health and wellbeing. Choose a bed that is appropriately sized for your puppy's breed and age, and is made of high-quality materials. Look for beds that are machine washable and provide proper support for your puppy's joints and muscles.
 
-4. Collar and Leash
+## 4. Collar and Leash
+
 A collar and leash are essential for keeping your new puppy safe and under control while out and about. Choose a collar that fits snugly but isn't too tight, and a leash that is appropriate for your puppy's size and strength. It's also important to choose a leash that is comfortable to hold and provides good control.
 
-5. Puppy Training Pads
+## 5. Puppy Training Pads
+
 Puppy training pads are a must-have for housebreaking your new puppy. Choose pads that are appropriately sized for your puppy's breed and age, and that are absorbent and leak-proof. Place the pads in a location that is easy for your puppy to access, and be consistent in using them until your puppy is fully housebroken.
 
 ### FAQs
