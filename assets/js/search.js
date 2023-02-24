@@ -141,3 +141,9 @@ function executeSearch(term) {
     last = list.lastChild.firstElementChild; // last result container — used for checking against keyboard up/down location
   }
 }
+keys: [
+  "title",
+  "contents",
+  "tags",
+  "categories"
+]
