@@ -6,10 +6,13 @@
 	{{ partial "analytics-gtag.html" . }}
 	{{ end }}
 	...
-{{ if site.Params.search }}
-{{ $searchJs := resources.Get "js/search.js"  | resources.ExecuteAsTemplate "js/search.js" .  | fingerprint }}
-<script src="{{ $searchJs.RelPermalink }}"></script>
-{{ end }}
+	<div id="fastSearch">
+		<input id="searchInput" tabindex="0">
+		<ul id="searchResults">
+		</ul>
+	  </div>
+	  <script src="/js/fuse.js"></script> <!-- download and copy over fuse.js file from fusejs.io -->
+	  <script src="/js/fastsearch.js"></script>
   </head>
 <body id="body">
 	{{- partial "preloader.html" . -}}
