@@ -21,3 +21,9 @@
     <p>{{ .Summary }}</p>
   {{ end }}
 {{ end }}
+
+{{ range (.Paginate .Site.RegularPages).Pages }}
+    {{ if ne .Title "Search" }} 
+        {{ .Render "summary" }}
+    {{ end }}
+{{ end }}
