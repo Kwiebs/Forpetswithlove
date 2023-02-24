@@ -20,9 +20,7 @@
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     <p>{{ .Summary }}</p>
   {{ end }}
-{{ end }}
-
-{{ range (.Paginate .Site.RegularPages).Pages }}
+  {{ range (.Paginate .Site.RegularPages).Pages }}
     {{ if ne .Title "Search" }} 
         {{ .Render "summary" }}
     {{ end }}
