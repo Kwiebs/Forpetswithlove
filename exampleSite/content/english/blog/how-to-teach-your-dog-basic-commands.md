@@ -1,5 +1,5 @@
 ---
-title: How to Teach Your Dog Basic Commands: A Comprehensive Guide
+title: How to Teach Your Dog Basic Commands - A Comprehensive Guide
 description: In this comprehensive guide, you will learn everything you need to know about teaching your dog basic commands. From sit to stay, come to heel, we've got you covered!
 permalink: /A-Beginners-Guide-to-Raising-Fish-as-Pets/
 image: images/dog_fetch.jpg
