@@ -1,5 +1,5 @@
 ---
-title: Pamper Your Pet Ferret Like Royalty: A Comprehensive Guide
+title: Pamper Your Pet Ferret Like Royalty - A Comprehensive Guide
 description: Ferrets are social animals that require plenty of attention and affection from their owners. It's important to create a comfortable living environment for your pet ferret that includes plenty of cozy bedding, a clean litter box, and a comfortable sleeping area.
 image: images/ferrets.jpg
 permalink: /pamper-pet-ferret-royalty/
