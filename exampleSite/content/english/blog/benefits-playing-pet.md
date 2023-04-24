@@ -1,5 +1,5 @@
 ---
-Title: The Benefits of Playing with Your Pet: Why Spending Time with Your Furry Friend is Important
+Title: The Benefits of Playing with Your Pet- Why Spending Time with Your Furry Friend is Important
 
 Description: Playing with your pet isn't just fun—it's also beneficial for both you and your furry friend. Discover the many benefits of playing with your pet in this informative article.
 
