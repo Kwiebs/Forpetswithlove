@@ -1,5 +1,5 @@
 ---
-title: Parakeet Parrot: A Colorful and Chatty Pet Bird
+title: Parakeet Parrot - A Colorful and Chatty Pet Bird
 description: The Parakeet Parrot, also known as the Budgerigar, is a popular pet bird known for its vibrant colors and chatty personality. In this guide, we'll explore the history, characteristics, and care of this delightful bird.
 image: images/parakeet-parrot.jpg
 permalink: /parakeet-parrot/

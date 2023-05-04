@@ -1,5 +1,5 @@
 ---
-title: Celebrating International Cat Day: A Guide to Showing Your Feline Friend Some Love
+title: Celebrating International Cat Day - A Guide to Showing Your Feline Friend Some Love
 description: International Cat Day is a day to celebrate our feline friends and show them some extra love and attention. In this guide, we'll explore ways to pamper your cat, from toys and treats to grooming and playtime.
 image: images/cat_gift.jpg
 permalink: /international-cat-day/
