@@ -17,7 +17,8 @@ Before embarking on your reptile adventure, it's essential to select the appropr
 
 ### Subheading: Size Matters!
 
-![Terrarium Size]
+[Terrarium Size](https://www.amazon.com/s?k=Terrarium+Size&crid=1M3EX6VUI6QXQ&sprefix=terrarium+size%2Caps%2C236&linkCode=ll2&tag=forpetswith0d-20&linkId=e168058c43c9009c043cfd924b9bc434&language=en_US&ref_=as_li_ss_tl)
+
 <img src=https://m.media-amazon.com/images/I/717PQnsYsdL._AC_SL1500_.jpg width="60%" height="30%">
 
 - Ensure the terrarium is spacious enough for your reptile to roam, climb, and hide comfortably.
@@ -34,7 +35,8 @@ Remember, the terrarium should provide a secure and sturdy environment for your 
 
 ## Step 2: Creating the Perfect Substrate
 
-![Terrarium Substrate]
+[Terrarium Substrate](https://www.amazon.com/s?k=Terrarium+Substrate&crid=T5FOCSNRN2AU&sprefix=terrarium+substrate%2Caps%2C315&linkCode=ll2&tag=forpetswith0d-20&linkId=da3b93d77dafb33374ea6d84861a8a80&language=en_US&ref_=as_li_ss_tl)
+
 <img src=https://m.media-amazon.com/images/I/81CKa5twTDL._AC_SL1500_.jpg width="60%" height="30%">
 
 The substrate is the foundation of your reptile's terrarium. It helps maintain humidity, provides insulation, and gives your pet a comfortable surface to explore. Consider the following when selecting the substrate:
@@ -49,7 +51,8 @@ Remember to avoid substrates that can be ingested or cause harm to your reptile.
 
 ## Step 3: Setting Up the Terrarium Decor
 
-![Terrarium Decor]
+[Terrarium Decor](https://www.amazon.com/s?k=Terrarium+Decor&crid=2P4YW4FXIUGEV&sprefix=terrarium+decor%2Caps%2C280&linkCode=ll2&tag=forpetswith0d-20&linkId=4880fc79105c9b759b7fbd0abc1e9f93&language=en_US&ref_=as_li_ss_tl)
+
 <img src=https://m.media-amazon.com/images/I/71xsbjk6dWL._AC_SL1500_.jpg width="60%" height="30%">
 
 Creating an engaging and stimulating environment is crucial for your pet reptile's mental and physical well-being. Here are some elements to consider when decorating the terrarium:
@@ -88,7 +91,8 @@ Remember to regularly monitor and adjust the temperature and humidity levels to 
 
 ## Step 5: Providing Proper Lighting
 
-![Terrarium Lighting]
+[Terrarium Lighting](https://www.amazon.com/s?k=Terrarium+Lighting&crid=2ALHYKVILOBIU&sprefix=terrarium+lighting%2Caps%2C348&linkCode=ll2&tag=forpetswith0d-20&linkId=b34998e9109b2e3b87817c039107ae89&language=en_US&ref_=as_li_ss_tl)
+
 <img src=https://m.media-amazon.com/images/I/71WY09nSviL._AC_SL1500_.jpg width="60%" height="30%">
 
 Lighting plays a crucial role in your reptile's physiological processes and behavior. Here's what you need to know about lighting in the terrarium:
@@ -110,7 +114,9 @@ Remember, proper lighting is essential for your reptile's overall health, growth
 
 ## Step 6: Feeding and Hydration
 
-![Terrarium Feeding]
+[Terrarium Feeding](https://www.amazon.com/s?k=Terrarium+Feeding&crid=1HMLU2OCHJJI4&sprefix=terrarium+feeding%2Caps%2C349&linkCode=ll2&tag=forpetswith0d-20&linkId=a8b4fa0ef6d69f4c19eb58eda434400b&language=en_US&ref_=as_li_ss_tl)
+
+
 <img src=https://m.media-amazon.com/images/I/81Rkb+g4+iL._AC_SL1500_.jpg width="60%" height="30%">
 
 Feeding your pet reptile a balanced diet is crucial for their nutritional needs and overall health. Here's what you need to consider when it comes to feeding and hydration:
