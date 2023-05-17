@@ -16,7 +16,7 @@ The [Zoo Med Repti Basking Spot Lamp](https://amzn.to/41VaVzo) is a popular choi
 
 - [Zoo Med Repti Basking Spot Lamp 75W](https://amzn.to/3Jj6KFZ)
 
-<a href="https://www.amazon.com/Zoo-Med-Repti-Basking-Lamps/dp/B01BIC0PJO?crid=1YKCXLTEU0S0J&keywords=Zoo+Med+Repti+Basking+Spot+Lamp+75W&qid=1678201054&sprefix=zoo+med+repti+basking+spot+lamp+75w%2Caps%2C1424&sr=8-7&linkCode=li2&tag=forpetswith0d-20&linkId=66de111438893328da5ae8418338a0a6&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01BIC0PJO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith0d-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith0d-20&language=en_US&l=li2&o=1&a=B01BIC0PJO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/Zoo-Med-Repti-Basking-Lamps/dp/B01BIC0PJO?crid=1YKCXLTEU0S0J&keywords=Zoo+Med+Repti+Basking+Spot+Lamp+75W&qid=1678201054&sprefix=zoo+med+repti+basking+spot+lamp+75w%2Caps%2C1424&sr=8-7&linkCode=li2&tag=forpetswith0d-20&linkId=66de111438893328da5ae8418338a0a6&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01BIC0PJO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith0d-20&language=en_US" ></a><img src="https://m.media-amazon.com/images/I/616WwCqhjYL._AC_.jpg" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 - [Zoo Med Repti Basking Spot Lamp](https://amzn.to/41VaVzo) 100W
 
