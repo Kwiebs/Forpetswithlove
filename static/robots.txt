@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-json/
+Disallow: /search/
+Disallow: /*?s=*
+Disallow: /*?p=*
+
+# Block specific crawlers that might cause issues
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Disallow: /
+
+# Allow Google Image
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+
+# Allow Adsense
+User-agent: Mediapartners-Google
+Allow: /
+
+# Sitemap location
+Sitemap: https://forpetswithlove.com/sitemap.xml
