@@ -7,7 +7,7 @@ theme = "vex-hugo"
 title = "For Pets With Love! Everything you want for your pet's needs."
 [Languages.en]
 contentDir = "content/english"
-copyright = "©2023, Forpetswithlove. All Rights Reserved. When you buy through links on our site, we may earn a commission."
+copyright = "©2025, Forpetswithlove. All Rights Reserved. When you buy through links on our site, we may earn a commission."
 languageCode = "en-us"
 languageName = "En"
 weight = 1
