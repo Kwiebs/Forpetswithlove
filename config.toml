@@ -1,3 +1,4 @@
+# Minimal config.toml for SEO improvements
 baseURL = "https://forpetswithlove.com/"
 languageCode = "en-us"
 title = "For Pets With Love! Everything you want for your pet's needs."
@@ -11,9 +12,15 @@ theme = "vex-hugo"
 
 # Add outputs for proper sitemap generation
 [outputs]
-  home = ["HTML", "RSS", "JSON", "SITEMAP"]
+  home = ["HTML", "RSS", "SITEMAP"]
 
 [outputFormats.SITEMAP]
   mediaType = "application/xml"
   baseName = "sitemap"
   isHTML = false
+
+# Basic SEO settings
+[params]
+  description = "Welcome to ForPetsWithLove.com, your one-stop shop for all things pet-related! We are a passionate team of pet lovers who are dedicated to providing you with the best products and services for your furry friends."
+  author = "ForPetsWithLove"
+  images = ["images/logo.png"]
