@@ -1,18 +1,86 @@
+{{/* layouts/_default/single.html */}}
 {{ define "main" }}
 
 <section class="section">
   <div class="container">
     <div class="row">
-      <div class="col-md-5 mb-4 mb-md-0">
-        <div class="sticky-image">
-          <img class="img-fluid w-100" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+      <div class="col-lg-8 mx-auto">
+        <article>
+          <!-- Title -->
+          <h1 class="post-title">{{ .Title }}</h1>
+          
+          <!-- Post meta -->
+          <div class="post-meta">
+            <span>{{ .Date.Format "January 2, 2006" }}</span>
+            {{ with .Params.author }}<span>By {{ . }}</span>{{ end }}
+            {{ with .Params.categories }}
+            <span>
+              {{ range . }}
+              <a href="{{ "categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+              {{ end }}
+            </span>
+            {{ end }}
+          </div>
+          
+          <!-- Featured image -->
+          {{ if .Params.featured_image }}
+          <div class="featured-image">
+            <img src="{{ .Params.featured_image }}" alt="{{ .Params.featured_alt | default .Title }}" class="img-fluid">
+          </div>
+          {{ end }}
+          
+          <!-- Content with proper heading structure -->
+          <div class="content">
+            {{ $content := .Content }}
+            
+            {{/* Replace heading tags to ensure proper hierarchy */}}
+            {{ $content := replaceRE "<h4([^>]*)>(.*?)</h4>" "<h2$1>$2</h2>" $content }}
+            {{ $content := replaceRE "<h5([^>]*)>(.*?)</h5>" "<h3$1>$2</h3>" $content }}
+            {{ $content := replaceRE "<h6([^>]*)>(.*?)</h6>" "<h3$1>$2</h3>" $content }}
+            
+            {{ $content | safeHTML }}
+          </div>
+          
+          <!-- Tags -->
+          {{ with .Params.tags }}
+          <div class="post-tags">
+            <span>Tags:</span>
+            {{ range . }}
+            <a href="{{ "tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+          </div>
+          {{ end }}
+          
+          <!-- Share buttons -->
+          <div class="share-buttons">
+            <span>Share:</span>
+            <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}" target="_blank" rel="noopener noreferrer">Twitter</a>
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" rel="noopener noreferrer">Facebook</a>
+            <a href="https://pinterest.com/pin/create/button/?url={{ .Permalink }}&media={{ .Params.featured_image }}&description={{ .Title }}" target="_blank" rel="noopener noreferrer">Pinterest</a>
+          </div>
+          
+        </article>
+        
+        <!-- Related posts -->
+        {{ $related := .Site.RegularPages.Related . | first 3 }}
+        {{ with $related }}
+        <div class="related-posts">
+          <h2>Related Posts</h2>
+          <div class="row">
+            {{ range . }}
+            <div class="col-md-4">
+              <a href="{{ .RelPermalink }}">
+                {{ with .Params.featured_image }}
+                <img src="{{ . }}" alt="{{ $.Title }}" class="img-fluid">
+                {{ end }}
+                <h3>{{ .Title }}</h3>
+              </a>
+            </div>
+            {{ end }}
+          </div>
         </div>
-      </div>
-      <div class="col-lg-6 col-md-7 offset-lg-1">
-        <h1 class="mb-4">{{.Title | markdownify}}</h1>
-        <div class="content">
-          {{.Content}}
-        </div>
+        {{ end }}
+        
       </div>
     </div>
   </div>
