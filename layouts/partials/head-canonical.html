@@ -1,0 +1,12 @@
+{{/* layouts/partials/head-canonical.html */}}
+{{ if .IsHome }}
+  <link rel="canonical" href="{{ .Site.BaseURL }}" />
+{{ else if .IsPage }}
+  <link rel="canonical" href="{{ .Permalink }}" />
+{{ else if .IsSection }}
+  <link rel="canonical" href="{{ .Permalink }}" />
+{{ else if .IsNode }}
+  <link rel="canonical" href="{{ .Permalink }}" />
+{{ else }}
+  <link rel="canonical" href="{{ .Permalink }}" />
+{{ end }}
