@@ -1,0 +1,22 @@
+{{/* layouts/shortcodes/image.html */}}
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "Image description missing" }}
+{{ $caption := .Get "caption" }}
+{{ $class := .Get "class" | default "" }}
+{{ $width := .Get "width" | default "auto" }}
+{{ $height := .Get "height" | default "auto" }}
+{{ $lazy := .Get "lazy" | default true }}
+
+<figure class="image-figure {{ $class }}">
+  <img 
+    src="{{ $src }}" 
+    alt="{{ $alt }}" 
+    {{ if eq $lazy true }}loading="lazy"{{ end }}
+    {{ if ne $width "auto" }}width="{{ $width }}"{{ end }}
+    {{ if ne $height "auto" }}height="{{ $height }}"{{ end }}
+    class="img-fluid"
+  >
+  {{ with $caption }}
+  <figcaption>{{ . }}</figcaption>
+  {{ end }}
+</figure>

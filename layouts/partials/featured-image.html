@@ -1,0 +1,17 @@
+{{/* layouts/partials/featured-image.html */}}
+{{ $featured := .Params.featured_image }}
+{{ $title := .Title }}
+{{ $altText := .Params.featured_alt | default (printf "Featured image for %s" $title) }}
+
+{{ with $featured }}
+<div class="featured-image-container">
+  <img 
+    src="{{ . }}" 
+    alt="{{ $altText }}" 
+    width="800" 
+    height="450" 
+    loading="lazy"
+    class="img-fluid featured-image"
+  >
+</div>
+{{ end }}
