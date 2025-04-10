@@ -505,12 +505,12 @@ textarea.form-control {
 }
 
 .sticky-image {
-  position: absolute; /* The image stays at the top of the page */
+  position: relative; /* The image stays at the top of the page */
   top: 0;
   left: 0;
   right: 0;
   width: 100%;
-  z-index: -1; /* Place the image behind the text */
+  z-index: 0; /* Place the image behind the text */
 }
 
 
@@ -559,7 +559,7 @@ textarea.form-control {
 .content {
   * {
     margin-bottom: 20px;
-    margin-top: 200px; /* Adjust based on the image size to push the text below the image */
+    margin-top: 20px; /* Adjust based on the image size to push the text below the image */
     position: relative;
   }
 
