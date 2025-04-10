@@ -24,11 +24,8 @@
           
           <!-- Featured image -->
           {{ if .Params.featured_image }}
-          <div class="featured-image">
-            <img src="{{ .Params.featured_image }}" alt="{{ .Params.featured_alt | default .Title }}" class="img-fluid">
-          </div>
           <div class="sticky-image">
-            <img class="img-fluid w-100" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+           <img class="img-fluid w-100" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
           </div>
           {{ end }}
           
