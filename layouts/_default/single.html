@@ -43,13 +43,18 @@
           
           <!-- Tags -->
           {{ with .Params.tags }}
-          <div class="post-tags">
-            <span>Tags:</span>
-            {{ range (split . ",") }}
-            <a href="{{ "tags/" | relLangURL }}{{ . | urlize }}">{{ . | trim " " }}</a>
-            {{ end }}
-          </div>
+            {{ $tags := . }}
+            {{ if not (isArray .) }}
+              {{ $tags = split . "," }}
           {{ end }}
+          <div class="post-tags">
+             <span>Tags:</span>
+             {{ range $tags }}
+               <a href="{{ "tags/" | relLangURL }}{{ . | urlize }}">{{ . | trim " " }}</a>
+             {{ end }}
+           </div>
+          {{ end }}
+
           
           <!-- Share buttons -->
           <div class="share-buttons">
