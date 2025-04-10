@@ -505,10 +505,12 @@ textarea.form-control {
 }
 
 .sticky-image {
-  position: sticky;
-  top: 100px;
-  z-index: 10;  /* Ensure the image is above other content */
-  margin-bottom: 20px; /* Add some space below the image so it doesn't overlap the text */
+  position: absolute; /* The image stays at the top of the page */
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: -1; /* Place the image behind the text */
 }
 
 
