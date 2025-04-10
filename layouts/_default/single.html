@@ -45,7 +45,7 @@
           {{ with .Params.tags }}
           <div class="post-tags">
             <span>Tags:</span>
-            {{ range (split ",") }}
+            {{ range (split . ",") }}
             <a href="{{ "tags/" | relLangURL }}{{ . | urlize }}">{{ . | trim }}</a>
             {{ end }}
           </div>
