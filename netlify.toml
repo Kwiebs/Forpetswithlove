@@ -4,7 +4,7 @@
 
 [build.environment]
   HUGO_VERSION = "0.73.0"
-  HUGO_THEME = "vex" # Explicitly set the theme
+  HUGO_THEME = "repo" # Explicitly set the theme
   # Rely on baseurl set in exampleSite/config.toml
 
 # Optional: Set the branch to deploy
