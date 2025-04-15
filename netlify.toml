@@ -1,7 +1,7 @@
 [build]
   publish = "exampleSite/public"
-  # Run hugo from root, specifying source and themes dir relative to root
-  command = "hugo --gc --minify --source exampleSite --themesDir ."
+  # Run hugo from root, specifying source. Theme files in root should be found automatically.
+  command = "hugo --gc --minify --source exampleSite"
 
 [build.environment]
   HUGO_VERSION = "0.73.0"
