@@ -1,6 +1,6 @@
 [build]
   publish = "exampleSite/public"
-  command = "cd exampleSite && hugo --gc --minify --themesDir ../.. && hugo --gc --minify --themesDir ../.. --template layouts/_default/index.json > public/index.json"
+  command = "cd exampleSite && hugo --gc --minify --themesDir ../.. && hugo --gc --minify --themesDir ../.. > public/index.json"
 
 [build.environment]
   HUGO_VERSION = "0.73.0"
