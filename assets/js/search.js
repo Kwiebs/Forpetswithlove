@@ -11,8 +11,18 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function initSearch(query) {
-  // Load the search index
-  fetchJSONFile('/index.json', function(data) {
+  // Get the index URL from the data attribute
+  var searchResultsDiv = document.getElementById('search-results');
+  var indexURL = searchResultsDiv.dataset.indexUrl;
+  
+  if (!indexURL) {
+    console.error("Search index URL not found in data attribute.");
+    searchResultsDiv.innerHTML = '<p>Error: Search index URL configuration missing.</p>';
+    return;
+  }
+
+  // Load the search index using the absolute URL
+  fetchJSONFile(indexURL, function(data) {
     console.log("Search Index Loaded:", data); // Log fetched data
     // Configure Fuse.js
     var options = {
