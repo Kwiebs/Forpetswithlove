@@ -3,20 +3,32 @@ document.addEventListener('DOMContentLoaded', function() {
   // Get the query parameter
   var urlParams = new URLSearchParams(window.location.search);
   var query = urlParams.get('q');
-  
+
+  // Get the index URL from the data attribute *after* DOM is loaded
+  var searchResultsDiv = document.getElementById('search-results');
+  if (!searchResultsDiv) {
+      console.error("Search results container '#search-results' not found.");
+      return; // Stop if the container is missing
+  }
+  var indexURL = searchResultsDiv.dataset.indexUrl;
+
   if (query) {
-    // Initialize search
-    initSearch(query);
+    // Initialize search only if we have a query and the index URL
+    if (!indexURL) {
+        console.error("Search index URL not found in data attribute.");
+        searchResultsDiv.innerHTML = '<p>Error: Search index URL configuration missing.</p>';
+        return;
+    }
+    initSearch(query, indexURL, searchResultsDiv); // Pass necessary elements/data
   }
 });
 
-function initSearch(query) {
-  // Get the index URL from the data attribute
-  var searchResultsDiv = document.getElementById('search-results');
-  var indexURL = searchResultsDiv.dataset.indexUrl;
-  
-  if (!indexURL) {
+// Modified initSearch to accept indexURL and the container div
+function initSearch(query, indexURL, searchResultsDiv) {
+  if (!indexURL) { // This check might be redundant now but safe to keep
     console.error("Search index URL not found in data attribute.");
+    searchResultsDiv.innerHTML = '<p>Error: Search index URL configuration missing.</p>';
+    console.error("Search index URL not provided to initSearch.");
     searchResultsDiv.innerHTML = '<p>Error: Search index URL configuration missing.</p>';
     return;
   }
@@ -47,7 +59,7 @@ function initSearch(query) {
     console.log("Fuse Results Count:", results.length); // Log results count
     
     // Display results
-    displayResults(results, query);
+    displayResults(results, query, searchResultsDiv); // Pass the container div
   });
 }
 
@@ -68,8 +80,12 @@ function fetchJSONFile(path, callback) {
   httpRequest.send();
 }
 
-function displayResults(results, query) {
-  var searchResults = document.getElementById('search-results');
+// Modified displayResults to accept the container div
+function displayResults(results, query, searchResults) {
+  if (!searchResults) {
+      console.error("Search results container not provided to displayResults.");
+      return;
+  }
   
   // Clear previous results
   searchResults.innerHTML = '<h3>Search Results for "' + query + '"</h3>';
