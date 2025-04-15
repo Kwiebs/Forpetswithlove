@@ -13,12 +13,13 @@ document.addEventListener('DOMContentLoaded', function() {
 function initSearch(query) {
   // Load the search index
   fetchJSONFile('/index.json', function(data) {
+    console.log("Search Index Loaded:", data); // Log fetched data
     // Configure Fuse.js
     var options = {
       shouldSort: true,
       location: 0,
       distance: 100,
-      threshold: 0.4,
+      threshold: 0.5, // Made threshold less strict
       minMatchCharLength: 2,
       keys: [
         'title',
@@ -33,6 +34,7 @@ function initSearch(query) {
     
     // Perform the search
     var results = fuse.search(query);
+    console.log("Fuse Results Count:", results.length); // Log results count
     
     // Display results
     displayResults(results, query);
