@@ -17,3 +17,8 @@
 
 [context.deploy-preview.environment]
   HUGO_ENV = "preview"
+
+[[redirects]]
+  from = "/search"
+  to = "/search/"
+  status = 301
