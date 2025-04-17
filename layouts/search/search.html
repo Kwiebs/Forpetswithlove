@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
       console.error("Search results container '#search-results' not found.");
       return; // Stop if the container is missing
   }
-  var indexURL = "{{ 'data/search/index.json' | absURL }}";
+  var indexURL = "{{ 'data/search/index.json' | relURL }}";
 
   if (query) {
     // Initialize search only if we have a query and the index URL
