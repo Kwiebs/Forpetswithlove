@@ -2,7 +2,7 @@
 title: "Search"
 sitemap:
   priority : 0.1
-layout: "list"
+layout: "search"
 outputs:
 - html
 - rss
