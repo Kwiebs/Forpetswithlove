@@ -9,6 +9,7 @@ title = "For Pets With Love! Everything you want for your pet's needs."
 # Add outputs for proper sitemap generation (updated) 
 [outputs]
 home = ["HTML", "RSS", "JSON", "SITEMAP"]
+search = ["HTML"]
 
 # Add sitemap output format
 [outputFormats.SITEMAP]
