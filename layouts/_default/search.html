@@ -1,13 +1,8 @@
 {{ define "main" }}
 <section class="resume-section p-3 p-lg-5 d-flex flex-column">
   <div class="my-auto" >
-    <form action="{{ "search" | absURL }}" method="get">
-      <input id="search-query" name="q" placeholder="Search..."/>
-      <button type="submit" class="btn btn-main btn-main-sm">Search</button>
-    </form>
-    <div id="search-results" data-index-url="{{ "data/search/index.json" | relURL }}">
-     <h3>Matching pages</h3>
-    </div>
+    <script async src="https://cse.google.com/cse.js?cx=219a79548c12549fb"></script>
+    <div class="gcse-search"></div>
   </div>
 </section>
 {{ end }}

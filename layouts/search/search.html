@@ -139,13 +139,8 @@ function displayResults(results, query, searchResults) {
 {{ define "main" }}
 <section class="resume-section p-3 p-lg-5 d-flex flex-column">
   <div class="my-auto" >
-    <form action="{{ "search" | absURL }}" method="get">
-      <input id="search-query" name="q" placeholder="Search..."/>
-      <button type="submit" class="btn btn-main btn-main-sm">Search</button>
-    </form>
-    <div id="search-results" data-index-url="{{ "index.json" | absURL }}">
-     <h3>Matching pages</h3>
-    </div>
+    <script async src="https://cse.google.com/cse.js?cx=219a79548c12549fb"></script>
+    <div class="gcse-search"></div>
   </div>
 </section>
 <!-- this template is sucked in by search.js and appended to the search-results div above. So editing here will adjust style -->
