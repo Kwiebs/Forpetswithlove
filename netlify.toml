@@ -1,6 +1,6 @@
 [build]
   publish = "public" # Standard Hugo output directory
-  command = "hugo --gc --minify -s exampleSite" # Build using exampleSite as source
+  command = "hugo --gc --minify" # Build from root
 
 [build.environment]
   HUGO_VERSION = "0.111.3" # Update Hugo version
