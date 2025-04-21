@@ -1,5 +1,65 @@
 <!-- navigation -->
 <header class="sticky-top bg-white">
+  <style>
+    /* Basic styling for the navigation */
+    .main-navigation ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .main-navigation li {
+      display: inline-block;
+      position: relative;
+    }
+
+    .main-navigation a {
+      display: block;
+      padding: 10px 15px;
+      text-decoration: none;
+      color: #333;
+    }
+
+    /* Dropdown styling */
+    .has-dropdown .dropdown {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      padding: 5px 0;
+      z-index: 1000;
+    }
+
+    .has-dropdown:hover .dropdown {
+      display: block;
+    }
+
+    .dropdown li {
+      display: block;
+    }
+
+    .dropdown a {
+      padding: 10px 15px;
+      white-space: nowrap;
+    }
+
+    /* Mobile menu styling (example) */
+    @media (max-width: 768px) {
+      .navbar-toggler {
+        display: block;
+      }
+
+      .collapse.navbar-collapse {
+        display: none !important;
+      }
+
+      .collapse.show {
+        display: block !important;
+      }
+    }
+  </style>
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light">
       <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">{{ if site.Params.logo }} <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" {{with site.Params.logo_width}}width="{{.}}"{{end}}> {{ else }} {{ site.Title }} {{ end }}</a>
@@ -9,13 +69,25 @@
       </button>
 
       <div class="collapse navbar-collapse text-center" id="navigation">
-        <ul class="navbar-nav ml-auto">
-          {{ range site.Menus.main }}
-          <li class="nav-item">
-            <a class="nav-link" href="{{if .Pre}}{{site.BaseURL | relLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{ .Name }}</a>
-          </li>
-          {{ end }}
-        </ul>
+        <nav class="main-navigation">
+          <ul>
+            <li><a href="{{ site.BaseURL | relLangURL }}">Home</a></li>
+            <li class="nav-item has-dropdown">
+              <a href="/pet-types">Pet Types</a>
+              <ul class="dropdown">
+                <li><a href="/pet-types/dogs">Dogs</a></li>
+                <li><a href="/pet-types/cats">Cats</a></li>
+                <li><a href="/pet-types/small-animals">Small Animals</a></li>
+                <li><a href="/pet-types/fish-aquatic">Fish &amp; Aquatic</a></li>
+                <li><a href="/pet-types/reptiles">Reptiles</a></li>
+                <li><a href="/pet-types/birds">Birds</a></li>
+              </ul>
+            </li>
+            <li class="nav-item"><a href="/pet-care">Pet Care</a></li>
+            <li class="nav-item"><a href="/resources">Resources</a></li>
+            <li class="nav-item"><a href="/about">About</a></li>
+          </ul>
+        </nav>
         {{ partial "form.html" . }}
         <!-- Language List -->
         {{ if .IsTranslated }}
