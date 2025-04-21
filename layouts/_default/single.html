@@ -3,17 +3,6 @@
 
 <section class="section">
   <div class="container">
-    <nav aria-label="breadcrumb">
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="{{ site.BaseURL | relLangURL }}">Home</a></li>
-        {{ with .Params.categories }}
-          {{ range . }}
-            <li class="breadcrumb-item"><a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
-          {{ end }}
-        {{ end }}
-        <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
-      </ol>
-    </nav>
     <div class="row">
       <div class="col-lg-8 mx-auto">
         <article>
