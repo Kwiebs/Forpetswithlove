@@ -37,7 +37,13 @@ weight = 1
     startLevel = 2
 
 [menu]
-main = []
+main = [
+  { name = "Home", url = "/" },
+  { name = "Pet Types", url = "/pet-types/" },
+  { name = "Pet Care", url = "/pet-care/" },
+  { name = "Resources", url = "/resources/" },
+  { name = "About", url = "/about/" }
+]
 
 [params]
 author = "|Kweebs"

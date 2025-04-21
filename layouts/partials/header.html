@@ -71,21 +71,18 @@
       <div class="collapse navbar-collapse text-center" id="navigation">
         <nav class="main-navigation">
           <ul>
-            <li><a href="{{ site.BaseURL | relLangURL }}">Home</a></li>
-            <li class="nav-item has-dropdown">
-              <a href="/pet-types">Pet Types</a>
+            {{ range site.Menus.main }}
+            <li class="nav-item {{if .HasChildren }}has-dropdown{{end}}">
+              <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+              {{ if .HasChildren }}
               <ul class="dropdown">
-                <li><a href="/pet-types/dogs">Dogs</a></li>
-                <li><a href="/pet-types/cats">Cats</a></li>
-                <li><a href="/pet-types/small-animals">Small Animals</a></li>
-                <li><a href="/pet-types/fish-aquatic">Fish &amp; Aquatic</a></li>
-                <li><a href="/pet-types/reptiles">Reptiles</a></li>
-                <li><a href="/pet-types/birds">Birds</a></li>
+                {{ range .Children }}
+                <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                {{ end }}
               </ul>
+              {{ end }}
             </li>
-            <li class="nav-item"><a href="/pet-care">Pet Care</a></li>
-            <li class="nav-item"><a href="/resources">Resources</a></li>
-            <li class="nav-item"><a href="/about">About</a></li>
+            {{ end }}
           </ul>
         </nav>
         {{ partial "form.html" . }}
