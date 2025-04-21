@@ -9,25 +9,13 @@
       </button>
 
       <div class="collapse navbar-collapse text-center" id="navigation">
-        <nav class="main-navigation">
-          <ul>
-            <li><a href="{{ site.BaseURL | relLangURL }}">Home</a></li>
-            <li class="nav-item has-dropdown">
-              <a href="/pet-types">Pet Types</a>
-              <ul class="dropdown">
-                <li><a href="/pet-types/dogs">Dogs</a></li>
-                <li><a href="/pet-types/cats">Cats</a></li>
-                <li><a href="/pet-types/small-animals">Small Animals</a></li>
-                <li><a href="/pet-types/fish-aquatic">Fish &amp; Aquatic</a></li>
-                <li><a href="/pet-types/reptiles">Reptiles</a></li>
-                <li><a href="/pet-types/birds">Birds</a></li>
-              </ul>
-            </li>
-            <li class="nav-item"><a href="/pet-care">Pet Care</a></li>
-            <li class="nav-item"><a href="/resources">Resources</a></li>
-            <li class="nav-item"><a href="/about">About</a></li>
-          </ul>
-        </nav>
+        <ul class="navbar-nav ml-auto">
+          {{ range site.Menus.main }}
+          <li class="nav-item">
+            <a class="nav-link" href="{{if .Pre}}{{site.BaseURL | relLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{ .Name }}</a>
+          </li>
+          {{ end }}
+        </ul>
         {{ partial "form.html" . }}
         <!-- Language List -->
         {{ if .IsTranslated }}
