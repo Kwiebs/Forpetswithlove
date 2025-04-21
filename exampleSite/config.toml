@@ -105,6 +105,3 @@ blog = "/:filename/"
     disable = true
     privacyEnhanced = true
 
-[module]
-  [[module.imports]]
-    path = "github.com/themefisher/vex-hugo"
