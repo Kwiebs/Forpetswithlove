@@ -5,7 +5,8 @@ date: 2025-05-21
 author: "For Pets With Love"
 tags: ["dog grooming", "dog care", "pet hygiene"]
 categories: ["Dog Care"]
-featured_image: "/images/dog-grooming-tools.jpg"
+image: images/dog-grooming-tools.jpg
+permalink: /best-dog-grooming-tools-for-at-home-care/
 ---
 
 # The Best Dog Grooming Tools for At-Home Care

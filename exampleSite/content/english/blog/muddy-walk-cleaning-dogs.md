@@ -5,7 +5,8 @@ date: 2025-05-21
 author: "For Pets With Love"
 tags: ["muddy dog", "dog hygiene", "outdoor walks"]
 categories: ["Dog Care"]
-featured_image: "/images/mudd-dog.jpg"
+image: images/mudd-dog.jpg
+permalink: /muddy-walk-cleaning-dogs/
 ---
 
 # How to Keep Your Dog Safe and Clean After a Muddy Walk

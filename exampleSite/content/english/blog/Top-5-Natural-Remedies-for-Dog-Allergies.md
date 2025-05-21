@@ -5,7 +5,8 @@ date: 2025-05-21
 author: "For Pets With Love"
 tags: ["dog allergies", "natural remedies", "pet health"]
 categories: ["Dog Health"]
-featured_image: "/images/dog-allergy.jpg"
+image: images/dog-allergy.jpg
+permalink: /top-5-natural-remedies-for-dog-allergies/
 ---
 
 # Top 5 Natural Remedies for Dog Allergies
