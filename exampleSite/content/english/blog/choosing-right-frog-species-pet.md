@@ -66,10 +66,10 @@ When choosing a frog species as a pet, several key factors come into play. Here 
 
 Once you've chosen the right frog species, it's time to set up a suitable habitat. Here are the key elements to consider when creating a frog-friendly environment:
 
-### 1. [Enclosure](https://www.amazon.com/s?k=frog+enclosure&crid=1BUPTWQQ4IJT7&sprefix=frog+enclosur%2Caps%2C266&linkCode=ll2&tag=forpetswith0d-20&linkId=5e73800a5b1bec5dcb78efa49afcacd3&language=en_US&ref_=as_li_ss_tl)
+### 1. [Enclosure](https://www.amazon.com/s?k=frog+enclosure&crid=1BUPTWQQ4IJT7&sprefix=frog+enclosur%2Caps%2C266&linkCode=ll2&tag=forpetswith01-20&linkId=5e73800a5b1bec5dcb78efa49afcacd3&language=en_US&ref_=as_li_ss_tl)
 - Select an appropriately sized enclosure based on the species' requirements. Provide adequate ventilation and secure the lid to prevent escapes.
 
-### 2. [Substrate](https://www.amazon.com/s?k=frog+substrate&crid=QI00Q3ANZYHE&sprefix=frog+substrate%2Caps%2C215&linkCode=ll2&tag=forpetswith0d-20&linkId=d52cea94b11d4f49aec70004f4e62a58&language=en_US&ref_=as_li_ss_tl)
+### 2. [Substrate](https://www.amazon.com/s?k=frog+substrate&crid=QI00Q3ANZYHE&sprefix=frog+substrate%2Caps%2C215&linkCode=ll2&tag=forpetswith01-20&linkId=d52cea94b11d4f49aec70004f4e62a58&language=en_US&ref_=as_li_ss_tl)
 - Choose a substrate that mimics the frog's natural habitat. Options include moss, coconut fiber, or soil. Avoid substrates that can cause impaction or are toxic to frogs.
 
 ### 3. Temperature and Humidity
@@ -84,7 +84,7 @@ Once you've chosen the right frog species, it's time to set up a suitable habita
 ### 6. Water and Land Areas
 - Depending on your frog species, you may need to provide both aquatic and terrestrial areas within the enclosure. Ensure proper filtration and dechlorination for the water source.
 
-## [Feeding Your Pet Frog](https://www.amazon.com/s?k=frog+food&crid=2RW6JUH7L4ZMA&sprefix=frog+food%2Caps%2C220&linkCode=ll2&tag=forpetswith0d-20&linkId=b9bfa267cd898a6e4c21f4be199b8ccc&language=en_US&ref_=as_li_ss_tl)
+## [Feeding Your Pet Frog](https://www.amazon.com/s?k=frog+food&crid=2RW6JUH7L4ZMA&sprefix=frog+food%2Caps%2C220&linkCode=ll2&tag=forpetswith01-20&linkId=b9bfa267cd898a6e4c21f4be199b8ccc&language=en_US&ref_=as_li_ss_tl)
 
 Proper nutrition is vital for the health and well-being of your pet frog. While specific dietary requirements vary among species, here are some general guidelines for feeding pet frogs:
 

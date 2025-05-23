@@ -18,7 +18,7 @@ The [Zoo Med Repti Basking Spot Lamp](https://amzn.to/41VaVzo) is a popular choi
 
 <img src=https://m.media-amazon.com/images/I/616WwCqhjYL._AC_.jpg width="60%" height="30%"> 
 
-- [Zoo Med Repti Basking Spot Lamp](https://www.amazon.com/s?k=Zoo+Med+Repti+Basking+Spot+Lamp&crid=TAO8R15AESX3&sprefix=zoo+med+repti+basking+spot+lamp%2Caps%2C530&linkCode=ll2&tag=forpetswith0d-20&linkId=8bd115fd6107c00a3060a03350703b12&language=en_US&ref_=as_li_ss_tl) 100W
+- [Zoo Med Repti Basking Spot Lamp](https://www.amazon.com/s?k=Zoo+Med+Repti+Basking+Spot+Lamp&crid=TAO8R15AESX3&sprefix=zoo+med+repti+basking+spot+lamp%2Caps%2C530&linkCode=ll2&tag=forpetswith01-20&linkId=8bd115fd6107c00a3060a03350703b12&language=en_US&ref_=as_li_ss_tl) 100W
 
 <img src=https://m.media-amazon.com/images/I/61gqn9ms2hL._AC_SL1454_.jpg width="60%" height="30%">
 
@@ -27,15 +27,15 @@ The [Zoo Med Repti Basking Spot Lamp](https://amzn.to/41VaVzo) is a popular choi
 - Emits a bright, white light
 - Helps promote vitamin D3 synthesis
 
-## 2. [Fluker's Ceramic Heat Emitter](https://www.amazon.com/s?k=Fluker%27s+Ceramic+Heat+Emitter&crid=38L10FHYYELKJ&sprefix=fluker%27s+ceramic+heat+emitter%2Caps%2C428&linkCode=ll2&tag=forpetswith0d-20&linkId=c2f04157de26d7ed04657d9ddf02f590&language=en_US&ref_=as_li_ss_tl)
+## 2. [Fluker's Ceramic Heat Emitter](https://www.amazon.com/s?k=Fluker%27s+Ceramic+Heat+Emitter&crid=38L10FHYYELKJ&sprefix=fluker%27s+ceramic+heat+emitter%2Caps%2C428&linkCode=ll2&tag=forpetswith01-20&linkId=c2f04157de26d7ed04657d9ddf02f590&language=en_US&ref_=as_li_ss_tl)
 
 <img src=https://m.media-amazon.com/images/I/6135CjdFipS._AC_SL1500_.jpg width="60%" height="30%">
 
-The [Fluker's Ceramic Heat Emitter](https://www.amazon.com/s?k=Fluker%27s+Ceramic+Heat+Emitter&crid=38L10FHYYELKJ&sprefix=fluker%27s+ceramic+heat+emitter%2Caps%2C428&linkCode=ll2&tag=forpetswith0d-20&linkId=c2f04157de26d7ed04657d9ddf02f590&language=en_US&ref_=as_li_ss_tl) is another popular choice for reptile owners. This heat emitter provides a steady source of heat without emitting light, making it a great option for reptiles that require a 24-hour heat source. The emitter is made from ceramic material and is designed to last for years.
+The [Fluker's Ceramic Heat Emitter](https://www.amazon.com/s?k=Fluker%27s+Ceramic+Heat+Emitter&crid=38L10FHYYELKJ&sprefix=fluker%27s+ceramic+heat+emitter%2Caps%2C428&linkCode=ll2&tag=forpetswith01-20&linkId=c2f04157de26d7ed04657d9ddf02f590&language=en_US&ref_=as_li_ss_tl) is another popular choice for reptile owners. This heat emitter provides a steady source of heat without emitting light, making it a great option for reptiles that require a 24-hour heat source. The emitter is made from ceramic material and is designed to last for years.
 
 ### Example Products:
 
-- [Fluker's Ceramic Heat Emitter 60W](https://www.amazon.com/s?k=Fluker%27s+Ceramic+Heat+Emitter+60W&crid=25XJLOS7DOLJD&sprefix=fluker%27s+ceramic+heat+emitter+60w%2Caps%2C279&linkCode=ll2&tag=forpetswith0d-20&linkId=37cb40c993440eac3ae3d1fb2b749834&language=en_US&ref_=as_li_ss_tl)
+- [Fluker's Ceramic Heat Emitter 60W](https://www.amazon.com/s?k=Fluker%27s+Ceramic+Heat+Emitter+60W&crid=25XJLOS7DOLJD&sprefix=fluker%27s+ceramic+heat+emitter+60w%2Caps%2C279&linkCode=ll2&tag=forpetswith01-20&linkId=37cb40c993440eac3ae3d1fb2b749834&language=en_US&ref_=as_li_ss_tl)
 
 <img src=https://m.media-amazon.com/images/I/61x8p8MZuCS._AC_SL1500_.jpg width="60%" height="30%">
 
