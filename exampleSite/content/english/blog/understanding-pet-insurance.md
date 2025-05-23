@@ -3,6 +3,7 @@ title: Understanding Pet Insurance -  5 Things to Know
 description: Learn about the basics of pet insurance, its benefits, and how to choose the best policy for your furry friend.
 image: images/dog_bite.jpg
 permalink: /understanding-pet-insurance/
+categories: ["Dog Care"]
 tags: pet insurance, veterinary care, animal health, pet owners
 ---
 

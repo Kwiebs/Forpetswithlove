@@ -3,6 +3,7 @@ title: How to Train Your Dog to Walk on a Leash
 description: Learn how to leash train your dog in a positive and effective way. Follow these simple steps to teach your dog to walk calmly on a leash.
 image: images/dog-walking.jpg
 permalink: /train-dog-walk-leash/
+categories: ["Dog Care"]
 tags: dog training, leash training, pet care
 ---
 

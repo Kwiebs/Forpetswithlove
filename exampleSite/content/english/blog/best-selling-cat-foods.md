@@ -2,6 +2,7 @@
 title: 5 Best-Selling Cat Foods to Keep Your Feline Happy and Healthy
 description: Discover the 5 best-selling cat foods that can help keep your feline happy and healthy. From wet to dry food, we've got you covered!
 image: images/cat_food.jpg
+categories: ["Cat Care"]
 permalink: /best-selling-cat-foods/
 tags: cat food, feline health, pet nutrition
 ---

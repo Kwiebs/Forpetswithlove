@@ -2,7 +2,7 @@
 title: The Ultimate Guide to Caring for Star Tortoises - Care Tips and Recommendations
 description: Discover the ultimate guide to providing the best care for your star tortoise. From habitat setup to feeding routines and health maintenance, this comprehensive guide covers all the tips and recommendations you need to ensure a happy and healthy life for your beloved reptilian friend.
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Davidraju_IMG_7365.jpg/1024px-Davidraju_IMG_7365.jpg
-permalink: /forpetswithlove.com/the-ultimate-guide-to-caring-for-star-tortoises/
+permalink: /the-ultimate-guide-to-caring-for-star-tortoises/
 tags: star tortoises, tortoise care, reptile care, pet care, habitat setup, feeding tips, health maintenance
 ---
 

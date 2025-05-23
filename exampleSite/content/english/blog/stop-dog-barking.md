@@ -3,6 +3,7 @@ title: How to Stop Your Dog from Barking - Tips and Tricks for a Quieter Home
 description: Is your dog barking incessantly? Here are some effective tips and tricks to help you stop your dog from barking and achieve a quieter home.
 image: images/dog_barking.jpg
 permalink: /stop-dog-barking/
+categories: ["Dog Care"]
 tags: dog, barking, training, tips, tricks
 ---
 

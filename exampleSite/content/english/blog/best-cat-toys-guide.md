@@ -2,6 +2,7 @@
 title: The Best Cat Toys - A Comprehensive Guide
 description: Keep your feline friend entertained and engaged with our comprehensive guide to the best cat toys available on the market.
 image: images/cat-toys.jpg
+categories: ["Cat Care"]
 permalink: /best-cat-toys-guide/
 tags: cats, toys, pet care
 ---

@@ -3,6 +3,7 @@ title: How to Train Your Cat to Do Tricks
 description: Want to impress your friends with your cat's skills? Follow these simple steps to train your cat to do tricks like high-fiving and jumping through hoops!
 image: images/cat-tricks.jpg
 permalink: /train-your-cat-tricks/
+categories: ["Cat Care"]
 tags: cats, tricks, training, pets
 ---
 
