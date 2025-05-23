@@ -33,6 +33,7 @@ Cardboard boxes, glue, and a knife.
 
 Cut the cardboard into strips, roll them up tightly, and glue them together to create a scratching surface.
 
+Get your cardboard boxes on https://amzn.to/4kxjDw2.
 ## 2. Sisal Rope Scratching Post
 
 ### Materials
@@ -43,6 +44,7 @@ Wood post, sisal rope, glue, and a base.
 
 Wrap the sisal rope tightly around the wood post, securing it with glue. Attach the post to a sturdy base.
 
+Find sisal rope and wood posts on https://amzn.to/3H6po5r.
 ## 3. Tree Branch Scratching Post
 
 ### Materials
@@ -63,6 +65,7 @@ Old tire, sisal rope, glue, and a wood base.
 
 Wrap the sisal rope tightly around the tire, securing it with glue. Attach the tire to a sturdy wood base.
 
+Get sisal rope for your tire scratching post on https://amzn.to/3H6po5r.
 ## 5. Upcycled Furniture Scratching Post
 
 ### Materials

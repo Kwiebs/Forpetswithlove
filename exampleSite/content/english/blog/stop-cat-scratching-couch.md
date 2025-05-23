@@ -33,6 +33,7 @@ Offer a variety of scratching posts in different materials, sizes, and orientati
 
 Gives your cat appropriate scratching outlets and redirects them from the couch.
 
+Find a variety of scratching posts on https://amzn.to/43cVBki.
 ## 2. Make the Couch Less Appealing
 
 ### Instructions
@@ -43,6 +44,7 @@ Cover the couch with blankets, plastic, or double-sided tape to deter scratching
 
 Makes the couch less attractive to your cat and encourages them to scratch elsewhere.
 
+Get double-sided tape for furniture protection on https://amzn.to/4mtYtkh.
 ## 3. Use Pheromone Sprays
 
 ### Instructions

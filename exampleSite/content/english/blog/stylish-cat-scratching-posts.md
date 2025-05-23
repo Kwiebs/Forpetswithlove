@@ -33,7 +33,7 @@ A sleek, modern design with a simple scratching surface.
 
 Blends seamlessly with minimalist decor.
 
-Check out this minimalist scratcher on [affiliate link].
+Check out this minimalist scratcher on https://amzn.to/3H6EW9k
 
 ## 2. The Cactus Scratcher
 
@@ -45,9 +45,7 @@ A fun, whimsical design that resembles a cactus.
 
 Adds a playful touch to your home decor.
 
-### Affiliate Link
-
-Find this cactus scratcher on [affiliate link].
+Find this cactus scratcher on https://amzn.to/3Z178R3
 
 ## 3. The Wall-Mounted Scratcher
 
@@ -59,9 +57,7 @@ A space-saving design that mounts to the wall.
 
 Ideal for small apartments or homes with limited floor space.
 
-### Affiliate Link
-
-Get your wall-mounted scratcher on [affiliate link]. If you're looking for more space-saving solutions, check out our article on [7 cat breeds great for apartments](7-cat-breeds-great-for-apartments-guide).
+Get your wall-mounted scratcher on https://amzn.to/4kc1S5L. If you're looking for more space-saving solutions, check out our article on [7 cat breeds great for apartments](7-cat-breeds-great-for-apartments-guide).
 
 ## 4. The Lounge Scratcher
 
@@ -73,9 +69,7 @@ A comfortable lounge-style design with a scratching surface.
 
 Provides a cozy spot for your cat to relax and scratch.
 
-### Affiliate Link
-
-Buy this lounge scratcher on [affiliate link].
+Buy this lounge scratcher on https://amzn.to/44QmRX1.
 
 ## 5. The Tree Scratcher
 
@@ -87,9 +81,7 @@ A multi-tiered design that resembles a tree.
 
 Offers multiple scratching surfaces and climbing opportunities.
 
-### Affiliate Link
-
-Find this tree scratcher on [affiliate link].
+Find this tree scratcher on https://amzn.to/4mvD8aa.
 
 ## FAQs
 

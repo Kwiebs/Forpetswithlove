@@ -33,6 +33,7 @@ Place scratching posts near your cat's sleeping areas.
 
 Cats often scratch after waking up to stretch their muscles.
 
+Find comfortable cat beds on [affiliate link].
 ## 2. Near Favorite Hangout Spots
 
 ### Instructions
@@ -53,6 +54,7 @@ Place scratching posts near windows.
 
 Cats enjoy looking out the window and may scratch nearby to mark their territory.
 
+Get window perches for your cat on [affiliate link].
 ## 4. Near the Couch
 
 ### Instructions

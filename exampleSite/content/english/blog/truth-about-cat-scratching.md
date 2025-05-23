@@ -35,6 +35,7 @@ Offer a variety of scratching posts in different materials, sizes, and orientati
 
 Gives your cat appropriate scratching outlets and redirects them from furniture.
 
+Find a variety of scratching posts on https://amzn.to/43cVBki.
 ## 2. Make Unwanted Areas Less Appealing
 
 ### Instructions
@@ -55,6 +56,7 @@ Spray pheromone sprays like Feliway on unwanted areas to reduce stress and anxie
 
 Creates a calming atmosphere and reduces the urge to scratch.
 
+Buy Feliway pheromone spray on [affiliate link].
 ## 4. Trim Your Cat's Claws Regularly
 
 ### Instructions
