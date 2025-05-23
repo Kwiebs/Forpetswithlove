@@ -2,6 +2,7 @@
 title: 3 Types of Litter Boxes for Cats-Which One is Right for Your Furry Friend
 description: With so many litter boxes for cats available, it can be overwhelming to choose the right one. In this article, we'll break down the 3 most popular types of litter boxes and help you decide which one is the best fit for your feline companion.
 image: images/cat_box.jpg
+categories: ["Cat Care"]
 permalink: /3-Types-of-Litter-Boxes-for-Cats-Which-One-is-Right-for-Your-Furry-Friend/
 tags: cat litter boxes, cat litter, cat hygiene, cat care, cat accessories
 ---
