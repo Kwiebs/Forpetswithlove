@@ -5,6 +5,7 @@ image: images/dog-cbd.jpg
 permalink: /benefits-of-cbd-for-dogs
 tags: CBD for dogs, pet health, natural remedies, holistic pet care, CBD benefits, dog wellness
 
+categories: ["Dog Health"]
 ---
 
 

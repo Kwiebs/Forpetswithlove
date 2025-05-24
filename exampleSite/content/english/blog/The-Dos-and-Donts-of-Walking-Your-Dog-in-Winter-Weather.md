@@ -5,6 +5,7 @@ image: images/dog_winter.jpg
 Tags: dog walking, winter weather, cold weather, dog safety, icy areas, hypothermia, frostbite, snow, mental stimulation, dog boots, paw protection, leash walking, winter walks, dog breeds, dog tolerance, winter activities
 permalink: /The-Dos-and-Donts-of-Walking-Your-Dog-in-Winter-Weather/
 categories: ["Dog Care"]
+categories: ["Dog Care"]
 ---
 
 Walking your dog is a great way to bond with your furry friend and keep them active, but in winter weather, it can be challenging. With snow, ice, and freezing temperatures, it's important to keep both you and your dog safe while taking your daily walks. In this article, we will go over the dos and don'ts of walking your dog in winter weather.

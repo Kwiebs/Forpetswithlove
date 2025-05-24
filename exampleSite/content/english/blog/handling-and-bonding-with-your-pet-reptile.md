@@ -4,6 +4,7 @@ description: Learn how to handle and bond with your pet reptile in a safe and en
 image: images/terrarium-reptile-pets.jpg
 permalink: /handling-and-bonding-with-your-pet-reptile
 tags: pet reptiles, reptile care, handling reptiles, bonding with reptiles
+categories: ["Reptile Care"]
 ---
 
 **Introduction**

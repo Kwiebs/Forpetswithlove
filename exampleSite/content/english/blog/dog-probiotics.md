@@ -4,6 +4,7 @@ description: Discover the latest trend in pet nutrition with dog probiotics. Lea
 image: images/probiotic-bites.jpg
 permalink: /dog-probiotics/
 tags: [dog probiotics, pet nutrition, dog treats, pet health, dog supplements]
+categories: ["Dog Health"]
 ---
 
 

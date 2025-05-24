@@ -4,6 +4,7 @@ description: Looking for the best reptile heating and lighting products? Check o
 image: images/reptile-heating-lighting.jpg
 permalink: /best-selling-reptile-heating-lighting-products/
 tags: reptile, heating, lighting, products, best-selling
+categories: ["Reptile Care"]
 ---
 
 Reptiles require specific lighting and heating conditions in order to thrive in captivity. In this article, we'll be taking a look at some of the best-selling reptile heating and lighting products on the market. These products have been tried and tested by reptile owners and have proven to be effective in creating the optimal environment for your pet.

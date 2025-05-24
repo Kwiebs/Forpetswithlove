@@ -4,6 +4,7 @@ description: Leash biting can be frustrating and dangerous for both you and your
 image: images/dog-bite.jpg
 permalink: /how-to-stop-leash-biting/
 tags: dogs, dog behavior, leash biting, dog training
+categories: ["Dog Behavior"]
 ---
 
 Leash biting can be frustrating and dangerous for both you and your dog. In this guide, we'll provide you with tips and tricks on how to stop leash biting and enjoy a happier walk with your furry friend.

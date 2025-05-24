@@ -4,6 +4,7 @@ description: Discover the essential factors to consider when selecting the ideal
 image: images/reptile-pets.jpg
 permalink: /the-ultimate-guide-to-choosing-the-perfect-pet-reptile
 tags: pet reptile, reptile care, choosing a reptile, reptile habitat, reptile temperament
+categories: ["Reptile Care"]
 ---
 
 # The Ultimate Guide to Choosing the Perfect Pet Reptile

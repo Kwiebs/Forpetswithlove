@@ -4,6 +4,7 @@ description: National Puppy Day is a day to celebrate the joy and love that pupp
 image: images/puppy-day.jpg
 permalink: /national-puppy-day/
 tags: puppies, national puppy day, dog training, dog health
+categories: ["Dog Care"]
 ---
 
 National Puppy Day is a day to celebrate the joy and love that puppies bring into our lives. Whether you're a new puppy parent or a seasoned dog owner, there's always something to learn about raising a happy and healthy puppy. In this guide, we'll share some fun facts, tips, and tricks for celebrating National Puppy Day and beyond.

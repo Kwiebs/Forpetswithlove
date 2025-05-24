@@ -4,6 +4,7 @@ description: Ferrets are social animals that require plenty of attention and aff
 image: images/ferrets.jpg
 permalink: /pamper-pet-ferret-royalty/
 tags: pets, health, well-being, mental health, physical health
+categories: ["Small Pet Care"]
 ---
 
 

@@ -4,6 +4,7 @@ description: Learn about common allergies in dogs and cats, including their caus
 image: images/dog-allergies.jpg
 permalink: /pet-allergies/
 tags: Common Allergies, Dogs, Cats, Pet Allergies, Allergy Symptoms, Allergy Treatment
+categories: ["Pet Health"]
 ---
 
 

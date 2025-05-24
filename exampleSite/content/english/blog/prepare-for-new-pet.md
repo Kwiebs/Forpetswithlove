@@ -3,7 +3,8 @@ title: How to Prepare for a New Pet
 description: Bringing a new pet home is an exciting experience, but it requires preparation. In this comprehensive guide, we'll provide you with tips and tricks on how to prepare for a new pet, from researching the type of pet you want to setting up a routine and bonding with your new furry friend.
 image: images/prepare-pet.jpg
 permalink: /prepare-for-new-pet/
-tags: pets, new pet, pet ownership, pet care, pet supplies
+categories: ["Pet Care"]
+tags: pets, new pet, pet ownership, pet care, pet supplies, dog
 ---
 
 Bringing a new pet home is an exciting experience, but it requires preparation. In this comprehensive guide, we'll provide you with tips and tricks on how to prepare for a new pet, from researching the type of pet you want to setting up a routine and bonding with your new furry friend.

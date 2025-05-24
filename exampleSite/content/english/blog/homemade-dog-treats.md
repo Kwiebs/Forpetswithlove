@@ -4,6 +4,7 @@ description: Spoil your furry friend with these 5 homemade treats that are sure 
 image: images/dog-treat.jpg
 permalink: /homemade-dog-treats/
 tags: dogs, treats, homemade, healthy
+categories: ["Dog Nutrition"]
 ---
 
 # Introduction:

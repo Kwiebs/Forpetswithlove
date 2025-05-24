@@ -4,6 +4,7 @@ description: Discover the importance of feeding your pet according to their age 
 image: images/feeding-dog.jpg
 permalink: /feed-according-to-age/
 tags: Pet Nutrition, Feeding Pets, Pet Health, Age-specific Diet, Pet Food, Proper Nutrition
+categories: ["Pet Nutrition"]
 ---
 
 # Learn How to Feed Your Pet According to Age: A Guide to Proper Nutrition

@@ -4,6 +4,7 @@ description: Learn about the physical and mental health benefits of having a pet
 image: images/pets_health.jpg
 permalink: /why-pets-are-good-for-your-health/
 tags: pets, health, well-being, mental health, physical health
+categories: ["Pet Care"]
 ---
 
 

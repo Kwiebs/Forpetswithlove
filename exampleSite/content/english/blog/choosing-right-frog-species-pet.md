@@ -4,6 +4,7 @@ description: Explore the world of pet frogs and discover the perfect species for
 image: images/frog.jpg
 permalink: /choosing-right-frog-species-pet/
 tags: pet frogs, choosing the right frog, frog species, pet care, frog habitats
+categories: ["Amphibian Care"]
 ---
 
 

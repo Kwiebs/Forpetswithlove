@@ -4,6 +4,7 @@ description: The Best Ways to Bond with Your Pet and Strengthen Your Relationshi
 image: images/pet_bond.jpg
 Tags: pet bonding, pet care, pet health, pet happiness, pet relationship, quality time, playing, exercising, physical contact, affection, sleep, rest, preventative care, vet visits, health check-up, comprehensive exam, pet health, pet wellness, pet comfort.
 permalink: /The-Best-Ways-to-Bond-with-Your-Pet-and-Strengthen-Your-Relationship/
+categories: ["Pet Care"]
 ---
 
 

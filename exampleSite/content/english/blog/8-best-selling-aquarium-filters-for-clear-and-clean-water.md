@@ -3,6 +3,7 @@ title: 8 Best-Selling Aquarium Filters for Clear and Clean Water
 description:   Looking for the best aquarium filters for clear and clean water? Look no further! Read on to discover our top picks for the best-selling aquarium filters on the market.
 image: images/fish_tank.jpg
 permalink: /8-best-selling-aquarium-filters-for-clear-and-clean-water/
+categories: ["Fish Care"]
 tags: Aquarium Filters, Clear Water, Clean Water, Fishkeeping, Fish Tanks
 ---
 

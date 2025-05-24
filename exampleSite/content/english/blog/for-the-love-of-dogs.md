@@ -4,6 +4,7 @@ description: Dogs are more than just pets, they're family. In this comprehensive
 image: images/love_dogs.jpg
 permalink: /for-the-love-of-dogs/
 tags: dogs, pet care, pet ownership, dog care
+categories: ["Dog Care"]
 ---
 
 Dogs are more than just pets, they're family. In this comprehensive guide, we'll provide you with tips and tricks on how to care for your furry best friend, from feeding and grooming to training and bonding.

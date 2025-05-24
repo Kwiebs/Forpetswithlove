@@ -4,6 +4,7 @@ description: Are you considering adopting a rescue pet? Read on to learn about t
 image: images/rescue-pet.jpg
 permalink: /pros-cons-adopting-rescue-pet/
 tags: rescue pet, adoption, pet ownership
+categories: ["Pet Care"]
 ---
 
 # Introduction

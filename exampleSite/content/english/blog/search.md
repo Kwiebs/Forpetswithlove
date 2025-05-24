@@ -1,3 +1,4 @@
+categories: ["Website"]
 ---
 title: "Search Results"
 sitemap:

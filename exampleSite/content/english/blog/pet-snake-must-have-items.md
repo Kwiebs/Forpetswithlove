@@ -4,6 +4,7 @@ description: Discover the essential items you need to keep your pet snake happy 
 image: https://forpetswithlove.netlify.app/images/snake-pet.jpg
 permalink: /pet-snake-must-have-items/
 tags: pet snake, snake habitat, snake food, snake accessories
+categories: ["Reptile Care"]
 ---
 
 # Essential Items for Keeping a Pet Snake

@@ -4,6 +4,7 @@ description: International Cat Day is a day to celebrate our feline friends and 
 image: images/cat_gift.jpg
 permalink: /international-cat-day/
 tags: international cat day, cat care, cat toys, cat treats, cat grooming
+categories: ["Cat Care"]
 ---
 
 International Cat Day is a day to celebrate our feline friends and show them some extra love and attention. Whether you're a cat owner or simply a cat lover, there are plenty of ways to pamper your cat and make them feel special. In this guide, we'll explore ways to show your cat some love, from toys and treats to grooming and playtime.

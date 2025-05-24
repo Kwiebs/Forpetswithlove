@@ -5,6 +5,7 @@ permalink: /A-Beginners-Guide-to-Raising-Fish-as-Pets/
 image: images/dog_fetch.jpg
 permalink: /how-to-teach-your-dog-basic-commands/
 tags: dog, basic commands, pet training, positive reinforcement
+categories: ["Dog Training"]
 ---
 
 Teaching your furry friend basic commands is an essential part of being a responsible dog owner. Not only does it help keep them safe, but it also strengthens the bond between you and your pup. Basic commands like sit, stay, come, and leave it are important skills that can help prevent accidents and make daily life more manageable. In this comprehensive guide, we'll walk you through a step-by-step process to teach your dog basic commands effectively. So, grab some treats, a positive attitude, and let's get started.
