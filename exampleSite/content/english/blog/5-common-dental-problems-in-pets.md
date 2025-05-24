@@ -1,7 +1,7 @@
 ---
 title: "5 Common Dental Problems in Pets | For Pets With Love"
 description: "Learn about the 5 most common dental problems in pets and how to protect your furry friend's oral health."
-date: 2025-05-22
+datepublished: 2025-05-22
 author: "For Pets With Love"
 tags: ["pet dental problems", "dental disease", "pet health"]
 categories: ["Pet Health"]

@@ -1,7 +1,7 @@
 ---
 title: "7 Tips for Brushing Your Pet's Teeth | For Pets With Love"
 description: "Make brushing your pet's teeth easier and more effective with these 7 essential tips for a healthy and happy pet."
-date: 2025-05-22
+datepublished: 2025-05-22
 author: "For Pets With Love"
 tags: ["pet dental care", "brushing teeth", "pet health"]
 categories: ["Pet Health"]

@@ -1,7 +1,7 @@
 ---
 title: "5 Stylish Cat Scratching Posts That Don't Ruin Your Decor | For Pets With Love"
 description: "Looking for cat scratching solutions that blend with your home decor? Discover 5 stylish cat scratching posts that are both functional and aesthetically pleasing."
-date: 2025-06-01
+datepublished: 2025-06-01
 author: "For Pets With Love"
 tags: ["stylish cat scratching post", "cat furniture decor", "cat scratching solutions"]
 categories: ["Cat Care"]

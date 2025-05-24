@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Cat Claw Care: Trimming, Caps, and More | For Pets With Love"
 description: "Learn everything you need to know about cat claw care, including trimming techniques, claw caps, and alternative solutions to protect your furniture."
-date: 2025-05-24
+datepublished: 2025-05-24
 author: "For Pets With Love"
 tags: ["cat claw care", "cat claw trimming", "cat claw caps"]
 categories: ["Cat Care"]

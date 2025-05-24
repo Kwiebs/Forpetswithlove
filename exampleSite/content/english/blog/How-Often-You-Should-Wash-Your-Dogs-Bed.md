@@ -1,7 +1,7 @@
 ---
 title: "Do You Know How Often You Should Wash Your Dog's Bed? We Have the Answer!"
 description: "Wondering how often you should wash your dog's bed? Discover essential tips for maintaining a clean and healthy sleeping space for your furry friend!"
-date: 2025-05-21
+datepublished: 2025-05-21
 author: "For Pets With Love"
 tags: ["dog hygiene", "dog bed cleaning", "pet care tips"]
 categories: ["Dog Care"]

@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Your Cat from Scratching the Couch: Effective Solutions | For Pets With Love"
 description: "Is your cat scratching the couch? Discover effective solutions to stop your cat from scratching furniture and protect your home."
-date: 2025-05-31
+datepublished: 2025-05-31
 author: "For Pets With Love"
 tags: ["stop cat scratching", "cat scratching solutions", "protect furniture from cats"]
 categories: ["Cat Care"]

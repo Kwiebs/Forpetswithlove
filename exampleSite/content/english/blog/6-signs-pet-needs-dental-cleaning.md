@@ -1,7 +1,7 @@
 ---
 title: "6 Signs Your Pet Needs a Dental Cleaning | For Pets With Love"
 description: "Is your pet showing signs of dental problems? Learn the 6 key signs that indicate your pet needs a professional dental cleaning."
-date: 2025-05-22
+datepublished: 2025-05-22
 author: "For Pets With Love"
 tags: ["pet dental cleaning", "dental problems", "pet health"]
 categories: ["Pet Health"]

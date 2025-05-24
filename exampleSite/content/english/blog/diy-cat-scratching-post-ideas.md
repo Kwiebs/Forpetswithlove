@@ -1,7 +1,7 @@
 ---
 title: "DIY Cat Scratching Post Ideas: Save Money and Protect Your Furniture | For Pets With Love"
 description: "Want to save money and protect your furniture? Discover creative DIY cat scratching post ideas that are easy to make and fun for your cat."
-date: 2025-05-27
+datepublished: 2025-05-27
 author: "For Pets With Love"
 tags: ["diy cat scratching post", "homemade cat furniture", "cat scratching solutions"]
 categories: ["Cat Care"]

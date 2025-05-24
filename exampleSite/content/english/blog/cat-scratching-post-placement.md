@@ -1,7 +1,7 @@
 ---
 title: "Cat Scratching Post Placement: Where to Put Them for Maximum Success | For Pets With Love"
 description: "Maximize your cat's scratching post use! Discover the best locations to place scratching posts for maximum success in redirecting scratching behavior."
-date: 2025-06-03
+datepublished: 2025-06-03
 author: "For Pets With Love"
 tags: ["cat scratching post placement", "cat scratching solutions", "cat behavior"]
 categories: ["Cat Care"]

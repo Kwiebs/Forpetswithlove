@@ -1,7 +1,7 @@
 ---
 title: "The Truth About Cat Scratching: Why They Do It and How to Stop It | For Pets With Love"
 description: "Uncover the truth about cat scratching behavior! Learn why cats scratch and discover effective strategies to stop unwanted scratching."
-date: 2025-06-04
+datepublished: 2025-06-04
 author: "For Pets With Love"
 tags: ["cat scratching behavior", "stop cat scratching", "cat behavior"]
 categories: ["Cat Care"]

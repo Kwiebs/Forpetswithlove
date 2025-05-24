@@ -1,7 +1,7 @@
 ---
 title: "Introducing a New Cat to Your Dog: A Step-by-Step Guide | For Pets With Love"
 description: "Bringing a new cat home when you have a dog? Follow this step-by-step guide to introduce a new cat to your dog safely and successfully."
-date: 2025-05-29
+datepublished: 2025-05-29
 author: "For Pets With Love"
 tags: ["introduce cat to dog", "cat and dog introduction", "pet compatibility"]
 categories: ["Pet Care"]
