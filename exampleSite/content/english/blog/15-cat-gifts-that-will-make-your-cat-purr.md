@@ -1,6 +1,7 @@
 ---
 title: 15 cat gifts that will make your cat purr
 description: Treat your furry feline friend with these 15 cat gifts that are guaranteed to make them purr with delight. From cozy beds to interactive toys, we have everything you need to spoil your beloved cat.
+datepublished: 2025-06-01
 image: images/cat_gift.jpg
 permalink : /15-cat-gifts-that-will-make-your-cat-purr/
 categories: ["Cat Care"]

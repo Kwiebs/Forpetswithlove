@@ -1,6 +1,7 @@
 ---
 title: For the Love of Dogs - A Guide to Caring for Your Furry Best Friend
 description: Dogs are more than just pets, they're family. In this comprehensive guide, we'll provide you with tips and tricks on how to care for your furry best friend, from feeding and grooming to training and bonding.
+datepublished: 2025-06-10
 image: images/love_dogs.jpg
 permalink: /for-the-love-of-dogs/
 tags: dogs, pet care, pet ownership, dog care

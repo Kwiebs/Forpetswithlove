@@ -1,6 +1,7 @@
 ---
 title: Benefits of Regular Vet Checkups for Your Pet
 description: Learn why regular vet checkups are important for your pet's health and well-being. Find out what to expect during a typical checkup and how it can benefit your furry friend.
+datepublished: 2025-06-03
 image: images/pet_vet2.jpg
 permalink: /benefits-of-regular-vet-checkups-for-your-pet/
 tags: pets, vet, checkups, health, pet health, vet checkups, animal care

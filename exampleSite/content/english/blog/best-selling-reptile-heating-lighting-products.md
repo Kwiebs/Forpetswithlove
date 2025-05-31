@@ -1,6 +1,7 @@
 ---
 title: 4 Best-Selling Reptile Heating and Lighting Products
 description: Looking for the best reptile heating and lighting products? Check out these top 4 best-selling products that are sure to keep your reptile happy and healthy.
+datepublished: 2025-06-07
 image: images/reptile-heating-lighting.jpg
 permalink: /best-selling-reptile-heating-lighting-products/
 tags: reptile, heating, lighting, products, best-selling

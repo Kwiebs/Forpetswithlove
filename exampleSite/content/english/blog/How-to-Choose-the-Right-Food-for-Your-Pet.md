@@ -1,6 +1,7 @@
 ---
 title: How to Choose the Right Food for Your Pet
 description: How to Choose the Right Food for Your Pet
+datepublished: 2025-06-12
 image: images/pet_food.jpg
 tags: pet food, pet nutrition, pet health, pet diet, choosing pet food, pet food selection, pet food brands, special needs diets, feeding guidelines, veterinarian advice
 permalink: /How-to-Choose-the-Right-Food-for-Your-Pet/ 

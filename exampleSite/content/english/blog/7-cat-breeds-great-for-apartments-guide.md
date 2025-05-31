@@ -1,6 +1,7 @@
 ---
 title: 7 Cat Breeds That Are Great for Apartments - The Best Feline Companions for Small Spaces
 description: Looking for a cat that's perfect for apartment living? Check out our guide to the top 7 cat breeds that are well-suited for small spaces and indoor living.
+datepublished: 2025-01-01
 image: images/cat-bed.jpg
 permalink: /7-cat-breeds-great-for-apartments-guide/
 categories: ["Cat Care"]

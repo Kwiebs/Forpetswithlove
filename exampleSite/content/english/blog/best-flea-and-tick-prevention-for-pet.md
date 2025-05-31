@@ -1,6 +1,7 @@
 ---
 title: The Best Flea and Tick Prevention for Your Pet
 description: Protect your pet from fleas and ticks with these effective prevention methods. Learn about the best products and techniques to keep your furry friend safe.
+datepublished: 2025-06-01
 image: images/dog-tick.jpg
 permalink: /best-flea-and-tick-prevention-for-pet/
 tags: pet care, flea prevention, tick prevention, pet health

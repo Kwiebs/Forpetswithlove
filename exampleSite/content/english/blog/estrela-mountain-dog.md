@@ -1,6 +1,7 @@
 ---
 title: Estrela Mountain Dog - A Loyal and Protective Companion
 description: The Estrela Mountain Dog is a large and powerful breed known for their loyalty and protective nature. In this guide, we'll explore the history, characteristics, and care of this majestic breed.
+datepublished: 2025-06-08
 image: images/estrela-mountain-dog.jpg
 permalink: /estrela-mountain-dog/
 tags: estrela mountain dog, dog breeds, dog care, dog training, dog grooming

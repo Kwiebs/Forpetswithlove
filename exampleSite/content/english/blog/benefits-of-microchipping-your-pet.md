@@ -1,6 +1,7 @@
 ---
 title: The Benefits of Microchipping Your Pet
 description: Discover the advantages of microchipping your pet, from increased chances of a happy reunion to the prevention of pet theft. Learn more in this informative article.
+datepublished: 2025-06-02
 image: images/pet_vet.jpg
 permalink: /benefits-of-microchipping-your-pet/
 tags: pets, microchipping, pet safety

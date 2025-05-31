@@ -1,6 +1,7 @@
 ---
 title: Handling and Bonding with Your Pet Reptile
 description: Learn how to handle and bond with your pet reptile in a safe and enjoyable way. Develop a strong connection with your scaly companion and create a harmonious relationship.
+datepublished: 2025-06-09
 image: images/terrarium-reptile-pets.jpg
 permalink: /handling-and-bonding-with-your-pet-reptile
 tags: pet reptiles, reptile care, handling reptiles, bonding with reptiles

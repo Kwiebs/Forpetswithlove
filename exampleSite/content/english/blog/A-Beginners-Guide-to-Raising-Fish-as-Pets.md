@@ -1,6 +1,7 @@
 ---
 title: A Beginner's Guide to Raising Fish as Pets
 description: A Beginner's Guide to Raising Fish as Pets
+datepublished: 2025-06-01
 image: images/BlueFish.jpg
 tags: A Beginner's Guide to Raising Fish as Pets, Fishkeeping, Pet Fish, Raising Fish, Fish Care, Fish Tank, Cleaning Fish Tank, Feeding Fish, Fish Health, Fish Diseases, Fish Illness, Aquarium Salt, Fish Medicine, Fish Feeding Guide
 permalink: /A-Beginners-Guide-to-Raising-Fish-as-Pets/

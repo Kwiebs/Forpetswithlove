@@ -1,6 +1,7 @@
 ---
 title: The Benefits of CBD for Dogs - A Comprehensive Guide
 description: Learn about the numerous benefits of CBD for dogs in this comprehensive guide. Discover how CBD can improve your dog's health and well-being, and find answers to commonly asked questions about CBD usage for dogs.
+datepublished: 2025-06-01
 image: images/dog-cbd.jpg
 permalink: /benefits-of-cbd-for-dogs
 tags: CBD for dogs, pet health, natural remedies, holistic pet care, CBD benefits, dog wellness

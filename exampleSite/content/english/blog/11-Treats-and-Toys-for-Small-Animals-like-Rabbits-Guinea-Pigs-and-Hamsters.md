@@ -1,6 +1,7 @@
 ---
 title: 11 Treats and Toys for Small Animals like Rabbits, Guinea Pigs and Hamsters
 description:  Keeping small animals like rabbits, guinea pigs, and hamsters entertained and happy is essential. Here are the 11 must-have treats and toys that every small animal owner should consider.
+datepublished: 2025-01-01
 image: images/happy_hamster.jpg
 permalink: /11-Treats-and-Toys-for-Small-Animals-like-Rabbits-Guinea-Pigs-and-Hamsters/
 categories: ["Small Pet Care"]

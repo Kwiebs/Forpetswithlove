@@ -1,6 +1,7 @@
 ---
 title: Learn How to Feed Your Pet According to Age - A Guide to Proper Nutrition
 description: Discover the importance of feeding your pet according to their age and learn the best practices for providing them with proper nutrition. Find valuable tips and recommendations to keep your pet healthy and happy at every life stage.
+datepublished: 2025-06-09
 image: images/feeding-dog.jpg
 permalink: /feed-according-to-age/
 tags: Pet Nutrition, Feeding Pets, Pet Health, Age-specific Diet, Pet Food, Proper Nutrition

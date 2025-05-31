@@ -1,6 +1,7 @@
 ---
 title: How to Help Your Pet Cope with Separation Anxiety
 description: Is your pet struggling with separation anxiety? Learn effective techniques and strategies to help them feel more comfortable and secure when you're not around.
+datepublished: 2025-06-14
 image: images/dog_anxiety.jpg
 permalink: /how-to-deal-with-separation-anxiety-in-your-pet/
 tags: pet care, separation anxiety, pet behavior, anxiety, pets

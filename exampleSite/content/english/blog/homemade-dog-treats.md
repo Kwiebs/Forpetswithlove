@@ -1,6 +1,7 @@
 ---
 title: 5 Homemade Treats Your Dog Will Love
 description: Spoil your furry friend with these 5 homemade treats that are sure to have them begging for more. Not only are they delicious, but they're also healthy for your dog!
+datepublished: 2025-06-11
 image: images/dog-treat.jpg
 permalink: /homemade-dog-treats/
 tags: dogs, treats, homemade, healthy

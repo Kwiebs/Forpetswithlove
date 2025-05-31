@@ -1,6 +1,7 @@
 ---
 title: How to Teach Your Cat to Use the Litter Box
 description: Learn how to train your cat to use the litter box with these simple and effective tips. Say goodbye to messy accidents and odors!
+datepublished: 2025-06-15
 image: images/cat-litter-box.jpg
 permalink: /how-to-teach-your-cat-to-use-the-litter-box/
 tags: cats, litter box, training
