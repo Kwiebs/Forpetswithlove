@@ -16,7 +16,7 @@
 
   {{- partial "testimonials.html" . }}
   
-  {{ range (where .Data.Pages "Section" "english/blog").ByDate.Reverse }}
+  {{ range where .Data.Pages "Section" "english/blog" }}
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     <p>{{ .Summary }}</p>
   {{ end }}
