@@ -1,11 +1,11 @@
 ---
-title: Cat scratching furniture solutions
-description: Discover effective cat scratching furniture solutions to protect your home and keep your feline friend happy. Learn about the best options for every cat and home.
+title: "Cat scratching furniture solutions"
+description: "Discover effective cat scratching furniture solutions to protect your home and keep your feline friend happy. Learn about the best options for every cat and home."
 datepublished: 2025-08-05
 image: images/cat-actively-scratching.jpg
 permalink: /cat-scratching-furniture-solutions/
-categories: Cats, Furniture, Behavior
-tags: [cat scratching, cat furniture, cat behavior, pet solutions, cat care]
+categories: ["Cats", "Furniture", "Behavior"]
+tags: ["cat scratching", "cat furniture", "cat behavior", "pet solutions", "cat care"]
 author: "For Pets With Love"
 ---
 
