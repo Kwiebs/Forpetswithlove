@@ -35,10 +35,10 @@ Choosing the right scratching solution isn't just about aesthetics; it's about u
 
 Cats have distinct preferences when it comes to scratching materials. The most common and effective materials include:
 
-*   **Sisal Fabric/Rope:** This is arguably the most popular and effective material. Sisal provides a satisfying shredding action that mimics tree bark, which cats instinctively love. It's durable and can withstand vigorous scratching.
-*   **Cardboard:** Often found in scratching pads and loungers, corrugated cardboard offers a unique texture that many cats find irresistible. It's affordable and disposable, making it a good option for those on a budget, though it will need more frequent replacement.
-*   **Carpet:** While some scratchers are covered in carpet, it's generally less recommended. Cats can easily confuse carpeted scratchers with your home's carpeting, leading to inappropriate scratching. If you do choose carpet, ensure it's a different texture or color than your home's flooring.
-*   **Wood:** Some cats enjoy scratching on natural wood, especially if it's rough or textured. This can be found in more rustic or natural-looking scratchers.
+*   [**Sisal Fabric/Rope:**](https://amzn.to/3H6po5r) This is arguably the most popular and effective material. Sisal provides a satisfying shredding action that mimics tree bark, which cats instinctively love. It's durable and can withstand vigorous scratching.
+*   [**Cardboard:**](https://amzn.to/4kxjDw2) Often found in scratching pads and loungers, corrugated cardboard offers a unique texture that many cats find irresistible. It's affordable and disposable, making it a good option for those on a budget, though it will need more frequent replacement.
+*   [**Carpet:**](https://amzn.to/3H6EW9k) While some scratchers are covered in carpet, it's generally less recommended. Cats can easily confuse carpeted scratchers with your home's carpeting, leading to inappropriate scratching. If you do choose carpet, ensure it's a different texture or color than your home's flooring.
+*   [**Wood:**](https://amzn.to/4je7CKP) Some cats enjoy scratching on natural wood, especially if it's rough or textured. This can be found in more rustic or natural-looking scratchers.
 
 ### Stability and Height
 
@@ -64,7 +64,7 @@ Understanding the different types of scratching furniture available is the first
 
 Scratching posts are the most common and often the first type of scratcher pet owners consider. They are typically vertical structures, varying in height and material.
 
-*   **Classic Vertical Posts:** These are simple, upright posts usually covered in sisal rope or fabric. They are excellent for cats who prefer to stretch upwards while scratching, mimicking their natural behavior on tree trunks. Look for posts with a sturdy, wide base to prevent tipping.
+*   [**Classic Vertical Posts:**](https://amzn.to/4mvD8aa) These are simple, upright posts usually covered in sisal rope or fabric. They are excellent for cats who prefer to stretch upwards while scratching, mimicking their natural behavior on tree trunks. Look for posts with a sturdy, wide base to prevent tipping.
 *   **Angled Posts:** Some posts are designed with a slight angle, offering a different scratching surface that can appeal to cats who enjoy a varied scratching posture.
 
 **Why they matter:** Vertical scratching posts are crucial for allowing cats to fully extend their bodies, which is important for muscle and joint health. They also serve as a clear visual marker of territory, a key function of scratching.
@@ -74,11 +74,11 @@ Scratching posts are the most common and often the first type of scratcher pet o
 Scratching pads are flat or slightly inclined surfaces, most commonly made from corrugated cardboard.
 
 *   **Flat Pads:** These are simple, rectangular or circular cardboard pads that lie flat on the floor. They are ideal for cats who prefer horizontal scratching surfaces.
-*   **Inclined Pads:** Some pads come with a slight incline, offering a compromise between vertical and horizontal scratching. These can be particularly appealing to cats who like to lean into their scratch.
+*   [**Inclined Pads:**](https://amzn.to/4kc1S5L) Some pads come with a slight incline, offering a compromise between vertical and horizontal scratching. These can be particularly appealing to cats who like to lean into their scratch.
 
 **Why they matter:** Horizontal scratching pads cater to cats who prefer to scratch on flat surfaces, such as rugs or carpets. They are also often infused with catnip, making them highly attractive to felines.
 
-### Scratching Trees/Condos (#scratching-trees-condos)
+### [Scratching Trees/Condos](https://amzn.to/4kt1389) (#scratching-trees-condos)
 
 Cat trees and condos often integrate scratching surfaces into their multi-level designs. These can be a comprehensive solution, offering scratching, climbing, perching, and hiding opportunities.
 
@@ -89,7 +89,7 @@ Cat trees and condos often integrate scratching surfaces into their multi-level 
 
 ### Scratching Loungers (#scratching-loungers)
 
-Scratching loungers are typically made from corrugated cardboard and are designed with a curved or contoured shape, allowing cats to both scratch and relax on them.
+[Scratching loungers](https://amzn.to/44QmRX1) are typically made from corrugated cardboard and are designed with a curved or contoured shape, allowing cats to both scratch and relax on them.
 
 *   **Curved Designs:** These loungers often have a wave-like or bowl-like shape, providing a comfortable resting spot while also offering an enticing scratching surface. The curved design can be particularly satisfying for cats who enjoy stretching and digging their claws into a soft, yet firm, material.
 
@@ -126,7 +126,7 @@ Once you have the right scratching furniture and it's strategically placed, the 
 ### Make it Attractive
 
 *   **Catnip:** Sprinkle fresh catnip on the scratcher or use a catnip spray. The enticing aroma can draw your cat to the new object and encourage them to investigate and scratch.
-*   **Toys:** Hang a favorite toy from the top of a vertical scratcher or place it on a horizontal one. This can encourage playful interaction that naturally leads to scratching.
+*   [**Toys:**](https://www.forpetswithlove.com/best-cat-toys-guide/) Hang a favorite toy from the top of a vertical scratcher or place it on a horizontal one. This can encourage playful interaction that naturally leads to scratching.
 *   **Treats:** Reward your cat with a treat every time you see them interact with or scratch the designated furniture. This positive association will reinforce the desired behavior.
 
 ### Gentle Guidance
