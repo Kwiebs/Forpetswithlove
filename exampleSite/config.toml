@@ -40,14 +40,39 @@ weight = 1
 main = []
 
 [params]
-author = "|Kweebs"
-contact_form_action = "#"
-currency = "$"
-description = "Welcome to ForPetsWithLove.com, your one-stop shop for all things pet-related! We are a passionate team of pet lovers who are dedicated to providing you with the best products and services for your furry friends."
-logo = "images/logo.png"
-logo_width = "200px"
-search = true
-search_minify = false
+  author = "|Kweebs"
+  contact_form_action = "#"
+  currency = "$"
+  description = "Welcome to ForPetsWithLove.com, your one-stop shop for all things pet-related! We are a passionate team of pet lovers who are dedicated to providing you with the best products and services for your furry friends."
+  logo = "images/logo.png"
+  logo_width = "200px"
+  search = true
+  search_minify = false
+
+  # Ebook Configuration
+  [params.ebook]
+    title = "The Cat Scratching Solution: From Furniture Destroyer to Happy Scratcher"
+    author = "Jane Doe"
+    price = "19.99"
+    currency = "USD"
+    purchase_url = "https://books2read.com/u/47jzOq"
+    guarantee_days = "30"
+    reader_count = "2,500+"
+    
+  # Analytics Configuration
+  [params.analytics]
+    ga4_id = "G-GW45MT4LE0"  # Using existing GA4 ID
+    convertkit_api_key = ""  # Add your ConvertKit API key here
+    convertkit_forms = {
+      checklist = ""  # Form ID for free checklist
+      sample = ""     # Form ID for Chapter 1 sample
+    }
+    
+  # Lead Magnet Configuration
+  [params.leadmagnet]
+    title = "Free Cat Scratching Prevention Checklist"
+    description = "10-point checklist to prevent scratching problems before they start"
+    format = "PDF"
 
 # Added SEO parameters
 use_proper_headings = true

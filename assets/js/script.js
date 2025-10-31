@@ -1,4 +1,7 @@
-// Preloader js    
+// Import ebook landing page functionality
+import './ebook-landing.js';
+
+// Preloader js
 $(window).on('load', function () {
   $('.preloader').fadeOut(100);
 });

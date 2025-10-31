@@ -14,6 +14,13 @@
   <meta name="msvalidate.01" content="07ABD3728F6B3AF1F6A35914FA5A916F" />
   
 <script src="https://c.amazon-adsystem.com/aax2/assoc.js"></script>
+  {{ "<!-- Adobe Fonts (Kit) -->" | safeHTML }}
+  <script src="https://use.typekit.net/forms.js"></script>
+  
+  {{ "<!-- Font Loading Optimization -->" | safeHTML }}
+  {{ $fontLoader := resources.Get "js/font-loader.js" | minify }}
+  <script src="{{ $fontLoader.Permalink }}"></script>
+
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .link | absURL }} ">
