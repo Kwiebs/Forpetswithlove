@@ -192,7 +192,7 @@ Cat owners who've tried everything and still deal with furniture damage
 ## What Cat Owners Are Saying
 
 ### Sarah M. ⭐⭐⭐⭐⭐
-*"Our cat was destroying our leather couch. Within 10 days of following Jane's methods, she only uses her scratching post. Game changer!"*  
+*"Our cat was destroying our leather couch. Within 10 days of following André's methods, she only uses her scratching post. Game changer!"*  
 *Cat mom of 2, Texas*
 
 ### Mike R. ⭐⭐⭐⭐⭐
@@ -204,7 +204,7 @@ Cat owners who've tried everything and still deal with furniture damage
 *Apartment dweller, New York*
 
 ### David & Linda K. ⭐⭐⭐⭐⭐
-*"Our senior cat had suddenly started scratching everything. Jane's approach helped us understand it was stress-related and solved it naturally."*  
+*"Our senior cat had suddenly started scratching everything. André's approach helped us understand it was stress-related and solved it naturally."*  
 *Retired couple, Florida*
 
 ### Jessica T. ⭐⭐⭐⭐⭐
