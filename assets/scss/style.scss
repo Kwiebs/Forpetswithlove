@@ -1,12 +1,19 @@
 @import 'mixins';
 
+// Import ebook landing page styles
+@import 'ebook-landing';
+
 // Variables
-$primary-font: 'Josefin Sans',
+$primary-font: 'proxima-nova',
 sans-serif;
-$secondary-font: 'Droid Serif',
+$secondary-font: 'mercury-text',
 serif;
 $primary-color: #f9a743;
 $icon-font: 'themefisher-font' !important;
+
+// Font loading optimization
+$font-display: swap;
+$font-loading-timeout: 3000ms;
 
 /*--
     Common Css
@@ -628,6 +635,55 @@ textarea.form-control {
 
 .link-title{
   color: inherit;
+// Adobe Fonts optimization
+.tk-proxima-nova {
+  font-family: 'proxima-nova', $primary-font;
+}
+
+.tk-mercury-text {
+  font-family: 'mercury-text', $secondary-font;
+}
+
+// Font loading states
+body {
+  &:before {
+    // Font loading indicator (hidden by default)
+    content: '';
+    display: none;
+  }
+  
+  &.fonts-loaded {
+    &:before {
+      display: block;
+    }
+  }
+}
+
+// Fallback font handling
+@supports (font-display: swap) {
+  @font-face {
+    font-family: 'proxima-nova';
+    font-display: $font-display;
+  }
+  
+  @font-face {
+    font-family: 'mercury-text';
+    font-display: $font-display;
+  }
+}
+
+// Critical font loading
+.wf-loading {
+  font-family: $primary-font;
+  
+  .wf-inactive & {
+    font-family: $primary-font;
+  }
+}
+
+.wf-active {
+  font-family: 'proxima-nova', 'mercury-text', sans-serif;
+}
   text-decoration: none !important;
   &:hover{
     color: $primary-color;
