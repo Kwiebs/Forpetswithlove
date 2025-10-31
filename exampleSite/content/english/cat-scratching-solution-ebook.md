@@ -51,7 +51,7 @@ schema:
   "name": "The Cat Scratching Solution: From Furniture Destroyer to Happy Scratcher",
   "author": {
     "@type": "Person",
-    "name": "Jane Doe"
+    "name": "André Castro"
   },
   "description": "A comprehensive guide to solving cat scratching behavior and protecting your furniture.",
   "genre": "Pet Care",
@@ -85,6 +85,9 @@ Perfect for first-time and intermediate cat owners who want a damage-free home w
 ## Get the eBook
 
 **Read it on your favorite store**
+### [Get The Cat Scratching Solution Now](https://books2read.com/u/47jzOq)
+
+### [Also available in amazon](https://amzn.to/3KWyXG1)
 
 ---
 
@@ -92,9 +95,6 @@ Perfect for first-time and intermediate cat owners who want a damage-free home w
 
 10-point checklist to prevent scratching problems before they start. Includes positioning tips and product recommendations.
 
-### Free Checklist Signup
-
-*[Note: This would be an HTML form in production]*
 
 ---
 
@@ -189,18 +189,6 @@ Cat owners who've tried everything and still deal with furniture damage
 
 ---
 
-## About the Author
-
-![Jane Doe, Cat Behavior Expert](/images/author-jane-doe.jpg)
-
-**Jane Doe** is a certified cat behavior specialist with over 8 years of experience helping thousands of cat families create harmonious homes.
-
-As a former veterinarian technician turned behavior consultant, Jane combines scientific understanding with practical solutions that work in real homes with real cats.
-
-Jane has helped over 2,500 cat owners solve scratching issues and currently works with animal shelters to improve cat adoption success rates.
-
----
-
 ## What Cat Owners Are Saying
 
 ### Sarah M. ⭐⭐⭐⭐⭐
@@ -246,7 +234,6 @@ Download Chapter 1 to see the complete approach before you buy
 • Why punishment doesn't work (and what does)
 • The hidden signals your cat is sending
 
-*[Note: Sample chapter signup would be an HTML form in production]*
 
 ---
 
@@ -284,10 +271,12 @@ Join 2,500+ cat owners who've solved their scratching problems with this proven 
 
 ### [Get The Cat Scratching Solution Now](https://books2read.com/u/47jzOq)
 
-*Instant download • 30-day money-back guarantee • Works on all devices*
+### [Also available in amazon](https://amzn.to/3KWyXG1)
+
+*Instant download • Works on all devices*
 
 ✓ PDF, EPUB, MOBI formats  
-✓ 120 pages of proven strategies  
+✓ 47 pages of proven strategies  
 ✓ Quick reference guide included  
 
 ---
@@ -297,11 +286,8 @@ Join 2,500+ cat owners who've solved their scratching problems with this proven 
 ### Format & Compatibility
 Available in PDF, EPUB, and MOBI formats. Compatible with all devices: computers, tablets, smartphones, and e-readers.
 
-### Guarantee
-30-day money-back guarantee. If you're not satisfied, contact us for a full refund, no questions asked.
-
 ### Support
-Questions about your order or need help? Contact us at support@forpetswithlove.com
+Questions about your order or need help? Contact us at info@forpetswithlove.com
 
 We respect your privacy. Your information is never shared.
 
@@ -309,4 +295,3 @@ We respect your privacy. Your information is never shared.
 
 ---
 
-*Note: This content is formatted in markdown for Hugo. Interactive elements like forms, JavaScript functionality, and advanced styling would need to be implemented through the website's theme and CSS/JavaScript files.*
