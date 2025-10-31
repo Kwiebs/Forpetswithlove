@@ -63,10 +63,7 @@ main = []
   [params.analytics]
     ga4_id = "G-GW45MT4LE0"  # Using existing GA4 ID
     convertkit_api_key = ""  # Add your ConvertKit API key here
-    convertkit_forms = {
-      checklist = ""  # Form ID for free checklist
-      sample = ""     # Form ID for Chapter 1 sample
-    }
+    convertkit_forms = { checklist = "", sample = "" }  # Form IDs for ConvertKit forms
     
   # Lead Magnet Configuration
   [params.leadmagnet]
