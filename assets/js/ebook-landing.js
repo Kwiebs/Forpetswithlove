@@ -10,12 +10,12 @@ const config = {
   convertkit: {
     forms: {
       'free-checklist': {
-        id: '[YOUR_FORM_ID]', // Replace with actual ConvertKit form ID
-        endpoint: 'https://api.convertkit.com/v3/forms/[YOUR_FORM_ID]/subscribe'
+        id: '8724628', // Replace with actual ConvertKit form ID
+        endpoint: 'https://forpetswithlove.kit.com/8b05b9a194'
       },
       'chapter1-sample': {
-        id: '[YOUR_FORM_ID_2]', // Replace with actual ConvertKit form ID
-        endpoint: 'https://api.convertkit.com/v3/forms/[YOUR_FORM_ID_2]/subscribe'
+        id: '8724628', // Replace with actual ConvertKit form ID
+        endpoint: 'https://forpetswithlove.kit.com/8b05b9a194'
       }
     }
   },

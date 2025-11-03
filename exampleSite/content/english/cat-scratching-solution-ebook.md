@@ -87,7 +87,7 @@ Perfect for first-time and intermediate cat owners who want a damage-free home w
 **Read it on your favorite store**
 ### [Get The Cat Scratching Solution Now](https://books2read.com/u/47jzOq)
 
-### [Also available in amazon](https://amzn.to/3KWyXG1)
+### [Also available on amazon](https://amzn.to/3KWyXG1)
 
 ---
 
@@ -98,7 +98,7 @@ Perfect for first-time and intermediate cat owners who want a damage-free home w
 
 ---
 
-![Cat Scratching Furniture Cover](/images/cover-cat-scratches-furniture.jpg)
+![Cat Scratching Furniture Cover](/images/ebook-cover-art-small.jpg)
 
 ---
 
@@ -106,7 +106,6 @@ Perfect for first-time and intermediate cat owners who want a damage-free home w
 
 - ⭐⭐⭐⭐⭐ **4.8/5 (127 reviews)**
 - **2,500+** cat owners helped
-- 30-day **money-back guarantee**
 - Instant digital download
 
 ---
@@ -220,10 +219,6 @@ Based on 127 reviews
 
 ---
 
-## Get a Free Sample
-
-Download Chapter 1 to see the complete approach before you buy
-
 ### Chapter 1 Preview: Understanding Scratching Behavior
 
 *"Before you can solve your cat's scratching problem, you need to understand what's really driving the behavior. Cats don't scratch out of spite or to destroy your furniture—they're following natural instincts that have been hardwired into their DNA for thousands of years..."*
@@ -271,7 +266,7 @@ Join 2,500+ cat owners who've solved their scratching problems with this proven 
 
 ### [Get The Cat Scratching Solution Now](https://books2read.com/u/47jzOq)
 
-### [Also available in amazon](https://amzn.to/3KWyXG1)
+### [Also available on amazon](https://amzn.to/3KWyXG1)
 
 *Instant download • Works on all devices*
 
