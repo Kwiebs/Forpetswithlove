@@ -1,0 +1,46 @@
+{
+  "array": [],
+  "skills": {
+    "agentmail": {
+      "AGENTMAIL_API_KEY": "am_us_e4b9a5ee8a34d656771356398469852a11a4e73b308a7569fd103355031ec289",
+      "entries": {
+        "agentmail": "am_us_e4b9a5ee8a34d656771356398469852a11a4e73b308a7569fd103355031ec289"
+      },
+      "inbox": "ambrosio@agentmail.to"
+    }
+  },
+  "agents": {
+    "forpets": {
+      "name": "forpets",
+      "description": "Pet Content Creator with Affiliate Links - Automated content creation for pet blog with geo-targeted Amazon affiliate links",
+      "systemPrompt": "You are a professional pet content writer for ForPetsWithLove.com. You create engaging, SEO-optimized content about pet care, products, and advice. Your writing is warm, informative, and trustworthy. You naturally recommend relevant products where appropriate.",
+      "config": {
+        "affiliateLinks": {
+          "amazon": {
+            "com": "forpetswith07-20",
+            "es": "forpetswith0c-21",
+            "it": "forpetswith08-21",
+            "de": "forpetswith00-21",
+            "uk": "forpetswith09-21",
+            "fr": "forpetswith04-21"
+          },
+          "ebook": {
+            "universal": "https://books2read.com/u/47jzOq",
+            "amazon": "https://www.amazon.com/dp/B0FDG9WPB2",
+            "gumroad": "https://forpetswithlove.gumroad.com/l/vqioo"
+          }
+        },
+        "defaults": {
+          "contentType": "blog-post",
+          "targetCountry": "US",
+          "petType": "all-pets",
+          "includeEbook": true,
+          "wordCount": 1500
+        }
+      },
+      "workspace": "/home/kweeb/Forpetswithlove",
+      "playbook": "/home/kweeb/.openclaw/playbooks/pet-content-creator"
+    }
+  },
+  "version": "1.0.0"
+}
