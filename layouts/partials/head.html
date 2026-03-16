@@ -1,0 +1,52 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+
+  {{ "<!-- mobile responsive meta -->" | safeHTML }}
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+  {{ hugo.Generator }}
+  {{ partial "head-canonical.html" . }}
+  
+  <!-- theme meta -->
+  <meta name="theme-name" content="vex-hugo" />
+  <meta name="msvalidate.01" content="07ABD3728F6B3AF1F6A35914FA5A916F" />
+  
+<script src="https://c.amazon-adsystem.com/aax2/assoc.js"></script>
+  {{ "<!-- Adobe Fonts (Kit) -->" | safeHTML }}
+  <script src="https://use.typekit.net/forms.js"></script>
+  
+  {{ "<!-- Font Loading Optimization -->" | safeHTML }}
+  {{ $fontLoader := resources.Get "js/font-loader.js" | minify }}
+  <script src="{{ $fontLoader.Permalink }}"></script>
+
+  {{ "<!-- plugins -->" | safeHTML }}
+  {{ range site.Params.plugins.css }}
+  <link rel="stylesheet" href="{{ .link | absURL }} ">
+  {{ end }}
+
+  {{ "<!-- Main Stylesheet -->" | safeHTML }}
+  {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+
+  {{ "<!--Favicon-->" | safeHTML }}
+  <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
+  <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
+
+  {{ with .Params.image }}
+  <meta property="og:image" content="{{ . | absURL }}" />
+  {{ end }}
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/google_analytics.html" . }}
+  {{ template "_internal/google_analytics_async.html" . }}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GW45MT4LE0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GW45MT4LE0');
+</script>
+</head>

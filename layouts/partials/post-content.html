@@ -1,0 +1,9 @@
+{{/* layouts/partials/post-content.html */}}
+{{ $content := .Content }}
+
+{{/* Replace heading tags to ensure proper hierarchy */}}
+{{ $content := replaceRE "<h4([^>]*)>(.*?)</h4>" "<h2$1>$2</h2>" $content }}
+{{ $content := replaceRE "<h5([^>]*)>(.*?)</h5>" "<h3$1>$2</h3>" $content }}
+{{ $content := replaceRE "<h6([^>]*)>(.*?)</h6>" "<h3$1>$2</h3>" $content }}
+
+{{ $content | safeHTML }}

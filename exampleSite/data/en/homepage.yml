@@ -1,0 +1,11 @@
+---
+list:
+  enable: true
+  title: For pets with Love, Everything you want to know about your pets.
+  image: images/logo.png
+  button:
+    enable: true
+    label: View All
+    link: blog/
+colors: []
+sizes: []

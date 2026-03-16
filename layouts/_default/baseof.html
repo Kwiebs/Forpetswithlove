@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+{{- partial "head.html" . -}}
+<head>
+	{{ if .Site.Params.GoogleAnalyticsID }}
+	{{ partial "analytics-gtag.html" . }}
+	{{ end }}
+	...
+{{ if site.Params.search }}
+{{ $searchJs := resources.Get "js/search.js"  | resources.ExecuteAsTemplate "js/search.js" .  | fingerprint }}
+<script src="{{ $searchJs.RelPermalink }}"></script>
+{{ end }}
+  </head>
+<body id="body">
+	{{- partial "preloader.html" . -}}
+	{{- partial "header.html" . -}}
+	{{- block "main" . }}{{- end }}
+	{{- partial "footer.html" . -}}
+</body>
+
+</html>

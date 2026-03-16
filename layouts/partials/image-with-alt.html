@@ -1,0 +1,17 @@
+{{/* layouts/partials/image-with-alt.html */}}
+{{ $image := . }}
+{{ $alt := $image.Alt | default "Image description missing" }}
+{{ $title := $image.Title | default "" }}
+{{ $class := $image.Class | default "" }}
+{{ $width := $image.Width | default "auto" }}
+{{ $height := $image.Height | default "auto" }}
+
+<img 
+  src="{{ $image.Src }}" 
+  alt="{{ $alt }}" 
+  {{ with $title }}title="{{ . }}"{{ end }}
+  {{ if ne $width "auto" }}width="{{ $width }}"{{ end }}
+  {{ if ne $height "auto" }}height="{{ $height }}"{{ end }}
+  loading="lazy"
+  class="img-fluid {{ $class }}"
+>
