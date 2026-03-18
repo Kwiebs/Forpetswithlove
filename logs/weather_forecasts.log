@@ -181,3 +181,60 @@ To find your chat ID, first message the bot or join a channel
 
 ✅ Forecast generated at 20:00:19
 ---
+# Weather Forecast Tue Mar 17 08:00:11 PM UTC 2026
+Generating weather forecast...
+🌊 Fetching tide data from tabuademares.com...
+🔍 Searching for: '18/3' in content...
+⚠️ Date '18/3' not found in content
+✅ Found tide data for 2026-03-18
+📍 *Previsão para 18/03/2026*
+📍 *Baleal*
+
+🕐 *Condições ao longo do dia:*
+06h → 🌦️ Aguaceiros 14°C
+09h → 🌤️ Pouco nublado 15°C
+12h → 🌤️ Pouco nublado 17°C
+15h → ☁️ Nublado 19°C
+18h → ☁️ Nublado 17°C
+
+🌡️ *Temperaturas:* 14°C - 19°C
+🌬️ *Vento máximo:* 32 km/h
+🌧️ *Probabilidade de chuva:* 73%
+🔆 *Índice UV:* 0 (Baixo)
+👕 *Vestuário:* Convém levar guarda-chuva ☔
+
+🚫 Tal vez melhor evitar lavar roupa hoje.
+☔ Não deixes o tempo nublado escurecer o teu humor.
+
+🎣 *Previsão de Pesca:*
+📊 *Probabilidade:* ⚠️ Moderate
+💡 😐 Se tiveres paciência, pode dar resultado...
+*🗓️ Dicas:*
+   • Veste bem agasalhado
+   • Pega em equipamentos extras
+
+🌊 *Marés Peniche:*
+   19:51 → Alta (2.3m)
+   19:51 → Baixa (2.3m)
+   2:07: → Alta (1.5m)
+   7:40: → Baixa (1.6m)
+⚓ *Condições Marítimas:*
+   🌊 Mari Agitado (máx. 32 km/h)
+   🎣 Melhor pesca: 18:00-19:00
+   📊 Fonte maré: tabuademares.com
+
+*📅 Resumo próximos dias:*
+Tue → Ver acima ☀️
+Wed → 06h → 🌦️ Aguaceiros 14°C
+Thu → 🌤️ Ver detalhado
+
+==================================================
+Sending to Telegram...
+❌ Falha ao enviar para Telegram: 401
+Resposta: {"ok":false,"error_code":401,"description":"Unauthorized"}
+⚠️ Failed to send to Telegram - check bot permissions and chat ID
+Bot token: 7339165016:AAGzSn65GLOd2H50jr4mmSPeIOTt1I2_iVQ
+To find your chat ID, first message the bot or join a channel
+
+✅ Forecast generated at 20:00:15
+---

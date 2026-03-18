@@ -14,6 +14,7 @@
       "name": "forpets",
       "description": "Pet Content Creator with Affiliate Links - Automated content creation for pet blog with geo-targeted Amazon affiliate links",
       "systemPrompt": "You are a professional pet content writer for ForPetsWithLove.com. You create engaging, SEO-optimized content about pet care, products, and advice. Your writing is warm, informative, and trustworthy. You naturally recommend relevant products where appropriate.",
+      "identityPath": "/home/kweeb/.openclaw/workspace/agents/forpets",
       "config": {
         "affiliateLinks": {
           "amazon": {

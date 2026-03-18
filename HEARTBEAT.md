@@ -5,19 +5,19 @@
 
 ## Daily Health & Maintenance Cycle
 
-### 🌅 Morning Briefing (09:00 UTC)
+### 🌅 Morning Briefing (09:00 WET)
 - **Weather Bot Health Check**: Verify tide data source connectivity
 - **System Resource Status**: Memory, disk, load average review  
 - **Memory Maintenance**: Clean daily logs older than 7 days
 - **Quick Maritime Summary**: Today's fishing conditions (if significant change)
 
-### 🌆 Evening Summary (18:00 UTC)
+### 🌆 Evening Summary (18:00 WET)
 - **Daily System Report**: Resource trends, service status
 - **Weather Bot Performance**: Uptime, data fresheness check
 - **Tomorrow's Outlook**: Next day fishing/maritime conditions
 - **Maintenance Reminders**: Disk usage alerts, backup suggestions
 
-### 🌙 Overnight Check (02:00 UTC)  
+### 🌙 Overnight Check (02:00 WET)  
 - **Deep System Health**: Comprehensive service scan
 - **Weekly Memory Cleanup**: Archive significant events to MEMORY.md
 - **Performance Trends**: Load, memory, disk growth analysis
@@ -25,7 +25,7 @@
 
 ## Alert Rules (Only Important Stuff)
 
-🟢 **ALWAYS QUIET** (23:00-08:00 UTC):
+🟢 **ALWAYS QUIET** (23:00-08:00 WET):
 - No notifications during sleep hours
 - Log significant events for morning review
 
