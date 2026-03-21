@@ -117,7 +117,7 @@ Cat carriers vary widely: soft-sided carriers for comfort and portability, hard-
 - Temperature regulation can be challenged in warm weather
 - May be more expensive than standard carriers
 
-### 4. Rolling Carrier
+### 4. AmazonBasics Soft-Sided Pet Carrier
 
 **Why it's great:** For heavier cats or longer distances (airport terminal walking, large veterinary facilities), rolling carriers dramatically reduce physical strain on owners while maintaining cat comfort. These carriers combine standard carrier features with rolling wheels and telescoping handles, allowing easy transport without carrying weight. Many models feature sturdy frames and include soft or hard interiors depending on preference.
 

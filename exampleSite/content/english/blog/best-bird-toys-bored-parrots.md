@@ -19,13 +19,13 @@ Parrot toys come in many forms: foraging toys requiring problem-solving, chewing
 
 | Product | Type | Best For | Rating | Link |
 |---------|-------|----------|--------|------|
-| Foraging Puzzle Toys | Foraging | Mental stimulation, problem-solving | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=parrot%20foraging%20toys&tag=forpetswith07-20) |
-- Chewing/Beak Conditioning Toys | Chewing | Chewing needs, beak health | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=parrot%20chewing%20toys&tag=forpetswith07-20) |
-| Climbing Rope and Wood Toys | Climbing | Physical activity, natural movement | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=parrot%20climbing%20toys&tag=forpetswith07-20) |
-| Interactive Owner Toys | Interactive | Bonding, training reinforcement | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=interactive%20bird%20toys&tag=forpetswith07-20) |
-| Sound-Making Toys | Sound | Vocal parrots, auditory stimulation | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=sound%20making%20bird%20toys&tag=forpetswith07-20) |
-| Puzzle Treat Dispensers | Treat Dispensers | Food motivation, challenge | ⭐⭐∗⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=parrot%20treat%20dispenser&tag=forpetswith07-20) |
-- Variety Multi-Pack | Variety | Toy rotation, multiple options | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=parrot%20toy%20variety%20pack&tag=forpetswith07-20) |
+| Super Bird Creations Foraging Toys | Foraging | Mental stimulation, problem-solving | ⭐⭐⭐⭐⭐ | [View on Amazon](https://amazon.com/dp/B00C35W0H8?tag=forpetswith07-20) |
+| JW Pet ActiviToys | Chewing | Chewing needs, beak health | ⭐⭐⭐⭐⭐ | [View on Amazon](https://amazon.com/dp/B0002ASCG0?tag=forpetswith07-20) |
+| Booda Perches | Climbing | Physical activity, natural movement | ⭐⭐⭐⭐ | [View on Amazon](https://amazon.com/dp/B0002AT3S0?tag=forpetswith07-20) |
+| Caitec Paradise Toys | Interactive | Bonding, training reinforcement | ⭐⭐⭐⭐⭐ | [View on Amazon](https://amazon.com/dp/B00KJ7N6K2?tag=forpetswith07-20) |
+| Penn-Plax Bird Toys | Sound | Vocal parrots, auditory stimulation | ⭐⭐⭐⭐ | [View on Amazon](https://amazon.com/dp/B000RIE6W8?tag=forpetswith07-20) |
+| Bird Kabob Chew Toys | Treat Dispensers | Food motivation, challenge | ⭐⭐⭐⭐⭐ | [View on Amazon](https://amazon.com/dp/B007J4G288?tag=forpetswith07-20) |
+| Planet Pleasures Toy Variety Pack | Variety | Toy rotation, multiple options | ⭐⭐⭐⭐⭐ | [View on Amazon](https://amazon.com/dp/B00M6J2B2M?tag=forpetswith07-20) |
 
 ## Top 7 Bird Toys for Bored Parrots
 
@@ -294,7 +294,3 @@ A: Highly intelligent species and larger parrots generally require more complex 
 Parrots are intelligent, social animals who suffer significantly from inadequate mental stimulation. The right toys fulfill natural behaviors (foraging, chewing, climbing, social interaction) and provide intellectual challenge appropriate to individual parrot's intelligence. Prioritize safety above all, rotate toys regularly to maintain novelty, and provide variety across different stimulation types. Observe your parrot's preferences and adjust accordingly—individual parrots respond differently to different toy types. Consistent, varied stimulation is essential for preventing boredom-related behavioral issues.
 
 **Want expert pet care advice?** Get our comprehensive guide: [Pet Care Made Simple](https://books2read.com/u/47jzOq)
-
----
-
-*When you buy through links on our site, we may earn a commission at no extra cost to you. This helps us continue providing free pet care content.*
