@@ -209,7 +209,10 @@ Small tank heaters must be appropriately sized (often 50-100 watts small tanks),
 - Some models have less precise control
 - Not all sizes always available
 
-### 7. Budget-Friendly Heater
+### 7. Tetra HT Submersible Heater
+
+**Buy on Amazon:** [https://amazon.com/dp/B000255OU8?tag=forpetswith07-20](https://amazon.com/dp/B000255OU8?tag=forpetswith07-20)
+**⭐⭐⭐⭐ (7,500+ reviews)**
 
 **Why it's great:** New hobbyists or those managing multiple tanks often need cost-effective heating solutions. These budget-friendly heaters provide reliable temperature control without premium features, making fishkeeping more accessible. Suitable for standard tropical fish temperature requirements and small tank sizes. While lacking advanced features, they provide essential heating reliably for many hobbyists' needs.
 
@@ -298,3 +301,4 @@ The right aquarium heater is critical for small tank success—temperature stabi
 ---
 
 *When you buy through links on our site, we may earn a commission at no extra cost to you. This helps us continue providing free pet care content.*
+ontent.*

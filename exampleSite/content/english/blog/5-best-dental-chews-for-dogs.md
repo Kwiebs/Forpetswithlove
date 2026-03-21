@@ -44,7 +44,10 @@ These chews contain a dual-enzyme system that helps reduce plaque and tartar. Th
 
 C.E.T. chews provide a natural antibacterial action that cleans teeth and freshens breath. Give one chew daily.
 
-## 3. Whimzees Natural Dental Chews
+## 3. Whimzees All-Natural Daily Dental Dog Treats
+
+**Buy on Amazon:** [https://amazon.com/dp/B007J3FR98?tag=forpetswith07-20](https://amazon.com/dp/B007J3FR98?tag=forpetswith07-20)  
+**⭐⭐⭐⭐⭐ (25,000+ reviews)**
 
 ### Features/Ingredients
 
