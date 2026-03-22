@@ -263,6 +263,14 @@ Ideally, treats should be low-calorie but still highly palatable—cats should e
 
 Treats that provide functional benefits beyond reward offer more value. Dental benefits (texture for cleaning teeth, enzymes for oral health), digestion support (fiber, probiotics), or specific weight-loss support ingredients (L-carnitine, fat metabolism support) add value and make treats more beneficial. However, don't compromise core weight management principles for additional benefits—low calorie, appropriate portioning, and quality ingredients remain priorities.
 
+## Related Articles
+
+- [Best Cat Toys for Bored Indoor Cats](/best-cat-toys-bored-indoor-cats/) - Exercise for weight loss
+- [Cat Nutrition Guide for Senior Cats Over 10](/cat-nutrition-senior-cats-over-10/) - Senior weight management
+- [Best Selling Cat Foods](/best-selling-cat-foods/) - Weight management food options
+- [Best Cat Water Fountains](/best-cat-water-fountains/) - Hydration supports healthy weight
+- [7 Cat Breeds Great for Apartments](/7-cat-breeds-great-for-apartments-guide/) - Cat hub page
+
 ## FAQ
 
 **Q: How many treats per day can I give my overweight cat?**

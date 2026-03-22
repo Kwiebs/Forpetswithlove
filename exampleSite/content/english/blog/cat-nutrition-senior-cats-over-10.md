@@ -71,6 +71,14 @@ Weigh your cat weekly and note changes in appetite, energy level, coat quality, 
 ### Step 5: Adjust Portions and Supplements
 Based on your cat's response, adjust portion sizes to maintain healthy weight. Add supplements like omega-3s, probiotics, or joint support as recommended by your veterinarian. The goal is a stable weight with no significant loss or gain over several weeks. Many healthy senior cats maintain their weight well on 1-2 small meals per day.
 
+## Related Articles
+
+- [Best Cat Food Gravy for Seniors](/best-cat-food-gravy-seniors/) - Palatable options for picky seniors
+- [Best Cat Water Fountains](/best-cat-water-fountains/) - Encourage hydration for kidney health
+- [Best Cat Litter for Odor Control](/best-cat-litter-odor-control/) - Maintain clean litter box seniors need
+- [Best Scratching Posts for Large Cats](/best-scratching-posts-large-cats/) - Light exercise for joint health
+- [7 Cat Breeds Great for Apartments](/7-cat-breeds-great-for-apartments-guide/) - Cat hub page
+
 ## FAQ: Senior Cat Nutrition
 
 **Q: Should I feed my senior cat multiple small meals or two larger meals?**
