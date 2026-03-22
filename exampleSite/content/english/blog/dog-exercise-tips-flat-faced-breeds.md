@@ -95,6 +95,14 @@ Beyond airway limitations, many flat-faced breeds have additional complicating f
 
 **Physical therapy-style activities** - For flat-faced dogs with joint issues, gentle stretching, balance exercises (standing on uneven surfaces like foam), and strength-building movements (lifting legs over low objects) maintain mobility without overexertion. Consult your veterinarian for appropriate exercises specific to your dog's individual needs and limitations.
 
+## Related Articles
+
+- [Best Dog Crates for Anxiety Issues](/best-dog-crate-anxiety-issues/) - Safe rest spaces after exercise
+- [Best Dog Beds for Arthritis](/best-dog-beds-arthritis/) - Joint support for flat-faced seniors
+- [Best Dog Jackets for Cold Weather](/best-dog-jackets-cold-weather/) - Protection during outdoor exercise
+- [Common Health Problems in Senior Dogs](/common-health-problems-senior-dogs/) - Age-related activity modifications
+- [What Is Bloat in Dogs?](/glossary-bloat-in-dogs/) - Emergency awareness during exercise
+
 ## FAQ: Exercising Flat-Faced Dogs
 
 **Q: How much exercise does my flat-faced dog actually need?**
