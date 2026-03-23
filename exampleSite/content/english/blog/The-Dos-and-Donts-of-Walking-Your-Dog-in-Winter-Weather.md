@@ -12,6 +12,11 @@ Walking your dog is a great way to bond with your furry friend and keep them act
 
 # Do:
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Dress Appropriately
 The first and foremost thing you need to do is dress appropriately for the weather. Wear warm, waterproof clothing to protect yourself from the elements. Don't forget to dress your dog appropriately too, especially if they have a short coat. Consider investing in a warm, waterproof coat for your dog to keep them comfortable and dry.
 

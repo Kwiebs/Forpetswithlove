@@ -10,6 +10,11 @@ image: images/reptile-terrarium-setup.jpg
 
 📌 **Quick Answer:** Set up your reptile terrarium by choosing the right tank size for your specific species, creating thermal gradients with heating elements at one end, providing UV lighting for diurnal species, and selecting appropriate substrate. Install hides, climbing structures, and water bowls that match species-specific needs. Establish proper temperature and humidity zones using thermometers and hygrometers. Research your specific reptile's natural habitat to replicate those conditions accurately. Proper setup prevents health problems and ensures your reptile thrives.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## What Size Terrarium Do I Need?
 
 Terrarium size depends on your reptile species and life stage:

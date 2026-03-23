@@ -15,6 +15,11 @@ If your dog is constantly itching, licking, or sneezing, allergies may be to bla
 
 In this article, we’ll share 5 vet-recommended natural remedies to relieve your dog’s allergies and improve their quality of life.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Why Choose Natural Remedies?
 
 Natural allergy treatments can be gentler and just as effective as medications, especially for mild symptoms.

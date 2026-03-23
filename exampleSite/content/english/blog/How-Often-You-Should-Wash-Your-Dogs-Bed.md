@@ -15,6 +15,11 @@ As a devoted dog owner, you want to ensure your furry friend has a clean and com
 
 So, how often should you actually wash your dog's bed? In this article, we'll break it down by dog type, give you the best cleaning methods, and share practical tips to keep your pet’s sleeping area fresh and cozy. Let’s dive in!
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Why Washing Your Dog's Bed Matters
 
 Keeping your dog’s bed clean is not just about appearance—it’s a matter of health and comfort. Here’s why regular cleaning is essential:

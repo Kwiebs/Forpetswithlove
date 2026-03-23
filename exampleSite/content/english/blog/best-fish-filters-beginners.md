@@ -15,6 +15,11 @@ Proper filtration is the foundation of successful aquarium keeping, yet it's oft
 
 Beginner filtration options range from simple power filters to canister filters, sponge filters, and internal filters. The best choice balances ease of use, effectiveness, and maintenance simplicity while matching the tank size and stocking levels. In this guide, we've compiled the most beginner-appropriate filters.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

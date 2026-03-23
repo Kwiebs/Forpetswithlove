@@ -10,6 +10,11 @@ image: images/dog-potty-training.jpg
 
 📌 **Quick Answer:** Establish a consistent schedule with frequent potty breaks, crate training for supervision, and immediate praise and rewards when your dog eliminates outside. Take puppies outside every 1-2 hours, after meals, naps, and play. Watch for signs like circling, sniffing, or whining. Never punish accidents—simply clean thoroughly with enzyme cleaner and adjust your schedule. Most dogs are reliably housebroken within 4-6 months with consistency and patience.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## How Long Does It Take to Potty Train a Dog?
 
 Potty training timelines vary significantly based on age, breed, previous experiences, and consistency:

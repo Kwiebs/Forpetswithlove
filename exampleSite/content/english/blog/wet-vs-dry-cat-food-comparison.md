@@ -11,6 +11,11 @@ permalink: /wet-vs-dry-cat-food-comparison/
 
 # Wet vs Dry Cat Food: Which Is Better for Your Cat?
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison Table
 
 | Feature | Wet Cat Food | Dry Cat Food | Winner |

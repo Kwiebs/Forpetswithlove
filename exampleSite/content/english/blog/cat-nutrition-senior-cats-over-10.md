@@ -11,6 +11,11 @@ permalink: /cat-nutrition-senior-cats-over-10/
 
 # Cat Nutrition Guide for Senior Cats Over 10 Years: Complete Guide
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Why Senior Cats Need Special Nutrition Considerations
 
 Once your cat reaches age 10, they're officially considered a senior—and their nutritional needs change dramatically. Senior cats experience numerous physiological changes that affect how they process food, absorb nutrients, and maintain their health. Their metabolism slows down, their digestive system becomes less efficient, and they're more susceptible to age-related conditions like kidney disease, arthritis, diabetes, and dental problems. These changes require a thoughtful shift in their diet to ensure they stay healthy and comfortable in their golden years.

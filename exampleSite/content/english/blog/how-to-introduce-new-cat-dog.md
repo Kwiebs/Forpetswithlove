@@ -10,6 +10,11 @@ image: images/cat-dog-introduction.jpg
 
 📌 **Quick Answer:** Introduce cats and dogs gradually through controlled, phased exposure over 1-3 weeks. Start with complete separation, then swap smells, then supervised visual contact through barriers, always ending on positive notes. Never force interactions—let them progress at their own pace. Provide high-value treats when they're calm around each other to create positive associations. Ensure each animal has escape routes and safe spaces. Most introductions succeed when you prioritize comfort over speed and respect individual temperaments.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Why Are Cat-Dog Introductions Challenging?
 
 Cats and dogs speak different "languages" and have different social structures and instincts. Understanding these differences helps you create successful introductions:

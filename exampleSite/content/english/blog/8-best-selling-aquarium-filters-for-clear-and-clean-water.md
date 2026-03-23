@@ -10,6 +10,11 @@ tags: Aquarium Filters, Clear Water, Clean Water, Fishkeeping, Fish Tanks
 
 As a fishkeeper, you know that having a quality [aquarium](https://forpetswithlove.com/a-beginners-guide-to-raising-fish-as-pets/) filter is crucial for maintaining clear and clean water in your fish tank. But with so many options on the market, it can be hard to know where to start. That's why we've put together this list of the 8 best-selling [aquarium](https://forpetswithlove.com/a-beginners-guide-to-raising-fish-as-pets/) filters for clear and clean water.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## 1. [Fluval FX6 High Performance Canister Filter](https://amazon.com/dp/B00BJQ50HC?tag=forpetswith07-20)
 
 <a href="https://www.amazon.com/Fluval-Canister-Filter-FX6-400/dp/B00BJQ50HC?crid=1ZUI92YG2CZ2P&keywords=Fluval+FX6+High+Performance+Canister+Filter&qid=1678100697&sprefix=fluval+fx6+high+performance+canister+filter%2Caps%2C618&sr=8-1&linkCode=li2&tag=forpetswith07-20&linkId=9e68e8c134f8a5349c94a525ad138332&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BJQ50HC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith07-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith07-20&language=en_US&l=li2&o=1&a=B00BJQ50HC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

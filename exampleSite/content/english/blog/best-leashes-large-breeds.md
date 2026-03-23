@@ -15,6 +15,11 @@ Walking a large or giant breed dog requires the right equipment—and the leash 
 
 Large breed owners face unique considerations: durability to withstand pulling, comfortable handles to reduce hand strain, secure attachments that won't fail, and features designed for dogs who can pull up to hundreds of pounds. In this guide, we've rounded up the top leashes designed specifically for large and giant breeds, prioritizing strength, comfort, and reliability.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

@@ -15,6 +15,11 @@ Indoor cats can easily become bored, leading to behavioral issues like excessive
 
 Cat toys come in many forms: interactive toys that engage a cat's hunting drive, puzzles that provide mental challenge, simple homemade items that cats love, and high-tech options that automate play. In this guide, we've compiled the most effective toys for bored indoor cats, focusing on those that address both physical and psychological enrichment needs.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

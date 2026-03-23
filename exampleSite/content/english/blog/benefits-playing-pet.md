@@ -20,6 +20,11 @@ Playing with your pet isn't just a fun way to pass the time—it's also a great 
 - Builds strength and coordination: Playing with your pet can help improve their strength and coordination, which can make it easier for them to move around and stay active as they age.
 - Reduces the risk of certain health problems: Regular playtime can help reduce the risk of certain health problems in pets, such as constipation and digestive issues.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## The Mental and Emotional Benefits of Playing with Your Pet
 
 ### Here are some of the mental and emotional benefits of playing with your pet:

@@ -11,6 +11,11 @@ permalink: /glossary-feline-leukemia/
 
 # What Is Feline Leukemia? Complete Guide for Cat Owners
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Definition
 
 Feline leukemia virus (FeLV) is a contagious retrovirus that affects domestic cats worldwide. It attacks a cat's immune system, making them vulnerable to infections, diseases, and certain cancers that healthy cats can typically resist. The virus primarily spreads through close contact between cats, particularly through saliva, nasal secretions, urine, feces, and milk from infected mother cats to kittens. While vaccination has reduced FeLV's prevalence significantly in well-cared-for indoor cats, it remains a serious health concern particularly in outdoor cats, colonies, multi-cat households, and cats with unknown vaccination histories.

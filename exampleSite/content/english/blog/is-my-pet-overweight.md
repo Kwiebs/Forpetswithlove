@@ -17,6 +17,11 @@ As a devoted pet parent, and having personally helped my own golden retriever sh
 
 In this comprehensive guide, we'll explore simple yet effective ways to check your dog or cat's body condition at home. Maintaining a healthy **pet weight** is crucial, and you'll learn what to look for, why it matters for your **pet's health**, and how to take action if you suspect your pet is carrying extra weight. We'll cover everything from visual assessments to hands-on evaluations, providing you with the knowledge and confidence to assess your pet's body condition accurately. So, let's dive in and discover how to keep our beloved companions healthy and thriving!
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Table of Contents
 *   [What to Look for/Why it Matters](#what-to-look-for-why-it-matters)
 *   [Visual Assessment](#visual-assessment)

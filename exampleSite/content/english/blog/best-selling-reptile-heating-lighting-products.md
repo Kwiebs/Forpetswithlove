@@ -10,6 +10,11 @@ categories: ["Reptile Care"]
 
 Reptiles require specific lighting and heating conditions in order to thrive in captivity. In this article, we'll be taking a look at some of the best-selling reptile heating and lighting products on the market. These products have been tried and tested by reptile owners and have proven to be effective in creating the optimal environment for your pet.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## 1. [Zoo Med Repti Basking Spot Lamp](https://amzn.to/41VaVzo)
 
 The [Zoo Med Repti Basking Spot Lamp](https://amzn.to/41VaVzo) is a popular choice among reptile owners. This lamp provides a basking spot for your reptile, allowing them to regulate their body temperature and promote healthy digestion. The lamp emits a bright, white light that mimics natural sunlight and helps to promote vitamin D3 synthesis.

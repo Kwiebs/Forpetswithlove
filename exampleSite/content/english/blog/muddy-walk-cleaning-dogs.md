@@ -15,6 +15,11 @@ Rainy days and country trails are great fun for dogs—but they often mean muddy
 
 In this article, we’ll share step-by-step methods to handle mud, plus products and tricks to make the job easier.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Why Post-Walk Cleanup Is Important
 
 - **Prevents Skin Irritation**: Mud can trap bacteria and irritants.

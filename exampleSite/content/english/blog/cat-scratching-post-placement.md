@@ -11,6 +11,11 @@ permalink: /cat-scratching-post-placement/
 
 # Cat Scratching Post Placement: Where to Put Them for Maximum Success | For Pets With Love
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Introduction
 
 Providing your cat with scratching posts is only half the battle. To truly redirect scratching behavior and protect your furniture, you need to strategically place those scratching posts in locations that appeal to your cat. In this article, we'll explore the best locations to place scratching posts for maximum success in redirecting scratching behavior.

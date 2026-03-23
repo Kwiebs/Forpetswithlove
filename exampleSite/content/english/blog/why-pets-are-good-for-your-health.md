@@ -15,6 +15,11 @@ In this article, we'll explore some of the many ways that having a pet can posit
 # Physical Health Benefits
 Owning a pet can have several physical health benefits, including:
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## 1. Lowered Blood Pressure
 Studies have shown that interacting with pets, such as stroking or cuddling them, can lower blood pressure levels. This can be particularly beneficial for those with high blood pressure, as it can help to reduce the risk of heart disease and stroke.
 

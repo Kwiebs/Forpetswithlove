@@ -15,6 +15,11 @@ Cat owners know the struggle—cat box odor can overwhelm your home, especially 
 
 Cat litter options vary widely: clumping clay, crystal silica gel, natural plant-based options, and specialized formulas with additional odor control technologies. Each type approaches odor control differently—some absorb moisture rapidly, while others use chemical or natural enzymes to neutralize odor. In this guide, we've compiled the best odor-control litters based on effectiveness, clumping quality, dust levels, and overall suitability for different households.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

@@ -10,6 +10,11 @@ categories: ["Cat Behavior"]
 
 As a cat owner, you know that litter box training is an essential part of your pet's life. While some cats may instinctively know how to use a litter box, others may need a little help. Whether you have a new kitten or an older cat who needs some retraining, here are some tips on how to teach your cat to use the litter box.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Understanding Your Cat's Needs
 Before you start litter box training, it's important to understand your cat's needs. Cats are clean animals and prefer to have a designated area to use as their toilet. They also like to have a clean litter box, so be sure to scoop it regularly and change the litter completely once a week.
 

@@ -17,6 +17,11 @@ Types of Litter Boxes for Cats:
 2. Covered Litter Box
 3. Self-Cleaning Litter Box
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## [Open Litter Box:](https://amzn.to/3ZcI4nM)
 
 <a href="https://www.amazon.com/IRIS-USA-Litter-Kitty-Shield/dp/B07MTFPXZ4?crid=2RARPN58TGJIF&keywords=Open+Litter+Box%3A&qid=1677237982&sprefix=open+litter+box+%2Caps%2C220&sr=8-4&linkCode=li2&tag=forpetswith01-20&linkId=423223bea520ea304cca7f258849b69c&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07MTFPXZ4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith01-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith01-20&language=en_US&l=li2&o=1&a=B07MTFPXZ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

@@ -11,6 +11,11 @@ Puppies are adorable, and taking care of them is a rewarding experience. However
 
 When can you bathe your [puppy](https://forpetswithlove.com/5-must-have-supplies-for-your-new-puppy-a-complete-checklist/)? Step-by-Step Guide
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## 1. Age Matters
 
 The age of your [puppy](https://forpetswithlove.com/5-must-have-supplies-for-your-new-puppy-a-complete-checklist/) plays a crucial role in determining when to bathe them. You should wait until your [puppy](https://forpetswithlove.com/5-must-have-supplies-for-your-new-puppy-a-complete-checklist/) is at least 8 weeks old before giving them their first bath. Bathing a [puppy](https://forpetswithlove.com/5-must-have-supplies-for-your-new-puppy-a-complete-checklist/) before they reach 8 weeks can be risky as they are still developing their immune system. Giving them a bath too early can also cause them to become cold, which may lead to health issues.

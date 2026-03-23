@@ -15,6 +15,11 @@ The teething phase—an exciting but challenging time for you and your new puppy
 
 The right chew toys can make a world of difference during this phase, providing relief from teething discomfort while promoting healthy chewing habits. In this guide, we've compiled the best options for teething puppies, with a focus on safety, durability, and effectiveness in soothing sore gums.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

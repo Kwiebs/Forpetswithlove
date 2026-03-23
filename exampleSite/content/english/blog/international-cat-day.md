@@ -9,6 +9,11 @@ categories: ["Cat Care"]
 
 International Cat Day is a day to celebrate our feline friends and show them some extra love and attention. Whether you're a cat owner or simply a cat lover, there are plenty of ways to pamper your cat and make them feel special. In this guide, we'll explore ways to show your cat some love, from toys and treats to grooming and playtime.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## The Importance of International Cat Day
 
 ### What is International Cat Day?

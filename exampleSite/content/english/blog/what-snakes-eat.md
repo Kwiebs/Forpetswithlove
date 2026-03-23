@@ -10,6 +10,11 @@ image: images/what-snakes-eat.jpg
 
 📌 **Quick Answer:** Most pet snakes eat **appropriately sized rodents**—the prey should be roughly the same width as the snake at its widest point. **Frequency varies by age and size**: hatchlings eat every 5-7 days, juveniles every 7-10 days, adults every 7-14 days depending on species and individual metabolism. **Prey types**: mice, rats depending on snake size. **Frozen-thawed preferred** over live prey for safety and practicality. Never feed prey larger than appropriate size—causes regurgitation and health risks.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Key Takeaways
 
 *Quick essential facts about this topic:*

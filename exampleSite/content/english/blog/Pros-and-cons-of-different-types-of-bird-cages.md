@@ -11,6 +11,11 @@ When it comes to keeping birds as pets, one of the most important decisions you'
 
 # The Pros and Cons of Different Types of Bird Cages
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## [Glass Bird cages](https://amzn.to/3kQJA0t)
 
 [Glass bird cages](https://amzn.to/3kQJA0t) offer a clear view of your pet and are easy to clean, but they are also fragile and may not provide enough ventilation.

@@ -11,6 +11,11 @@ permalink: /stop-cat-scratching-couch/
 
 # How to Stop Your Cat from Scratching the Couch: Effective Solutions | For Pets With Love
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Introduction
 
 Cat scratching is a natural behavior, but it can be frustrating when your cat targets your beloved couch. Understanding why cats scratch and implementing effective solutions can help redirect this behavior and protect your furniture. In this article, we'll explore several strategies to stop your cat from scratching the couch and provide them with more appropriate scratching outlets.

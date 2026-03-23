@@ -10,6 +10,11 @@ image: images/dog-eating-poop.jpg
 
 📌 **Quick Answer:** Dogs eat poop (coprophagia) due to natural instincts, nutritional deficiencies, boredom, medical conditions, or learned behaviors. Most cases are harmless but indicate underlying issues. Solutions include: ruling out medical problems with your vet, ensuring a balanced diet with proper nutrition, providing mental stimulation and exercise, immediate cleaning of areas where dogs eliminate, training with commands like "leave it," products that make stool taste unpleasant, and managing access to feces. Consult your vet if behavior started suddenly or is accompanied by other health changes.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## What Is Coprophagia?
 
 Coprophagia (cop-ro-fay-gea) is the scientific term for eating feces. While disgusting to humans, it's relatively common in dogs, especially puppies and young dogs. Understanding the cause helps determine appropriate solutions.
@@ -282,6 +287,16 @@ A: Yes, training can reduce or eliminate coprophagia, especially when combined w
 
 **Q: Does adding pineapple or pumpkin to a dog's food stop them from eating poop?**
 A: Some pet owners and some veterinarians report success with pineapple or pumpkin seeds making feces taste unappealing. However, this is anecdotal—research doesn't consistently support these remedies for all dogs. Results vary significantly. If trying this approach, start with small amounts monitored by your veterinarian, especially for dogs with digestive sensitivities. Consider it a complementary strategy, not a primary solution.
+
+
+## Related Articles
+
+- [Best Dog Beds for Arthritis](/best-dog-beds-arthritis/) - Orthopedic comfort for senior dogs
+- [How to Train Your Puppy Not to Bite](/how-to-train-puppy-not-to-bite/) - Stop nipping with training tips
+- [How Long Are Dogs Pregnant?](/how-long-dog-pregnant/) - Pregnancy timeline and care
+- [How Much Water Do Dogs Need?](/how-much-water-dog-need/) - Daily hydration guide
+- [Common Health Problems in Senior Dogs](/common-health-problems-senior-dogs/) - Senior dog health tips
+
 
 ## FAQ
 

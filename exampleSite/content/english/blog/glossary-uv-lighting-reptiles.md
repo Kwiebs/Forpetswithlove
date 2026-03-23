@@ -11,6 +11,11 @@ permalink: /glossary-uv-lighting-reptiles/
 
 # What Is UV Lighting for Reptiles? Complete Guide for Reptile Owners
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Definition
 
 UV lighting for reptiles refers to artificial ultraviolet radiation sources designed to simulate natural sunlight's ultraviolet component, which is essential for many reptile species' health and wellbeing. UV radiation from sunlight includes several wavelengths: UVC (harmful, mostly blocked by ozone layer), UVB (crucial for vitamin D3 synthesis and calcium metabolism), and UVA (affects reptile behavior, vision, and natural cycles). UVB radiation specifically allows reptiles' bodies to produce vitamin D3, which is necessary for proper calcium absorption and preventing metabolic bone disease (MBD). Without adequate UVB exposure, many reptiles develop serious, sometimes fatal, health problems despite proper diet.

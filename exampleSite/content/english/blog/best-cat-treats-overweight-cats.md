@@ -15,6 +15,11 @@ Obesity is a serious health concern for cats, leading to diabetes, joint problem
 
 Overweight cat treats prioritize low calorie content, high-quality ingredients, and portion control while maintaining palatability so your cat still enjoys them. Options include low-calorie commercial treats, single-ingredient natural treats, freeze-dried options with minimal additives, and treats designed specifically for weight management. In this guide, we've compiled the best options for weight-conscious cats.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

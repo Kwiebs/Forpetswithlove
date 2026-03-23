@@ -13,6 +13,11 @@ As dogs age, their bodies go through changes that can leave them vulnerable to c
 # Common Health Problems in Senior Dogs
 Here are some of the most common health problems that senior dogs face:
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Arthritis
 Arthritis is a degenerative joint disease that causes pain and stiffness in the joints. It is a common health problem in senior dogs, particularly in larger breeds. Symptoms of arthritis in dogs include limping, difficulty getting up, reluctance to jump, and a decrease in activity level. While there is no cure for arthritis, there are medications and supplements that can help manage the pain and improve mobility.
 

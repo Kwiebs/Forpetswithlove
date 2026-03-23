@@ -15,6 +15,11 @@ Reptiles are ectothermic (cold-blooded), requiring external heat sources to regu
 
 Heat mat selection depends on terrarium size, reptile species, heating needs, and safety considerations. Appropriate sizing (typically covering 1/3 to 1/2 of the terrarium bottom), appropriate wattage, and reliable thermostatic control are essential for safe and effective heating. In this guide, we've compiled the best reptile heat mat options.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

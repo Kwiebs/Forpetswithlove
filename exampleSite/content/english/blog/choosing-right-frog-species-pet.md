@@ -10,6 +10,11 @@ categories: ["Amphibian Care"]
 
 > Are you ready to hop into the world of pet frogs? These fascinating creatures make unique and captivating companions, but it's essential to choose the right frog species that suits your lifestyle and preferences. In this comprehensive overview, we'll dive into the enchanting world of pet frogs, exploring various species, their care requirements, and more. Whether you're a beginner or an experienced reptile enthusiast, this guide will help you make an informed decision and create a suitable environment for your new froggy friend.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Introduction
 
 Welcoming a frog into your home requires careful consideration of factors such as size, temperament, and habitat needs. By selecting the right frog species, you can ensure a harmonious and fulfilling relationship with your amphibious companion. In this guide, we'll provide valuable insights into different frog species, their care requirements, and helpful tips for a successful ownership experience.

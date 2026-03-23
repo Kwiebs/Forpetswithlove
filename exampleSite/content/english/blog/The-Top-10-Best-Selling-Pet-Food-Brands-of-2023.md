@@ -11,6 +11,11 @@ Pets are an integral part of many families and have become more than just animal
 
 To help pet owners make informed decisions about the best food for their furry friends, we've compiled a list of the top 10 best-selling pet food brands of 2023.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## 1. [Hill's Science Diet](https://www.amazon.com/s?k=Hill%27s+Science+Diet&crid=37SUAR8VESQ80&sprefix=hill%27s+science+diet%2Caps%2C500&linkCode=ll2&tag=forpetswith0d-20&linkId=a8d43d4830688209a28c159833b623ac&language=en_US&ref_=as_li_ss_tl)
 
 <img src="https://m.media-amazon.com/images/I/81B3Kv7FUcL._AC_SL1500_.jpg" width="60%" height="60%" border="0" alt="" style="border:none !important; margin:0px !important;" />

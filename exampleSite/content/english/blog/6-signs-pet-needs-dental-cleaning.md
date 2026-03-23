@@ -11,6 +11,11 @@ permalink: /6-signs-pet-needs-dental-cleaning/
 
 # 6 Signs Your Pet Needs a Dental Cleaning | For Pets With Love
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Introduction
 
 As a pet owner, you're responsible for ensuring your furry friend's health and well-being. While you may be diligent about feeding them a balanced diet and providing regular exercise, it's easy to overlook their dental health. Dental problems can lead to serious health issues, so it's crucial to recognize the signs that your pet needs a professional dental cleaning. In this article, we'll discuss 6 key signs that indicate your pet's teeth need attention from a veterinarian.

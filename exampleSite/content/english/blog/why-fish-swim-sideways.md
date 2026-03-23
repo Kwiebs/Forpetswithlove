@@ -10,6 +10,11 @@ image: images/fish-swimming-sideways.jpg
 
 📌 **Quick Answer:** Fish swim sideways primarily due to swim bladder disorders, including swim bladder disease, constipation, overfeeding, infection, physical injury, or water quality issues. Common causes: overfeeding causing constipation, bacterial infection of the swim bladder, physical injury or deformity, sudden water temperature changes, or poor water quality. Treatment depends on cause: for constipation, fast the fish for 2-3 days then feed peas; for infections, aquarium-safe antibiotics; for injuries, isolation and supportive care. Prompt treatment improves success rates. Quarantine new fish and maintain proper water quality to prevent problems.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## What Is Swim Bladder Disease?
 
 **Swim bladder function:**

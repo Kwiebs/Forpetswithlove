@@ -59,6 +59,11 @@ These [dental chews](https://amzn.to/3XUTVG7)are made of real bacon or peanut bu
 
 The [Jolly Pet Rascals Ball](https://amzn.to/3SvNHvm) is a durable, chew-resistant ball that is perfect for playing fetch with your dog. Made of tough, rubber material, this ball is designed to withstand even the toughest play sessions.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## FAQs:
 
 ### Q: Are the toys listed above safe for dogs?

@@ -10,6 +10,11 @@ image: images/what-parrots-eat.jpg
 
 📌 **Quick Answer:** Healthy parrot diet includes: **High-quality pellets (60-70% of diet)** for balanced nutrition, **fresh vegetables daily** (dark leafy greens carrots broccoli peppers), **limited fruits** (10-15% of diet, avoid avocado and toxic fruits), **limited seeds and nuts** (high-fat treat occasional), and **occasional healthy treats**. Avoid: **avocado**, **chocolate**, **caffeine**, **alcohol**, **highly salted sugary or fatty foods**, and **toxic foods**. Fresh water always available. Diet varies by species—research specific parrot type needs. Consult avian veterinarian for individualized nutrition guidance.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Key Takeaways
 
 *Quick essential facts about this topic:*
@@ -23,3 +28,10 @@ image: images/what-parrots-eat.jpg
 
 [Get Your Free eBook →](https://books2read.com/u/47jzOq)
 
+
+## Related Articles
+
+- [Best Bird Cages for Parakeets](/best-bird-cages-parakeets/) - Safe, spacious cages
+- [Best Toys for Bored Parrots](/best-bird-toys-bored-parrots.md) - Keep your bird entertained
+- [Bird Care for Busy Professionals](/bird-care-busy-professionals.md) - Low-maintenance bird care
+- [What Do Parrots Eat?](/what-parrots-eat.md) - Complete parrot diet guide

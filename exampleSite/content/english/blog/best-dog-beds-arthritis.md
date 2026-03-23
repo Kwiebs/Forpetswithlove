@@ -15,6 +15,11 @@ Arthritis is a challenging condition that affects countless dogs, especially sen
 
 Choosing the right bed for an arthritic dog goes beyond comfort—it's about providing pain management and improving daily life quality. From memory foam that contours to achy joints to low-profile designs that reduce the strain of climbing in and out, the right bed makes a measurable difference. In this guide, we've compiled the best options for dogs with arthritis or joint issues.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

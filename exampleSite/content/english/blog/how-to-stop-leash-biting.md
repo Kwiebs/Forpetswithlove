@@ -10,6 +10,11 @@ categories: ["Dog Behavior"]
 
 Leash biting can be frustrating and dangerous for both you and your dog. In this guide, we'll provide you with tips and tricks on how to stop leash biting and enjoy a happier walk with your furry friend.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Understanding Leash Biting
 
 Leash biting is a common behavior among dogs, especially puppies. It can be caused by a variety of factors, including boredom, anxiety, and teething. Dogs may also bite the leash as a way to assert their dominance or to get attention. Whatever the cause, it's important to address this behavior to prevent it from becoming a habit.

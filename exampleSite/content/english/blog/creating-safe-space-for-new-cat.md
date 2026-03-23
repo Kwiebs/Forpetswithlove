@@ -11,6 +11,11 @@ permalink: /creating-safe-space-for-new-cat/
 
 # Creating a Safe Space for Your New Cat | For Pets With Love
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Introduction
 
 Bringing a new cat into your home is an exciting experience, but it can also be overwhelming for your new feline friend. Cats are creatures of habit and territory, and a new environment can cause stress and anxiety. Creating a safe space for your new cat is essential for helping them adjust to their new home and feel secure. In this article, we'll provide tips on how to create a safe space for your new cat, ensuring a smooth and comfortable transition.

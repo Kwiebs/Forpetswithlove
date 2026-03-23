@@ -11,6 +11,11 @@ permalink: /glossary-nitrogen-cycle-fish-tanks/
 
 # What Is the Nitrogen Cycle in Fish Tanks? Complete Guide for Aquarists
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Definition
 
 The nitrogen cycle is the biological process converting toxic fish waste products into less harmful compounds through beneficial bacterial colonization in aquariums. This essential biological filtration system transforms ammonia (produced by fish waste, uneaten food, and decaying plant matter into nitrite, then into nitrate, which plants can use and which is less toxic at low concentrations. The process relies on colonies of beneficial bacteria that establish in aquarium filters, substrate, and装饰物，providing natural water purification essential for aquarium ecosystem stability.

@@ -11,6 +11,11 @@ permalink: /diy-cat-scratching-post-ideas/
 
 # DIY Cat Scratching Post Ideas: Save Money and Protect Your Furniture | For Pets With Love
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Introduction
 
 If you're looking for affordable and creative ways to protect your furniture from your cat's scratching habits, DIY cat scratching posts are the perfect solution. Not only can you save money by making your own scratching posts, but you can also customize them to match your cat's preferences and your home decor. In this article, we'll explore several DIY cat scratching post ideas that are easy to make and fun for your cat.

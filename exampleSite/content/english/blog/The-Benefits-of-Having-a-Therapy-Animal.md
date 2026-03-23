@@ -10,6 +10,11 @@ categories: ["Pet Care"]
 
 The concept of therapy animals is not new, and they have been used for decades to improve the mental and emotional well-being of individuals. People often have misconceptions about therapy animals and what they can do. In this article, we will delve into the benefits of having a therapy animal, their role in therapy and how they can help improve your quality of life.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## What is a Therapy Animal?
 
 A therapy animal is a specially trained animal that provides comfort and affection to individuals who are experiencing emotional distress. Therapy animals can be dogs, cats, horses, rabbits, and even birds, and they are trained to interact with people in a therapeutic manner.

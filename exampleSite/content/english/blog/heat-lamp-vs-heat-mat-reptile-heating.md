@@ -11,6 +11,11 @@ permalink: /heat-lamp-vs-heat-mat-reptile-heating/
 
 # Heat Lamp vs Heat Mat: Which Is Better for Reptile Heating?
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison Table
 
 | Feature | Heat Lamp | Heat Mat | Winner |

@@ -11,6 +11,11 @@ permalink: /cover-up-cat-scratches-on-furniture/
 
 # Creative Ways to Cover Up Cat Scratches on Furniture | For Pets With Love
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Introduction
 
 Cat scratches on furniture are a common problem for cat owners. While preventing scratching is ideal, sometimes damage has already been done. Fortunately, there are several creative and budget-friendly ways to cover up cat scratches and restore your furniture's beauty. In this article, we'll explore various techniques to conceal cat scratches and revitalize your home decor.

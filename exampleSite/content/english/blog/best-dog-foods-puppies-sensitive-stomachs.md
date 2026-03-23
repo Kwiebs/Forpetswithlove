@@ -15,6 +15,11 @@ Finding the right food for a puppy with a sensitive stomach can feel overwhelmin
 
 Puppies with sensitive stomachs need carefully formulated foods that are easy to digest, gentle on their developing systems, and packed with nutrients for healthy growth. In this guide, we've rounded up the top options that veterinarians and pet nutritionists consistently recommend for puppies with digestive sensitivities.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

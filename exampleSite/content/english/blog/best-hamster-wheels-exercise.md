@@ -15,6 +15,11 @@ Hamsters are among the most active small pet species, often running several mile
 
 Hamster wheels vary significantly: plastic vs. metal construction, silent vs. noisy operation, different sizes and diameters appropriate for different hamster species, solid vs. runged designs, and mounting options (standalone, attachable to cage). In this guide, we've compiled the best hamster wheel options focusing on safety, size appropriateness, and quiet operation.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

@@ -11,6 +11,11 @@ permalink: /ceramic-vs-stainless-steel-dog-bowls/
 
 # Ceramic vs Stainless Steel Dog Bowls: Which Is Better for Your Dog?
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison Table
 
 | Feature | Ceramic Dog Bowls | Stainless Steel Dog Bowls | Winner |

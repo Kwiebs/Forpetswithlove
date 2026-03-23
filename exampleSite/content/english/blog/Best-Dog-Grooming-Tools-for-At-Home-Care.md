@@ -15,6 +15,11 @@ Grooming your dog at home doesn’t have to be overwhelming. With the right tool
 
 In this article, we’ll walk you through the essential grooming tools every dog owner should have, how to use them, and when. Let's get grooming!
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Why Home Grooming Matters
 
 Regular grooming isn’t just for appearances—it plays a big role in your dog’s overall well-being:

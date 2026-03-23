@@ -11,6 +11,11 @@ permalink: /glossary-bloat-in-dogs/
 
 # What Is Bloat in Dogs? Complete Guide for Dog Owners
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Definition
 
 Bloat, medically termed gastric dilatation-volvulus (GDV), is a life-threatening condition in which a dog's stomach fills with gas, fluid, or food and then twists (volvulus) on itself, creating a surgical emergency. The stomach distension causes severe discomfort, but the twisting (volvulus) creates catastrophic consequences: cutting off blood supply to stomach tissues, trapping gas and fluids, obstructing normal gastric emptying, and compressing major blood vessels and other organs. Without emergency veterinary treatment including stomach decompression and surgical correction of the twist, bloat rapidly progresses to shock, tissue death, organ failure, and death within hours. Bloat represents one of the most dire veterinary emergencies.

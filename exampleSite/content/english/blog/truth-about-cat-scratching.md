@@ -11,6 +11,11 @@ permalink: /truth-about-cat-scratching/
 
 # The Truth About Cat Scratching: Why They Do It and How to Stop It | For Pets With Love
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Introduction
 
 Cat scratching is a common and often misunderstood behavior. While it can be frustrating when your cat scratches your furniture, understanding the reasons behind this behavior is crucial for finding effective solutions. In this article, we'll uncover the truth about cat scratching, explore the reasons why cats scratch, and provide strategies to stop unwanted scratching.

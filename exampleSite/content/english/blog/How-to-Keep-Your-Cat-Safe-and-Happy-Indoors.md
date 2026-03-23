@@ -13,6 +13,11 @@ As a cat owner, one of your primary concerns is probably to keep your furry frie
 
 # Providing a Safe Living Environment
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Cat-Proofing Your Home
 
 One of the first things you need to do to keep your cat safe indoors is to cat-proof your home. This means taking steps to minimize the risk of accidents, injuries, and escapes by removing or securing potential hazards. Some of the most common cat-proofing tasks include:

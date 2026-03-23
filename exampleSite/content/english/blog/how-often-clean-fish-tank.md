@@ -10,6 +10,11 @@ image: images/how-often-clean-fish-tank.jpg
 
 📌 **Quick Answer:** Perform **weekly partial water changes** (10-25%) and gravel cleaning. Daily tasks: **fish observation and feeding checks** and **water quality tests weekly**. Monthly: **thorough gravel cleaning** and **equipment inspection**. Frequency varies by tank size, fish load, and filtration. More frequent maintenance needed for overstocked tanks or heavy feeders. Consistency prevents problems better than occasional deep cleaning.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Key Takeaways
 
 *Quick essential facts about this topic:*

@@ -9,6 +9,11 @@ categories: ["Reptile Care"]
 
 > So, you've welcomed a beautiful star tortoise into your life, and you want to provide it with the best care possible. Look no further! In this ultimate guide, we'll explore everything you need to know about caring for star tortoises. From setting up their habitat to establishing a proper feeding routine and maintaining their overall health, we've got you covered. Get ready to become an expert in star tortoise care and ensure a fulfilling and joyful life for your shelled companion.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Introduction
 
 Star tortoises are captivating creatures known for their stunning star-like patterns on their shells. Native to India, Sri Lanka, and parts of Southeast Asia, these tortoises make fantastic pets for reptile enthusiasts. However, they require specific care to thrive in captivity. This guide aims to provide you with valuable insights, tips, and recommendations to ensure the well-being of your star tortoise throughout its life.

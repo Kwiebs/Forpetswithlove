@@ -15,6 +15,11 @@ UVB lighting is absolutely essential for most diurnal (day-active) reptiles. UVB
 
 UVB lighting options vary: fluorescent tube lights (linear), compact fluorescent bulbs (spiral CFL), mercury vapor bulbs (combined UVB + heat), and LED UVB (emerging technology). The choice depends on reptile species, terrarium type, UVB strength requirements, and heating needs. In this guide, we've compiled the best UVB lighting options for proper reptile care.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

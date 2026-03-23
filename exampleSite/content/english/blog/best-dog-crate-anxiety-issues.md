@@ -15,6 +15,11 @@ Anxiety in dogs can take many forms—separation anxiety, noise phobia, generali
 
 The right anxiety crate provides not just containment but comfort: proper ventilation to prevent claustrophobia, sufficient space to rest comfortably without feeling trapped, secure construction for safety, and features that reduce stimulation and promote calm. For separation anxiety specifically, the crate becomes a sanctuary during departures. In this guide, we've compiled the best crates designed with anxious dogs' needs in mind.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

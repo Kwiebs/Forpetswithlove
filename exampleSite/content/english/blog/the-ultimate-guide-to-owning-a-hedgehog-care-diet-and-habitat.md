@@ -10,6 +10,11 @@ categories: ["Small Pet Care"]
 
 Are you ready to embark on an exciting journey with a charming and prickly companion? Look no further than a hedgehog! These delightful creatures make fascinating pets, bringing joy and a dash of whimsy to any household. But before you bring home your spiky friend, it's crucial to be equipped with the essential knowledge to ensure their well-being and happiness.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Introduction
 
 In this ultimate guide to owning a hedgehog, we'll delve into every aspect of hedgehog care, covering topics such as their unique habitat requirements, a well-balanced diet, socialization needs, and much more. Whether you're a first-time hedgehog owner or looking to expand your knowledge, this guide will be your go-to resource for providing the best care for your adorable little hedgehog.

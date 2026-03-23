@@ -8,6 +8,11 @@ categories: ["Reptile Care"]
 ---
 
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Introduction
 
 Welcome to our step-by-step guide on setting up a terrarium for your pet reptile. Creating a comfortable and suitable environment is crucial for the well-being of your scaly companion. In this guide, we will walk you through the process of setting up a terrarium that meets your reptile's needs and provides a safe and enriching habitat. So, let's dive in and create a perfect haven for your slithery friend!

@@ -46,6 +46,11 @@ The Scottish Fold is a unique and adorable breed of cat that is perfect for apar
 
 These cats are generally medium-sized and have a round face and big eyes. They come in a variety of colors and patterns, including solid colors, tabbies, and tortoiseshells. Scottish Folds are also known for their playful and curious nature, which makes them a joy to have around.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Recommended Equipment for Apartment Cats
 
 When living in an apartment with a cat, having the right equipment can make life easier for both you and your feline friend. Here are some top-rated products that work well in small spaces:

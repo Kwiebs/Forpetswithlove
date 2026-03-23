@@ -15,6 +15,11 @@ Fleas and ticks are more than pests—they're serious health risks for dogs. Fro
 
 The prevention landscape offers various options: topical treatments, oral medications, natural alternatives, and combination products that address multiple parasites simultaneously. Finding the right solution depends on your dog's lifestyle, age, health needs, and your preferences regarding administration methods. In this guide, we've compiled the most effective options for protecting your dog against fleas and ticks.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

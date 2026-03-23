@@ -10,6 +10,11 @@ image: images/hamster-feeding.jpg
 
 📌 **Quick Answer:** Feed hamsters a balanced diet of high-quality hamster mix (about 1-2 tablespoons daily) supplemented with fresh vegetables occasionally and limited fruits as treats. Avoid garlic, onions, chocolate, citrus, and junk food entirely. Provide fresh water daily in a bottle with sipper tube. Adjust portions based on breed—Syrian hamsters need larger portions than dwarf varieties. Feed in the evening to match their nighttime activity patterns, and remove uneaten fresh food within 12 hours to prevent spoilage and bacterial growth.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Hamster Nutritional Requirements
 
 Hamsters are omnivores that need a varied diet for health and longevity:

@@ -12,6 +12,11 @@ Do you come home to find your furry friend has chewed up your favorite shoes or 
 
 Fortunately, there are things you can do to help your pet feel more comfortable and secure when you're not around. In this article, we'll go over some effective techniques and strategies to deal with separation anxiety in your pet.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## What Is Separation Anxiety?
 
 Separation anxiety is a condition that can affect both dogs and cats. It occurs when a pet becomes anxious or distressed when their owner is not present. This anxiety can manifest in many ways, such as excessive barking or meowing, destructive behavior, or even self-harm.

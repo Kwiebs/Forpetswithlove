@@ -15,6 +15,11 @@ Hairballs—uncomfortable, sometimes dangerous situations where cats regurgitate
 
 Hairball remedies come in various forms: specialized hairball control foods, gel/paste remedies, lubricants that aid fur passage, digestive enzymes, and grooming tools to remove excess fur before ingestion. The best approach combines multiple strategies—grooming to remove excess fur plus digestive remedies to help expel what fur is ingested. In this guide, we've compiled the most effective options.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

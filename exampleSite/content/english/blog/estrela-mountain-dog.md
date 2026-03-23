@@ -10,6 +10,11 @@ categories: ["Dog Breed Info"]
 
 The Estrela Mountain Dog is a large and powerful breed that originated in Portugal. They were originally bred to guard livestock and property in the mountainous regions of Portugal, and their loyalty and protective nature make them excellent watchdogs and companions. In this guide, we'll explore the history, characteristics, and care of this majestic breed.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## History of the Estrela Mountain Dog
 
 The Estrela Mountain Dog, also known as the Cão da Serra da Estrela, is an ancient breed that has been around for centuries. They were originally bred by shepherds in the Serra da Estrela mountains of Portugal to guard their flocks from predators such as wolves and bears. The breed was recognized by the Portuguese Kennel Club in 1933 and was later recognized by the American Kennel Club in 1998.

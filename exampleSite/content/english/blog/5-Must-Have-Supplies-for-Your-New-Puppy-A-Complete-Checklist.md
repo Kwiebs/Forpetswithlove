@@ -9,6 +9,11 @@ tags: new puppy, puppy supplies, puppy checklist, must-have puppy supplies, pupp
 ---
 Bringing home a new puppy is an exciting and rewarding experience. However, as a new pet owner, it can be challenging to know exactly what supplies you need for your furry friend. To help make your shopping easier, we've put together a complete checklist of the 5 must-have supplies for your new puppy.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## 1. [High-Quality Puppy Food](https://amzn.to/3Y2lhtQ)
 
 The first and most important item on your puppy supply checklist should be [High-Quality Puppy Food](https://amzn.to/3Y2lhtQ). Puppies have specific dietary needs that are different from adult dogs, so it's crucial to choose a food that is specifically formulated for puppies. Look for a brand that contains high-quality ingredients such as protein, whole grains, and vegetables. It's also important to choose a food that is appropriate for your puppy's breed, age, and size.

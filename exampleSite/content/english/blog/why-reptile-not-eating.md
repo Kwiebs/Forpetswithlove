@@ -10,6 +10,11 @@ image: images/reptile-not-eating.jpg
 
 📌 **Quick Answer:** Reptiles stop eating due to environmental problems (incorrect temperature, humidity, photoperiod, or enclosure setup), stress (new environment, handling too often, inappropriate tankmates), health issues (infection, injury, impaction, parasites, or metabolic disease), or naturalcycles (shedding, breeding season, or brumation). Check all environmental parameters first, ensure temperature gradients and UV lighting are correct. Address stress by reducing handling and ensuring proper hiding places. Rule out medical causes with reptile veterinarian if anorexia persists beyond 1-2 weeks or is accompanied by other symptoms. Early veterinary intervention for sick reptiles improves outcomes significantly.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Why Reptile Appetite Loss Is Concerning
 
 **Anorexia definition:**

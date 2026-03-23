@@ -15,6 +15,11 @@ Effective-positive reinforcement training relies heavily on high-quality, motiva
 
 Training treats come in various forms: soft chews, freeze-dried options, training-specific small treats, natural ingredients options, and low-calorie variations for frequent rewarding. In this guide, we've compiled the best training treats based on palatability, appropriateness for training size, ingredient quality, and effectiveness in positive reinforcement scenarios.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

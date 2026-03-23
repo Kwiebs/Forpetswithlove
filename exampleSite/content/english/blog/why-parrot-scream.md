@@ -10,6 +10,11 @@ image: images/parrot-screaming.jpg
 
 📌 **Quick Answer:** Parrots scream for natural communication (contact calling, flock behavior, territorial signaling), boredom and insufficient stimulation, anxiety or stress (separation, environmental changes), attention seeking (learned behavior when screaming gets responses), hunger or needs, discomfort or pain, or inappropriate environment (insufficient space, lighting, or stimulation). Solutions include: increasing environmental enrichment and foraging opportunities, establishing consistent routines, ignoring attention-seeking screaming while rewarding quiet behavior, addressing anxiety through environmental management, ensuring adequate mental and physical stimulation, and responding appropriately to contact calls. Never physically punish screaming.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Natural Communication Screaming
 
 **Contact calling:**

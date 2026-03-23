@@ -15,6 +15,11 @@ Large catsâ€”Maine Coons, Ragdolls, Norwegian Forest Cats, and other big breedsâ
 
 Large cat scratching posts need reinforced construction, wider and heavier bases to prevent tipping, taller posts for full-body stretching, and durable materials that withstand intense use. In this guide, we've compiled the best options designed specifically for large and giant-breed cats, prioritizing stability, durability, and appropriate sizing.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

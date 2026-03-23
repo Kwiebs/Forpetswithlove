@@ -11,6 +11,11 @@ categories: ["Fish Care"]
 
 Raising fish as pets has become increasingly popular over the years. Not only do fish make for a beautiful addition to your home, but they are also low-maintenance and can help create a peaceful atmosphere. If you're new to the world of fishkeeping, it can seem a little overwhelming at first. However, with the right guidance, raising fish can be an enjoyable and rewarding experience. In this beginner's guide, we'll cover everything you need to know about raising fish as pets.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Understanding the Basics
 
 Before you jump into the world of fishkeeping, it's important to understand the basics. Fish are cold-blooded animals that live in water and breathe through gills. They come in a wide variety of shapes, sizes, and colors and can be found in both fresh and saltwater environments. When it comes to raising fish, it's important to understand their basic needs, such as water temperature, filtration, and food requirements.

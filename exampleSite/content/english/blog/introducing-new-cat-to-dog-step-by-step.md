@@ -11,6 +11,11 @@ permalink: /introducing-new-cat-to-dog-step-by-step/
 
 # Introducing a New Cat to Your Dog: A Step-by-Step Guide | For Pets With Love
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Introduction
 
 Introducing a new cat to a household with a resident dog can be a challenging but rewarding experience. With careful planning and a gradual approach, you can help your cat and dog coexist peacefully and even become friends. In this article, we'll provide a step-by-step guide on how to introduce a new cat to your dog, ensuring a safe and successful transition for both pets.

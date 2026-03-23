@@ -15,6 +15,11 @@ Cold weather doesn't mean outdoor activities with your dog must stop—but it do
 
 Dog jackets come in various forms: insulated coats, waterproof rain jackets, lightweight layers for mild cold, and extreme-weather gear for harsh conditions. The right jacket matches your climate, your dog's breed and cold tolerance, and your planned activities. In this guide, we've compiled the best cold weather options for dogs based on warmth, protection, fit, and overall quality.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

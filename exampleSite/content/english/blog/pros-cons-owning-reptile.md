@@ -11,6 +11,11 @@ Are you tired of the traditional cat or dog as a pet? Looking for a unique and e
 
 In this article, we'll explore the pros and cons of owning a reptile, including the benefits and drawbacks of low-maintenance care, the unique companionship they offer, the special attention they require, and the potential health risks. So, let's slither into it!
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## The Pros
 ### Low-Maintenance Care
 Unlike traditional pets like cats and dogs, reptiles require very little maintenance. They don't need to be walked, groomed, or bathed, which makes them a great choice for busy pet owners or those who travel frequently. Additionally, reptiles don't require daily feeding and can be left alone for extended periods without needing attention.

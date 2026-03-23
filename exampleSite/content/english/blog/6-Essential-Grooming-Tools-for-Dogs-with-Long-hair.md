@@ -12,6 +12,11 @@ If you're the proud owner of a dog with long hair, then you know how much time a
 
 In this article, we'll explore the six essential grooming tools for dogs with long hair. Whether you have a Shih Tzu, a Poodle, or a Golden Retriever, these tools are a must-have to keep your pup looking and feeling their best.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## [Slicker Brush](https://amzn.to/3Yni8VD)
 
 <a href="https://www.amazon.com/Hertzko-Self-Cleaning-Slicker-Brush/dp/B00ZGPI3OY?crid=1VCXRUDQAEQ3S&keywords=slicker+brush+for+dogs&qid=1678207264&sprefix=Slicker+Brush%2Caps%2C889&sr=8-1-spons&psc=1&smid=A2ZGEJ0145DF0H&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExN1BHOTVUSldFNk1ZJmVuY3J5cHRlZElkPUEwMTE5NDA0QTQ2WTZJM0RSNThVJmVuY3J5cHRlZEFkSWQ9QTAxNTk2MTVZOU1YMlBKRzQzS1gmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&linkCode=li2&tag=forpetswith01-20&linkId=61e6178c8b47364ee21f878463d45bb3&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ZGPI3OY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith01-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith01-20&language=en_US&l=li2&o=1&a=B00ZGPI3OY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

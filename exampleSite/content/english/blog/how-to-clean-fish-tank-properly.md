@@ -10,6 +10,11 @@ image: images/fish-tank-cleaning.jpg
 
 📌 **Quick Answer:** Perform weekly 10-15% water changes using a siphon to remove debris from the gravel while removing water. Always prepare water that matches your tank's temperature and chemistry—use conditioner to remove chlorine and chloramines. Clean only one third of decorations and filter media at a time to preserve beneficial bacteria. Test water parameters weekly (pH, ammonia, nitrite, nitrate) and adjust as needed. Never use soap or household cleaners in or on your aquarium equipment. Proper maintenance keeps fish healthy and prevents common tank problems.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## How Often Should I Clean My Fish Tank?
 
 Consistent, moderate cleaning beats infrequent deep cleaning every time:

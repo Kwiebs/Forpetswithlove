@@ -48,6 +48,11 @@ Chewing on appropriate toys can prevent destructive chewing behavior.
 
 Providing a variety of textures and materials can satisfy your kitten's natural urge to chew.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## FAQ
 
 ### Q: What other ways can I help my teething kitten?

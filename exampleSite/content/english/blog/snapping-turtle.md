@@ -9,6 +9,11 @@ categories: ["Reptile Care"]
 
 Snapping turtles are fascinating creatures that have been around for millions of years. These prehistoric-looking reptiles are known for their powerful jaws and aggressive behavior, but there's much more to them than meets the eye. In this guide, we'll explore the world of snapping turtles, including their habitat, diet, behavior, and more.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## The Basics of Snapping Turtles
 
 ### What are Snapping Turtles?

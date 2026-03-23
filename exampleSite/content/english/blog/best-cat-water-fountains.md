@@ -15,6 +15,11 @@ Cats have evolved as desert animals with relatively low thirst drives, making th
 
 Cat water fountains vary in design: gravity-drip fountains, recirculating pump models, ceramic versus plastic materials, multi-stream options, and quiet-running designs. The right fountain balances water appeal, ease of use and maintenance, quiet operation, and appropriate capacity for your cat's needs. In this guide, we've compiled the best water fountains based on cat appeal, reliability, and ease of owner use.
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison
 
 | Product | Type | Best For | Rating | Link |

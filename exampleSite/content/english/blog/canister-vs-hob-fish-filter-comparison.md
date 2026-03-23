@@ -11,6 +11,11 @@ permalink: /canister-vs-hob-fish-filter-comparison/
 
 # Canister vs Hang-on-Back Fish Filter: Which Is Better for Your Aquarium?
 
+
+
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
+
+
 ## Quick Comparison Table
 
 | Feature | Canister Filter | HOB Filter | Winner |
