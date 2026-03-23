@@ -59,6 +59,14 @@ Shampoos and sprays can be used for both flea and tick prevention and treatment.
 ### - Flea and Tick Combs
 Flea and tick combs are an effective way to remove fleas and ticks from a pet's coat. These combs have tightly spaced teeth that can trap and remove these pests from the pet's fur. Some popular brands include [Safari](https://amzn.to/3Ztqdsr) and [Hertzko](https://amzn.to/3nnLrKY).
 
+## Related Articles
+
+- [Best Flea & Tick Prevention for Dogs 2026](/best-flea-tick-prevention-dogs-2026.md) - Dog-specific protection guide
+- [5 Common Dental Problems in Pets](/5-common-dental-problems-in-pets.md) - Other health issues to watch for
+- [Benefits of Regular Vet Checkups for Your Pet](/benefits-of-regular-vet-checkups-for-your-pet.md) - Preventive care importance
+- [Benefits of Microchipping Your Pet](/benefits-of-microchipping-your-pet.md) - Pet identification
+- [Glossary: Cat Spraying Behavior](/glossary-cat-spraying-behavior.md) - Behavioral health issues
+
 ## FAQs
 
 ### Q:  Can I use human flea and tick products on my pet?

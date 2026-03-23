@@ -19,11 +19,11 @@ Cat carriers vary widely: soft-sided carriers for comfort and portability, hard-
 
 | Product | Type | Best For | Rating | Link |
 |---------|-------|----------|--------|------|
-| Hard-Shell Travel Carrier | Hard-Shell | Air travel, durability, maximum security | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=hard%20cat%20carrier&tag=forpetswith07-20) |
-| Soft-Sided Carrier | Soft-Sided | Comfort, everyday use, car travel | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=soft%20sided%20cat%20carrier&tag=forpetswith07-20) |
-- Backpack Carrier | Backpack | Hands-free carrying, outdoor activities | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=cat%20backpack%20carrier&tag=forpetswith07-20) |
-| Rolling Carrier | Rolling | Easier transport, heavier cats | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=cat%20carrier%20with%20wheels&tag=forpetswith07-20) |
-| Expandable Travel Carrier | Expandable | Longer trips, extra space during travel | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=expandable%20cat%20carrier&tag=forpetswith07-20) |
+| Petmate Two Door Top Load | Hard-Shell | Air travel, durability, maximum security | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B000633ZXQ?tag=forpetswith07-20) |
+| Petmate Fashion Kennel Cab | Soft-Sided | Comfort, everyday use, car travel | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B00101K1CG?tag=forpetswith07-20) |
+- Henkelion Cat Backpack Carrier | Backpack | Hands-free carrying, outdoor activities | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B07N2GJ5VL?tag=forpetswith07-20) |
+| Sleepypod Air Travel Carrier | Rolling | Easier transport, heavier cats | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B00VYV2C02?tag=forpetswith07-20) |
+| Petmate Portable Pet Home | Expandable | Longer trips, extra space during travel | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B007K5MZ4W?tag=forpetswith07-20) |
 
 ## Top 7 Cat Carriers for Travel
 
@@ -303,4 +303,4 @@ The right cat carrier ensures safe, comfortable travel while minimizing stress f
 
 ---
 
-*When you buy through links on our site, we may earn a commission at no extra cost to you. This helps us continue providing free pet care content.*
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*

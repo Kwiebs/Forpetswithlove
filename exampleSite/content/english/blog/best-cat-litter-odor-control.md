@@ -19,13 +19,13 @@ Cat litter options vary widely: clumping clay, crystal silica gel, natural plant
 
 | Product | Type | Best For | Rating | Link |
 |---------|-------|----------|--------|------|
-| Clumping Clay with Odor Control | Clay | Multiple cat households, classic clumping | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=clumping%20cat%20litter&tag=forpetswith07-20) |
-| Crystal Silica Gel Litter | Crystal | Maximum odor control, low tracking | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=crystal%20cat%20litter&tag=forpetswith07-20) |
-| Low-Dust Clumping Clay | Low-Dust | Sensitive cats, reduced mess, high odor control | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=low%20dust%20cat%20litter&tag=forpetswith07-20) |
-| Natural Plant-Based Clumping Litter | Natural | Cats and owners preferring natural materials | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=natural%20cat%20litter&tag=forpetswith07-20) |
-| Activated Charcoal Odor Control | Charcoal | Strong odor neutralization, multiple cat homes | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=charcoal%20cat%20litter&tag=forpetswith07-20) |
-| Multi-Cat Formula | Multi-Cat | Households with multiple cats, heavy usage | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=multi%20cat%20litter&tag=forpetswith07-20) |
-| Long-Lasting Crystal Formula | Long-Lasting | Extended use between changes, busy owners | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=long%20lasting%20cat%20litter&tag=forpetswith07-20) |
+| Arm & Hammer Clump & Seal | Clay | Multiple cat households, classic clumping | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B00V5A8QW6?tag=forpetswith07-20) |
+| Fresh Step Crystal Litter | Crystal | Maximum odor control, low tracking | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B01K8Y3B4Y?tag=forpetswith07-20) |
+| Dr. Elsey's Premium Clumping | Low-Dust | Sensitive cats, reduced mess, high odor control | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B009UW4460?tag=forpetswith07-20) |
+| World's Best Cat Litter | Natural | Cats and owners preferring natural materials | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B0009X29NK?tag=forpetswith07-20) |
+| Purina Tidy Cats 24/7 Performance | Charcoal | Strong odor neutralization, multiple cat homes | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B0795Q58W6?tag=forpetswith07-20) |
+| Arm & Hammer Multi-Cat Litter | Multi-Cat | Households with multiple cats, heavy usage | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B000084F6Y?tag=forpetswith07-20) |
+| PetSafe ScoopFree Crystal Litter | Long-Lasting | Extended use between changes, busy owners | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B000H0QJDC?tag=forpetswith07-20) |
 
 ## Top 7 Cat Litter Options for Odor Control
 

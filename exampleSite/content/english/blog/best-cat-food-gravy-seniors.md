@@ -19,13 +19,13 @@ Senior cat gravies range from complete balanced nutrition in gravy form to simpl
 
 | Product | Type | Best For | Rating | Link |
 |---------|-------|----------|--------|------|
-| Complete Senior Gravy Food | Complete | Balanced nutrition, daily feeding | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=senior%20cat%20food%20gravy&tag=forpetswith07-20) |
-| Kidney-Specific Gravy Food | Kidney Support | Seniors with kidney concerns | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=kidney%20support%20cat%20food&tag=forpetswith07-20) |
-| High-Protein Senior Gravy | High Protein | Muscle maintenance, active seniors | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=high%20protein%20senior%20cat%20food&tag=forpetswith07-20) |
-| Easy Digestion Gravy | Digestive | Sensitive stomach seniors | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=digestive%20sensitive%20cat%20food&tag=forpetswith07-20) |
-- Soft-Texture Gravy | Senior Dentals | Dental issues, chew difficulties | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=soft%20cat%20food%20seniors&tag=forpetswith07-20) |
-| Appetite Stimulus Gravy Broth | Appetite | Picky eaters, seniors with reduced appetite | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=cat%20gravy%20broth&tag=forpetswith07-20) |
-| Weight Management Gravy | Weight Control | Overweight seniors | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/s?k=weight%20management%20cat%20food&tag=forpetswith07-20) |
+| Purina Pro Plan Senior Gravy | Complete | Balanced nutrition, daily feeding | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B004XH6I02?tag=forpetswith07-20) |
+| Hill's Prescription k/d | Kidney Support | Seniors with kidney concerns | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B01LZIT9W6?tag=forpetswith07-20) |
+| Wellness CORE Senior Gravy | High Protein | Muscle maintenance, active seniors | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B0084W1QDC?tag=forpetswith07-20) |
+| Royal Canin Digestive Care | Digestive | Sensitive stomach seniors | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B07C2ZFL9M?tag=forpetswith07-20) |
+- Fancy Feast Gravy Pate | Senior Dentals | Dental issues, chew difficulties | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B000084E6V?tag=forpetswith07-20) |
+| Purina Pro Plan Gravy Broth | Appetite | Picky eaters, seniors with reduced appetite | ⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B06XW8N5VJ?tag=forpetswith07-20) |
+| Hill's Science Diet Weight Management | Weight Control | Overweight seniors | ⭐⭐⭐⭐⭐ | [View on Amazon](https://www.amazon.com/dp/B01MXZ7X0Y?tag=forpetswith07-20) |
 
 ## Top 7 Cat Food Gravy Options for Seniors
 
@@ -304,4 +304,4 @@ ts.
 
 ---
 
-*When you buy through links on our site, we may earn a commission at no extra cost to you. This helps us continue providing free pet care content.*
+*Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
