@@ -1,0 +1,54 @@
+<!-- GA4 Tracking Script for ForPetsWithLove.com -->
+<!-- Load GA4 tracking JavaScript -->
+<script src="/js/ga4-tracking.js" defer></script>
+
+<!-- Optional: Custom Events configuration -->
+<script>
+  // GA4 Configuration
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GW45MT4LE0', {
+    'anonymize_ip': true,
+    'send_page_view': true,
+    'custom_map': {
+      'custom_dimension_1': 'content_type',
+      'custom_dimension_2': 'product_category'
+    }
+  });
+</script>
+
+<!-- Event Tracking -->
+<script>
+  // Track page content type (custom dimension)
+  document.addEventListener('DOMContentLoaded', function() {
+    const body = document.body;
+    let contentType = 'blog_post';
+    
+    // Detect page type from URL or content
+    if (window.location.pathname.match(/^\/best-/)) {
+      contentType = 'programmatic_seo_curation';
+    } else if (window.location.pathname.match(/^\/how-to/)) {
+      contentType = 'programmatic_seo_howto';
+    } else if (window.location.pathname.match(/^\/glossary/)) {
+      contentType = 'programmatic_seo_glossary';
+    } else if (window.location.pathname.match(/^\/why-/)) {
+      contentType = 'programmatic_seo_problem_solving';
+    } else if (window.location.pathname.match(/^\/(what-|how-long-|how-often-|when-)$/)) {
+      contentType = 'programmatic_seo_quick_answer';
+    } else if (window.location.pathname.match(/vs/)) {
+      contentType = 'programmatic_seo_comparison';
+    } else if (window.location.pathname === '/' || window.location.pathname.indexOf('/blog') >= 0) {
+      contentType = 'index_page';
+    }
+    
+    // Set custom dimension
+    if (typeof gtag !== 'undefined') {
+      gtag('event', 'page_type', {
+        'event_category': 'page_view',
+        'content_type': contentType,
+        'non_interaction': true
+      });
+    }
+  });
+</script>
