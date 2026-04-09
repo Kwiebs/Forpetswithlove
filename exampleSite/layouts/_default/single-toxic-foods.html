@@ -1,0 +1,219 @@
+---
+title: "{{ .breed.name }} and {{ .food.name }}: What Every Owner Needs to Know"
+description: "Is {{ .food.name }} toxic to {{ .breed.name }}s? Learn about symptoms, severity, and what to do if your dog eats {{ .food.name | lower }}. Essential safety information for {{ .breed.name }} owners."
+date: {{ now.Format "2006-01-02" }}
+draft: false
+type: "toxic-foods"
+breed: "{{ .breed.name }}"
+food: "{{ .food.name }}"
+severity: "{{ .food.severity }}"
+---
+
+# Is {{ .food.name }} Toxic to {{ .breed.name }}s?
+
+**Quick Answer:** {{ if eq .food.severity "high" }}**YES - {{ .food.name }} is highly toxic to {{ .breed.name }}s and can be fatal.**{{ else if eq .food.severity "medium" }}**YES - {{ .food.name }} is toxic to {{ .breed.name }}s and requires veterinary attention.**{{ else }}**YES - {{ .food.name }} can be harmful to {{ .breed.name }}s, though less severe than other toxic foods.**{{ end }}
+
+{{ if .breed.notes }}
+> **{{ .breed.name }} Specific Note:** {{ .breed.notes }}
+{{ end }}
+
+---
+
+## Toxicity Severity: {{ .food.severity | title }}
+
+| Severity Level | Description |
+|----------------|-------------|
+| {{ .food.severity | title }} | {{ if eq .food.severity "high" }}Can cause serious illness or death if ingested. Immediate veterinary care required.{{ else if eq .food.severity "medium" }}Can cause significant health problems. Veterinary attention recommended.{{ else }}May cause mild to moderate symptoms. Monitor closely and contact vet if symptoms worsen.{{ end }} |
+
+---
+
+## Symptoms of {{ .food.name }} Poisoning in {{ .breed.name }}s
+
+If your {{ .breed.name }} has eaten {{ .food.name | lower }}, watch for these symptoms:
+
+{{ .food.symptoms }}
+
+**Timeline:** Symptoms typically appear within {{ if eq .food.severity "high" }}30 minutes to 2 hours{{ else if eq .food.severity "medium" }}1 to 6 hours{{ else }}2 to 12 hours{{ end }} of ingestion.
+
+---
+
+## What Makes {{ .food.name }} Toxic?
+
+The toxic compound in {{ .food.name | lower }} is **{{ .food.toxic_compound }}**.
+
+{{ if eq .food.name "Chocolate" }}**How it works:** Theobromine affects the heart, central nervous system, and kidneys. Dogs cannot metabolize it effectively, causing it to build up to toxic levels.{{ end }}
+
+{{ if eq .food.name "Grapes and Raisins" }}**How it works:** The exact toxic compound is unknown, but it can cause acute kidney failure in some dogs. Not all dogs are affected, but there's no way to predict which dogs will develop kidney failure.{{ end }}
+
+{{ if eq .food.name "Onions and Garlic" }}**How it works:** These compounds damage red blood cells, leading to anemia. Symptoms may not appear for several days after ingestion.{{ end }}
+
+{{ if eq .food.name "Xylitol (Artificial Sweetener)" }}**How it works:** Xylitol causes a rapid drop in blood sugar (hypoglycemia) and can lead to liver failure. Even small amounts can be dangerous.{{ end }}
+
+{{ if eq .food.name "Cooked Bones" }}**How it works:** Cooked bones become brittle and can splinter, causing internal injuries, blockages, or perforations.{{ end }}
+
+---
+
+## {{ .breed.name }}-Specific Considerations
+
+{{ if in .special_notes.tiny_breeds .breed.name }}
+### ⚠️ Special Warning for Tiny Breeds
+
+{{ .special_notes.tiny_breeds_warning }}
+
+For {{ .breed.name }}s, even tiny amounts of {{ .food.name | lower }} can be dangerous due to their small size. Immediate veterinary care is critical if ingestion occurs.
+{{ end }}
+
+{{ if in .special_notes.giant_breeds .breed.name }}
+### ⚠️ Special Warning for Giant Breeds
+
+{{ .special_notes.giant_breeds_warning }}
+
+{{ .breed.name }}s are at higher risk of bloat. If your dog has eaten {{ .food.name | lower }}, watch carefully for signs of bloat in addition to other symptoms.
+{{ end }}
+
+{{ if in .special_notes.brachycephalic_breeds .breed.name }}
+### ⚠️ Special Warning for Brachycephalic Breeds
+
+{{ .special_notes.brachycephalic_breeds_warning }}
+
+{{ .breed.name }}s have sensitive digestive systems. {{ .food.name }} may cause additional gastrointestinal distress beyond the typical toxic effects.
+{{ end }}
+
+{{ if in .special_notes.high_food_drive_breeds .breed.name }}
+### ⚠️ Special Warning for High Food Drive Breeds
+
+{{ .special_notes.high_food_drive_breeds_warning }}
+
+{{ .breed.name }}s are notorious for eating almost anything. Keep {{ .food.name }} securely stored and supervise your dog closely around food.
+{{ end }}
+
+---
+
+## What to Do If Your {{ .breed.name }} Ate {{ .food.name }}
+
+### Immediate Steps:
+
+1. **Remove the source** - Get any remaining {{ .food.name | lower }} away from your dog
+2. **Call your veterinarian** - Even if symptoms seem mild, professional guidance is essential
+3. **Do NOT induce vomiting** unless specifically instructed by your veterinarian
+4. **Save the packaging** - Bring any packaging or remnants to help identify amount ingested
+
+### When to Call Emergency Vet:
+
+{{ if eq .food.severity "high" }}
+- **Immediately** - Any amount of {{ .food.name | lower }} requires emergency care
+{{ else if eq .food.severity "medium" }}
+- Within 1 hour of ingestion
+- If any symptoms develop
+- If you're unsure how much was eaten
+{{ else }}
+- If symptoms develop or worsen
+- If your dog seems lethargic or unwell
+- If you're concerned about the amount ingested
+{{ end }}
+
+---
+
+## Treatment for {{ .food.name }} Poisoning
+
+Treatment varies based on the type of toxin and severity:
+
+**Common treatments may include:**
+- Induced vomiting (if caught early and safe to do so)
+- Activated charcoal to absorb toxins
+- IV fluids to support kidney function
+- Medications to control symptoms
+- Hospitalization for monitoring
+
+**Recovery time:** Depends on severity and how quickly treatment was started. {{ if eq .food.severity "high" }}Severe cases may require several days of hospitalization.{{ else if eq .food.severity "medium" }}Most dogs recover with prompt treatment.{{ else }}Mild cases often resolve within 24-48 hours.{{ end }}
+
+---
+
+## Prevention: Keeping Your {{ .breed.name }} Safe
+
+### Storage Tips:
+
+- Store {{ .food.name | lower }} in sealed containers out of reach
+- Never leave food unattended on counters or tables
+- Use child-proof latches on low cabinets
+- Educate family members and visitors about toxic foods
+
+### Training Tips:
+
+- Teach "leave it" and "drop it" commands
+- Reward your dog for ignoring food on the ground
+- Supervise your dog during meals and food preparation
+- Keep trash cans secured
+
+### Safe Alternatives:
+
+Looking for safe treats for your {{ .breed.name }}? Consider:
+- Carrots
+- Green beans
+- Apple slices (without seeds)
+- Plain cooked chicken
+- Commercial dog treats
+
+---
+
+## Other Foods Toxic to {{ .breed.name }}s
+
+{{ .breed.name }}s should avoid these common toxic foods:
+
+{{ range $i, $f := .toxic_foods }}
+{{ if ne $f.name .food.name }}
+{{ if lt $i 10 }}- **{{ $f.name }}** ({{ $f.severity | title }} severity){{ end }}
+{{ end }}
+{{ end }}
+
+> **Learn more:** [Complete list of foods toxic to dogs](/toxic-foods/)
+
+---
+
+## Bottom Line
+
+{{ if eq .food.severity "high" }}
+**{{ .food.name }} is highly toxic to {{ .breed.name }}s and can be fatal.** Never feed {{ .food.name | lower }} to your dog, and keep it securely stored. If your {{ .breed.name }} ingests {{ .food.name | lower }}, seek immediate veterinary care.
+{{ else if eq .food.severity "medium" }}
+**{{ .food.name }} is toxic to {{ .breed.name }}s and can cause serious health problems.** Avoid feeding {{ .food.name | lower }} to your dog. If ingestion occurs, contact your veterinarian for guidance.
+{{ else }}
+**{{ .food.name }} can be harmful to {{ .breed.name }}s.** While less severe than other toxic foods, it's best to avoid feeding {{ .food.name | lower }} to your dog. Monitor for symptoms if ingestion occurs.
+{{ end }}
+
+---
+
+## Frequently Asked Questions
+
+### How much {{ .food.name }} is toxic to a {{ .breed.name }}?
+
+Toxicity depends on the amount ingested and your dog's size. {{ if eq .food.severity "high" }}Even small amounts can be dangerous.{{ else if eq .food.severity "medium" }}Moderate amounts can cause symptoms.{{ else }}Large amounts are more likely to cause problems.{{ end }} Always consult your veterinarian if you're concerned.
+
+### Can {{ .breed.name }}s build tolerance to {{ .food.name }}?
+
+No. Dogs do not build tolerance to toxic foods. Repeated exposure can actually increase the risk of serious health problems.
+
+### What if my {{ .breed.name }} ate {{ .food.name }} but seems fine?
+
+{{ if eq .food.severity "high" }}
+**Don't wait for symptoms.** Some toxins don't show immediate effects but can still cause serious damage. Contact your veterinarian immediately.
+{{ else if eq .food.severity "medium" }}
+**Monitor closely and contact your vet.** Symptoms may develop over time. It's better to be safe than sorry.
+{{ else }}
+**Monitor for symptoms.** If your dog seems fine, continue watching for the next 24 hours. Contact your vet if any symptoms develop.
+{{ end }}
+
+### Are there any safe amounts of {{ .food.name }} for {{ .breed.name }}s?
+
+{{ if eq .food.severity "high" }}
+**No.** There is no safe amount of {{ .food.name | lower }} for dogs.
+{{ else if eq .food.severity "medium" }}
+**No.** It's best to avoid {{ .food.name | lower }} entirely.
+{{ else }}
+**Minimal amounts may not cause harm, but it's not recommended.** Stick to dog-safe treats instead.
+{{ end }}
+
+---
+
+*Last updated: {{ now.Format "January 2, 2006" }}*
+
+*Disclaimer: This information is for educational purposes only and is not a substitute for professional veterinary advice. If your dog has ingested a toxic substance, contact your veterinarian immediately.*
