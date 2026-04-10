@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What's Your Cat's Secret Personality? | For Pets With Love</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        .header h1 {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+        .header p {
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+        .quiz-content {
+            padding: 40px;
+        }
+        .question {
+            display: none;
+        }
+        .question.active {
+            display: block;
+        }
+        .question h3 {
+            font-size: 1.3em;
+            margin-bottom: 20px;
+            color: #333;
+        }
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .option {
+            background: #f8f9fa;
+            border: 2px solid #e9ecef;
+            border-radius: 12px;
+            padding: 16px 20px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-size: 1em;
+        }
+        .option:hover {
+            border-color: #667eea;
+            background: #f0f1ff;
+        }
+        .option.selected {
+            border-color: #667eea;
+            background: #667eea;
+            color: white;
+        }
+        .progress-bar {
+            height: 6px;
+            background: #e9ecef;
+            border-radius: 3px;
+            margin-bottom: 30px;
+        }
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            border-radius: 3px;
+            transition: width 0.3s ease;
+        }
+        .progress-text {
+            font-size: 0.85em;
+            color: #666;
+            margin-bottom: 10px;
+        }
+        .nav-buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 30px;
+        }
+        .btn {
+            padding: 14px 28px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+        .btn-secondary {
+            background: #e9ecef;
+            color: #333;
+        }
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        /* Email Capture */
+        .email-capture {
+            display: none;
+            text-align: center;
+        }
+        .email-capture.active {
+            display: block;
+        }
+        .email-capture h2 {
+            color: #333;
+            margin-bottom: 15px;
+        }
+        .email-capture p {
+            color: #666;
+            margin-bottom: 25px;
+        }
+        .email-form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+        .email-form input {
+            padding: 16px;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            font-size: 1em;
+            width: 100%;
+        }
+        .email-form input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        .ebook-promo {
+            background: #fff5f5;
+            border: 2px solid #fed7d7;
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 20px;
+            font-size: 0.95em;
+            color: #c53030;
+        }
+        /* Results */
+        .results {
+            display: none;
+            text-align: center;
+        }
+        .results.active {
+            display: block;
+        }
+        .results h2 {
+            font-size: 1.8em;
+            margin-bottom: 10px;
+        }
+        .personality-type {
+            font-size: 2.5em;
+            margin: 20px 0;
+        }
+        .personality-desc {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 25px;
+            text-align: left;
+            margin: 20px 0;
+        }
+        .traits {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin: 15px 0;
+        }
+        .trait {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.9em;
+        }
+        .care-tips {
+            background: #e8f5e9;
+            border-radius: 12px;
+            padding: 20px;
+            text-align: left;
+            margin-top: 20px;
+        }
+        .care-tips h4 {
+            color: #2e7d32;
+            margin-bottom: 10px;
+        }
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 40px;
+        }
+        .loading.active {
+            display: block;
+        }
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🐱 What's Your Cat's Secret Personality?</h1>
+            <p>7 quick questions to discover your cat's unique type</p>
+        </div>
+        
+        <div class="quiz-content">
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+            <div class="progress-text" id="progressText">Question 1 of 7</div>
+            
+            <!-- Questions -->
+            <div id="questions"></div>
+            
+            <!-- Email Capture -->
+            <div class="email-capture" id="emailCapture">
+                <h2>📧 Get Your Cat's Full Results!</h2>
+                <p>Enter your email to see your cat's personality type and receive personalized care tips.</p>
+                <form class="email-form" id="emailForm">
+                    <input type="email" id="emailInput" placeholder="your.email@example.com" required>
+                    <button type="submit" class="btn btn-primary">Send My Results & Get My Free Care Guide</button>
+                </form>
+                <div class="ebook-promo">
+                    🎁 You'll also get exclusive access to our <strong>Cat Scratching Solutions ebook</strong> - the complete guide to understanding and redirecting your cat's scratching behavior.
+                </div>
+            </div>
+            
+            <!-- Loading -->
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Sending your results...</p>
+            </div>
+            
+            <!-- Results -->
+            <div class="results" id="results">
+                <h2>Your Cat's Personality Is...</h2>
+                <div class="personality-type" id="personalityEmoji"></div>
+                <div id="personalityName"></div>
+                <div class="personality-desc">
+                    <p id="personalityDesc"></p>
+                    <div class="traits" id="personalityTraits"></div>
+                </div>
+                <div class="care-tips">
+                    <h4>💡 Personalized Care Tips for Your Cat</h4>
+                    <p id="careTips"></p>
+                </div>
+                <div style="margin-top: 25px;">
+                    <a href="https://forpetswithlove.com/cat-scratching-solution-ebook/" class="btn btn-primary">Get the Cat Scratching Solutions Ebook →</a>
+                </div>
+            </div>
+            
+            <div class="nav-buttons" id="navButtons">
+                <button class="btn btn-secondary" id="prevBtn" disabled>← Back</button>
+                <button class="btn btn-primary" id="nextBtn" disabled>Next →</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const quizData = {
+            questions: [
+                {
+                    id: 1,
+                    question: "How does your cat react to new visitors?",
+                    options: [
+                        { value: "a", text: "Immediately investigates", personality: "explorer" },
+                        { value: "b", text: "Hides but watches from a safe spot", personality: "philosopher" },
+                        { value: "c", text: "Meows loudly for attention", personality: "comedian" },
+                        { value: "d", text: "Stays near you protectively", personality: "guardian" },
+                        { value: "e", text: "Observes from a distance, seems unimpressed", personality: "artist" }
+                    ]
+                },
+                {
+                    id: 2,
+                    question: "What's your cat's favorite play style?",
+                    options: [
+                        { value: "a", text: "Chases everything that moves - high energy", personality: "explorer" },
+                        { value: "b", text: "Strategic ambush attacks from hiding", personality: "guardian" },
+                        { value: "c", text: "Subtle paw swipes and gentle pokes", personality: "artist" },
+                        { value: "d", text: "Dramatic zoomies and crazy bursts", personality: "comedian" },
+                        { value: "e", text: "Quiet observation, then sudden pounce", personality: "philosopher" }
+                    ]
+                },
+                {
+                    id: 3,
+                    question: "Where does your cat prefer to sleep?",
+                    options: [
+                        { value: "a", text: "High places - top of cat tree, shelves, on top of fridge", personality: "explorer" },
+                        { value: "b", text: "Near doors or windows - guarding the home", personality: "guardian" },
+                        { value: "c", text: "Hidden cozy spots - under beds, in boxes", personality: "artist" },
+                        { value: "d", text: "In the middle of the floor or your bed - center of attention", personality: "comedian" },
+                        { value: "e", text: "Right next to you or on your lap", personality: "philosopher" }
+                    ]
+                },
+                {
+                    id: 4,
+                    question: "How does your cat ask for food?",
+                    options: [
+                        { value: "a", text: "Leads you to the food bowl like a tour guide", personality: "explorer" },
+                        { value: "b", text: "Gentle meow with intense stare", personality: "guardian" },
+                        { value: "c", text: "Just stares at you with big eyes - silent communication", personality: "artist" },
+                        { value: "d", text: "Dramatic complaints, maybe even a little dance", personality: "comedian" },
+                        { value: "e", text: "Subtle chirp or small sound", personality: "philosopher" }
+                    ]
+                },
+                {
+                    id: 5,
+                    question: "When you come home after being away, your cat:",
+                    options: [
+                        { value: "a", text: "Rushes to the door excited, wants to explore outside", personality: "explorer" },
+                        { value: "b", text: "Comes to greet you but stays cool and composed", personality: "philosopher" },
+                        { value: "c", text: "Does a little happy dance or performs for you", personality: "comedian" },
+                        { value: "d", text: "First checks if you're okay, then goes back to relaxing", personality: "guardian" },
+                        { value: "e", text: "Barely acknowledges you, seems to prefer solitude", personality: "artist" }
+                    ]
+                },
+                {
+                    id: 6,
+                    question: "How does your cat hold their tail when they see you?",
+                    options: [
+                        { value: "a", text: "Straight up with a little curve at the tip - confident", personality: "explorer" },
+                        { value: "b", text: "Puffs up slightly if there's something to be wary of", personality: "guardian" },
+                        { value: "c", text: "Slow gentle sway, almost like they're dreaming", personality: "artist" },
+                        { value: "d", text: "Wags it like a dog - excited and happy!", personality: "comedian" },
+                        { value: "e", text: "Mostly still or tucked - subtle and reserved", personality: "philosopher" }
+                    ]
+                },
+                {
+                    id: 7,
+                    question: "When you bring out a new toy, your cat:",
+                    options: [
+                        { value: "a", text: "Immediately attacks it with intense focus", personality: "explorer" },
+                        { value: "b", text: "Cautious at first - sniffs and evaluates thoroughly", personality: "guardian" },
+                        { value: "c", text: "Looks away casually, then slowly approaches - coy", personality: "artist" },
+                        { value: "d", text: "Attacks it with dramatic growling sounds", personality: "comedian" },
+                        { value: "e", text: "Ignores it completely, then plays with the box instead", personality: "philosopher" }
+                    ]
+                }
+            ],
+            personalities: {
+                explorer: {
+                    name: "The Explorer",
+                    emoji: "🔍",
+                    description: "Your cat is adventurous, curious, and always ready for the next discovery. They love to investigate everything and aren't afraid to try new things.",
+                    traits: ["Highly curious", "Energy to burn", "Loves new experiences", "Social and confident"],
+                    care_tips: "Keep them stimulated with interactive toys, puzzle feeders, and regular play sessions. A cat tree near windows is perfect for their nature as they love to survey their kingdom from above."
+                },
+                guardian: {
+                    name: "The Guardian",
+                    emoji: "🛡️",
+                    description: "Your cat is protective, territorial, and deeply loyal. They take their role as guardian of the home seriously and form strong bonds with their family.",
+                    traits: ["Protective instincts", "Territorial", "Loyal and devoted", "Alert and watchful"],
+                    care_tips: "Respect their need for a secure environment. Provide hiding spots and high perches so they can survey their territory. Consistent routines make them feel safe and secure."
+                },
+                artist: {
+                    name: "The Artist",
+                    emoji: "🎨",
+                    description: "Your cat is sensitive, graceful, and deeply expressive. They have rich inner lives and appreciate beauty, subtlety, and gentle interactions.",
+                    traits: ["Emotionally sensitive", "Aesthetic appreciation", "Subtle communicator", "Independent yet affectionate"],
+                    care_tips: "Create a calm, peaceful environment with soft textures and quiet spaces. Avoid loud noises and sudden changes. Gentle brushing and quiet music can soothe their refined sensibilities."
+                },
+                comedian: {
+                    name: "The Comedian",
+                    emoji: "🎭",
+                    description: "Your cat is playful, mischievous, and loves to be the center of attention. They use their charm and antics to get what they want and make you laugh.",
+                    traits: ["Natural entertainer", "Playful spirit", "Social butterfly", "Loves attention"],
+                    care_tips: "Schedule regular play sessions to burn off their creative energy. Puzzle toys and games that mimic hunting keep them entertained. They'll love anything that involves you being their audience!"
+                },
+                philosopher: {
+                    name: "The Philosopher",
+                    emoji: "🤔",
+                    description: "Your cat is thoughtful, independent, and self-aware. They prefer quality over quantity in their relationships and appreciate having their own space and time.",
+                    traits: ["Introspective", "Independent", "Quietly affectionate", "Observant"],
+                    care_tips: "Don't take their independence personally - they love you in their own way. Provide comfortable spots for solitary relaxation. Let them come to you for affection rather than forcing cuddles."
+                }
+            }
+        };
+
+        let currentQuestion = 0;
+        let answers = {};
+        let emailSubmitted = false;
+
+        function renderQuestions() {
+            const container = document.getElementById('questions');
+            container.innerHTML = quizData.questions.map((q, idx) => `
+                <div class="question ${idx === 0 ? 'active' : ''}" data-question="${idx}">
+                    <h3>${q.question}</h3>
+                    <div class="options">
+                        ${q.options.map(opt => `
+                            <div class="option" data-value="${opt.value}" data-personality="${opt.personality}">
+                                ${opt.text}
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+            `).join('');
+
+            document.querySelectorAll('.option').forEach(opt => {
+                opt.addEventListener('click', () => selectOption(opt));
+            });
+        }
+
+        function selectOption(opt) {
+            const questionEl = opt.closest('.question');
+            const questionIdx = parseInt(questionEl.dataset.question);
+            
+            questionEl.querySelectorAll('.option').forEach(o => o.classList.remove('selected'));
+            opt.classList.add('selected');
+            
+            answers[questionIdx] = {
+                value: opt.dataset.value,
+                personality: opt.dataset.personality
+            };
+            
+            document.getElementById('nextBtn').disabled = false;
+        }
+
+        function updateProgress() {
+            const progress = ((currentQuestion + 1) / quizData.questions.length) * 100;
+            document.getElementById('progressFill').style.width = progress + '%';
+            document.getElementById('progressText').textContent = `Question ${currentQuestion + 1} of ${quizData.questions.length}`;
+        }
+
+        function showQuestion(idx) {
+            document.querySelectorAll('.question').forEach(q => q.classList.remove('active'));
+            document.querySelector(`.question[data-question="${idx}"]`).classList.add('active');
+            updateProgress();
+            
+            document.getElementById('prevBtn').disabled = idx === 0;
+            document.getElementById('nextBtn').disabled = !answers[idx];
+            document.getElementById('nextBtn').textContent = idx === quizData.questions.length - 1 ? 'See Results →' : 'Next →';
+        }
+
+        function calculateResult() {
+            const counts = { explorer: 0, guardian: 0, artist: 0, comedian: 0, philosopher: 0 };
+            Object.values(answers).forEach(a => {
+                counts[a.personality]++;
+            });
+            return Object.entries(counts).sort((a, b) => b[1] - a[1])[0][0];
+        }
+
+        function showEmailCapture() {
+            document.getElementById('navButtons').style.display = 'none';
+            document.getElementById('progressFill').style.width = '100%';
+            document.getElementById('progressText').textContent = 'All done! 🎉';
+            document.querySelectorAll('.question').forEach(q => q.classList.remove('active'));
+            document.getElementById('emailCapture').classList.add('active');
+        }
+
+        function showResults(personality) {
+            document.getElementById('emailCapture').classList.remove('active');
+            document.getElementById('loading').classList.add('active');
+            
+            setTimeout(() => {
+                document.getElementById('loading').classList.remove('active');
+                document.getElementById('results').classList.add('active');
+                
+                const p = quizData.personalities[personality];
+                document.getElementById('personalityEmoji').textContent = p.emoji;
+                document.getElementById('personalityName').innerHTML = `<h2 style="font-size: 1.5em; color: #667eea;">${p.name}</h2>`;
+                document.getElementById('personalityDesc').textContent = p.description;
+                document.getElementById('personalityTraits').innerHTML = p.traits.map(t => `<span class="trait">${t}</span>`).join('');
+                document.getElementById('careTips').textContent = p.care_tips;
+            }, 1500);
+        }
+
+        function sendResultsEmail(email, personality) {
+            const p = quizData.personalities[personality];
+            const traitsText = p.traits.join(', ');
+            
+            fetch('https://api.agentmail.to/v0/inboxes/ambrosio@agentmail.to/messages/send', {
+                method: 'POST',
+                headers: {
+                    'Authorization': 'Bearer am_us_e4b9a5ee8a34d656771356398469852a11a4e73b308a7569fd103355031ec289',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    to: [email, 'andrenunorama+pets@gmail.com'],
+                    subject: `🐱 Your Cat's Personality Revealed: ${p.name}`,
+                    html: `
+                        <h2>Your Cat's Personality: ${p.emoji} ${p.name}</h2>
+                        <p>Congratulations! You completed the Cat Personality Quiz. Here's what we discovered about your feline friend:</p>
+                        
+                        <h3>${p.description}</h3>
+                        
+                        <h4>Key Traits:</h4>
+                        <ul>${p.traits.map(t => `<li>${t}</li>`).join('')}</ul>
+                        
+                        <h4>💡 Personalized Care Tips:</h4>
+                        <p>${p.care_tips}</p>
+                        
+                        <div style="background: #f0f1ff; padding: 20px; border-radius: 10px; margin: 20px 0;">
+                            <h3>🎁 Special Offer For You!</h3>
+                            <p>Get our complete <strong>Cat Scratching Solutions ebook</strong> - the ultimate guide to understanding and redirecting your cat's scratching behavior. Use code <strong>QUIZ20</strong> for 20% off!</p>
+                            <a href="https://forpetswithlove.com/cat-scratching-solution-ebook/" style="display: inline-block; background: #667eea; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; margin-top: 10px;">Get the Ebook →</a>
+                        </div>
+                        
+                        <p style="color: #666; font-size: 0.9em;">Thank you for taking the quiz! For more cat care tips, visit <a href="https://forpetswithlove.com">For Pets With Love</a>.</p>
+                    `
+                })
+            }).then(res => res.json())
+              .then(data => console.log('Email sent:', data))
+              .catch(err => console.error('Email error:', err));
+        }
+
+        document.getElementById('nextBtn').addEventListener('click', () => {
+            if (currentQuestion < quizData.questions.length - 1) {
+                currentQuestion++;
+                showQuestion(currentQuestion);
+            } else {
+                showEmailCapture();
+            }
+        });
+
+        document.getElementById('prevBtn').addEventListener('click', () => {
+            if (currentQuestion > 0) {
+                currentQuestion--;
+                showQuestion(currentQuestion);
+            }
+        });
+
+        document.getElementById('emailForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const email = document.getElementById('emailInput').value;
+            const personality = calculateResult();
+            emailSubmitted = true;
+            sendResultsEmail(email, personality);
+            showResults(personality);
+        });
+
+        renderQuestions();
+        updateProgress();
+    </script>
+</body>
+</html>
