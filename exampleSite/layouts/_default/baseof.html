@@ -1,0 +1,92 @@
+{{/* Modern Minimalist Hugo Theme - ForPetsWithLove.com */}}
+<!DOCTYPE html>
+<html lang="{{ with site.Language }}{{ .Lang }}{{ else }}en{{ end }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  {{/* Title */}}
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+  
+  {{/* SEO Meta */}}
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+  {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+  
+  {{/* Generator */}}
+  {{ hugo.Generator }}
+  
+  {{/* Canonical URL */}}
+  <link rel="canonical" href="{{ .Permalink }}">
+  
+  {{/* Favicon */}}
+  <link rel="icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon">
+  
+  {{/* SEO Partial Overrides */}}
+  {{ partial "seo/opengraph.html" . }}
+  {{ partial "seo/twitter-card.html" . }}
+  
+  {{/* Schema Markup (JSON-LD) */}}
+  {{ partial "seo/jsonld.html" . }}
+  
+  {{/* Critical CSS - Inlined for performance */}}
+  {{ $criticalCSS := resources.Get "scss/critical.scss" | toCSS | minify }}
+  <style>{{ $criticalCSS.Content | safeCSS }}</style>
+  
+  {{/* Google Fonts - Preconnect + Display swap */}}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Geist:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  {{/* Theme CSS - Bundled + Fingerprinted */}}
+  {{ $mainCSS := resources.Get "scss/main.scss" | toCSS | minify | fingerprint "sha384" }}
+  <link rel="stylesheet" href="{{ $mainCSS.RelPermalink }}" integrity="{{ $mainCSS.Data.Integrity }}" crossorigin="anonymous" media="screen">
+  
+  {{/* Alternate stylesheets */}}
+  {{ range site.Params.stylesheets }}
+  <link rel="stylesheet" href="{{ . | absURL }}">
+  {{ end }}
+  
+  {{/* Dark mode preference */}}
+  <script>
+    (function() {
+      const stored = localStorage.getItem('theme');
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const theme = stored || (prefersDark ? 'dark' : 'light');
+      document.documentElement.setAttribute('data-theme', theme);
+    })();
+  </script>
+</head>
+<body class="{{ .Type }} {{ if .IsPage }}page{{ else }}list{{ end }}">
+  {{/* Skip to content (Accessibility) */}}
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+  
+  {{/* Header with Glassmorphism */}}
+  {{ partial "components/header.html" . }}
+  
+  {{/* Reading Progress Bar */}}
+  {{ if .IsPage }}
+  <div class="reading-progress" id="readingProgress" aria-hidden="true"></div>
+  {{ end }}
+  
+  {{/* Main Content */}}
+  <main id="main-content">
+    {{ block "main" . }}{{ end }}
+  </main>
+  
+  {{/* Footer */}}
+  {{ partial "components/footer.html" . }}
+  
+  {{/* Back to Top Button */}}
+  {{ partial "components/back-to-top.html" . }}
+  
+  {{/* Search Modal */}}
+  {{ partial "components/search-modal.html" . }}
+  
+  {{/* Deferred JS Bundles */}}
+  {{ $bundleJS := resources.Get "js/bundle.js" | minify | fingerprint "sha384" }}
+  <script src="{{ $bundleJS.RelPermalink }}" integrity="{{ $bundleJS.Data.Integrity }}" crossorigin="anonymous" defer></script>
+  
+  {{/* Hugo internal templates */}}
+  {{ template "_internal/google_analytics.html" . }}
+</body>
+</html>

@@ -1,5 +1,6 @@
+{{/* JSON-LD Structured Data - Schema.org */}}
 {{- $p := . -}}
-{{- $site := .Site -}}
+{{- $site := site -}}
 {{- $isArticle := or $p.IsPage (eq $p.Type "page") -}}
 {{- $logoUrl := printf "%s%s" $site.BaseURL "images/logo.png" -}}
 
@@ -16,6 +17,7 @@
         "@type": "ImageObject",
         "url": "{{ $logoUrl }}"
       },
+      "description": "{{ with $site.Params.description }}{{ . }}{{ end }}",
       "sameAs": [
         "https://www.facebook.com/forpetswithloveguimaraes/",
         "https://www.instagram.com/for_pets_withlove/"
@@ -26,8 +28,13 @@
       "@id": "{{ $site.BaseURL }}#website",
       "url": "{{ $site.BaseURL }}",
       "name": "{{ $site.Title }}",
-      "description": "{{ $site.Params.description }}",
-      "publisher": {"@id": "{{ $site.BaseURL }}#organization"}
+      "description": "{{ with $site.Params.description }}{{ . }}{{ end }}",
+      "publisher": {"@id": "{{ $site.BaseURL }}#organization"},
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "{{ $site.BaseURL }}/search/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
     }{{ if $isArticle }},
     {
       "@type": "Article",
@@ -39,7 +46,7 @@
       "image": {{ with $p.Params.image }}{{ if or (hasPrefix . "http") (hasPrefix . "images/") }}"{{ . | absURL }}"{{ else }}"{{ (printf "images/%s" .) | absURL }}"{{ end }}{{ else }}null{{ end }},
       "url": "{{ $p.Permalink }}",
       "mainEntityOfPage": {"@type": "WebPage", "@id": "{{ $p.Permalink }}"},
-      "author": {"@type": "Organization", "name": "{{ $p.Params.author | default $site.Params.author }}"},
+      "author": {"@type": "Organization", "name": "{{ with $p.Params.author }}{{ . }}{{ else }}{{ $site.Params.author }}{{ end }}"},
       "publisher": {"@id": "{{ $site.BaseURL }}#organization"},
       "articleSection": "{{ $p.Section }}",
       "keywords": {{ with $p.Params.tags }}{{ . | jsonify }}{{ else }}[]{{ end }}
@@ -48,9 +55,11 @@
       "@type": "BreadcrumbList",
       "@id": "{{ $p.Permalink }}#breadcrumb",
       "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "{{ $site.BaseURL }}"},
-        {"@type": "ListItem", "position": 2, "name": "{{ with $p.Section }}{{ . | title }}{{ else }}Blog{{ end }}", "item": "{{ $site.BaseURL }}{{ $p.RelPermalink }}"},
-        {"@type": "ListItem", "position": 3, "name": "{{ $p.Title }}", "item": "{{ $p.Permalink }}"}
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "{{ $site.BaseURL }}"}
+        {{- if $p.Section }},
+        {"@type": "ListItem", "position": 2, "name": "{{ $p.Section | title }}", "item": "{{ $site.BaseURL }}/{{ $p.Section }}/"}
+        {{- end }},
+        {"@type": "ListItem", "position": {{ if $p.Section }}3{{ else }}2{{ end }}, "name": "{{ $p.Title }}", "item": "{{ $p.Permalink }}"}
       ]
     }{{ end }}
   ]

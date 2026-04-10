@@ -1,0 +1,63 @@
+{{/*
+  Taxonomy List Template - Tags, Categories, Series pages
+  Usage: layouts/_default/terms.html
+*/}}
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    {{/* H1 for taxonomy page */}}
+    <header style="text-align: center; margin-bottom: 3rem;">
+      <h1 style="text-transform: capitalize;">{{ .Title }}</h1>
+      {{ with .Description }}
+      <p style="color: var(--text-secondary); margin-top: 1rem; font-size: 1.125rem;">{{ . }}</p>
+      {{ end }}
+    </header>
+
+    {{/* Terms Cloud */}}
+    <div style="display: flex; flex-wrap: wrap; gap: 0.75rem; justify-content: center; margin-bottom: 3rem;">
+      {{ range .Data.Terms.ByCount }}
+      <a 
+        href="{{ .Page.RelPermalink }}" 
+        style="
+          display: inline-block;
+          padding: 0.5rem 1.25rem;
+          background: var(--color-earth-200);
+          color: var(--text-primary);
+          border-radius: 9999px;
+          text-decoration: none;
+          font-size: 0.9375rem;
+          transition: all 150ms ease;
+        "
+        onmouseover="this.style.background='var(--color-teal-100)'; this.style.color='var(--color-teal-700)';"
+        onmouseout="this.style.background='var(--color-earth-200)'; this.style.color='var(--text-primary)';"
+      >
+        {{ .Page.Title }}
+        <span style="opacity: 0.6; font-size: 0.8125rem; margin-left: 0.25rem;">({{ .Count }})</span>
+      </a>
+      {{ end }}
+    </div>
+
+    {{/* Latest in this taxonomy */}}
+    <h2 style="font-size: 1.5rem; margin-bottom: 2rem; text-align: center;">Latest Articles</h2>
+    <div class="grid grid-3">
+      {{ range first 6 ($.Pages.ByDate.Reverse) }}
+      <article class="card">
+        {{ with .Params.image }}
+        <img src="{{ . | absURL }}" alt="{{ .Title }}" class="card-image" loading="lazy" decoding="async">
+        {{ end }}
+        <div class="card-content">
+          <h3 class="card-title" style="font-size: 1.125rem;">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </h3>
+          <p class="card-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+          </p>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

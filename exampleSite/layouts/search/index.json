@@ -1,0 +1,16 @@
+{
+  "data": [
+    {{- range $i, $p := site.RegularPages -}}
+    {{- if gt $i 0 }},{{ end }}
+    {
+      "id": {{ $i }},
+      "title": {{ $p.Title | jsonify }},
+      "url": {{ $p.Permalink | jsonify }},
+      "description": {{ with $p.Description }}{{ . | jsonify }}{{ else }}{{ $p.Summary | truncate 160 | jsonify }}{{ end }},
+      "tags": {{ with $p.Params.tags }}{{ . | jsonify }}{{ else }}[]{{ end }},
+      "categories": {{ with $p.Params.categories }}{{ . | jsonify }}{{ else }}[]{{ end }},
+      "content": {{ $p.Plain | truncate 500 | jsonify }}
+    }
+    {{- end }}
+  ]
+}

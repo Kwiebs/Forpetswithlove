@@ -1,0 +1,81 @@
+{{/*
+  Single Page Template - Blog posts, articles, etc.
+  Implements: H1->H2->H3 hierarchy, related posts, reading progress
+*/}}
+{{ define "main" }}
+{{ $related := site.RegularPages.Related . | first 3 }}
+
+<article class="single">
+  {{/* Post Header */}}
+  <header class="post-header container">
+    {{/* Breadcrumbs */}}
+    <nav aria-label="Breadcrumb" class="breadcrumbs" style="margin-bottom: 1rem; font-size: 0.875rem;">
+      <a href="{{ site.BaseURL }}">Home</a>
+      {{ with .Section }}
+      <span style="margin: 0 0.5rem; color: var(--text-secondary);">›</span>
+      <a href="{{ $.BaseURL }}{{ . }}/">{{ . | title }}</a>
+      {{ end }}
+    </nav>
+
+    {{/* H1 - Only one per page */}}
+    <h1 style="font-size: clamp(2rem, 5vw, 3rem);">{{ .Title }}</h1>
+
+    {{/* Post Meta */}}
+    <div class="post-meta">
+      {{ with .Date }}
+      <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "January 2, 2006" }}</time>
+      {{ end }}
+      {{ with .Params.author }}
+      <span>by {{ . }}</span>
+      {{ end }}
+      {{ with .Params.categories }}
+      <span>{{ delimit . ", " }}</span>
+      {{ end }}
+    </div>
+  </header>
+
+  {{/* Featured Image */}}
+  {{ with .Params.image }}
+  <div class="post-image container" style="margin: 2rem auto;">
+    {{ partial "components/featured-image.html" (dict "image" . "alt" $.Title "caption" $.Params.imageCaption) }}
+  </div>
+  {{ end }}
+
+  {{/* Post Content - Enforces H2->H3 hierarchy */}}
+  <div class="post-content container">
+    {{ .Content }}
+
+    {{/* Tags */}}
+    {{ with .Params.tags }}
+    <div class="post-tags" style="margin-top: 3rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+      <span style="font-weight: 500;">Tags:</span>
+      {{ range . }}
+      <a href="{{ "tags/" | relURL }}{{ . | urlize }}" style="background: var(--color-earth-200); padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.875rem; color: var(--text-secondary);">{{ . }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+
+  {{/* Related Posts - "You Might Also Like" */}}
+  {{ if $related }}
+  <section class="related-posts container" aria-labelledby="related-heading">
+    <h2 id="related-heading" style="font-size: 1.5rem; margin-bottom: 2rem;">You Might Also Like</h2>
+    <div class="grid grid-3">
+      {{ range $related }}
+      <article class="card">
+        {{ with .Params.image }}
+        <img src="{{ . | absURL }}" alt="{{ $.Title }}" class="card-image" loading="lazy" decoding="async">
+        {{ end }}
+        <div class="card-content">
+          <h3 class="card-title" style="font-size: 1.125rem;">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </h3>
+          <p class="card-meta">{{ .Date.Format "Jan 2, 2006" }}</p>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+</article>
+{{ end }}

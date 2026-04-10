@@ -1,0 +1,20 @@
+{{/*
+  404 Page - Page Not Found
+*/}}
+{{ define "main" }}
+
+<section class="section" style="min-height: 60vh; display: flex; align-items: center; justify-content: center; text-align: center;">
+  <div class="container">
+    <div style="font-size: 6rem; margin-bottom: 1.5rem; opacity: 0.8;">🐾</div>
+    <h1 style="font-size: clamp(2rem, 5vw, 3rem); margin-bottom: 1rem;">Page Not Found</h1>
+    <p style="font-size: 1.125rem; color: var(--text-secondary); margin-bottom: 2rem; max-width: 500px; margin-left: auto; margin-right: auto;">
+      Oops! The page you're looking for seems to have wandered off. Let's get you back on track.
+    </p>
+    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+      <a href="{{ site.BaseURL }}" class="btn btn-primary">Go Home</a>
+      <a href="{{ "blog/" | relURL }}" class="btn btn-secondary">Browse Blog</a>
+    </div>
+  </div>
+</section>
+
+{{ end }}
