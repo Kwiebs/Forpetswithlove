@@ -54,12 +54,10 @@
         {{ range $tags }}
         <a href="{{ "tags/" | relURL }}{{ . | urlize }}" style="background: var(--color-earth-200); padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.875rem; color: var(--text-secondary); text-decoration: none;">{{ . }}</a>
         {{ end }}
-      {{ else if contains . "," }}
+      {{ else }}
         {{ range (split . ",") }}
         <a href="{{ "tags/" | relURL }}{{ . | urlize }}" style="background: var(--color-earth-200); padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.875rem; color: var(--text-secondary); text-decoration: none;">{{ . }}</a>
         {{ end }}
-      {{ else }}
-        <a href="{{ "tags/" | relURL }}{{ . | urlize }}" style="background: var(--color-earth-200); padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.875rem; color: var(--text-secondary); text-decoration: none;">{{ . }}</a>
       {{ end }}
     </div>
     {{ end }}

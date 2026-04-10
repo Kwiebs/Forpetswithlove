@@ -18,7 +18,7 @@
       {{ range .Paginator.Pages }}
       <article class="card">
         {{ with .Params.image }}
-        <img src="{{ . | absURL }}" alt="{{ .Title }}" class="card-image" loading="lazy" decoding="async">
+        <img src="{{ . | absURL }}" alt="{{ $.Title }}" class="card-image" loading="lazy" decoding="async">
         {{ end }}
         <div class="card-content">
           {{/* H2 for article cards */}}
