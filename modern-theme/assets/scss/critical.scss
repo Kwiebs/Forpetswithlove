@@ -1,0 +1,198 @@
+/* Critical CSS - Above the fold styles for Core Web Vitals */
+:root {
+  /* Pet-Centric Color Palette - 2026 Modern Minimalist */
+  --color-earth-100: #faf8f5;
+  --color-earth-200: #f5f0e8;
+  --color-earth-300: #e8dfd3;
+  --color-earth-400: #d4c4a8;
+  --color-earth-500: #b8a082;
+  --color-earth-600: #9a8269;
+  --color-earth-700: #7d6754;
+  --color-earth-800: #5f4d3d;
+  --color-earth-900: #3d3128;
+  
+  --color-teal-100: #e6f7f7;
+  --color-teal-200: #b3e8e8;
+  --color-teal-300: #80d9d9;
+  --color-teal-400: #4dc9c9;
+  --color-teal-500: #2db3b3;
+  --color-teal-600: #1a8a8a;
+  --color-teal-700: #146666;
+  --color-teal-800: #0d4d4d;
+  --color-teal-900: #073333;
+  
+  /* Light theme (default) */
+  --bg-primary: var(--color-earth-100);
+  --bg-secondary: white;
+  --text-primary: var(--color-earth-900);
+  --text-secondary: var(--color-earth-700);
+  --accent: var(--color-teal-600);
+  --accent-hover: var(--color-teal-700);
+  
+  /* Spacing */
+  --radius: 12px;
+  --radius-lg: 16px;
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  
+  /* Typography */
+  --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-heading: 'Geist', 'Inter', sans-serif;
+  
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+  --shadow-lg: 0 8px 30px rgba(0,0,0,0.12);
+}
+
+/* Dark mode */
+[data-theme="dark"] {
+  --bg-primary: #1a1a1a;
+  --bg-secondary: #242424;
+  --text-primary: #f5f0e8;
+  --text-secondary: #b3a88a;
+  --accent: var(--color-teal-400);
+  --accent-hover: var(--color-teal-300);
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.3);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.4);
+  --shadow-lg: 0 8px 30px rgba(0,0,0,0.5);
+}
+
+/* Reset & Base */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--font-primary);
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--text-primary);
+  background: var(--bg-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Skip Link (Accessibility) */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--accent);
+  color: white;
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius);
+  z-index: 10000;
+  transition: top var(--transition-fast);
+}
+.skip-link:focus { top: var(--space-md); }
+
+/* Typography Scale */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--text-primary);
+}
+
+h1 { font-size: clamp(2rem, 5vw, 3rem); margin-bottom: var(--space-lg); }
+h2 { font-size: clamp(1.5rem, 4vw, 2.25rem); margin-bottom: var(--space-md); }
+h3 { font-size: clamp(1.25rem, 3vw, 1.75rem); margin-bottom: var(--space-md); }
+
+/* Container */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--space-md);
+}
+
+/* Focus styles (Accessibility) */
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Links */
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+a:hover { color: var(--accent-hover); }
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-sm);
+  padding: var(--space-sm) var(--space-lg);
+  font-family: var(--font-primary);
+  font-size: 1rem;
+  font-weight: 500;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: white;
+}
+.btn-primary:hover {
+  background: var(--accent-hover);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.btn-secondary {
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+  border: 2px solid var(--color-earth-300);
+}
+.btn-secondary:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* Glassmorphism Header */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  background: rgba(250, 248, 245, 0.85);
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+
+[data-theme="dark"] .header {
+  background: rgba(26, 26, 26, 0.85);
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+/* Reading Progress Bar */
+.reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 3px;
+  background: linear-gradient(90deg, var(--color-teal-500), var(--color-teal-400));
+  z-index: 10001;
+  transition: width 100ms ease-out;
+}
