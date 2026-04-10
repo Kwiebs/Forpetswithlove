@@ -1,7 +1,6 @@
 baseurl = "https://forpetswithlove.netlify.app/"
 disableLanguages = ["fr"]
 googleAnalytics = "G-GW45MT4LE0"
-googleAnalyticsID = "G-GW45MT4LE0"
 summarylength = "20"
 theme = "vex-hugo"
 title = "For Pets With Love! Everything you want for your pet's needs."
@@ -9,14 +8,13 @@ title = "For Pets With Love! Everything you want for your pet's needs."
 
 # Add outputs for proper sitemap generation (updated) 
 [outputs]
-home = ["HTML", "RSS", "JSON", "SITEMAP"]
+home = ["HTML", "RSS", "JSON"]
 search = ["HTML"]
 
-# Add sitemap output format
-[outputFormats.SITEMAP]
-  mediaType = "application/xml"
-  baseName = "sitemap"
-  isHTML = false
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 [Languages.en]
 contentDir = "content/english"
@@ -61,7 +59,6 @@ main = []
     
   # Analytics Configuration
   [params.analytics]
-    ga4_id = "G-GW45MT4LE0"  # Using existing GA4 ID
     convertkit_api_key = ""  # Add your ConvertKit API key here
     convertkit_forms = { checklist = "", sample = "" }  # Form IDs for ConvertKit forms
     
@@ -104,12 +101,6 @@ blog = "/:filename/"
   category = "categories"
   tag = "tags"
 
-# Updated sitemap configuration
-[sitemap]
-  changefreq = 'weekly'
-  filename = 'sitemap.xml'
-  priority = 0.5
-
 # Added privacy settings for GDPR compliance
 [privacy]
   [privacy.disqus]
@@ -127,4 +118,3 @@ blog = "/:filename/"
   [privacy.youtube]
     disable = true
     privacyEnhanced = true
-
