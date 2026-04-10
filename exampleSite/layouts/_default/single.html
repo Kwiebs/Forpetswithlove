@@ -45,12 +45,21 @@
   <div class="post-content container">
     {{ .Content }}
 
-    {{/* Tags */}}
+    {{/* Tags - handle both array and comma-separated string */}}
     {{ with .Params.tags }}
     <div class="post-tags" style="margin-top: 3rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
       <span style="font-weight: 500;">Tags:</span>
-      {{ range . }}
-      <a href="{{ "tags/" | relURL }}{{ . | urlize }}" style="background: var(--color-earth-200); padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.875rem; color: var(--text-secondary);">{{ . }}</a>
+      {{ $tags := . }}
+      {{ if reflect.IsSlice . }}
+        {{ range $tags }}
+        <a href="{{ "tags/" | relURL }}{{ . | urlize }}" style="background: var(--color-earth-200); padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.875rem; color: var(--text-secondary); text-decoration: none;">{{ . }}</a>
+        {{ end }}
+      {{ else if contains . "," }}
+        {{ range (split . ",") }}
+        <a href="{{ "tags/" | relURL }}{{ . | urlize }}" style="background: var(--color-earth-200); padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.875rem; color: var(--text-secondary); text-decoration: none;">{{ . }}</a>
+        {{ end }}
+      {{ else }}
+        <a href="{{ "tags/" | relURL }}{{ . | urlize }}" style="background: var(--color-earth-200); padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.875rem; color: var(--text-secondary); text-decoration: none;">{{ . }}</a>
       {{ end }}
     </div>
     {{ end }}
