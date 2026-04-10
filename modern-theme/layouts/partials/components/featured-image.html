@@ -1,0 +1,55 @@
+{{/*
+  Featured Image - Responsive with WebP/AVIF support
+  Usage: {{ partial "components/featured-image.html" (dict "image" .Params.image "alt" $.Title "caption" .Params.imageCaption) }}
+*/}}
+
+{{- $image := .image -}}
+{{- $alt := .alt | default "" -}}
+{{- $caption := .caption -}}
+
+{{- $img := resources.Get $image -}}
+{{- if not $img -}}
+  {{- $img = resources.Get (printf "static/%s" $image) -}}
+{{- end -}}
+
+{{- if $img -}}
+<figure style="margin: 2rem 0;">
+  <picture>
+    {{- with $img.Resize "1200x webp" }}
+    <source type="image/webp" srcset="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+    {{- end }}
+    {{- with $img.Resize "1200x avif" }}
+    <source type="image/avif" srcset="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+    {{- end }}
+    <img 
+      src="{{ ($img.Resize "1200x").RelPermalink }}" 
+      srcset="
+        {{ ($img.Resize "400x").RelPermalink }} 400w,
+        {{ ($img.Resize "720x").RelPermalink }} 720w,
+        {{ ($img.Resize "960x").RelPermalink }} 960w,
+        {{ ($img.Resize "1200x").RelPermalink }} 1200w
+      "
+      sizes="(min-width: 768px) 720px, 100vw"
+      alt="{{ $alt }}"
+      loading="lazy"
+      decoding="async"
+      style="width: 100%; height: auto; border-radius: var(--radius-lg);"
+      width="{{ $img.Width }}"
+      height="{{ $img.Height }}"
+    >
+  </picture>
+  {{- with $caption }}
+  <figcaption style="text-align: center; font-size: 0.875rem; color: var(--text-secondary); margin-top: 0.75rem;">
+    {{ . }}
+  </figcaption>
+  {{- end }}
+</figure>
+{{- else }}
+<img 
+  src="{{ $image | absURL }}" 
+  alt="{{ $alt }}"
+  loading="lazy"
+  decoding="async"
+  style="width: 100%; height: auto; border-radius: var(--radius-lg);"
+>
+{{- end }}

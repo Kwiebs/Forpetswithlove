@@ -1,0 +1,73 @@
+{{/*
+  Breadcrumbs - Structured data + visual breadcrumbs
+  Usage: {{ partial "seo/breadcrumbs.html" . }}
+*/}}
+
+{{- $p := . -}}
+{{- $site := site -}}
+
+{{- if and (not $p.IsHome) (ne $p.Section "") -}}
+<nav aria-label="Breadcrumb" class="breadcrumbs" style="font-size: 0.875rem; margin-bottom: 1.5rem;">
+  <ol style="display: flex; align-items: center; gap: 0.5rem; list-style: none; padding: 0; margin: 0; flex-wrap: wrap;">
+    <li>
+      <a href="{{ $site.BaseURL }}" style="color: var(--color-teal-600); text-decoration: none;">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align: middle;">
+          <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+          <polyline points="9 22 9 12 15 12 15 22"/>
+        </svg>
+        <span style="visually-hidden">Home</span>
+      </a>
+    </li>
+    
+    {{- with $p.Section -}}
+    <li style="color: var(--text-secondary);">/</li>
+    <li>
+      <a href="{{ $site.BaseURL }}{{ . }}/" style="color: var(--color-teal-600); text-decoration: none; text-transform: capitalize;">
+        {{ . }}
+      </a>
+    </li>
+    {{- end -}}
+    
+    <li style="color: var(--text-secondary);">/</li>
+    <li style="color: var(--text-secondary);" aria-current="page">
+      {{ $p.Title | truncate 50 }}
+    </li>
+  </ol>
+</nav>
+
+{{/* JSON-LD Breadcrumb Schema - inject in head via seo/jsonld.html */}}
+{{- template "breadcrumb-schema" (dict "p" $p "site" $site) -}}
+{{- end -}}
+
+{{- define "breadcrumb-schema" -}}
+{{- $p := .p -}}
+{{- $site := .site -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ $site.BaseURL }}"
+    }
+    {{- if $p.Section }},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ $p.Section | title }}",
+      "item": "{{ $site.BaseURL }}/{{ $p.Section }}/"
+    }
+    {{- end }},
+    {
+      "@type": "ListItem",
+      "position": {{ if $p.Section }}3{{ else }}2{{ end }},
+      "name": "{{ $p.Title }}",
+      "item": "{{ $p.Permalink }}"
+    }
+  ]
+}
+</script>
+{{- end -}}

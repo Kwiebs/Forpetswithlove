@@ -1,0 +1,29 @@
+{{/* Reading Progress Bar - Fixed top bar showing scroll depth */}}
+<style>
+.reading-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--color-teal-500), var(--color-teal-600));
+  z-index: 10003;
+  transition: width 100ms ease-out;
+}
+</style>
+
+<script>
+(function() {
+  const bar = document.getElementById('readingProgress');
+  if (bar) {
+    const updateProgress = () => {
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = docHeight > 0 ? (window.scrollY / docHeight) * 100 : 0;
+      bar.style.width = Math.min(progress, 100) + '%';
+    };
+    
+    window.addEventListener('scroll', updateProgress, { passive: true });
+    updateProgress();
+  }
+})();
+</script>

@@ -1,0 +1,108 @@
+{{/* Mobile Navigation */}}
+<div class="mobile-nav" id="mobileNav" role="dialog" aria-modal="true" aria-label="Mobile navigation">
+  <div class="mobile-nav-header">
+    <span class="logo" style="font-size: 1.25rem;">
+      <span>🐾</span>
+      <span>{{ site.Title }}</span>
+    </span>
+    <button class="mobile-nav-close" id="mobileNavClose" aria-label="Close menu" style="background: none; border: none; cursor: pointer; padding: 8px;">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <line x1="18" y1="6" x2="6" y2="18"/>
+        <line x1="6" y1="6" x2="18" y2="18"/>
+      </svg>
+    </button>
+  </div>
+  <nav>
+    <ul class="mobile-nav-list">
+      <li>
+        <a href="{{ site.BaseURL }}">Home</a>
+      </li>
+      <li>
+        <a href="{{ "blog/" | relURL }}">Blog</a>
+      </li>
+      <li>
+        <a href="{{ "cats/" | relURL }}">Cat Care</a>
+      </li>
+      <li>
+        <a href="{{ "dogs/" | relURL }}">Dog Care</a>
+      </li>
+      <li>
+        <a href="{{ "cat-scratching-solution-ebook/" | relURL }}">Free Ebook</a>
+      </li>
+      <li>
+        <a href="{{ "about/" | relURL }}">About</a>
+      </li>
+      <li>
+        <a href="{{ "contact/" | relURL }}">Contact</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+<style>
+.mobile-nav {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 10001;
+  background: var(--bg-primary);
+  overflow-y: auto;
+}
+
+.mobile-nav.active {
+  display: block;
+}
+
+.mobile-nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.mobile-nav-list li {
+  border-bottom: 1px solid var(--color-earth-200);
+}
+
+.mobile-nav-list a {
+  display: block;
+  padding: 1rem 1.5rem;
+  color: var(--text-primary);
+  font-weight: 500;
+  font-size: 1.0625rem;
+}
+
+.mobile-nav-list a:hover {
+  background: var(--color-earth-100);
+  color: var(--color-teal-600);
+}
+</style>
+
+<script>
+(function() {
+  const mobileNav = document.getElementById('mobileNav');
+  const mobileNavClose = document.getElementById('mobileNavClose');
+  const menuToggle = document.getElementById('menuToggle');
+  
+  if (mobileNavClose && mobileNav) {
+    mobileNavClose.addEventListener('click', () => {
+      mobileNav.classList.remove('active');
+      document.body.style.overflow = '';
+    });
+  }
+  
+  if (menuToggle && mobileNav) {
+    menuToggle.addEventListener('click', () => {
+      mobileNav.classList.add('active');
+      document.body.style.overflow = 'hidden';
+    });
+  }
+  
+  // Close on escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && mobileNav.classList.contains('active')) {
+      mobileNav.classList.remove('active');
+      document.body.style.overflow = '';
+    }
+  });
+})();
+</script>

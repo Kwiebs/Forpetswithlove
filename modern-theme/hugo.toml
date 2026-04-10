@@ -236,3 +236,16 @@ enable = false
 # SUMMARY LENGTH
 ###############################################################################
 summarylength = 20
+
+###############################################################################
+# ASSET PIPELINE (Hugo Pipes)
+###############################################################################
+[mediaTypes]
+[mediaTypes."image/webp"]
+  suffixes = ["webp"]
+
+[outputFormats]
+[outputFormats.SITEMAP]
+  mediaType = "application/xml"
+  baseName = "sitemap"
+  isHTML = false
