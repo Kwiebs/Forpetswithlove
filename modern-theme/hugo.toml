@@ -1,0 +1,238 @@
+# ForPetsWithLove.com - Hugo Configuration
+# Modern Minimalist Theme - 2026 Standards
+
+###############################################################################
+# BASE SETTINGS
+###############################################################################
+baseurl = "https://forpetswithlove.netlify.app/"
+languageCode = "en-us"
+title = "For Pets With Love"
+theme = "vex-hugo"  # Keep existing theme; modern-theme overlays
+
+###############################################################################
+# MULTILINGUAL SETTINGS  
+###############################################################################
+disableLanguages = ["fr"]
+[Languages.en]
+contentDir = "content/english"
+copyright = "©2026, ForPetsWithLove. All Rights Reserved."
+languageName = "English"
+weight = 1
+
+###############################################################################
+# OUTPUT SETTINGS (SEO-Optimized)
+###############################################################################
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+search = ["HTML"]
+
+###############################################################################
+# SITEMAP (Auto-prioritized)
+###############################################################################
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.7
+  sitemapitems = [
+    {filename = "sitemap.xml", priority = 0.9, changefreq = "daily"},
+    {filename = "blog/sitemap.xml", priority = 0.8, changefreq = "weekly"},
+    {filename = "categories/sitemap.xml", priority = 0.6, changefreq = "weekly"}
+  ]
+
+###############################################################################
+# TAXONOMIES
+###############################################################################
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+###############################################################################
+# PERMALINKS
+###############################################################################
+[permalinks]
+  blog = "/blog/:slug/"
+  page = "/:slug/"
+
+###############################################################################
+# MARKUP (Goldmark + Table of Contents)
+###############################################################################
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow HTML in markdown
+      anchorify = true
+  
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+
+###############################################################################
+# HEADINGS (Strict H1->H2->H3 Hierarchy)
+###############################################################################
+[params.headings]
+  h1Style = "font-size: clamp(2rem, 5vw, 3rem); font-weight: 700; margin-bottom: 1.5rem;"
+  h2Style = "font-size: clamp(1.5rem, 4vw, 2.25rem); font-weight: 600; margin-top: 3rem; margin-bottom: 1rem;"
+  h3Style = "font-size: clamp(1.25rem, 3vw, 1.75rem); font-weight: 600; margin-top: 2rem; margin-bottom: 0.75rem;"
+
+###############################################################################
+# MAIN PARAMS (Site Identity)
+###############################################################################
+[params]
+  # Branding
+  author = "For Pets With Love"
+  description = "Your trusted source for pet care tips, product reviews, and expert advice for happier, healthier pets."
+  logo = "images/logo.png"
+  logo_width = "200px"
+  
+  # Social Images (OG/Twitter)
+  images = ["images/og-default.jpg"]
+  twitter_username = "@forpetswithlove"
+  
+  # Search
+  search = true
+  search_minify = false
+  
+  # Analytics (Single source of truth)
+  googleAnalytics = "G-GW45MT4LE0"
+  
+  # Privacy (GDPR-compliant)
+  [params.privacy]
+    googleAnalyticsAnonymizeIP = true
+    respectDoNotTrack = true
+
+###############################################################################
+# TYPOGRAPHY & DESIGN (2026 Modern Minimalist)
+###############################################################################
+[params.design]
+  # Color Palette - Pet-Centric (Warm Earth + Soft Teal)
+  [params.design.colors]
+    earth_100 = "#faf8f5"
+    earth_200 = "#f5f0e8"
+    earth_300 = "#e8dfd3"
+    earth_400 = "#d4c4a8"
+    earth_500 = "#b8a082"
+    teal_500 = "#2db3b3"
+    teal_600 = "#1a8a8a"
+    teal_700 = "#146666"
+  
+  # Typography
+  font_primary = "Inter, -apple-system, BlinkMacSystemFont, sans-serif"
+  font_heading = "Geist, Inter, sans-serif"
+  
+  # Spacing & Radius
+  border_radius = "12px"
+  border_radius_lg = "16px"
+  
+  # Glassmorphism Header
+  header_blur = "12px"
+  header_bg = "rgba(250, 248, 245, 0.85)"
+
+###############################################################################
+# FEATURE TOGGLES
+###############################################################################
+[params.features]
+  # Core Web Vitals Optimizations
+  critical_css_inline = true
+  deferred_js = true
+  lazy_images = true
+  responsive_images = true
+  
+  # UX Features
+  dark_mode = true
+  dark_mode_persist = true
+  reading_progress_bar = true
+  back_to_top = true
+  instant_search = true
+  
+  # SEO Features
+  seo_opengraph = true
+  seo_twitter_card = true
+  seo_jsonld = true
+  seo_canonical = true
+
+###############################################################################
+# CONTENT & SEO
+###############################################################################
+[params.seo]
+  enable_breadcrumbs = true
+  enable_related_posts = true
+  related_posts_count = 3
+  enable_schema_article = true
+  enable_schema_organization = true
+  enable_schema_breadcrumb = true
+  enable_schema_website = true
+
+###############################################################################
+# EBOOK (Monetization)
+###############################################################################
+[params.ebook]
+  title = "The Cat Scratching Solution"
+  author = "Jane Doe"
+  price = "19.99"
+  currency = "USD"
+  purchase_url = "https://books2read.com/u/47jzOq"
+  guarantee_days = "30"
+  reader_count = "2,500+"
+
+###############################################################################
+# LEAD MAGNET
+###############################################################################
+[params.leadmagnet]
+  title = "Free Cat Scratching Prevention Checklist"
+  description = "10-point checklist to prevent scratching problems before they start"
+  format = "PDF"
+
+###############################################################################
+# PLUGINS (CSS/JS) - Asset Pipeline
+###############################################################################
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.min.css"
+
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+
+###############################################################################
+# PRELOADER
+###############################################################################
+[params.preloader]
+enable = false
+
+###############################################################################
+# MENU (Navigation)
+###############################################################################
+[menu]
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 1
+[[menu.main]]
+  name = "Cat Care"
+  url = "/cats/"
+  weight = 2
+[[menu.main]]
+  name = "Dog Care"
+  url = "/dogs/"
+  weight = 3
+[[menu.main]]
+  name = "Ebook"
+  url = "/cat-scratching-solution-ebook/"
+  weight = 4
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 5
+
+###############################################################################
+# SUMMARY LENGTH
+###############################################################################
+summarylength = 20

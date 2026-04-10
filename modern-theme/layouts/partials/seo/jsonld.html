@@ -1,0 +1,67 @@
+{{/* JSON-LD Structured Data - Schema.org */}}
+{{- $p := . -}}
+{{- $site := site -}}
+{{- $isArticle := or $p.IsPage (eq $p.Type "page") -}}
+{{- $logoUrl := printf "%s%s" $site.BaseURL "images/logo.png" -}}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "{{ $site.BaseURL }}#organization",
+      "name": "{{ $site.Title }}",
+      "url": "{{ $site.BaseURL }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ $logoUrl }}"
+      },
+      "description": "{{ with $site.Params.description }}{{ . }}{{ end }}",
+      "sameAs": [
+        "https://www.facebook.com/forpetswithloveguimaraes/",
+        "https://www.instagram.com/for_pets_withlove/"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ $site.BaseURL }}#website",
+      "url": "{{ $site.BaseURL }}",
+      "name": "{{ $site.Title }}",
+      "description": "{{ with $site.Params.description }}{{ . }}{{ end }}",
+      "publisher": {"@id": "{{ $site.BaseURL }}#organization"},
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "{{ $site.BaseURL }}/search/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }{{ if $isArticle }},
+    {
+      "@type": "Article",
+      "@id": "{{ $p.Permalink }}#article",
+      "headline": "{{ $p.Title }}",
+      "description": "{{ or $p.Params.description $site.Params.description }}",
+      "datePublished": "{{ $p.Date.Format "2006-01-02T15:04:05Z07:00" }}",
+      "dateModified": "{{ with $p.Lastmod }}{{ .Format "2006-01-02T15:04:05Z07:00" }}{{ else }}{{ $p.Date.Format "2006-01-02T15:04:05Z07:00" }}{{ end }}",
+      "image": {{ with $p.Params.image }}{{ if or (hasPrefix . "http") (hasPrefix . "images/") }}"{{ . | absURL }}"{{ else }}"{{ (printf "images/%s" .) | absURL }}"{{ end }}{{ else }}null{{ end }},
+      "url": "{{ $p.Permalink }}",
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "{{ $p.Permalink }}"},
+      "author": {"@type": "Organization", "name": "{{ with $p.Params.author }}{{ . }}{{ else }}{{ $site.Params.author }}{{ end }}"},
+      "publisher": {"@id": "{{ $site.BaseURL }}#organization"},
+      "articleSection": "{{ $p.Section }}",
+      "keywords": {{ with $p.Params.tags }}{{ . | jsonify }}{{ else }}[]{{ end }}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ $p.Permalink }}#breadcrumb",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "{{ $site.BaseURL }}"}
+        {{- if $p.Section }},
+        {"@type": "ListItem", "position": 2, "name": "{{ $p.Section | title }}", "item": "{{ $site.BaseURL }}/{{ $p.Section }}/"}
+        {{- end }},
+        {"@type": "ListItem", "position": {{ if $p.Section }}3{{ else }}2{{ end }}, "name": "{{ $p.Title }}", "item": "{{ $p.Permalink }}"}
+      ]
+    }{{ end }}
+  ]
+}
+</script>

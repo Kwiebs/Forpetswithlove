@@ -1,0 +1,92 @@
+{{/*
+  Responsive Image Shortcode - WebP/AVIF with srcset
+  Usage: {{< img src="images/cat.jpg" alt="A cat" class="my-class" sizes="(min-width: 768px) 720px, 100vw" >}}
+*/}}
+
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $class := .Get "class" | default "" }}
+{{ $sizes := .Get "sizes" | default "(min-width: 768px) 720px, 100vw" }}
+{{ $loading := .Get "loading" | default "lazy" }}
+{{ $width := .Get "width" | default "800" }}
+{{ $height := .Get "height" | default "600" }}
+
+{{/* Try to get resource from assets */}}
+{{ $img := "" }}
+{{ $img = resources.Get $src }}
+{{ if not $img }}
+  {{ $img = resources.Get (printf "static/%s" $src) }}
+{{ end }}
+
+{{/* Fallback for missing images */}}
+{{ if not $img }}
+  <img src="{{ $src | absURL }}" alt="{{ $alt }}" class="{{ $class }}" loading="{{ $loading }}" width="{{ $width }}" height="{{ $height }}">
+{{ else }}
+  {{/* Generate responsive variants */}}
+  {{ $widths := slice 400 720 960 1200 1600 }}
+  
+  {{ $webps := slice }}
+  {{ $avifs := slice }}
+  {{ $jpegs := slice }}
+  
+  {{ range $w := $widths }}
+    {{ with $img.Fill (printf "%dx webp" .) }}
+      {{ $webps = $webps | append (dict "url" .RelPermalink "width" .Width) }}
+    {{ end }}
+    {{ with $img.Fill (printf "%dx avif" .) }}
+      {{ $avifs = $avifs | append (dict "url" .RelPermalink "width" .Width) }}
+    {{ end }}
+    {{ with $img.Fill (printf "%dx jpg" .) }}
+      {{ $jpegs = $jpegs | append (dict "url" .RelPermalink "width" .Width) }}
+    {{ end }}
+  {{ end }}
+  
+  {{/* Build srcset strings */}}
+  {{ $webpSrcset := "" }}
+  {{ range $i, $r := $webps }}
+    {{ if $i }}, {{ end }}
+    {{ $webpSrcset = printf "%s%s %dw" $webpSrcset $r.url $r.width }}
+  {{ end }}
+  
+  {{ $avifSrcset := "" }}
+  {{ range $i, $r := $avifs }}
+    {{ if $i }}, {{ end }}
+    {{ $avifSrcset = printf "%s%s %dw" $avifSrcset $r.url $r.width }}
+  {{ end }}
+  
+  {{ $jpegSrcset := "" }}
+  {{ range $i, $r := $jpegs }}
+    {{ if $i }}, {{ end }}
+    {{ $jpegSrcset = printf "%s%s %dw" $jpegSrcset $r.url $r.width }}
+  {{ end }}
+  
+  {{/* Fallback (720px) */}}
+  {{ $fallback := "" }}
+  {{ range $j := $jpegs }}
+    {{ if eq $j.width 720 }}
+      {{ $fallback = $j.url }}
+    {{ end }}
+  {{ end }}
+  {{ if not $fallback }}
+    {{ $fallback = (index $jpegs 0).url }}
+  {{ end }}
+  
+  <picture class="{{ $class }}">
+    {{ with $avifSrcset }}
+    <source type="image/avif" srcset="{{ $avifSrcset }}" sizes="{{ $sizes }}">
+    {{ end }}
+    {{ with $webpSrcset }}
+    <source type="image/webp" srcset="{{ $webpSrcset }}" sizes="{{ $sizes }}">
+    {{ end }}
+    <img
+      src="{{ $fallback }}"
+      srcset="{{ $jpegSrcset }}"
+      sizes="{{ $sizes }}"
+      alt="{{ $alt }}"
+      loading="{{ $loading }}"
+      decoding="async"
+      class="{{ $class }}"
+      width="{{ $width }}"
+      height="{{ $height }}">
+  </picture>
+{{ end }}

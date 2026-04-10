@@ -1,0 +1,59 @@
+{{/*
+  List Page Template - Blog index, category pages, tag pages
+  Implements: Responsive grid, pagination, proper heading hierarchy
+*/}}
+{{ define "main" }}
+<section class="section">
+  <div class="container">
+    {{/* Page Header - H1 for list pages */}}
+    <header style="text-align: center; margin-bottom: 3rem;">
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}
+      <p style="color: var(--text-secondary); max-width: 600px; margin: 1rem auto 0; font-size: 1.125rem;">{{ . }}</p>
+      {{ end }}
+    </header>
+
+    {{/* Content Grid */}}
+    <div class="grid grid-3">
+      {{ range .Paginator.Pages }}
+      <article class="card">
+        {{ with .Params.image }}
+        <img src="{{ . | absURL }}" alt="{{ .Title }}" class="card-image" loading="lazy" decoding="async">
+        {{ end }}
+        <div class="card-content">
+          {{/* H2 for article cards */}}
+          <h2 class="card-title" style="font-size: 1.25rem;">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </h2>
+          <p class="card-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+            {{ with .Params.categories }} • {{ delimit . ", " }}{{ end }}
+          </p>
+          {{ with .Description }}
+          <p class="card-excerpt">{{ . }}</p>
+          {{ end }}
+          <a href="{{ .Permalink }}" class="btn btn-secondary" style="margin-top: 1rem; font-size: 0.875rem;">Read More</a>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+
+    {{/* Pagination */}}
+    {{ if gt .Paginator.TotalPages 1 }}
+    <nav aria-label="Pagination" style="margin-top: 3rem; display: flex; justify-content: center; gap: 0.5rem;">
+      {{ if .Paginator.HasPrev }}
+      <a href="{{ .Paginator.Prev.URL }}" class="btn btn-secondary">← Previous</a>
+      {{ end }}
+      
+      <span style="display: flex; align-items: center; padding: 0 1rem; color: var(--text-secondary);">
+        Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}
+      </span>
+      
+      {{ if .Paginator.HasNext }}
+      <a href="{{ .Paginator.Next.URL }}" class="btn btn-secondary">Next →</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
