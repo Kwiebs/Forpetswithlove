@@ -1,0 +1,21 @@
+{{- $p := . -}}
+{{- $site := .Site -}}
+
+{{- $title := cond $p.IsHome $site.Title (printf "%s | %s" $p.Title $site.Title) -}}
+{{- $desc := or $p.Params.description $site.Params.description -}}
+{{- $image := "" -}}
+{{- with $p.Params.image }}
+  {{- if or (hasPrefix . "http") (hasPrefix . "images/") }}
+    {{- $image = . | absURL -}}
+  {{- else }}
+    {{- $image = (printf "images/%s" .) | absURL -}}
+  {{- end }}
+{{- else }}
+  {{- with $site.Params.images }}{{ $image = (index . 0) | absURL }}{{ end }}
+{{- end -}}
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ $title }}" />
+<meta name="twitter:description" content="{{ $desc }}" />
+{{ with $image }}<meta name="twitter:image" content="{{ . }}" />{{ end }}
+{{ with $site.Params.twitter_username }}<meta name="twitter:site" content="{{ . }}" />{{ end }}
