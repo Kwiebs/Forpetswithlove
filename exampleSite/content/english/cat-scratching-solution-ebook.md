@@ -85,9 +85,9 @@ Perfect for first-time and intermediate cat owners who want a damage-free home w
 ## Get the eBook
 
 **Read it on your favorite store**
-### [Get The Cat Scratching Solution Now](https://books2read.com/u/47jzOq)
+### <a href="https://books2read.com/u/47jzOq" target="_blank" rel="nofollow noopener noreferrer">Get The Cat Scratching Solution Now</a>
 
-### [Also available on amazon](https://amzn.to/3KWyXG1)
+### <a href="https://amzn.to/3KWyXG1" target="_blank" rel="nofollow noopener noreferrer">Also available on Amazon</a>
 
 ---
 
@@ -264,9 +264,9 @@ While you'll find scattered advice online, this is the only comprehensive, teste
 
 Join 2,500+ cat owners who've solved their scratching problems with this proven system
 
-### [Get The Cat Scratching Solution Now](https://books2read.com/u/47jzOq)
+### <a href="https://books2read.com/u/47jzOq" target="_blank" rel="nofollow noopener noreferrer">Get The Cat Scratching Solution Now</a>
 
-### [Also available on amazon](https://amzn.to/3KWyXG1)
+### <a href="https://amzn.to/3KWyXG1" target="_blank" rel="nofollow noopener noreferrer">Also available on Amazon</a>
 
 *Instant download • Works on all devices*
 

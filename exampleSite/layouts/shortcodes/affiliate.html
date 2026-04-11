@@ -1,0 +1,25 @@
+{{/*
+  Affiliate Link Shortcode
+  Properly outputs external affiliate links with safeURL and SEO-compliant attributes.
+
+  Usage:
+  {{< affiliate "https://amazon.com/product" "Product Name" >}}
+  {{< affiliate "https://amazon.com/product" "Product Name" "aria-label text" >}}
+
+  This shortcode:
+  - Uses safeURL to prevent Hugo's sanitizer from stripping query params
+  - Adds target="_blank" for external links
+  - Adds rel="nofollow noopener noreferrer" for SEO compliance
+  - Preserves affiliate query parameters (?tag=, ?ref=, etc.)
+*/}}
+
+{{- $url := .Get 0 -}}
+{{- $text := .Get 1 -}}
+{{- $label := .Get 2 | default $text -}}
+
+<a href="{{ $url | safeURL }}"
+   target="_blank"
+   rel="nofollow noopener noreferrer"
+   aria-label="{{ $label }}">
+   {{ $text }}
+</a>

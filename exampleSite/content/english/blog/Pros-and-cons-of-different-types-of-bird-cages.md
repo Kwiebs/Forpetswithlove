@@ -20,7 +20,7 @@ When it comes to keeping birds as pets, one of the most important decisions you'
 
 [Glass bird cages](https://amzn.to/3kQJA0t) offer a clear view of your pet and are easy to clean, but they are also fragile and may not provide enough ventilation.
 
-<a href="https://www.amazon.com/Prevue-Products-Clear-Crystal-Palace/dp/B0BL435YRR?crid=318Z2ULUPAYMY&keywords=Glass+bird+cage&qid=1678212314&sprefix=glass+bird+cage%2Caps%2C236&sr=8-2&linkCode=li2&tag=forpetswith0d-20&linkId=3f4e06313afef3a491b10ad0efb47c66&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BL435YRR&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith0d-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith0d-20&language=en_US&l=li2&o=1&a=B0BL435YRR" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/Prevue-Products-Clear-Crystal-Palace/dp/B0BL435YRR?crid=318Z2ULUPAYMY&keywords=Glass+bird+cage&qid=1678212314&sprefix=glass+bird+cage%2Caps%2C236&sr=8-2&linkCode=li2&tag=forpetswith0d-20&linkId=3f4e06313afef3a491b10ad0efb47c66&language=en_US&ref_=as_li_ss_il" target="_blank" rel="nofollow noopener noreferrer"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BL435YRR&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith0d-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith0d-20&language=en_US&l=li2&o=1&a=B0BL435YRR" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### Pros:
 
@@ -34,7 +34,7 @@ Poor Ventilation: Glass bird cages may not provide enough ventilation for your p
 
 ## [Metal Bird Cages](https://amzn.to/3F3GvRk)
 
-<a href="https://www.amazon.com/61-Bird-Cage-Lovebirds-Cockatiels/dp/B0B77B6S7S?crid=MOKUW0TF2C1S&keywords=Metal+Bird+Cage&qid=1678212538&sprefix=metal+bird+cage%2Caps%2C226&sr=8-6&linkCode=li2&tag=forpetswith0d-20&linkId=7b3959539b1a4dcb9e58131bd532776c&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B77B6S7S&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith0d-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith0d-20&language=en_US&l=li2&o=1&a=B0B77B6S7S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/61-Bird-Cage-Lovebirds-Cockatiels/dp/B0B77B6S7S?crid=MOKUW0TF2C1S&keywords=Metal+Bird+Cage&qid=1678212538&sprefix=metal+bird+cage%2Caps%2C226&sr=8-6&linkCode=li2&tag=forpetswith0d-20&linkId=7b3959539b1a4dcb9e58131bd532776c&language=en_US&ref_=as_li_ss_il" target="_blank" rel="nofollow noopener noreferrer"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B77B6S7S&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith0d-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith0d-20&language=en_US&l=li2&o=1&a=B0B77B6S7S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 [Metal Bird Cages](https://amzn.to/3F3GvRk) are strong, durable and long-lasting, but they can also be heavy and difficult to move.
 
@@ -50,7 +50,7 @@ May be Difficult to Clean: Some metal bird cages have nooks and crannies that ca
 
 ## [Wooden Bird Cages](https://amzn.to/3kU89tm)
 
-<a href="https://www.amazon.com/TRIXIE-Outdoor-Birdcage-Perches-Finches/dp/B072HMN8BD?crid=2BUBNC6U7620L&keywords=Wooden+Bird+Cage&qid=1678212627&sprefix=wooden+bird+cage%2Caps%2C250&sr=8-3&linkCode=li2&tag=forpetswith0d-20&linkId=98e0efc4b8912a25f8f6765148edbc8a&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B072HMN8BD&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith0d-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith0d-20&language=en_US&l=li2&o=1&a=B072HMN8BD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/TRIXIE-Outdoor-Birdcage-Perches-Finches/dp/B072HMN8BD?crid=2BUBNC6U7620L&keywords=Wooden+Bird+Cage&qid=1678212627&sprefix=wooden+bird+cage%2Caps%2C250&sr=8-3&linkCode=li2&tag=forpetswith0d-20&linkId=98e0efc4b8912a25f8f6765148edbc8a&language=en_US&ref_=as_li_ss_il" target="_blank" rel="nofollow noopener noreferrer"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B072HMN8BD&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith0d-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith0d-20&language=en_US&l=li2&o=1&a=B072HMN8BD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 [Wooden Bird Cages](https://amzn.to/3kU89tm) provide a natural and warm environment for your pet, but they can also be heavy, difficult to clean and prone to decay.
 
@@ -67,7 +67,7 @@ Prone to Decay: [Wooden Bird Cages](https://amzn.to/3kU89tm) are prone to decay,
 
 ## [Plastic bird cages](https://amzn.to/3SVhPjS)
 
-<a href="https://www.amazon.com/Prevue-Pet-Products-Economy-31991/dp/B08F7Y7TQX?crid=1XQQ8B2QE31LP&keywords=Plastic+bird+cage&qid=1678212730&sprefix=plastic+bird+cage%2Caps%2C221&sr=8-7&linkCode=li2&tag=forpetswith0d-20&linkId=502d7d655e2cf59f9cbc331cac130828&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08F7Y7TQX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith0d-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith0d-20&language=en_US&l=li2&o=1&a=B08F7Y7TQX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/Prevue-Pet-Products-Economy-31991/dp/B08F7Y7TQX?crid=1XQQ8B2QE31LP&keywords=Plastic+bird+cage&qid=1678212730&sprefix=plastic+bird+cage%2Caps%2C221&sr=8-7&linkCode=li2&tag=forpetswith0d-20&linkId=502d7d655e2cf59f9cbc331cac130828&language=en_US&ref_=as_li_ss_il" target="_blank" rel="nofollow noopener noreferrer"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08F7Y7TQX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith0d-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith0d-20&language=en_US&l=li2&o=1&a=B08F7Y7TQX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 [Plastic bird cages](https://amzn.to/3SVhPjS) are lightweight, easy to clean and affordable, but they can also be flimsy and provide poor ventilation.
 
