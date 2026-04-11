@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["fish tank cleaning", "aquarium maintenance", "water change", "fish care"]
 categories: ["Fish Care"]
-image: "images/blog/fish-tank.jpg"
+image: "images/fish-tank.jpg"
 ---
 # How to Clean a Fish Tank Properly
 

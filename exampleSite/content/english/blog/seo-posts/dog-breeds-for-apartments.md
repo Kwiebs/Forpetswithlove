@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["apartment dog", "small space dogs", "best dog breeds", "apartment living"]
 categories: ["Dog Care"]
-image: "images/blog/apartment-dog.jpg"
+image: "images/apartment-dog.jpg"
 ---
 # Best Dog Breeds for Apartment Living
 

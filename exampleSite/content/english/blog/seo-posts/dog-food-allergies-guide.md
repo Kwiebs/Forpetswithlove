@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["dog food allergies", "food elimination diet", "dog itchy skin", "dog nutrition"]
 categories: ["Dog Health", "Nutrition"]
-image: "images/blog/dog-food.jpg"
+image: "images/dog-food.jpg"
 ---
 # Dog Food Allergies Guide
 

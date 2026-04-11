@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["cat scratching", "cat training", "protect furniture", "scratching post"]
 categories: ["Cat Behavior", "Cat Training"]
-image: "images/blog/cat-scratching.jpg"
+image: "images/cat-scratching.jpg"
 ---
 # Cat Scratching Furniture Solutions
 

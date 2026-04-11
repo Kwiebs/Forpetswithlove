@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["dog allergies", "dog skin problems", "dog itching", "food allergies dogs"]
 categories: ["Dog Health"]
-image: "images/blog/dog-allergies.jpg"
+image: "images/dog-allergies.jpg"
 ---
 # Dog Allergies: Complete Guide
 

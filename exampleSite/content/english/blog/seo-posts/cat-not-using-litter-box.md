@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["litter box problems", "cat not using litter box", "litter box training", "cat bathroom"]
 categories: ["Cat Behavior", "Cat Health"]
-image: "images/blog/litter-box-issue.jpg"
+image: "images/litter-box-issue.jpg"
 ---
 # Cat Not Using Litter Box
 

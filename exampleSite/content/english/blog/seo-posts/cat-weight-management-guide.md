@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["cat weight", "obese cat", "cat diet", "cat nutrition"]
 categories: ["Cat Health", "Cat Care"]
-image: "images/blog/cat-weight.jpg"
+image: "images/cat-weight.jpg"
 ---
 # Cat Weight Management Guide
 

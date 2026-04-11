@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["snake feeding", "snake won't eat", "pet snake care", "reptile health"]
 categories: ["Reptile Care"]
-image: "images/blog/snake.jpg"
+image: "images/snake.jpg"
 ---
 # Snake Feeding Problems
 

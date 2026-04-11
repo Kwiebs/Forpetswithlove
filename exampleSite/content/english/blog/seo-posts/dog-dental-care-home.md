@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["dog dental care", "dog teeth brushing", "periodontal disease", "dog oral health"]
 categories: ["Dog Health"]
-image: "images/blog/dog-dental.jpg"
+image: "images/dog-dental.jpg"
 ---
 # Dog Dental Care at Home
 

@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["bearded dragon diet", "reptile feeding", "dragon food", "insects for bearded dragons"]
 categories: ["Reptile Care"]
-image: "images/blog/bearded-dragon.jpg"
+image: "images/bearded-dragon.jpg"
 ---
 # Bearded Dragon Diet Guide
 

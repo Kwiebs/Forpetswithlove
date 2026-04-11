@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["heartworm", "dog heartworm prevention", "pet medication", "dog health"]
 categories: ["Dog Health"]
-image: "images/blog/heartworm.jpg"
+image: "images/heartworm.jpg"
 ---
 # Dog Heartworm Prevention Guide
 

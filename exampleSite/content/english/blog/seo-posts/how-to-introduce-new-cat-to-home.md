@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["cat introduction", "multi-cat household", "cat behavior", "new cat"]
 categories: ["Cat Behavior"]
-image: "images/blog/cat-intro.jpg"
+image: "images/cat-intro.jpg"
 ---
 # How to Introduce a New Cat to Your Home
 

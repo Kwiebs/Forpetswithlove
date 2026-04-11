@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["puppy training", "crate training", "housetraining", "puppy care"]
 categories: ["Dog Training", "Puppy Care"]
-image: "images/blog/crate-training.jpg"
+image: "images/crate-training.jpg"
 ---
 # Puppy Crate Training Guide
 

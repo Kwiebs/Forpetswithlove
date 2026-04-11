@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["turtle care", "tortoise care", "reptile pet", "turtle habitat"]
 categories: ["Reptile Care"]
-image: "images/blog/turtle.jpg"
+image: "images/turtle.jpg"
 ---
 # Turtle and Tortoise Care Guide
 

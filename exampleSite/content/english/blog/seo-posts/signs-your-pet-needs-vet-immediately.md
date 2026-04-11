@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["pet emergency", "vet care", "pet health", "animal first aid"]
 categories: ["Pet Health"]
-image: "images/blog/vet-care.jpg"
+image: "images/vet-care.jpg"
 ---
 # Emergency Warning Signs in Pets
 

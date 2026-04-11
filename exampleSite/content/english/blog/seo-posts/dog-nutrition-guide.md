@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["dog nutrition", "dog food", "dog feeding guide", "puppy nutrition"]
 categories: ["Dog Health", "Nutrition"]
-image: "images/blog/dog-nutrition.jpg"
+image: "images/dog-nutrition.jpg"
 ---
 # Dog Nutrition Guide
 

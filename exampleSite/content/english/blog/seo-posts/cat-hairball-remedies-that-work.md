@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["cat hairballs", "cat health", "hairball remedy", "cat digestion"]
 categories: ["Cat Health"]
-image: "images/blog/hairball.jpg"
+image: "images/hairball.jpg"
 ---
 # Cat Hairball Remedies That Actually Work
 

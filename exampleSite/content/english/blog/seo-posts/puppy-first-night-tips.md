@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["new puppy", "puppy first night", "puppy sleep", "puppy adjustment"]
 categories: ["Puppy Care"]
-image: "images/blog/puppy-first-night.jpg"
+image: "images/puppy-first-night.jpg"
 ---
 # Puppy's First Night Home
 

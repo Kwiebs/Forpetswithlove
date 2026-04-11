@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["budgie training", "parakeet tricks", "bird training", "teach bird to talk"]
 categories: ["Bird Care"]
-image: "images/blog/budgie.jpg"
+image: "images/budgie.jpg"
 ---
 # Budgie Training Basics
 

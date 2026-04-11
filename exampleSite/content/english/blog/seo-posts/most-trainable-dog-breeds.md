@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["trainable dogs", "easy to train dogs", "dog intelligence", "best dog breeds"]
 categories: ["Dog Training"]
-image: "images/blog/trainable-dogs.jpg"
+image: "images/trainable-dogs.jpg"
 ---
 # Most Trainable Dog Breeds
 

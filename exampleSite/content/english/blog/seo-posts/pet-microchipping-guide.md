@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["microchip pet", "pet safety", "lost pet", "pet identification"]
 categories: ["Pet Safety"]
-image: "images/blog/microchip.jpg"
+image: "images/microchip.jpg"
 ---
 # Pet Microchipping Guide
 

@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["cat litter box", "large cat", "big cat", "litter box size"]
 categories: ["Cat Care"]
-image: "images/blog/litter-box.jpg"
+image: "images/litter-box.jpg"
 ---
 # Best Litter Box for Large Cats
 

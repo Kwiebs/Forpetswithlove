@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["dog seasons", "summer dog care", "winter dog care", "dog safety"]
 categories: ["Dog Care", "Pet Safety"]
-image: "images/blog/dog-seasons.jpg"
+image: "images/dog-seasons.jpg"
 ---
 # Seasonal Dog Care Guide
 

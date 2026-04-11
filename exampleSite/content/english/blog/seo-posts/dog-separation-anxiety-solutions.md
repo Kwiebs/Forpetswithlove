@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["separation anxiety", "dog anxiety", "dog destructive behavior", "dog stress"]
 categories: ["Dog Behavior", "Dog Training"]
-image: "images/blog/dog-anxiety.jpg"
+image: "images/dog-anxiety.jpg"
 ---
 # Dog Separation Anxiety Solutions
 

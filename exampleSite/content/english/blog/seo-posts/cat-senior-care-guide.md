@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["senior cat", "older cat care", "cat aging", "senior cat health"]
 categories: ["Cat Health", "Cat Care"]
-image: "images/blog/senior-cat.jpg"
+image: "images/senior-cat.jpg"
 ---
 # Senior Cat Care Guide
 

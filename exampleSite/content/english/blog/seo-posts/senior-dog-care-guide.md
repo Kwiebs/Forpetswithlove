@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["senior dog", "older dog care", "dog aging", "senior dog health"]
 categories: ["Dog Health", "Dog Care"]
-image: "images/blog/senior-dog.jpg"
+image: "images/senior-dog.jpg"
 ---
 # Senior Dog Care Guide
 

@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["pet safety", "home pet-proofing", "pet hazards", "pet-proofing"]
 categories: ["Pet Care", "Pet Safety"]
-image: "images/blog/pet-proof.jpg"
+image: "images/pet-proof.jpg"
 ---
 # Pet-Proof Your Home Room-by-Room
 

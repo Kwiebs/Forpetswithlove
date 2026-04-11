@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["dog fleas", "tick prevention dogs", "dog parasite control", "dog health"]
 categories: ["Dog Health"]
-image: "images/blog/dog-fleas.jpg"
+image: "images/dog-fleas.jpg"
 ---
 # Dog Flea and Tick Prevention Guide
 

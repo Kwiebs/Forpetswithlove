@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["hamster care", "hamster cage", "hamster food", "pet hamster"]
 categories: ["Small Pet Care"]
-image: "images/blog/hamster.jpg"
+image: "images/hamster.jpg"
 ---
 # Hamster Care 101: Complete Beginner's Guide
 

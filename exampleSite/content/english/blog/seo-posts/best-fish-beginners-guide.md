@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["beginner fish", "freshwater fish", "easy fish to keep", "aquarium setup"]
 categories: ["Fish Care"]
-image: "images/blog/beginner-fish.jpg"
+image: "images/beginner-fish.jpg"
 ---
 # Best Fish for Beginners
 

@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["dog training", "fetch", "playtime", "interactive games"]
 categories: ["Dog Training", "Dog Care"]
-image: "images/blog/dog-fetch.jpg"
+image: "images/dog-fetch.jpg"
 ---
 # How to Teach Your Dog to Fetch
 

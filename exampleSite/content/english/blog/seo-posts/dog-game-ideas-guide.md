@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["dog games", "dog playtime", "fun with dog", "dog enrichment"]
 categories: ["Dog Care", "Dog Training"]
-image: "images/blog/dog-games.jpg"
+image: "images/dog-games.jpg"
 ---
 # 50 Fun Games to Play with Your Dog
 

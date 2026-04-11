@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["cat nutrition", "cat food", "obligate carnivore", "wet cat food"]
 categories: ["Cat Health", "Cat Care"]
-image: "images/blog/cat-nutrition.jpg"
+image: "images/cat-nutrition.jpg"
 ---
 # Cat Nutrition Guide
 

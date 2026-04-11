@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["dog vitamins", "dog supplements", "pet nutrition", "dog health"]
 categories: ["Dog Health", "Nutrition"]
-image: "images/blog/dog-vitamins.jpg"
+image: "images/dog-vitamins.jpg"
 ---
 # Dog Vitamins and Supplements Guide
 

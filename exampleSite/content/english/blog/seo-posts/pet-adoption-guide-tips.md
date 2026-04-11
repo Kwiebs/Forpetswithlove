@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["pet adoption", "shelter pet", "adopting a pet", "rescue pet"]
 categories: ["Pet Care"]
-image: "images/blog/pet-adoption.jpg"
+image: "images/pet-adoption.jpg"
 ---
 # Pet Adoption Guide
 

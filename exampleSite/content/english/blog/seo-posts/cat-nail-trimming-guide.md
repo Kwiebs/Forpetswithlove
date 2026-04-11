@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["cat nail trim", "cat grooming", "cat claws", "cat care"]
 categories: ["Cat Care", "Cat Grooming"]
-image: "images/blog/cat-nails.jpg"
+image: "images/cat-nails.jpg"
 ---
 # Cat Nail Trimming Guide
 

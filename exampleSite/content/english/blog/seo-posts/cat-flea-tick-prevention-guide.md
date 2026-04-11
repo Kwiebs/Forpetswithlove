@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["cat fleas", "tick prevention cats", "cat parasite control", "cat health"]
 categories: ["Cat Health"]
-image: "images/blog/cat-fleas.jpg"
+image: "images/cat-fleas.jpg"
 ---
 # Cat Flea and Tick Prevention Guide
 

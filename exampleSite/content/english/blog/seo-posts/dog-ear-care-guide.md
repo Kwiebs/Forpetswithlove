@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["dog ear infection", "dog ear care", "dog ear cleaning", "dog health"]
 categories: ["Dog Health", "Dog Care"]
-image: "images/blog/dog-ears.jpg"
+image: "images/dog-ears.jpg"
 ---
 # Dog Ear Care Guide
 

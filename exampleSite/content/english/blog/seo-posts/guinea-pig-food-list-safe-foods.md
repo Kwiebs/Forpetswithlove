@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["guinea pig food", "guinea pig diet", "safe vegetables", "pet guinea pig"]
 categories: ["Small Pet Care"]
-image: "images/blog/guinea-pig.jpg"
+image: "images/guinea-pig.jpg"
 ---
 # Guinea Pig Safe Foods List
 

@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["rabbit care", "pet rabbit", "rabbit food", "rabbit health"]
 categories: ["Small Pet Care"]
-image: "images/blog/rabbit.jpg"
+image: "images/rabbit.jpg"
 ---
 # Rabbit Care Guide
 

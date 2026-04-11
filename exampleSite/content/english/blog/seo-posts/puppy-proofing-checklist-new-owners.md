@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["new puppy", "puppy checklist", "puppy supplies", "puppy ownership"]
 categories: ["Puppy Care", "Dog Care"]
-image: "images/blog/puppy-checklist.jpg"
+image: "images/puppy-checklist.jpg"
 ---
 # New Puppy Checklist: Everything You Need
 

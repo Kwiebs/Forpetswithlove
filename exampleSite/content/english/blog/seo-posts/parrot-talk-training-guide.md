@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["parrot training", "teach parrot to talk", "bird talking", "parrot care"]
 categories: ["Bird Care"]
-image: "images/blog/parrot.jpg"
+image: "images/parrot.jpg"
 ---
 # Teaching Your Parrot to Talk
 

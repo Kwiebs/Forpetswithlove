@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["hypoallergenic cat", "cat breeds", "cat allergies", "allergy-friendly cats"]
 categories: ["Cat Care"]
-image: "images/blog/hypoallergenic-cat.jpg"
+image: "images/hypoallergenic-cat.jpg"
 ---
 # Best Cat Breeds for Allergy Sufferers
 

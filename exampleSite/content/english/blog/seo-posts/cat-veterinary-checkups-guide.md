@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["cat vet visits", "cat wellness exam", "feline health", "vet checkups"]
 categories: ["Cat Health"]
-image: "images/blog/cat-vet.jpg"
+image: "images/cat-vet.jpg"
 ---
 # Cat Veterinary Checkup Guide
 

@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["dog grooming", "grooming tools", "dog brush", "nail trimming"]
 categories: ["Dog Care", "Dog Grooming"]
-image: "images/blog/grooming.jpg"
+image: "images/grooming.jpg"
 ---
 # Best Dog Grooming Tools for Home
 

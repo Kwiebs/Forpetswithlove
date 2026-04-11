@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["dog dental care", "dog toothpaste", "dog teeth brushing", "dog oral health"]
 categories: ["Dog Health", "Dog Care"]
-image: "images/blog/dog-toothpaste.jpg"
+image: "images/dog-toothpaste.jpg"
 ---
 # Dog Toothpaste and Brushing Guide
 

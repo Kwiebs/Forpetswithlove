@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["dog training", "dog barking", "door training", "quiet command"]
 categories: ["Dog Training"]
-image: "images/blog/dog-barking.jpg"
+image: "images/dog-barking.jpg"
 ---
 # How to Stop Dog Barking at the Door
 

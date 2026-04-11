@@ -5,7 +5,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 tags: ["leash training", "loose leash walking", "dog walking", "dog training"]
 categories: ["Dog Training"]
-image: "images/blog/leash-training.jpg"
+image: "images/leash-training.jpg"
 ---
 # Leash Training Guide
 
