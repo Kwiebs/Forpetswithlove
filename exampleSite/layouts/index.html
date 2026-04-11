@@ -115,14 +115,7 @@
     </p>
     {{ if site.Params.kit_form_id }}
     <a href="https://forpetswithlove.kit.com/{{ site.Params.kit_form_id }}" class="btn btn-primary" target="_blank" rel="noopener nofollow" style="display: inline-block; text-decoration: none;">Subscribe</a>
-    {{ else }}
-    {{ else }}
-    <form class="newsletter-form" style="max-width: 400px; margin: 0 auto;" action="https://forpetswithlove.kit.com/{{ site.Params.kit_form_id }}" method="get" target="_blank" rel="noopener nofollow">
-      <input type="email" class="newsletter-input" placeholder="your@email.com" required style="flex: 1;">
-      <button type="submit" class="btn btn-primary">Subscribe</button>
-    </form>
     {{ end }}
   </div>
 </section>
 
-{{ end }}
