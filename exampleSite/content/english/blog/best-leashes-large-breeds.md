@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["large breed leashes", "dog leashes", "large dog care"]
 categories: ["Dog Care", "Large Breeds"]
-image: images/BlueFish.jpg
+image: images/dog-walking.jpg
 permalink: /best-leashes-large-breeds/
 ---
 

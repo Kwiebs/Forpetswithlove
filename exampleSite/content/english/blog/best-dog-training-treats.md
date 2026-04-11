@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["dog training treats", "dog training", "positive reinforcement"]
 categories: ["Dog Training", "Dog Care"]
-image: images/BlueFish.jpg
+image: images/dog_treat.jpg
 permalink: /best-dog-training-treats/
 ---
 

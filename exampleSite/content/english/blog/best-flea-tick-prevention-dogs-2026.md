@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["flea prevention", "tick prevention", "dog health"]
 categories: ["Dog Health", "Parasite Prevention"]
-image: images/BlueFish.jpg
+image: images/Dog-tick.jpg
 permalink: /best-flea-tick-prevention-dogs-2026/
 ---
 

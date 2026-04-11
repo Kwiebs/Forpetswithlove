@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["dog jackets", "winter dog wear", "dog clothing"]
 categories: ["Dog Care", "Seasonal"]
-image: images/BlueFish.jpg
+image: images/dog_winter.jpg
 permalink: /best-dog-jackets-cold-weather/
 ---
 

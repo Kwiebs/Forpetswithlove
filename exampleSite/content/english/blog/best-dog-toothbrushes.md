@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["dog dental care", "dog toothbrushes", "dog health"]
 categories: ["Dog Health", "Grooming"]
-image: images/BlueFish.jpg
+image: images/dog-dental.jpg
 permalink: /best-dog-toothbrushes/
 ---
 

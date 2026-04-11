@@ -5,7 +5,7 @@ date: 2026-03-21
 author: "For Pets With Love"
 tags: ["automatic dog feeders", "dog feeding", "dog care"]
 categories: ["Dog Care", "Pet Products"]
-image: images/BlueFish.jpg
+image: images/dog_toys.jpg
 permalink: /best-automatic-dog-feeders/
 ---
 

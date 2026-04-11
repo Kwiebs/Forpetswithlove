@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["dog training", "rescue dogs", "anxiety", "dog behavior"]
 categories: ["Dog", "Training"]
-image: images/dog_anxiety.jpg
+image: images/dog-anxiety.jpg
 permalink: /dog-training-rescue-dogs-anxiety/
 ---
 

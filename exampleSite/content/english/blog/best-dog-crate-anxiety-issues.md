@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["anxious dogs", "dog crates", "dog anxiety"]
 categories: ["Dog Behavior", "Dog Care"]
-image: images/BlueFish.jpg
+image: images/dog_toys.jpg
 permalink: /best-dog-crate-anxiety-issues/
 ---
 
