@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["hamster wheels", "hamster exercise", "hamster care"]
 categories: ["Small Pet Care", "Enrichment"]
-image: images/BlueFish.jpg
+image: images/happy_hamster.jpg
 permalink: /best-hamster-wheels-exercise/
 ---
 

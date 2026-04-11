@@ -5,7 +5,7 @@ date: 2026-03-21
 author: "For Pets With Love"
 tags: ["aquarium heaters", "small tank heaters", "fish care"]
 categories: ["Fish Care", "Equipment"]
-image: images/BlueFish.jpg
+image: images/fish_tank.jpg
 permalink: /best-aquarium-heaters-small-tanks/
 ---
 

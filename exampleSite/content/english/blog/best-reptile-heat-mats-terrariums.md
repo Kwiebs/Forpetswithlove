@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["reptile heating", "heat mats", "terrarium supplies"]
 categories: ["Reptile Care", "Equipment"]
-image: images/BlueFish.jpg
+image: images/reptile-pets.jpg
 permalink: /best-reptile-heat-mats-terrariums/
 ---
 

@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["overweight cats", "cat treats", "cat weight management"]
 categories: ["Cat Health", "Nutrition"]
-image: images/BlueFish.jpg
+image: images/cat-toys.jpg
 permalink: /best-cat-treats-overweight-cats/
 ---
 

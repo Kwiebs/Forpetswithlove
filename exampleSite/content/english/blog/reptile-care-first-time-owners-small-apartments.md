@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["reptile care", "apartment pets", "first-time reptile owner", "small pets"]
 categories: ["Reptile", "Care Guide"]
-image: images/birdcage.jpg
+image: images/reptile-pets.jpg
 permalink: /reptile-care-first-time-owners-small-apartments/
 ---
 

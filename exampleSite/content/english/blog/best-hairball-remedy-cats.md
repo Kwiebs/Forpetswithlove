@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["cat hairballs", "cat digestive health", "cat care"]
 categories: ["Cat Health", "Digestive Health"]
-image: images/BlueFish.jpg
+image: images/cat-toys.jpg
 permalink: /best-hairball-remedy-cats/
 ---
 

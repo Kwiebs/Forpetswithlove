@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["puppy food", "sensitive stomach", "dog nutrition"]
 categories: ["Dog Health", "Nutrition"]
-image: images/cat_food.jpg
+image: images/puppy.jpg
 permalink: /best-dog-foods-puppies-sensitive-stomachs/
 ---
 

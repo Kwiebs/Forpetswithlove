@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["aquarium filter comparison", "canister vs HOB filter", "fish tank equipment", "aquarium setup"]
 categories: ["Fish", "Comparisons"]
-image: images/BlueFish.jpg
+image: images/fish_tank.jpg
 permalink: /canister-vs-hob-fish-filter-comparison/
 ---
 

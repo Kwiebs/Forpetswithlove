@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["cat carriers", "cat travel", "pet supplies"]
 categories: ["Cat Care", "Travel"]
-image: images/BlueFish.jpg
+image: images/cat-toys.jpg
 permalink: /best-cat-carrier-travel/
 ---
 

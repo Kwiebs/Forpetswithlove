@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["fish tank setup", "aquarium setup", "freshwater fish", "beginner aquarium"]
 categories: ["Fish", "Care Guide"]
-image: images/BlueFish.jpg
+image: images/fish_tank.jpg
 permalink: /fish-tank-setup-beginners-step-by-step/
 ---
 

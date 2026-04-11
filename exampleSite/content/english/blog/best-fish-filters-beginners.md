@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["aquarium filters", "fish care", "beginner aquarium"]
 categories: ["Fish Care", "Equipment"]
-image: images/BlueFish.jpg
+image: images/fish_tank.jpg
 permalink: /best-fish-filters-beginners/
 ---
 

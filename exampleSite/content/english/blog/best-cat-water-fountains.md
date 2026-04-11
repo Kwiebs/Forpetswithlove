@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["cat water fountains", "cat hydration", "cat care"]
 categories: ["Cat Care", "Household"]
-image: images/BlueFish.jpg
+image: images/cat-toys.jpg
 permalink: /best-cat-water-fountains/
 ---
 

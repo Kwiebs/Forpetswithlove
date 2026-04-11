@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["arthritis in dogs", "orthopedic dog beds", "dog joint health"]
 categories: ["Dog Health", "Senior Dog Care"]
-image: images/cat-bed.jpg
+image: images/dog-bed.jpg
 permalink: /best-dog-beds-arthritis/
 ---
 

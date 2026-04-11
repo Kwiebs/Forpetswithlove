@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["reptile heating", "heat lamp vs heat mat", "reptile care", "reptile temperature"]
 categories: ["Reptile", "Comparisons"]
-image: images/birdcage.jpg
+image: images/reptile-pets.jpg
 permalink: /heat-lamp-vs-heat-mat-reptile-heating/
 ---
 

@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["teething puppies", "puppy chew toys", "puppy care"]
 categories: ["Dog Health", "Puppy Care"]
-image: images/cat-chew.jpg
+image: images/dog-chewing-paws.jpg
 permalink: /best-chew-toys-teething-puppies/
 ---
 

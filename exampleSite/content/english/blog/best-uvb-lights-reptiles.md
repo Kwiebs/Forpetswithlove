@@ -5,7 +5,7 @@ datepublished: 2026-03-21
 author: "For Pets With Love"
 tags: ["reptile UVB lighting", "reptile care", "terrarium supplies"]
 categories: ["Reptile Care", "Wellness"]
-image: images/BlueFish.jpg
+image: images/reptile-pets.jpg
 permalink: /best-uvb-lights-reptiles/
 ---
 
