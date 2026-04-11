@@ -1,0 +1,43 @@
+{{/*
+  Basic Page Template - For static pages like Privacy Policy, Terms, About
+*/}}
+{{ define "main" }}
+
+<section class="section">
+  <div class="container" style="max-width: 800px;">
+    <article class="single">
+      <header class="post-header">
+        {{/* Breadcrumbs */}}
+        <nav aria-label="Breadcrumb" class="breadcrumbs" style="margin-bottom: 1.5rem; font-size: 0.875rem;">
+          <a href="{{ site.BaseURL }}">Home</a>
+          <span style="margin: 0 0.5rem; color: var(--text-secondary);">›</span>
+          <span>{{ .Title }}</span>
+        </nav>
+
+        {{/* H1 */}}
+        <h1 style="font-size: clamp(1.75rem, 4vw, 2.5rem); margin-bottom: 1rem;">{{ .Title }}</h1>
+
+        {{/* Last updated */}}
+        {{ with .Lastmod }}
+        <p style="color: var(--text-secondary); font-size: 0.875rem; margin-bottom: 2rem;">
+          Last updated: {{ .Format "January 2, 2006" }}
+        </p>
+        {{ end }}
+      </header>
+
+      {{/* Page Content */}}
+      <div class="post-content" style="line-height: 1.75; font-size: 1.0625rem;">
+        {{ .Content }}
+      </div>
+
+      {{/* Back to home link */}}
+      <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--color-earth-200);">
+        <a href="{{ site.BaseURL }}" style="color: var(--color-teal-600); text-decoration: none; font-weight: 500;">
+          ← Back to Home
+        </a>
+      </div>
+    </article>
+  </div>
+</section>
+
+{{ end }}

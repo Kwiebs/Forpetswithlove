@@ -2,45 +2,11 @@
 title: "The Cat Scratching Solution — Stop Furniture Damage eBook"
 description: "Transform your cat from furniture destroyer to happy scratcher with proven techniques. Download the free checklist and get the ebook today."
 keywords: "cat scratching solutions, stop cat scratching furniture, cat behavior guide, scratching post training"
-canonicalUrl: "https://forpetswithlove.com/cat-scratching-solution-ebook"
-openGraph:
-  title: "The Cat Scratching Solution — From Furniture Destroyer to Happy Scratcher"
-  description: "End cat scratching damage with proven techniques. Get instant access to the complete solution."
-  image: "/images/cat-scratching-solution-og-image.jpg"
-  url: "https://forpetswithlove.com/cat-scratching-solution-ebook"
-  type: "article"
-twitter:
-  card: "summary_large_image"
-  title: "The Cat Scratching Solution — Stop Furniture Damage"
-  description: "Transform your cat from furniture destroyer to happy scraper. Get the complete guide."
-  image: "/images/cat-scratching-solution-og-image.jpg"
-date: "2025-10-30T18:02:01Z"
-lastmod: "2025-10-30T18:02:01Z"
+date: 2026-04-01
+lastmod: 2026-04-01
+author: "André C."
+layout: page
 draft: false
-schema:
-  book:
-    "@context": "https://schema.org"
-    "@type": "Book"
-    "name": "The Cat Scratching Solution: From Furniture Destroyer to Happy Scratcher"
-    "author":
-      "@type": "Person"
-      "name": "André Castro"
-    "description": "A comprehensive guide to solving cat scratching behavior and protecting your furniture."
-    "genre": "Pet Care"
-    "inLanguage": "en"
-    "isbn": "9798269676432"
-    "numberOfPages": "47"
-    "publisher":
-      "@type": "Organization"
-      "name": "For Pets With Love"
-    "offers":
-      "@type": "Offer"
-      "price": "5.99"
-      "priceCurrency": "USD"
-      "availability": "https://schema.org/InStock"
-      "seller":
-        "@type": "Organization"
-        "name": "For Pets With Love"
 ---
 
 <!-- JSON-LD Schema for Book and Offer -->
@@ -85,16 +51,16 @@ Perfect for first-time and intermediate cat owners who want a damage-free home w
 ## Get the eBook
 
 **Read it on your favorite store**
-### <a href="https://books2read.com/u/47jzOq" target="_blank" rel="nofollow noopener noreferrer">Get The Cat Scratching Solution Now</a>
 
-### <a href="https://amzn.to/3KWyXG1" target="_blank" rel="nofollow noopener noreferrer">Also available on Amazon</a>
+### [Get The Cat Scratching Solution Now](https://books2read.com/u/47jzOq){target="_blank" rel="nofollow noopener noreferrer"}
+
+### [Also available on Amazon](https://amzn.to/3KWyXG1){target="_blank" rel="nofollow noopener noreferrer"}
 
 ---
 
 ## 📋 Get the Free Cat Scratching Prevention Checklist
 
 10-point checklist to prevent scratching problems before they start. Includes positioning tips and product recommendations.
-
 
 ---
 
@@ -229,7 +195,6 @@ Based on 127 reviews
 • Why punishment doesn't work (and what does)
 • The hidden signals your cat is sending
 
-
 ---
 
 ## Frequently Asked Questions
@@ -264,9 +229,9 @@ While you'll find scattered advice online, this is the only comprehensive, teste
 
 Join 2,500+ cat owners who've solved their scratching problems with this proven system
 
-### <a href="https://books2read.com/u/47jzOq" target="_blank" rel="nofollow noopener noreferrer">Get The Cat Scratching Solution Now</a>
+### [Get The Cat Scratching Solution Now](https://books2read.com/u/47jzOq){target="_blank" rel="nofollow noopener noreferrer"}
 
-### <a href="https://amzn.to/3KWyXG1" target="_blank" rel="nofollow noopener noreferrer">Also available on Amazon</a>
+### [Also available on Amazon](https://amzn.to/3KWyXG1){target="_blank" rel="nofollow noopener noreferrer"}
 
 *Instant download • Works on all devices*
 
@@ -286,7 +251,6 @@ Questions about your order or need help? Contact us at info@forpetswithlove.com
 
 We respect your privacy. Your information is never shared.
 
-[Privacy Policy](/privacy-policy) | [Terms of Service](/terms)
+[Privacy Policy](/privacy-policy) | [Terms of Service](/terms-of-service)
 
 ---
-
