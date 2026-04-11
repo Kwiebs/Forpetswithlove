@@ -3,7 +3,7 @@ title: "Why Do Cats Scratch Furniture? (And How to Stop It)"
 description: "Discover why cats scratch furniture and learn proven methods to stop destructive scratching. Save your sofa while keeping your cat happy and healthy."
 date: 2026-03-27T10:20:00Z
 draft: false
-image: images/blog/cat-scratching-furniture.jpg
+image: images/cat-scratching-furniture.jpg
 categories: ["cat-behavior", "cat-care"]
 tags: ["cat scratching", "cat behavior", "cat training", "cat furniture"]
 author: "ForPetsWithLove"
