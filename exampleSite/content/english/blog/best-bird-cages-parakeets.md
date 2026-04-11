@@ -1,7 +1,7 @@
 ---
 title: "Best Bird Cages for Parakeets (2026)"
 description: "Comprehensive guide to top-rated bird cages for parakeets. Compare 7 properly sized, secure options to keep your parakeet safe and comfortable."
-datepublished: 2026-03-21
+date: 2026-03-21
 author: "For Pets With Love"
 tags: ["parakeet cages", "bird cages", "bird care"]
 categories: ["Bird Care", "Housing"]
