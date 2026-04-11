@@ -12,49 +12,49 @@
       <nav class="nav-main" aria-label="Main navigation">
         <ul class="nav-list">
           <li class="mega-menu-trigger">
-            <a href="#" class="nav-link">Pet Categories</a>
+            <a href="{{ "blog/" | relURL }}" class="nav-link">Pet Categories</a>
             <div class="mega-menu" role="menu">
               <div class="mega-menu-column">
                 <h4>Dogs</h4>
                 <ul>
-                  <li><a href="{{ "dogs/" | relURL }}" role="menuitem">Dog Food</a></li>
-                  <li><a href="{{ "dogs/toys/" | relURL }}" role="menuitem">Dog Toys</a></li>
-                  <li><a href="{{ "dogs/health/" | relURL }}" role="menuitem">Dog Health</a></li>
-                  <li><a href="{{ "dogs/training/" | relURL }}" role="menuitem">Dog Training</a></li>
+                  <li><a href="{{ "blog/" | relURL }}categories/dog-care/" role="menuitem">Dog Care</a></li>
+                  <li><a href="{{ "blog/" | relURL }}categories/dog-health/" role="menuitem">Dog Health</a></li>
+                  <li><a href="{{ "blog/" | relURL }}categories/dog-training/" role="menuitem">Dog Training</a></li>
+                  <li><a href="{{ "blog/" | relURL }}categories/dog-behavior/" role="menuitem">Dog Behavior</a></li>
                 </ul>
               </div>
               <div class="mega-menu-column">
                 <h4>Cats</h4>
                 <ul>
-                  <li><a href="{{ "cats/" | relURL }}" role="menuitem">Cat Food</a></li>
-                  <li><a href="{{ "cats/toys/" | relURL }}" role="menuitem">Cat Toys</a></li>
-                  <li><a href="{{ "cats/health/" | relURL }}" role="menuitem">Cat Health</a></li>
-                  <li><a href="{{ "cats/behavior/" | relURL }}" role="menuitem">Cat Behavior</a></li>
+                  <li><a href="{{ "blog/" | relURL }}categories/cat-care/" role="menuitem">Cat Care</a></li>
+                  <li><a href="{{ "blog/" | relURL }}categories/cat-health/" role="menuitem">Cat Health</a></li>
+                  <li><a href="{{ "blog/" | relURL }}categories/cat-behavior/" role="menuitem">Cat Behavior</a></li>
+                  <li><a href="{{ "blog/" | relURL }}categories/cat/" role="menuitem">All Cat Posts</a></li>
                 </ul>
               </div>
               <div class="mega-menu-column">
-                <h4>Birds</h4>
+                <h4>Other Pets</h4>
                 <ul>
-                  <li><a href="{{ "birds/" | relURL }}" role="menuitem">Bird Food</a></li>
-                  <li><a href="{{ "birds/toys/" | relURL }}" role="menuitem">Bird Toys</a></li>
-                  <li><a href="{{ "birds/care/" | relURL }}" role="menuitem">Bird Care</a></li>
+                  <li><a href="{{ "blog/" | relURL }}categories/bird-care/" role="menuitem">Bird Care</a></li>
+                  <li><a href="{{ "blog/" | relURL }}categories/fish-care/" role="menuitem">Fish Care</a></li>
+                  <li><a href="{{ "blog/" | relURL }}categories/reptile-care/" role="menuitem">Reptile Care</a></li>
+                  <li><a href="{{ "blog/" | relURL }}categories/small-pet-care/" role="menuitem">Small Pets</a></li>
                 </ul>
               </div>
               <div class="mega-menu-column">
-                <h4>More Pets</h4>
+                <h4>Resources</h4>
                 <ul>
-                  <li><a href="{{ "small-pets/" | relURL }}" role="menuitem">Small Pets</a></li>
-                  <li><a href="{{ "aquarium/" | relURL }}" role="menuitem">Fish & Aquarium</a></li>
-                  <li><a href="{{ "reptiles/" | relURL }}" role="menuitem">Reptiles</a></li>
+                  <li><a href="{{ "cat-scratching-solution-ebook/" | relURL }}" role="menuitem">📖 Ebook</a></li>
+                  <li><a href="{{ "toxic-foods/" | relURL }}" role="menuitem">🚫 Toxic Foods</a></li>
+                  <li><a href="{{ "quiz/" | relURL }}" role="menuitem">🧮 Cat Quiz</a></li>
+                  <li><a href="{{ "blog/" | relURL }}" role="menuitem">📝 All Articles</a></li>
                 </ul>
               </div>
             </div>
           </li>
-          {{ range site.Menus.main }}
-          <li>
-            <a href="{{ .URL | relURL }}" class="nav-link">{{ .Name }}</a>
-          </li>
-          {{ end }}
+          <li><a href="{{ "blog/" | relURL }}" class="nav-link">Blog</a></li>
+          <li><a href="{{ "cat-scratching-solution-ebook/" | relURL }}" class="nav-link">Ebook</a></li>
+          <li><a href="{{ "about/" | relURL }}" class="nav-link">About</a></li>
         </ul>
       </nav>
 

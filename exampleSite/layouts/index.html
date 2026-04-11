@@ -30,17 +30,31 @@
 {{/* Featured Categories */}}
 <section class="section" style="padding: 4rem 0;">
   <div class="container">
-    <h2 style="font-size: 1.75rem; text-align: center; margin-bottom: 2rem;">Shop by Category</h2>
+    <h2 style="font-size: 1.75rem; text-align: center; margin-bottom: 2rem;">Browse by Category</h2>
     <div class="grid grid-4" style="gap: 1.5rem;">
-      {{ range first 4 (where site.RegularPages "Section" "in" (slice "dogs" "cats" "birds" "small-pets")) }}
-      <a href="{{ .Permalink }}" class="card" style="text-decoration: none; text-align: center; padding: 2rem;">
-        <div style="font-size: 3rem; margin-bottom: 1rem;">
-          {{ if eq .Section "cats" }}🐱{{ else if eq .Section "dogs" }}🐕{{ else if eq .Section "birds" }}🦜{{ else }}🐰{{ end }}
-        </div>
-        <h3 class="card-title" style="text-transform: capitalize;">{{ .Section }}</h3>
-        <p class="text-muted" style="font-size: 0.875rem;">{{ .Title }}</p>
+      <a href="{{ "blog/" | relURL }}categories/cat-care/" class="card" style="text-decoration: none; text-align: center; padding: 2rem;">
+        <div style="font-size: 3rem; margin-bottom: 1rem;">🐱</div>
+        <h3 class="card-title">Cat Care</h3>
+        <p class="text-muted" style="font-size: 0.875rem;">30+ articles</p>
       </a>
-      {{ end }}
+      <a href="{{ "blog/" | relURL }}categories/dog-care/" class="card" style="text-decoration: none; text-align: center; padding: 2rem;">
+        <div style="font-size: 3rem; margin-bottom: 1rem;">🐕</div>
+        <h3 class="card-title">Dog Care</h3>
+        <p class="text-muted" style="font-size: 0.875rem;">22+ articles</p>
+      </a>
+      <a href="{{ "blog/" | relURL }}categories/pet-health/" class="card" style="text-decoration: none; text-align: center; padding: 2rem;">
+        <div style="font-size: 3rem; margin-bottom: 1rem;">🏥</div>
+        <h3 class="card-title">Pet Health</h3>
+        <p class="text-muted" style="font-size: 0.875rem;">Health guides</p>
+      </a>
+      <a href="{{ "blog/" | relURL }}categories/reptile-care/" class="card" style="text-decoration: none; text-align: center; padding: 2rem;">
+        <div style="font-size: 3rem; margin-bottom: 1rem;">🦎</div>
+        <h3 class="card-title">Reptile Care</h3>
+        <p class="text-muted" style="font-size: 0.875rem;">11+ articles</p>
+      </a>
+    </div>
+    <div style="text-align: center; margin-top: 2rem;">
+      <a href="{{ "blog/" | relURL }}" class="btn btn-secondary">View All Articles →</a>
     </div>
   </div>
 </section>
@@ -56,7 +70,7 @@
       {{ range first 3 (where site.RegularPages "Section" "blog") }}
       <article class="card">
         {{ with .Params.image }}
-        <img src="{{ . | absURL }}" alt="{{ $.Title }}" class="card-image" loading="lazy" decoding="async">
+        <img src="{{ . | absURL }}" alt="{{ .Title }}" class="card-image" loading="lazy" decoding="async">
         {{ end }}
         <div class="card-content">
           <p class="card-meta">{{ .Date.Format "Jan 2, 2006" }}</p>
@@ -76,15 +90,15 @@
 {{/* Ebook CTA */}}
 <section class="section" style="padding: 5rem 0; text-align: center;">
   <div class="container" style="max-width: 700px;">
-    <span style="display: inline-block; background: var(--color-teal-100); color: var(--color-teal-700); padding: 0.5rem 1rem; border-radius: 9999px; font-size: 0.875rem; font-weight: 600; margin-bottom: 1.5rem;">Free Download</span>
+    <span style="display: inline-block; background: var(--color-teal-100); color: var(--color-teal-700); padding: 0.5rem 1rem; border-radius: 9999px; font-size: 0.875rem; font-weight: 600; margin-bottom: 1.5rem;">📖 Popular Guide</span>
     <h2 style="font-size: clamp(1.75rem, 4vw, 2.5rem); margin-bottom: 1rem;">
       Stop Cat Scratching for Good
     </h2>
     <p style="font-size: 1.125rem; color: var(--text-secondary); margin-bottom: 2rem;">
-      Get our free guide: 10 proven strategies to protect your furniture and redirect your cat's scratching instincts.
+      Get our complete guide: 10 proven strategies to protect your furniture and redirect your cat's scratching instincts.
     </p>
     <a href="{{ "cat-scratching-solution-ebook/" | relURL }}" class="btn btn-primary" style="padding: 1rem 2.5rem; font-size: 1.125rem;">
-      Download the Ebook →
+      Get the Ebook →
     </a>
     <p style="font-size: 0.875rem; color: var(--text-secondary); margin-top: 1rem;">
       Join 2,500+ happy pet parents
@@ -99,10 +113,17 @@
     <p style="color: var(--text-secondary); margin-bottom: 2rem;">
       Get weekly pet care tips and exclusive offers delivered to your inbox. No spam, unsubscribe anytime.
     </p>
+    {{ if site.Params.kit_form_id }}
+    <form class="newsletter-form" style="max-width: 400px; margin: 0 auto;" action="https://kit.com/{{ site.Params.kit_username }}/subscribe/{{ site.Params.kit_form_id }}" method="post">
+      <input type="email" class="newsletter-input" name="email" placeholder="your@email.com" required style="flex: 1;">
+      <button type="submit" class="btn btn-primary">Subscribe</button>
+    </form>
+    {{ else }}
     <form class="newsletter-form" style="max-width: 400px; margin: 0 auto;" action="#" method="post">
       <input type="email" class="newsletter-input" placeholder="your@email.com" required style="flex: 1;">
       <button type="submit" class="btn btn-primary">Subscribe</button>
     </form>
+    {{ end }}
   </div>
 </section>
 

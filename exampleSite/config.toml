@@ -35,7 +35,26 @@ weight = 1
     startLevel = 2
 
 [menu]
-main = []
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 1
+[[menu.main]]
+  name = "Cat Care"
+  url = "/blog/categories/cat-care/"
+  weight = 2
+[[menu.main]]
+  name = "Dog Care"
+  url = "/blog/categories/dog-care/"
+  weight = 3
+[[menu.main]]
+  name = "Ebook"
+  url = "/cat-scratching-solution-ebook/"
+  weight = 4
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 5
 
 [params]
   author = "|Kweebs"
@@ -57,10 +76,11 @@ main = []
     guarantee_days = "30"
     reader_count = "2,500+"
     
-  # Analytics Configuration
-  [params.analytics]
-    convertkit_api_key = ""  # Add your ConvertKit API key here
-    convertkit_forms = { checklist = "", sample = "" }  # Form IDs for ConvertKit forms
+  # Kit.com (ConvertKit) Configuration
+  # Replace with your actual Kit.com credentials
+  kit_username = ""  # Your Kit.com username
+  kit_form_id = ""  # Your newsletter form ID
+  kit_api_key = ""  # Your ConvertKit API key (for integrations)
     
   # Lead Magnet Configuration
   [params.leadmagnet]
