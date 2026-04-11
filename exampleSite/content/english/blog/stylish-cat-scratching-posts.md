@@ -36,17 +36,17 @@ products:
     price: "34.99"
     currency: "USD"
     url: "https://www.amazon.com/dp/B00J4I6J2I?tag=forpetswith07-20"
-    image: "images/petfusion-scratcher.jpg"
+    image: images/petfusion-scratcher.jpg
   - name: "SmartCat Ultimate Scratching Post"
     price: "49.99"
     currency: "USD"
     url: "https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20"
-    image: "images/smartcat-scratching-post.jpg"
+    image: images/smartcat-scratching-post.jpg
   - name: "Frisco 32-inch Scratching Post"
     price: "29.99"
     currency: "USD"
     url: "https://www.amazon.com/dp/B07Z5K5Q3V?tag=forpetswith07-20"
-    image: "images/frisco-scratching-post.jpg"
+    image: images/frisco-scratching-post.jpg
 ---
 
 # Stylish Cat Scratching Posts: 7 Designs That Enhance Your Decor

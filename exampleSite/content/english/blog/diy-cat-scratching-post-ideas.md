@@ -37,17 +37,17 @@ products:
     price: "19.99"
     currency: "USD"
     url: "https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20"
-    image: "images/sisal-rope.jpg"
+    image: images/sisal-rope.jpg
   - name: "Heavy Duty Wood Glue"
     price: "12.99"
     currency: "USD"
     url: "https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20"
-    image: "images/wood-glue.jpg"
+    image: images/wood-glue.jpg
   - name: "Corrugated Cardboard Sheets"
     price: "24.99"
     currency: "USD"
     url: "https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20"
-    image: "images/corrugated-cardboard.jpg"
+    image: images/corrugated-cardboard.jpg
 ---
 
 # DIY Cat Scratching Post: 5 Easy Projects That Save Money

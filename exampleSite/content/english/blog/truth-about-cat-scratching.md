@@ -36,17 +36,17 @@ products:
     price: "49.99"
     currency: "USD"
     url: "https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20"
-    image: "images/smartcat-scratching-post.jpg"
+    image: images/smartcat-scratching-post.jpg
   - name: "Sticky Paws Furniture Strips"
     price: "24.99"
     currency: "USD"
     url: "https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20"
-    image: "images/sticky-paws-strips.jpg"
+    image: images/sticky-paws-strips.jpg
   - name: "Feliway Classic Diffuser"
     price: "39.99"
     currency: "USD"
     url: "https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20"
-    image: "images/feliway-diffuser.jpg"
+    image: images/feliway-diffuser.jpg
 ---
 
 # The Truth About Cat Scratching: 7 Myths Debunked

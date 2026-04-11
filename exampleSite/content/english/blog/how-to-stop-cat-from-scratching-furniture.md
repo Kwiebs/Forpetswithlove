@@ -36,17 +36,17 @@ products:
     price: "49.99"
     currency: "USD"
     url: "https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20"
-    image: "images/smartcat-scratching-post.jpg"
+    image: images/smartcat-scratching-post.jpg
   - name: "Sticky Paws Furniture Strips"
     price: "24.99"
     currency: "USD"
     url: "https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20"
-    image: "images/sticky-paws-strips.jpg"
+    image: images/sticky-paws-strips.jpg
   - name: "Feliway Classic Diffuser"
     price: "39.99"
     currency: "USD"
     url: "https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20"
-    image: "images/feliway-diffuser.jpg"
+    image: images/feliway-diffuser.jpg
 ---
 
 📌 **Quick Answer:** Scratching is natural cat behavior—you can't eliminate it, but you can redirect it. Provide multiple sturdy scratching posts in areas where your cat already scratches, place them near furniture, and make them more appealing with catnip and treats. Use deterrents like double-sided tape, citrus scents, or plastic covers on furniture. Reward your cat generously when they use appropriate surfaces, and never punish scratching—this only causes fear and confusion.
