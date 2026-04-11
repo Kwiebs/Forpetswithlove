@@ -5,7 +5,7 @@ keywords: "cat scratching solutions, stop cat scratching furniture, cat behavior
 date: 2026-04-01
 lastmod: 2026-04-01
 author: "André C."
-layout: page
+layout: ebook
 draft: false
 ---
 
