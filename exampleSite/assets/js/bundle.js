@@ -76,9 +76,9 @@
         searchIndex = new Fuse.default(searchData, {
           keys: [
             { name: 'title', weight: 2 },
-            { name: 'description', weight: 1.5 },
+            { name: "contents", weight: 1 },
             { name: 'tags', weight: 1 },
-            { name: 'content', weight: 0.5 }
+            
           ],
           threshold: 0.3,
           includeScore: true,
@@ -118,9 +118,9 @@
     }
     
     searchContainer.innerHTML = results.map(r => `
-      <a href="${r.item.url}" class="search-result">
+      <a href="${r.item.permalink}" class="search-result">
         <div class="search-result-title">${r.item.title}</div>
-        <div class="search-result-excerpt">${r.item.description || ''}</div>
+        <div class="search-result-excerpt">${(r.item.contents || "").substring(0, 200) || ''}</div>
       </a>
     `).join('');
   }
