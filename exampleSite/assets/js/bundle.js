@@ -69,7 +69,7 @@
       const Fuse = await import('https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.mjs');
       
       // Fetch search index (generated at build time)
-      const response = await fetch('/search/index.json');
+      const response = await fetch('/index.json');
       if (response.ok) {
         searchData = await response.json();
         
