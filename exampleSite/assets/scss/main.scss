@@ -101,7 +101,7 @@
   font-size: 0.9375rem;
 }
 
-.mega-menu-column a:hover { color: var(--accent); }
+.mega-menu-column a:hover { color: var(--accent); background: rgba(255,255,255,0.05); border-radius: var(--radius); padding: 0.25rem 0.5rem; }
 
 /* Header Actions */
 .header-actions {
