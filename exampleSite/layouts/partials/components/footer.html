@@ -48,7 +48,7 @@
           Get pet care tips and exclusive offers delivered to your inbox.
         </p>
         {{ if site.Params.kit_form_id }}
-        <form class="newsletter-form" action="https://kit.com/{{ site.Params.kit_username }}/subscribe/{{ site.Params.kit_form_id }}" method="post">
+        <form class="newsletter-form" action="https://forpetswithlove.kit.com/{{ site.Params.kit_form_id }}" method="get" target="_blank" rel="noopener nofollow">
           <input type="email" class="newsletter-input" name="email" placeholder="your@email.com" aria-label="Email address" required>
           <button type="submit" class="btn btn-primary">Subscribe</button>
         </form>
