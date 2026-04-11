@@ -78,8 +78,8 @@ weight = 1
     
   # Kit.com (ConvertKit) Configuration
   # Replace with your actual Kit.com credentials
-  kit_username = ""  # Your Kit.com username
-  kit_form_id = ""  # Your newsletter form ID
+  kit_username = "8b05b9a194"  # Your Kit.com username
+  kit_form_id = "8b05b9a194"  # Your newsletter form ID
   kit_api_key = ""  # Your ConvertKit API key (for integrations)
     
   # Lead Magnet Configuration
