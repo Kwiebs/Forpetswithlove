@@ -5,6 +5,8 @@ image: images/travel-dog.jpg
 permalink: /tips-traveling-pet/
 categories: ["Dog Care"]
 tags: pet travel, traveling with pets, pet safety, pet comfort, pet essentials
+date: 2026-03-23
+author: "For Pets With Love"
 ---
 
 

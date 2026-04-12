@@ -5,6 +5,8 @@ image: images/hedgehog.jpg
 permalink: /the-ultimate-guide-to-owning-a-hedgehog-care-diet-and-habitat/
 tags: hedgehog care, hedgehog diet, hedgehog habitat, owning a hedgehog, pet hedgehog
 categories: ["Small Pet Care"]
+date: 2026-03-23
+author: "For Pets With Love"
 ---
 
 

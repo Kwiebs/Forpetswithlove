@@ -5,6 +5,8 @@ image: images/pet_vet.jpg
 Tags: pet care, regular vet visits, preventive care, early detection, health problems, optimal weight, dental health, behavioral health, nutrition, senior pet care, parasite prevention, emergency care planning, strong bond, personalized care plan.
 permalink: /The-Importance-of-Regular-Vet-Visits-for-Your-Pet/
 categories: ["Pet Health"]
+date: 2026-03-23
+author: "For Pets With Love"
 ---
 
 

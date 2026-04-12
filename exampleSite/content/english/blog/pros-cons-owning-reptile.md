@@ -5,6 +5,8 @@ image: images/turtles.jpg
 permalink: /pros-cons-owning-reptile/
 tags: reptiles, pets, exotic pets, pet ownership, animal care
 categories: ["Reptile Care"]
+date: 2026-03-23
+author: "For Pets With Love"
 ---
 
 Are you tired of the traditional cat or dog as a pet? Looking for a unique and exotic companion? A reptile may be the answer. Reptiles, including snakes, lizards, and turtles, can make fascinating pets, but there are both pros and cons to consider before bringing one into your home.

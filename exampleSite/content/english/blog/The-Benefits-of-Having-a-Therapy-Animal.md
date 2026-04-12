@@ -5,6 +5,8 @@ image: images/Therapy_Animal.jpg
 Tags: Therapy Animals, Emotional Support Animals, Mental Health, Stress and Anxiety, Physical Therapy, Cognitive Function, Self-Esteem, Quality of Life, Hospitals, Care Facilities, Schools, Workplace, Homes, Animal-Assisted Therapy, Pet Therapy.
 permalink: /The-Benefits-of-Having-a-Therapy-Animal/
 categories: ["Pet Care"]
+date: 2026-03-23
+author: "For Pets With Love"
 ---
 
 

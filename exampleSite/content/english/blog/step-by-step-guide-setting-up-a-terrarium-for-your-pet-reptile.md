@@ -5,6 +5,8 @@ image: images/terrarium-reptile-pets.jpg
 permalink: /step-by-step-guide-setting-up-a-terrarium-for-your-pet-reptile
 tags: reptiles, terrarium, pet care, reptile habitats, pet reptiles
 categories: ["Reptile Care"]
+date: 2026-03-23
+author: "For Pets With Love"
 ---
 
 

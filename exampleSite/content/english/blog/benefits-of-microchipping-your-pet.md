@@ -6,6 +6,7 @@ image: images/pet_vet.jpg
 permalink: /benefits-of-microchipping-your-pet/
 tags: pets, microchipping, pet safety
 categories: ["Pet Care"]
+author: "For Pets With Love"
 ---
 
 <h1>The Benefits of Microchipping Your Pet</h1>

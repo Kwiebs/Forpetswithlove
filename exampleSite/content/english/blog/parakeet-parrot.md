@@ -5,6 +5,8 @@ image: images/parakeet-parrot.jpg
 permalink: /parakeet-parrot/
 tags: parakeet parrot, pet birds, bird care, bird training, bird grooming
 categories: ["Bird Care"]
+date: 2026-03-23
+author: "For Pets With Love"
 ---
 
 The Parakeet Parrot, also known as the Budgerigar, is a popular pet bird that is native to Australia. They are known for their vibrant colors and chatty personality, and they make excellent pets for bird lovers of all ages. In this guide, we'll explore the history, characteristics, and care of this delightful bird.

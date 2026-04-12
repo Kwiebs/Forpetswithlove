@@ -5,6 +5,8 @@ image: images/pets_health.jpg
 permalink: /why-pets-are-good-for-your-health/
 tags: pets, health, well-being, mental health, physical health
 categories: ["Pet Care"]
+date: 2026-04-09
+author: "For Pets With Love"
 ---
 
 

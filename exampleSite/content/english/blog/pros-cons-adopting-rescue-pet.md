@@ -5,6 +5,8 @@ image: images/rescue-pet.jpg
 permalink: /pros-cons-adopting-rescue-pet/
 tags: rescue pet, adoption, pet ownership
 categories: ["Pet Care"]
+date: 2026-03-23
+author: "For Pets With Love"
 ---
 
 # Introduction

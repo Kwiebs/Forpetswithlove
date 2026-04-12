@@ -6,6 +6,8 @@ categories: ["Pet Care", "Dog Care", "Cat Care"]
 permalink: /is-my-pet-overweight/
 tags: pet weight, dog weight, cat weight, body condition score, pet health, dog health, cat health
 Meta description: Worried about your pet's weight? Learn simple, at-home checks to assess your dog or cat's body condition and ensure they live a long, healthy, and happy life. #pethealth #doghealth #cathealth
+date: 2026-04-09
+author: "For Pets With Love"
 ---
 
 # Is My Pet Overweight? Simple Ways to Check Your Dog or Cat's Body Condition at Home

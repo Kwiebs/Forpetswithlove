@@ -6,6 +6,7 @@ image: images/dog-treat.jpg
 permalink: /homemade-dog-treats/
 tags: dogs, treats, homemade, healthy
 categories: ["Dog Nutrition"]
+author: "For Pets With Love"
 ---
 
 # Introduction:

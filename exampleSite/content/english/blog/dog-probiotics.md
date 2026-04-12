@@ -6,6 +6,7 @@ image: images/probiotic-bites.jpg
 permalink: /dog-probiotics/
 tags: [dog probiotics, pet nutrition, dog treats, pet health, dog supplements]
 categories: ["Dog Health"]
+author: "For Pets With Love"
 ---
 
 

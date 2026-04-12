@@ -6,6 +6,7 @@ date: 2025-01-01
 permalink: /5-simple-tips-for-keeping-your-hamster-healthy-and-happy/
 categories: ["Small Pet Care"]
 tags: hamster care, hamster health, pet hamster, hamster cage, hamster nutrition, hamster exercise, hamster toys, hamster grooming, hamster vet visit, hamster happiness
+author: "For Pets With Love"
 ---
 
 

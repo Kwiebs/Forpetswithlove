@@ -6,6 +6,7 @@ image: images/cat-toys.jpg
 categories: ["Cat Care"]
 permalink: /best-cat-toys-guide/
 tags: cats, toys, pet care
+author: "For Pets With Love"
 ---
 
 # Introduction

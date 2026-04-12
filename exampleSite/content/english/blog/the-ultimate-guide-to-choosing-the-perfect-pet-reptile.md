@@ -5,6 +5,8 @@ image: images/reptile-pets.jpg
 permalink: /the-ultimate-guide-to-choosing-the-perfect-pet-reptile
 tags: pet reptile, reptile care, choosing a reptile, reptile habitat, reptile temperament
 categories: ["Reptile Care"]
+date: 2026-03-23
+author: "For Pets With Love"
 ---
 
 # The Ultimate Guide to Choosing the Perfect Pet Reptile

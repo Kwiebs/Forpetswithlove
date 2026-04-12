@@ -6,6 +6,7 @@ image: images/cat_food.jpg
 categories: ["Cat Care"]
 permalink: /best-selling-cat-foods/
 tags: cat food, feline health, pet nutrition
+author: "For Pets With Love"
 ---
 
 As a cat owner, you know that feeding your feline friend is not as simple as just buying any brand of cat food. You want to ensure that your cat is getting the proper nutrition and ingredients that will help keep them healthy and happy. With so many options out there, it can be hard to know which brand of cat food to choose. That's why we've compiled a list of the 5 best-selling cat foods that can help keep your feline happy and healthy.

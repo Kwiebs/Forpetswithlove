@@ -5,6 +5,8 @@ image: images/cat-coat.jpg
 permalink: /top-5-best-foods-pets-skin-coat/
 categories: ["Cat Care"]
 tags: pet food, pet health, skin health, coat health, nutrition
+date: 2026-03-23
+author: "For Pets With Love"
 ---
 
 When it comes to our pets, we want them to look and feel their best. A shiny and healthy coat is not only aesthetically pleasing but also a sign of excellent overall health. One of the most effective ways to achieve a lustrous coat and maintain healthy skin is through a well-balanced diet. In this article, we will explore the top 5 best foods that can do wonders for your pet's skin and coat, helping them shine from the inside out.

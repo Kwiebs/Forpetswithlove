@@ -5,6 +5,8 @@ image: images/dog_bite.jpg
 permalink: /understanding-pet-insurance/
 categories: ["Dog Care"]
 tags: pet insurance, veterinary care, animal health, pet owners
+date: 2026-04-09
+author: "For Pets With Love"
 ---
 
 

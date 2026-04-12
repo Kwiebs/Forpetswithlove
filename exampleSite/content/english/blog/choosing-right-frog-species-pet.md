@@ -5,6 +5,8 @@ image: images/frog.jpg
 permalink: /choosing-right-frog-species-pet/
 tags: pet frogs, choosing the right frog, frog species, pet care, frog habitats
 categories: ["Amphibian Care"]
+date: 2026-04-09
+author: "For Pets With Love"
 ---
 
 

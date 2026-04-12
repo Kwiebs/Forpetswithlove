@@ -5,6 +5,8 @@ image: images/ferrets.jpg
 permalink: /pamper-pet-ferret-royalty/
 tags: pets, health, well-being, mental health, physical health
 categories: ["Small Pet Care"]
+date: 2026-03-23
+author: "For Pets With Love"
 ---
 
 

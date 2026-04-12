@@ -6,6 +6,7 @@ image: images/terrarium-reptile-pets.jpg
 permalink: /handling-and-bonding-with-your-pet-reptile
 tags: pet reptiles, reptile care, handling reptiles, bonding with reptiles
 categories: ["Reptile Care"]
+author: "For Pets With Love"
 ---
 
 **Introduction**

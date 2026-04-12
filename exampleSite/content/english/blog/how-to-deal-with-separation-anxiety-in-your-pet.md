@@ -6,6 +6,7 @@ image: images/dog_anxiety.jpg
 permalink: /how-to-deal-with-separation-anxiety-in-your-pet/
 tags: pet care, separation anxiety, pet behavior, anxiety, pets
 categories: ["Pet Behavior"]
+author: "For Pets With Love"
 ---
 
 Do you come home to find your furry friend has chewed up your favorite shoes or destroyed your furniture? If so, it's possible that they're suffering from separation anxiety. Just like humans, pets can struggle with being away from their loved ones, and it can cause them a lot of distress.

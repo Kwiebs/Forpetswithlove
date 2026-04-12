@@ -6,6 +6,7 @@ image: images/cat_gift.jpg
 permalink : /15-cat-gifts-that-will-make-your-cat-purr/
 categories: ["Cat Care"]
 tags: Cat Gifts, Pet Products, Cat Accessories, Cat Toys, Feline Fun, Cat Care, Pet Lovers, Gift Ideas, Cat Owners, Purring Cats, Cat Supplies, Animal Gifts, Pet Enthusiasts, Cat Comfort, Happy Cats
+author: "For Pets With Love"
 ---
 
 Cats are known for their love of comfort and play, which is why finding the perfect gift for your feline friend is essential. Whether it's a cozy bed to snuggle up in or an interactive toy to keep them entertained, there are plenty of options to choose from. In this article, we've put together a list of 15 cat gifts that will make your cat purr with happiness.

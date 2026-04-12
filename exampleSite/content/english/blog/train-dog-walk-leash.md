@@ -5,6 +5,8 @@ image: images/dog-walking.jpg
 permalink: /train-dog-walk-leash/
 categories: ["Dog Care"]
 tags: dog training, leash training, pet care
+date: 2026-03-23
+author: "For Pets With Love"
 ---
 
 Walking your dog on a leash is an essential part of dog ownership. However, for many new dog owners, this can be a challenging task. It's not uncommon for dogs to pull, bark, or lunge while on a leash, making walks frustrating and unpleasant for both you and your furry companion. Fortunately, with a little patience and consistent training, you can teach your dog to walk on a leash calmly and comfortably. In this article, we'll take a look at the steps you can take to train your dog to walk on a leash successfully.

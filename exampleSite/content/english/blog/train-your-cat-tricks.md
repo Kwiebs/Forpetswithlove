@@ -5,6 +5,8 @@ image: images/cat-tricks.jpg
 permalink: /train-your-cat-tricks/
 categories: ["Cat Care"]
 tags: cats, tricks, training, pets
+date: 2026-03-23
+author: "For Pets With Love"
 ---
 
 Cats are often thought of as independent creatures who can't be trained to do tricks like dogs. However, with patience, persistence, and the right techniques, you can train your cat to do all sorts of impressive tricks. Not only will this impress your friends and family, but it can also help to strengthen the bond between you and your feline friend. Here are five simple steps to get you started on training your cat to do tricks.

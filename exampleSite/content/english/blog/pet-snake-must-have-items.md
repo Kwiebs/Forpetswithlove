@@ -5,6 +5,8 @@ image: images/images/snake-pet.jpg
 permalink: /pet-snake-must-have-items/
 tags: pet snake, snake habitat, snake food, snake accessories
 categories: ["Reptile Care"]
+date: 2026-04-11
+author: "For Pets With Love"
 ---
 
 # Essential Items for Keeping a Pet Snake

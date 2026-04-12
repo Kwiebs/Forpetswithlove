@@ -6,6 +6,7 @@ image: images/dog-tick.jpg
 permalink: /best-flea-and-tick-prevention-for-pet/
 tags: pet care, flea prevention, tick prevention, pet health
 categories: ["Pet Health"]
+author: "For Pets With Love"
 ---
 
 

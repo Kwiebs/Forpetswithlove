@@ -5,6 +5,8 @@ image: images/dog-allergies.jpg
 permalink: /pet-allergies/
 tags: Common Allergies, Dogs, Cats, Pet Allergies, Allergy Symptoms, Allergy Treatment
 categories: ["Pet Health"]
+date: 2026-04-09
+author: "For Pets With Love"
 ---
 
 

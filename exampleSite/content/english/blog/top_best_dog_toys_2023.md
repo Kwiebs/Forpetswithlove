@@ -4,6 +4,8 @@ description: Want to keep your furry friend entertained? Here's a list of the to
 image: images/dog_toys.jpg
 permalink : /top_best_dog_toys_2023/
 categories: ["Dog Care"]
+date: 2026-04-11
+author: "For Pets With Love"
 ---
 
 
