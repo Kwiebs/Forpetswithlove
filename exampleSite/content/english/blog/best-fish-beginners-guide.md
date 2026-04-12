@@ -11,7 +11,7 @@ image: images/beginner-fish.jpg
 
 The right first fish makes all the difference. Here are the most forgiving species.
 
-## Tank Setup First
+## Tank setup first
 
 Don't buy fish before your tank is ready:
 
@@ -20,7 +20,7 @@ Don't buy fish before your tank is ready:
 3. Test water parameters daily
 4. Add fish slowly once cycled
 
-## Top Beginner Fish
+## Top beginner fish
 
 ### 1. Betta Fish
 **Tank Size:** 5 gallons minimum
@@ -57,7 +57,7 @@ Don't buy fish before your tank is ready:
 **Temperature:** 65-72°F (cold water)
 **Why They're Great:** Classic pet, long-lived
 
-## Fish to Avoid as Beginners
+## Fish to avoid as beginners
 
 ❌ Angelfish (needs large tank)
 ❌ Plecos (grow huge)
@@ -65,16 +65,16 @@ Don't buy fish before your tank is ready:
 ❌ Flowerhorn (aggressive, large)
 ❌ Common Pleco (grows to 2 feet!)
 
-## Beginner Tank Mates
+## Beginner tank mates
 
 Compatible combinations:
 - Betta + Corydoras
 - Neon Tetras + Guppies
 - Platies + Mollies + Corydoras
 
-## Essential Equipment
+## Essential equipment
 
-- Filter (crucial!)
+- Filter (important!)
 - Heater (for tropical fish)
 - Thermometer
 - Water test kit

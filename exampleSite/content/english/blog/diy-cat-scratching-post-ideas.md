@@ -18,7 +18,7 @@ faq:
   - question: "What's the cheapest DIY scratching post to make?"
     answer: "The cardboard box scratcher is the cheapest - it's essentially free if you have cardboard boxes. The corrugated cardboard roll project costs about $5-10 in materials. Both are highly effective and cats love them."
   - question: "How do I make a scratching post stable?"
-    answer: "Stability is crucial. Use a wide, heavy base (at least 18x18 inches). Add weight to the base with sand, rocks, or heavy wood. Secure all connections with strong glue and screws. A wobbly post will never be used."
+    answer: "Stability is important. Use a wide, heavy base (at least 18x18 inches). Add weight to the base with sand, rocks, or heavy wood. Secure all connections with strong glue and screws. A wobbly post will never be used."
   - question: "Can I make a scratching post for a large cat?"
     answer: "Absolutely! For large cats, make posts taller (36+ inches) and wider bases (24+ inches). Use thicker materials for durability. Large cats need sturdy, tall posts for full-body stretching and scratching."
 howto:
@@ -54,11 +54,11 @@ products:
 
 Store-bought scratching posts can cost **$50-150+**, but you can create effective alternatives for **$5-20** using materials you already have. The best part? DIY scratching posts are often BETTER than store-bought ones because you can customize them to your cat's exact preferences.
 
-In this comprehensive guide, you'll discover **5 easy DIY projects** that save money while protecting your furniture. These aren't just random ideas—they're proven designs that cats actually use, with step-by-step instructions for every skill level.
+In this complete guide, you'll discover **5 easy DIY projects** that save money while protecting your furniture. These aren't just random ideas—they're proven designs that cats actually use, with step-by-step instructions for every skill level.
 
 ---
 
-## Why DIY Scratching Posts Are Worth Your Time
+## Why diy scratching posts are worth your time
 
 ### The Economics of DIY
 
@@ -83,31 +83,31 @@ In this comprehensive guide, you'll discover **5 easy DIY projects** that save m
 - May not match your cat's preferences
 
 **DIY Benefits:**
-- **Perfect fit:** Customize to your space
-- **Cat preferences:** Match your cat's favorite textures
-- **Aesthetic control:** Match your home decor
-- **Scalability:** Make it as tall/wide as needed
+- Perfect fit: Customize to your space
+- Cat preferences: Match your cat's favorite textures
+- Aesthetic control: Match your home decor
+- Scalability: Make it as tall/wide as needed
 
 ### Quality Control
 
 When you build it yourself, you control:
-- **Stability:** Ensure it never wobbles
-- **Durability:** Use quality materials
-- **Safety:** No harmful chemicals or loose parts
-- **Maintenance:** Easy to repair or replace parts
+- Stability: Ensure it never wobbles
+- Durability: Use quality materials
+- Safety: No harmful chemicals or loose parts
+- Maintenance: Easy to repair or replace parts
 
 ---
 
-## Project 1: Cardboard Box Scratcher (Beginner - FREE)
+## Project 1: cardboard box scratcher (beginner - free)
 
 ### Why This Works
 Cats LOVE cardboard. It's the perfect texture for scratching, and it's completely free if you have boxes.
 
 ### Materials Needed
-- **Cardboard boxes** (medium to large)
+- Cardboard boxes** (medium to large)
 - **Box cutter or scissors**
 - **Tape or glue**
-- **Optional:** Catnip
+- **Optional: Catnip
 
 ### Step-by-Step Instructions
 
@@ -143,7 +143,7 @@ Cats LOVE cardboard. It's the perfect texture for scratching, and it's completel
 
 ---
 
-## Project 2: Corrugated Cardboard Roll (Beginner - $5-10)
+## Project 2: corrugated cardboard roll (beginner - $5-10)
 
 ### Why This Works
 Corrugated cardboard provides the perfect scratching texture—dense, durable, and satisfying for cats.
@@ -189,7 +189,7 @@ Corrugated cardboard provides the perfect scratching texture—dense, durable, a
 
 ---
 
-## Project 3: Sisal Rope Post (Intermediate - $15-30)
+## Project 3: sisal rope post (intermediate - $15-30)
 
 ### Why This Works
 Sisal rope is the gold standard for scratching posts—durable, textured, and cats love it.
@@ -236,7 +236,7 @@ Sisal rope is the gold standard for scratching posts—durable, textured, and ca
 
 ---
 
-## Project 4: Wall-Mounted Scratcher (Intermediate - $10-20)
+## Project 4: wall-mounted scratcher (intermediate - $10-20)
 
 ### Why This Works
 Wall-mounted scratchers save floor space and provide vertical scratching options cats love.
@@ -282,7 +282,7 @@ Wall-mounted scratchers save floor space and provide vertical scratching options
 
 ---
 
-## Project 5: Multi-Level Cat Tree (Advanced - $30-50)
+## Project 5: multi-level cat tree (advanced - $30-50)
 
 ### Why This Works
 Multi-level designs provide variety and enrichment—cats love having options.
@@ -329,7 +329,7 @@ Multi-level designs provide variety and enrichment—cats love having options.
 
 ---
 
-## Essential Tips for Success
+## Essential tips for success
 
 ### Stability is Non-Negotiable
 **Why it matters:** Cats won't use wobbly posts
@@ -342,10 +342,10 @@ Multi-level designs provide variety and enrichment—cats love having options.
 
 ### Material Quality Matters
 **Best materials:**
-- **Cardboard:** Corrugated, dense
-- **Sisal rope:** Natural, durable
-- **Wood:** Untreated, smooth
-- **Glue:** Wood glue, non-toxic
+- Cardboard: Corrugated, dense
+- Sisal rope: Natural, durable
+- Wood: Untreated, smooth
+- Glue: Wood glue, non-toxic
 
 **Avoid:**
 - Treated wood (chemicals)
@@ -364,7 +364,7 @@ Multi-level designs provide variety and enrichment—cats love having options.
 
 ---
 
-## Troubleshooting Common Problems
+## Troubleshooting common problems
 
 ### Problem: "My cat won't use the DIY post"
 
@@ -395,18 +395,18 @@ Multi-level designs provide variety and enrichment—cats love having options.
 
 ---
 
-## Want More Help? Get Our Complete Guide
+## Want more help? get our complete guide
 
 If you're struggling with cat scratching or want expert guidance:
 
 ### **[Cat Scratching Solutions: The Complete Guide](https://books2read.com/u/47jzOq)**
-This comprehensive ebook covers:
-- **Step-by-step training plans** for every personality type
+This complete ebook covers:
+- Step-by-step training plans** for every personality type
 - **Product recommendations** for every budget
 - **Troubleshooting 50+ common problems**
 - **Real-life case studies** with before/after results
-- **Bonus:** Environmental enrichment blueprint
-- **Bonus:** Multi-cat household solutions
+- **Bonus: Environmental enrichment blueprint
+- Bonus: Multi-cat household solutions
 
 **What you'll learn:**
 - How to identify your cat's scratching motivation
@@ -420,7 +420,7 @@ This comprehensive ebook covers:
 
 ---
 
-## Final Thoughts
+## Final thoughts
 
 DIY scratching posts aren't just about saving money—they're about creating the perfect scratching solution for YOUR cat. When you build it yourself, you control every aspect: size, texture, stability, and placement.
 
@@ -439,7 +439,7 @@ DIY scratching posts aren't just about saving money—they're about creating the
 
 *Medical Disclaimer: Always consult with a veterinarian for medical advice. This article is for informational purposes only.*
 
-## 1. Cardboard Scratching Post
+## 1. cardboard scratching post
 
 ### Materials
 
@@ -450,7 +450,7 @@ Cardboard boxes, glue, and a knife.
 Cut the cardboard into strips, roll them up tightly, and glue them together to create a scratching surface.
 
 Get your cardboard boxes on https://amzn.to/4kxjDw2.
-## 2. Sisal Rope Scratching Post
+## 2. sisal rope scratching post
 
 ### Materials
 
@@ -461,7 +461,7 @@ Wood post, sisal rope, glue, and a base.
 Wrap the sisal rope tightly around the wood post, securing it with glue. Attach the post to a sturdy base.
 
 Find sisal rope and wood posts on https://amzn.to/3H6po5r.
-## 3. Tree Branch Scratching Post
+## 3. tree branch scratching post
 
 ### Materials
 
@@ -471,7 +471,7 @@ Tree branch, wood base, and screws.
 
 Attach the tree branch to a sturdy wood base using screws.
 
-## 4. Old Tire Scratching Post
+## 4. old tire scratching post
 
 ### Materials
 
@@ -482,7 +482,7 @@ Old tire, sisal rope, glue, and a wood base.
 Wrap the sisal rope tightly around the tire, securing it with glue. Attach the tire to a sturdy wood base.
 
 Get sisal rope for your tire scratching post on https://amzn.to/3H6po5r.
-## 5. Upcycled Furniture Scratching Post
+## 5. upcycled furniture scratching post
 
 ### Materials
 

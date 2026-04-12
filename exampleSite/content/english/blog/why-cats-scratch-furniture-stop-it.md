@@ -15,7 +15,7 @@ If you're reading this, you've probably experienced the frustration of finding y
 
 But here's the thing: **cats don't scratch furniture to be naughty**. They scratch because it's an essential, instinctual behavior that's hardwired into their DNA. Understanding WHY they scratch is the first step toward redirecting this behavior to appropriate surfaces.
 
-## Why Do Cats Scratch? (It's Not What You Think)
+## Why do cats scratch? (it's not what you think)
 
 ### 1. It's About Territory Marking
 
@@ -23,7 +23,7 @@ Cats have scent glands in their paws that release pheromones when they scratch. 
 
 ### 2. Nail Maintenance is Essential
 
-Scratching removes the dead outer sheaths of their claws, keeping them sharp and healthy. In the wild, this is crucial for hunting and self-defense. Indoor cats still have this instinct, even though they don't need to hunt for survival.
+Scratching removes the dead outer sheaths of their claws, keeping them sharp and healthy. In the wild, this is important for hunting and self-defense. Indoor cats still have this instinct, even though they don't need to hunt for survival.
 
 ### 3. It's a Full-Body Stretch
 
@@ -33,26 +33,26 @@ Watch your cat when they scratch—they extend their front legs, arch their back
 
 Scratching can be a way for cats to relieve stress, anxiety, or excitement. You might notice your cat scratches more when you come home, after a nap, or when they're feeling playful. It's an emotional outlet, not a destructive act.
 
-## Why Your Furniture? (The Appeal Explained)
+## Why your furniture? (the appeal explained)
 
 Your cat chooses your furniture over their scratching post for several reasons:
 
-- **Texture:** Fabric and leather provide the perfect resistance for claw removal
-- **Height:** Sofas and chairs are often at the ideal height for a good stretch
-- **Location:** Furniture is usually in high-traffic areas where your cat wants to mark their presence
-- **Scent:** Your furniture already smells like you, making it an appealing target for scent marking
+- Texture: Fabric and leather provide the perfect resistance for claw removal
+- Height: Sofas and chairs are often at the ideal height for a good stretch
+- Location: Furniture is usually in high-traffic areas where your cat wants to mark their presence
+- Scent: Your furniture already smells like you, making it an appealing target for scent marking
 
-## How to Stop Cat Scratching Furniture: Proven Strategies
+## How to stop cat scratching furniture: proven strategies
 
 ### 1. Provide Better Alternatives (The #1 Solution)
 
 The most effective way to stop furniture scratching is to give your cat something BETTER to scratch on.
 
 **What Makes a Good Scratching Surface?**
-- **Stability:** It shouldn't wobble or tip over
-- **Height:** Tall enough for a full-body stretch (at least 32 inches)
-- **Texture:** Sisal rope, corrugated cardboard, or rough wood
-- **Placement:** Near the furniture they're currently scratching
+- Stability: It shouldn't wobble or tip over
+- Height: Tall enough for a full-body stretch (at least 32 inches)
+- Texture: Sisal rope, corrugated cardboard, or rough wood
+- Placement: Near the furniture they're currently scratching
 
 **Recommended Products:**
 - [SmartCat The Ultimate Scratching Post](https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20) - Tall, stable, sisal-wrapped
@@ -63,39 +63,39 @@ The most effective way to stop furniture scratching is to give your cat somethin
 
 While you're training your cat to use appropriate surfaces, make your furniture less attractive:
 
-- **Double-sided tape:** Cats hate sticky surfaces. Apply [Sticky Paws](https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20) to corners and edges
-- **Aluminum foil:** The texture and sound deter scratching
-- **Citrus scents:** Cats dislike citrus. Use orange or lemon-scented sprays
-- **Plastic covers:** Temporary protection during training
+- Double-sided tape: Cats hate sticky surfaces. Apply [Sticky Paws](https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20) to corners and edges
+- Aluminum foil: The texture and sound deter scratching
+- Citrus scents: Cats dislike citrus. Use orange or lemon-scented sprays
+- Plastic covers: Temporary protection during training
 
 ### 3. Use Positive Reinforcement
 
 Never punish your cat for scratching—they won't understand and it can make the behavior worse. Instead:
 
-- **Reward good behavior:** Give treats and praise when they use their scratching post
-- **Use catnip:** Sprinkle catnip on appropriate scratching surfaces
-- **Play near the post:** Encourage scratching during play sessions
-- **Clicker training:** Mark and reward scratching behavior
+- Reward good behavior: Give treats and praise when they use their scratching post
+- Use catnip: Sprinkle catnip on appropriate scratching surfaces
+- Play near the post: Encourage scratching during play sessions
+- Clicker training: Mark and reward scratching behavior
 
 ### 4. Trim Their Nails Regularly
 
 Regular nail trimming reduces damage and makes scratching less satisfying:
 
-- **Frequency:** Every 2-3 weeks
-- **Tools:** Use cat-specific nail clippers like [JW Pet Gripsoft](https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20)
-- **Technique:** Only trim the clear tip, avoiding the pink quick
-- **Alternative:** Consider [Soft Paws](https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20) nail caps for temporary protection
+- Frequency: Every 2-3 weeks
+- Tools: Use cat-specific nail clippers like [JW Pet Gripsoft](https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20)
+- Technique: Only trim the clear tip, avoiding the pink quick
+- Alternative: Consider [Soft Paws](https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20) nail caps for temporary protection
 
 ### 5. Address Underlying Issues
 
 Sometimes excessive scratching indicates other problems:
 
-- **Boredom:** Increase playtime and environmental enrichment
-- **Anxiety:** Try calming products like [Feliway](https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20) diffusers
-- **Medical issues:** Consult your vet if scratching is sudden or excessive
-- **Lack of outlets:** Provide more scratching options throughout your home
+- Boredom: Increase playtime and environmental enrichment
+- Anxiety: Try calming products like [Feliway](https://www.amazon.com/dp/B0006N9I5M?tag=forpetswith07-20) diffusers
+- Medical issues: Consult your vet if scratching is sudden or excessive
+- Lack of outlets: Provide more scratching options throughout your home
 
-## What NOT to Do
+## What not to do
 
 ### ❌ Declawing
 Declawing is amputation of the last toe joint and can cause lifelong pain, behavioral issues, and litter box avoidance. It's illegal in many countries and widely considered inhumane.
@@ -106,7 +106,7 @@ Spraying with water, yelling, or hitting your cat creates fear and damages your 
 ### ❌ Ignoring the Problem
 Scratching won't go away on its own. Your cat needs appropriate outlets for this natural behavior.
 
-## Creating a Cat-Friendly Home
+## Creating a cat-friendly home
 
 The goal isn't to stop scratching—it's to redirect it to appropriate surfaces. Here's how to create a cat-friendly environment:
 
@@ -129,7 +129,7 @@ Put scratching posts near:
 - Play with toys near them
 - Praise your cat when they use them
 
-## When to Seek Professional Help
+## When to seek professional help
 
 If you've tried these strategies for 4-6 weeks without improvement, consider:
 
@@ -137,7 +137,7 @@ If you've tried these strategies for 4-6 weeks without improvement, consider:
 2. **Visiting your vet** - Rule out medical problems
 3. **Environmental assessment** - A professional can evaluate your home setup
 
-## The Bottom Line
+## The bottom line
 
 Cat scratching is natural, necessary, and not malicious. By understanding WHY your cat scratches and providing better alternatives, you can save your furniture while keeping your cat happy and healthy.
 
@@ -145,9 +145,9 @@ Cat scratching is natural, necessary, and not malicious. By understanding WHY yo
 
 ---
 
-## Want More Cat Behavior Solutions?
+## Want more cat behavior solutions?
 
-If you're struggling with cat scratching or other behavior issues, check out our comprehensive guide: **[Cat Scratching Solutions: The Complete Guide to Stopping Destructive Scratching](https://books2read.com/u/47jzOq)**
+If you're struggling with cat scratching or other behavior issues, check out our complete guide: **[Cat Scratching Solutions: The Complete Guide to Stopping Destructive Scratching](https://books2read.com/u/47jzOq)**
 
 This ebook covers:
 - Step-by-step training techniques
@@ -160,7 +160,7 @@ This ebook covers:
 
 ---
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Q: How long does it take to stop cat scratching furniture?
 A: Most cats show improvement within 2-4 weeks with consistent training. Some may take up to 8 weeks to fully redirect their behavior.

@@ -15,23 +15,23 @@ Is your pet overweight? It's a common concern for pet owners.
 
 
 
-As a devoted pet parent, and having personally helped my own golden retriever shed those extra pounds, I understand the constant worry about our furry friends' well-being. We want them to be happy, healthy, and by our sides for as long as possible. One common concern I often hear from fellow pet owners is, "Is my pet overweight?" It's a valid question! Just like humans, maintaining a healthy weight is crucial for our dogs and cats to prevent various health issues and ensure a good quality of life.
+As a devoted pet parent, and having personally helped my own golden retriever shed those extra pounds, I understand the constant worry about our furry friends' well-being. We want them to be happy, healthy, and by our sides for as long as possible. One common concern I often hear from fellow pet owners is, "Is my pet overweight?" It's a valid question! Just like humans, maintaining a healthy weight is important for our dogs and cats to prevent various health issues and ensure a good quality of life.
 
-In this comprehensive guide, we'll explore simple yet effective ways to check your dog or cat's body condition at home. Maintaining a healthy **pet weight** is crucial, and you'll learn what to look for, why it matters for your **pet's health**, and how to take action if you suspect your pet is carrying extra weight. We'll cover everything from visual assessments to hands-on evaluations, providing you with the knowledge and confidence to assess your pet's body condition accurately. So, let's dive in and discover how to keep our beloved companions healthy and thriving!
+In this complete guide, we'll explore simple yet effective ways to check your dog or cat's body condition at home. Maintaining a healthy **pet weight** is important, and you'll learn what to look for, why it matters for your **pet's health**, and how to take action if you suspect your pet is carrying extra weight. We'll cover everything from visual assessments to hands-on evaluations. So, let's dive in and discover how to keep our beloved companions healthy and thriving!
 
 
 
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 
 
-## Table of Contents
+## Table of contents
 *   [What to Look for/Why it Matters](#what-to-look-for-why-it-matters)
 *   [Visual Assessment](#visual-assessment)
 *   [Hands-on Evaluation](#hands-on-evaluation)
 *   [FAQs](#faqs)
 *   [Conclusion](#conclusion)
 
-## What to Look for/Why it Matters <a name="what-to-look-for-why-it-matters"></a>
+## What to look for/why it matters <a name="what-to-look-for-why-it-matters"></a>
 
 Before we dive into the specifics of checking your pet's body condition, it's important to understand what we're looking for and why it matters. Maintaining a healthy weight is essential for your dog or cat's overall health and well-being. Overweight pets are at a higher risk of developing various health problems, including:
 
@@ -51,7 +51,7 @@ We'll be looking for a few key indicators:
 
 These indicators will help you determine if your pet is at a healthy weight, underweight, or overweight.
 
-## Visual Assessment <a name="visual-assessment"></a>
+## Visual assessment <a name="visual-assessment"></a>
 
 The first step in checking your pet's body condition is a visual assessment. Stand a few feet away from your dog or cat and observe their body shape. Look for the following:
 
@@ -62,7 +62,7 @@ The first step in checking your pet's body condition is a visual assessment. Sta
 Keep in mind that different breeds may have slightly different body shapes. For example, some breeds naturally have a deeper chest or a more muscular build. However, the general principles of a visible waistline and abdominal tuck still apply.
 
 
-## Hands-on Evaluation <a name="hands-on-evaluation"></a>
+## Hands-on evaluation <a name="hands-on-evaluation"></a>
 
 In addition to a visual assessment, a hands-on evaluation can provide valuable insights into your pet's body condition. Gently feel your pet's body, paying attention to the following:
 

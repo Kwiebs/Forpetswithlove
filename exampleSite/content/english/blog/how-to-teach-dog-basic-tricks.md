@@ -15,34 +15,34 @@ image: images/dog-tricks-training.jpg
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 
 
-## Essential Training Principles
+## Essential training principles
 
 Before teaching specific tricks, understand these core principles:
 
 ### Positive Reinforcement Training
 
-- **Reward desired behaviors immediately:** Within 1-2 seconds of the behavior
-- **Use high-value treats:** Something your dog absolutely loves
-- **Enthusiastic praise:** Verbal praise rewards behavior and builds engagement
-- **Consistency is key:** Everyone uses same commands and rewards
-- **End on success:** Always finish training sessions with successful repetitions
+- Reward desired behaviors immediately: Within 1-2 seconds of the behavior
+- Use high-value treats: Something your dog absolutely loves
+- Enthusiastic praise: Verbal praise rewards behavior and builds engagement
+- Consistency is key: Everyone uses same commands and rewards
+- End on success: Always finish training sessions with successful repetitions
 
 ### Training Environment
 
-- **Start distraction-free:** Quiet room, no other pets or distractions
-- **Gradual progression:** Add distractions slowly as skills improve
-- **Keep sessions short:** 5-10 minutes maximum, then play time
-- **Multiple sessions daily:** Short, frequent practice beats long, infrequent sessions
-- **Same location initially:** Helps create consistent context for learning
+- Start distraction-free: Quiet room, no other pets or distractions
+- Gradual progression: Add distractions slowly as skills improve
+- Keep sessions short: 5-10 minutes maximum, then play time
+- Multiple sessions daily: Short, frequent practice beats long, infrequent sessions
+- Same location initially: Helps create consistent context for learning
 
 ### Reward Timing
 
-- **Immediate reward:** As the behavior happens, not after
-- **Mark behavior:** Use verbal markers like "Yes!" to indicate the exact moment
-- **Build associations:** The more immediate the reward, the stronger the learning
-- **Fade gradually:** Reduce treats gradually as behavior becomes reliable
+- Immediate reward: As the behavior happens, not after
+- Mark behavior: Use verbal markers like "Yes!" to indicate the exact moment
+- Build associations: The more immediate the reward, the stronger the learning
+- Fade gradually: Reduce treats gradually as behavior becomes reliable
 
-## Basic Trick 1: Sit
+## Basic trick 1: sit
 
 Sit is foundational—most other tricks build from this position.
 
@@ -68,14 +68,14 @@ Sit is foundational—most other tricks build from this position.
 
 ### Common Mistakes
 
-- **Holding the treat too low:** Your dog may jump instead of sit
-- **Waiting too long to cue:** Timing matters for strong associations
-- **Pushing on the rear:** Gentle guidance is okay, but avoid forcing
-- **Moving on too fast:** Master in quiet rooms before adding distractions
+- Holding the treat too low: Your dog may jump instead of sit
+- Waiting too long to cue: Timing matters for strong associations
+- Pushing on the rear: Gentle guidance is okay, but avoid forcing
+- Moving on too fast: Master in quiet rooms before adding distractions
 
-## Basic Trick 2: Stay
+## Basic trick 2: stay
 
-Stay teaches impulse control and is crucial for safety.
+Stay teaches impulse control and is important for safety.
 
 ### Step-by-Step Training
 
@@ -93,17 +93,17 @@ Stay teaches impulse control and is crucial for safety.
 4. Practice in different rooms
 
 **Gradual progression timeline:**
-- **Day 1-3:** Very short stays (1-2 steps, 3 seconds)
-- **Day 4-7:** Add distance (3-5 steps), increase time (5-10 seconds)
-- **Week 2:** Add mild distractions (household sounds, other rooms)
-- **Week 3+:** Gradually increase time and distance, varying environments
+- Day 1-3: Very short stays (1-2 steps, 3 seconds)
+- Day 4-7: Add distance (3-5 steps), increase time (5-10 seconds)
+- Week 2: Add mild distractions (household sounds, other rooms)
+- Week 3+: Gradually increase time and distance, varying environments
 
 ### Important Rules
 
-- **Release consistently:** Always have a release word like "Okay!" or "Free!" before your dog breaks position
-- **Never call your dog from a stay initially:** The release word teaches the position ends, not a verbal command
-- **Reward gradually:** Reward every stay initially, intermittent rewards as skills improve
-- **Practice the reward:** Before you ask for a long stay, practice successful short stays
+- Release consistently: Always have a release word like "Okay!" or "Free!" before your dog breaks position
+- Never call your dog from a stay initially: The release word teaches the position ends, not a verbal command
+- Reward gradually: Reward every stay initially, intermittent rewards as skills improve
+- Practice the reward: Before you ask for a long stay, practice successful short stays
 
 ### When to Stop
 
@@ -112,7 +112,7 @@ Stop the stay immediately and return if your dog:
 - Can't maintain position despite clear cues
 - Gets up despite your repeated verbal command
 
-## Basic Trick 3: Come
+## Basic trick 3: come
 
 Come is the most important safety command—practice this more than any other trick.
 
@@ -138,12 +138,12 @@ Come is the most important safety command—practice this more than any other tr
 
 ### Critical Rules
 
-- **Never call for punishment:** Come must always be followed by positive things
-- **Never chase your dog if they run away:** Running makes it a game to them
-- **Don't call repeatedly before they come:** One clear "Come!" is better than five weak ones
-- **Reward the arrival, not just the coming to:** The moment they reach you, reward immediately
+- Never call for punishment: Come must always be followed by positive things
+- Never chase your dog if they run away: Running makes it a game to them
+- Don't call repeatedly before they come: One clear "Come!" is better than five weak ones
+- Reward the arrival, not just the coming to: The moment they reach you, reward immediately
 
-## Basic Trick 4: Down
+## Basic trick 4: down
 
 Down is a natural resting position that builds on sit skills.
 
@@ -167,7 +167,7 @@ Down is a natural resting position that builds on sit skills.
 - Eventually phase out the treat entirely and use just the verbal cue "Down!"
 - Practice in different positions—down from sit, down from stand, down from other tricks
 
-## Basic Trick 5: Shake Hands
+## Basic trick 5: shake hands
 
 Shake hands is impressive and builds trust and paw handling.
 
@@ -191,7 +191,7 @@ Shake hands is impressive and builds trust and paw handling.
 - Eventually phase out the hand and ask for "Shake!" before presenting your hand
 - Reward the lift of the paw, then present your hand to complete the shake
 
-## Basic Trick 6: Roll Over
+## Basic trick 6: roll over
 
 Roll over is impressive and teaches body awareness.
 
@@ -217,7 +217,7 @@ If the full roll is too difficult, break it into smaller steps:
 - End on success even if it's just a partial rollover
 - Praise enthusiastically for any progress toward the full behavior
 
-## Advanced Beginner Tricks
+## Advanced beginner tricks
 
 ### Lie Down Teaching "Down" and "Stay" combined:
 1. Ask for down
@@ -238,56 +238,56 @@ If the full roll is too difficult, break it into smaller steps:
 4. Reward when they complete the circle
 5. Practice both directions separately, then teach them to respond appropriately
 
-## Troubleshooting Common Training Issues
+## Troubleshooting common training issues
 
 ### Problem: Dog Won't Focus
 
 **Solutions:**
-- **Increase treat value:** Use better treats for training sessions
-- **Reduce distractions:** Train in quieter environments occasionally
-- **Shorten sessions:** 5-10 minutes is better than dragging on
-- **Practice before meals** when dogs are more motivated by treats
-- **Ensure adequate exercise:** Tired dogs train better
+- Increase treat value: Use better treats for training sessions
+- Reduce distractions: Train in quieter environments occasionally
+- Shorten sessions: 5-10 minutes is better than dragging on
+- Practice before meals** when dogs are more motivated by treats
+- **Ensure adequate exercise: Tired dogs train better
 
 ### Problem: Dog Gets Frustrated
 
 **Solutions:**
-- **Reduce difficulty:** Go back to easier versions of the trick
-- **Increase reward rate:** Reward smaller successes, not just the final behavior
-- **Add breaks:** Take play breaks between training sessions
-- **End on success:** Always finish with a repetition your dog can do successfully
-- **Stay positive:** Frustration shows in your voice and affects your dog
+- Reduce difficulty: Go back to easier versions of the trick
+- Increase reward rate: Reward smaller successes, not just the final behavior
+- Add breaks: Take play breaks between training sessions
+- End on success: Always finish with a repetition your dog can do successfully
+- Stay positive: Frustration shows in your voice and affects your dog
 
 ### Problem: Dog Won't Perform Tricks Without Treats
 
 **Solutions:**
-- **Phase out treats gradually:** Don't stop abruptly
-- **Use variable reinforcement:** Reward 4 out of 5 times, then 3 out of 5, etc.
-- **Add other rewards:** Verbal praise, petting, playtime
-- **Practice spontaneous asking:** Ask for tricks throughout the day, not just in training sessions
-- **Be patient:** Treat independence takes time to develop
+- Phase out treats gradually: Don't stop abruptly
+- Use variable reinforcement: Reward 4 out of 5 times, then 3 out of 5, etc.
+- Add other rewards: Verbal praise, petting, playtime
+- Practice spontaneous asking: Ask for tricks throughout the day, not just in training sessions
+- Be patient: Treat independence takes time to develop
 
 ### Problem: Dog Only Performs Tricks in Training Rooms
 
 **Solutions:**
-- **Gradual environment change:** Practice in the hallway, then yard, then park
-- **Add one distraction at a time:** Don't overwhelm with multiple new factors
-- **Reward every repetition initially** in new environments
-- **Return basics:** Sometimes go back to easier versions of tricks in new spaces
-- **Practice everywhere:** Ask for tricks during walks, at the park, on visits
+- Gradual environment change: Practice in the hallway, then yard, then park
+- Add one distraction at a time: Don't overwhelm with multiple new factors
+- Reward every repetition initially** in new environments
+- **Return basics: Sometimes go back to easier versions of tricks in new spaces
+- Practice everywhere: Ask for tricks during walks, at the park, on visits
 
-## Training Schedule Recommendations
+## Training schedule recommendations
 
 **Daily training:**
-- **10-15 minutes total** of active training sessions
+- 10-15 minutes total** of active training sessions
 - **Split into 2-3 shorter sessions** for better focus
 - **Reinforce spontaneously** throughout the day (not in formal sessions)
 
-**Progression:**
-- **Week 1:** Master one basic trick thoroughly
-- **Week 2:** Add second basic trick while maintaining first
-- **Week 3:** Continue basics, add second trick variations
-- **Week 4:** Practice in different environments with increasing distractions
+**Progression:
+- Week 1: Master one basic trick thoroughly
+- Week 2: Add second basic trick while maintaining first
+- Week 3: Continue basics, add second trick variations
+- Week 4: Practice in different environments with increasing distractions
 
 **Maintenance:**
 - **Practice all learned tricks每周至少几次**, even after mastered
@@ -295,7 +295,7 @@ If the full roll is too difficult, break it into smaller steps:
 - **New environments** maintain reliability
 - **New tricks** build on learned foundations
 
-## People Also Ask
+## People also ask
 
 **Q: How many tricks can a dog learn?**
 A: There's no realistic limit—dogs can potentially learn hundreds of tricks. Most dogs master 10-20 thoroughly during their lifetime, with enthusiasts teaching 50+. The limiting factors are your training time and enthusiasm, not the dog's capacity. Trick training is great mental stimulation for dogs of all ages, and continued learning throughout life keeps dogs mentally sharp and engaged.
@@ -330,7 +330,7 @@ A: Signs a trick is too advanced include: repeated frustration, complete refusal
 
 ### 📚 Free eBook: Complete Pet Care Guide
 
-Your comprehensive guide to dog training, trick teaching, and behavioral problems is just a click away.
+Your complete guide to dog training, trick teaching, and behavioral problems is just a click away.
 
 [Get Your Free eBook →](https://books2read.com/u/47jzOq)
 
