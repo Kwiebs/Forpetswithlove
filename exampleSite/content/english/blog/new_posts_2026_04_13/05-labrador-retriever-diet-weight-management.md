@@ -261,3 +261,10 @@ Adjust portions based on your Lab's specific needs and activity level.
 Managing your Labrador Retriever's weight requires commitment, but the rewards are immeasurable. A healthy-weight Lab is happier, more active, and likely to live longer. Their food motivation can be a challenge, but it's also a powerful tool for training and bonding.
 Remember: you're not depriving your Lab by controlling their weight—you're giving them the gift of health and longevity. Those pleading eyes will thank you with years of active, joyful companionship!
 Ready to help your Lab achieve and maintain a healthy weight? Check out our [weight management essentials on Amazon](https://www.amazon.com/s?k=labrador+weight+management).
+
+
+**Want More Help?** Don't miss our comprehensive guide. It's packed with expert advice, practical tips, and proven strategies. Available at [books2read.com/u/47jzOq](https://books2read.com/u/47jzOq).
+
+---
+
+*Disclosure: This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you. As an Amazon Associate, we earn from qualifying purchases. The information provided is for educational purposes only and is not a substitute for professional veterinary advice. Always consult your veterinarian for specific health concerns.*
