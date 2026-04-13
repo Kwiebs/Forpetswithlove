@@ -7,4 +7,3 @@ outputs:
 - html
 - rss
 - json
----
