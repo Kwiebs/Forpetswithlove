@@ -1,7 +1,6 @@
 ---
 title: "Puppy Leash Training: First Week Step by Step"
 description: "Master puppy leash training in your first week with this step-by-step guide. Learn proper techniques, common mistakes to avoid, and how to make walks enjoyable."
-date: 2026-04-13T02:00:00Z
 date: 2026-04-13
 author: "For Pets With Love"
 tags: ["puppy leash training", "puppy training", "leash walking", "puppy first week", "dog walking"]

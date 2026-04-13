@@ -1,7 +1,6 @@
 ---
 title: "Cat water fountains: encouraging hydration with flowing fresh water"
 description: "Why cats need water fountains. Learn how flowing water encourages hydration and discover the best cat fountains for keeping your pet healthy and hydrated."
-date: 2026-04-13T08:15:00Z
 date: 2026-04-13
 author: "For Pets With Love"
 tags: ["cat water fountain", "pet water fountain", "cat drinking fountain", "flowing water bowl", "cat hydration"]

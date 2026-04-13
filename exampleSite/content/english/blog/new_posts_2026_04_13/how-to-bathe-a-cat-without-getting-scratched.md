@@ -1,7 +1,6 @@
 ---
 title: "How to bathe a cat without getting scratched"
 description: "Learn expert techniques to bathe your cat safely without scratches. Step-by-step guide ensures stress-free bathing for you and your feline friend."
-date: 2026-04-13T10:00:00Z
 date: 2026-04-13
 author: "For Pets With Love"
 tags: ["cat bathing", "how to bathe a cat", "cat grooming", "cat care", "stress-free cat bath"]
