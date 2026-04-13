@@ -1,8 +1,8 @@
 ---
 title: "How to Stop Dog Barking at Doorbell - Training Guide"
 description: "Stop your dog from barking at the doorbell with proven training techniques. Learn desensitization, positive reinforcement, and practical solutions for a quieter home."
-date: 2026-04-13
-image: images/dog-doorbell-training.jpg
+date: 2026-04-06
+image: images/dog-bed.jpg
 
 tags: ["stop dog barking", "doorbell training", "dog behavior", "dog training", "excessive barking"]
 categories: ["Dog Training", "Dog Behavior"]

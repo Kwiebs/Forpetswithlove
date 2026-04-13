@@ -1,7 +1,7 @@
 ---
 title: "Separation Anxiety in Dogs: Gradual Desensitization Plan"
 description: "Help your dog overcome separation anxiety with a proven gradual desensitization plan. Learn step-by-step techniques to build confidence and reduce distress when left alone."
-date: 2026-04-13
+date: 2026-03-31
 image: images/dog-separation-anxiety.jpg
 
 tags: ["separation anxiety dogs", "dog desensitization", "dog alone training", "separation anxiety treatment", "dog behavior"]

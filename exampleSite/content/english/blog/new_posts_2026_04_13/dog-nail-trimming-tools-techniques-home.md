@@ -1,8 +1,8 @@
 ---
 title: "Dog nail trimming: tools and techniques for home"
 description: "Master safe dog nail trimming at home with our complete guide. Learn about the best tools, proper techniques, and tips for nervous dogs."
-date: 2026-04-13
-image: images/dog-nail-trimming.jpg
+date: 2026-03-08
+image: images/cat-toys.jpg
 
 tags: ["dog nail trimming", "trim dog nails", "dog grooming", "nail clippers", "dog nail care"]
 categories: ["Dog Care", "Grooming"]

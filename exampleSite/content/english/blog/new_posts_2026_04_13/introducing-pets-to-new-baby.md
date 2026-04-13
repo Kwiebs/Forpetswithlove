@@ -1,8 +1,8 @@
 ---
 title: "Introducing Pets to New Baby: Step-by-Step Preparation"
 description: " Prepare your pets for a new baby with our comprehensive guide. Learn step-by-step strategies for smooth introductions and safe, happy cohabitation."
-date: 2025-06-15
-image: images/pets-new-baby.jpg
+date: 2026-03-21
+image: images/crate-training.jpg
 
 tags: ["pets and babies", "introducing dog to baby", "cat and baby safety", "new baby preparation", "pet baby introduction"]
 categories: ["Pet Safety", "Pet Behavior"]

@@ -1,8 +1,8 @@
 ---
 title: "Bearded Dragon Lighting Setup: UVB Schedule"
 description: Complete guide to bearded dragon lighting and UVB schedules. Learn proper bulb types, placement, timing, and essential tips for optimal health and well-being.
-date: 2026-04-13
-image: images/bearded-dragon-lighting-setup.jpg
+date: 2026-01-30
+image: images/cat-coat.jpg
 permalink: /bearded-dragon-lighting-setup-uvb-schedule/
 tags: bearded dragon lighting, bearded dragon UVB, reptile lighting, bearded dragon care, UVB schedule
 categories: ["Small Pet Care", "Reptile Care"]

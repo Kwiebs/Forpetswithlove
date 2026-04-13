@@ -1,8 +1,8 @@
 ---
 title: "Dog Crate Training Schedule by Age: Week by Week"
 description: "Complete crate training schedule for dogs of all ages. Learn week-by-week protocols for puppies, adults, and seniors to create a safe, comfortable space."
-date: 2026-04-13
-image: images/dog-crate-training-schedule.jpg
+date: 2026-02-26
+image: images/cat-scratching-behavior.jpg
 
 tags: ["crate training schedule", "dog crate training", "puppy crate training", "crate training by age", "dog training"]
 categories: ["Dog Training", "Dog Care"]

@@ -1,8 +1,8 @@
 ---
 title: "Signs of Stress in Pets: Body Language Guide"
 description: "Learn to recognize stress signals in dogs and cats. Our body language guide helps you identify anxiety early and create a calmer, happier pet."
-date: 2025-06-15
-image: images/pet-stress-signs.jpg
+date: 2026-04-02
+image: images/dog-barking.jpg
 
 tags: ["pet stress signs", "dog anxiety symptoms", "cat stress behavior", "pet body language", "calm anxious pet"]
 categories: ["Pet Behavior", "Pet Health"]

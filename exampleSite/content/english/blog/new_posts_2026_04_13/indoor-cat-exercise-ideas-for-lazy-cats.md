@@ -1,8 +1,8 @@
 ---
 title: Indoor cat exercise ideas for lazy cats
 description: Get your sedentary cat moving with these engaging exercise ideas. Discover toys, games, and environmental enrichment strategies that motivate even the laziest cats to play.
-date: 2026-04-13
-image: images/indoor-cat-exercise.jpg
+date: 2026-03-19
+image: images/cover-cat-scratches-furniture.jpg
 permalink: /indoor-cat-exercise-ideas-for-lazy-cats/
 tags: indoor cat exercise, lazy cat activities, cat play ideas, feline fitness, cat enrichment
 categories: ["Cat Health", "Cat Behavior", "Cat Care"]

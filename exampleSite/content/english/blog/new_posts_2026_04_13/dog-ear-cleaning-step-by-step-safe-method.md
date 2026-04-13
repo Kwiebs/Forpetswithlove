@@ -1,8 +1,8 @@
 ---
 title: "Dog ear cleaning: step-by-step safe method"
 description: "Learn the safe way to clean your dog's ears at home. Complete guide covers supplies, technique, frequency, and warning signs that require veterinary care."
-date: 2026-04-13
-image: images/dog-ear-cleaning.jpg
+date: 2026-03-02
+image: images/cat-scratching.jpg
 
 tags: ["dog ear cleaning", "clean dog ears", "dog ear care", "dog grooming", "ear infection prevention"]
 categories: ["Dog Care", "Grooming"]

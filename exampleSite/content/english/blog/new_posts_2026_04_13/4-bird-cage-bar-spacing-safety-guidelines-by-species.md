@@ -1,8 +1,8 @@
 ---
 title: "Bird Cage Bar Spacing: Safety Guidelines by Species"
 description: Essential guide to bird cage bar spacing for different bird species. Learn safe distances, prevent escapes and injuries, and choose the right cage for your feathered friend.
-date: 2026-04-13
-image: images/bird-cage-bar-spacing.jpg
+date: 2026-01-28
+image: images/cat-claw-care.jpg
 permalink: /bird-cage-bar-spacing-safety-guidelines-by-species/
 tags: bird cage bar spacing, bird cage safety, parakeet cage, cockatiel cage, bird care
 categories: ["Small Pet Care", "Bird Care"]

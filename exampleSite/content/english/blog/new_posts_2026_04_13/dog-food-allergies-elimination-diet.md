@@ -1,11 +1,11 @@
 ---
 title: "Food Allergies in Dogs: Elimination Diet Guide"
 description: "Does your dog have food allergies? Learn how to identify triggers and use an elimination diet to find relief for your itchy, uncomfortable pup."
-date: 2026-04-13
+date: 2026-03-04
 author: "For Pets With Love"
 tags: dog food allergies, elimination diet for dogs, dog food sensitivity, dog skin allergies
 categories: ["Dog Health", "Dog Nutrition"]
-image: images/dog-food-allergies-elimination-diet.jpg
+image: images/cat-scratching-post.jpg
 permalink: /dog-food-allergies-elimination-diet/
 ---
 

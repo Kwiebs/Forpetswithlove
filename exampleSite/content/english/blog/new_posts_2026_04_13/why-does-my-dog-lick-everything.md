@@ -1,8 +1,8 @@
 ---
 title: "Why Does My Dog Lick Everything: Explaining the Behavior"
 description: "Discover why dogs lick everything and what it means for their health. Learn when licking is normal and when it might signal a problem."
-date: 2025-06-15
-image: images/dog-licking-behavior.jpg
+date: 2026-04-10
+image: images/dog-bite.jpg
 
 tags: ["dog licking behavior", "why dogs lick", "excessive licking", "dog health", "dog behavior"]
 categories: ["Dog Behavior", "Dog Health"]

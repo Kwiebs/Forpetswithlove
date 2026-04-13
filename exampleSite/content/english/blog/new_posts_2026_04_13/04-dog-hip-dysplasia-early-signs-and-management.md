@@ -1,8 +1,8 @@
 ---
 title: "Dog Hip Dysplasia: Early Signs and Management for Better Mobility"
 description: "Learn to recognize dog hip dysplasia early signs and discover effective management strategies. Expert guidance on treatment options, pain relief, and improving your dog's quality of life."
-date: 2026-04-13
-image: images/dog-hip-dysplasia.jpg
+date: 2026-01-15
+image: images/cat-actively-scratching.jpg
 
 tags: ["dog hip dysplasia", "hip dysplasia in dogs", "dog hip dysplasia symptoms", "hip dysplasia treatment for dogs", "dog joint problems"]
 categories: ["Dog Health", "Joint Health"]

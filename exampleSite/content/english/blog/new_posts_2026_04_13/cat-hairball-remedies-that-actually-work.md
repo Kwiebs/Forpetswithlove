@@ -1,8 +1,8 @@
 ---
 title: Cat hairball remedies that actually work
 description: Discover proven hairball remedies that actually reduce vomiting and discomfort. Learn about grooming techniques, dietary solutions, and when hairballs signal serious health problems.
-date: 2026-04-13
-image: images/cat-hairball-remedies.jpg
+date: 2026-02-11
+image: images/catindoor.jpg
 permalink: /cat-hairball-remedies-that-actually-work/
 tags: cat hairball remedies, hairball prevention, cat vomiting hairballs, feline hairballs, cat digestive health
 categories: ["Cat Health", "Cat Care", "Cat Grooming"]

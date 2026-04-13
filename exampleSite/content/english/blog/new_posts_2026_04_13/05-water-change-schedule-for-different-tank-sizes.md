@@ -1,8 +1,8 @@
 ---
 title: Water Change Schedule for Different Tank Sizes
 description: Learn the proper water change schedule for different aquarium sizes. Complete guide to maintaining water quality through regular water changes.
-date: 2026-04-13
-image: images/aquarium-water-change-schedule.jpg
+date: 2026-01-19
+image: images/cat-biting.jpg
 permalink: /water-change-schedule-for-different-tank-sizes/
 tags: water change schedule, aquarium maintenance, water quality, tank maintenance, fish tank care, water parameters, aquarium cleaning
 categories: ["Aquarium Care", "Fish Health"]

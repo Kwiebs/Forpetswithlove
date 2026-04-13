@@ -1,8 +1,8 @@
 ---
 title: "How Many Fish Per Gallon: Stocking Guidelines"
 description: Discover the right fish stocking guidelines for your aquarium. Learn how many fish per gallon based on fish size, species, and tank conditions.
-date: 2026-04-13
-image: images/fish-stocking-guide.jpg
+date: 2026-01-07
+image: images/birdcage.jpg
 permalink: /how-many-fish-per-gallon-stocking-guidelines/
 tags: fish stocking, aquarium capacity, fish per gallon, tank stocking guide, fish tank setup, aquarium planning, fish species guide
 categories: ["Aquarium Care", "Fish Health"]

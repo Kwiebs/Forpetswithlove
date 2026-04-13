@@ -1,8 +1,8 @@
 ---
 title: "Dog Digging in Yard: How to Redirect the Instinct"
 description: "Learn effective strategies to stop destructive dog digging in your yard while respecting your dog's natural instincts and keeping them happy."
-date: 2025-06-15
-image: images/dog-digging-yard.jpg
+date: 2026-02-28
+image: images/cat-scratching-furniture.jpg
 
 tags: ["dog digging", "stop dog digging", "dog yard behavior", "dog training", "destructive digging"]
 categories: ["Dog Behavior", "Dog Training"]

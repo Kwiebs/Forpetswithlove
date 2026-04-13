@@ -1,8 +1,8 @@
 ---
 title: "Dog Ear Infection Symptoms and Home Treatment: What Every Pet Parent Should Know"
 description: "Learn to spot dog ear infection symptoms early and discover safe home treatments. Expert advice on when to see your vet and how to keep your dog's ears healthy."
-date: 2026-04-13
-image: images/dog-ear-infection.jpg
+date: 2026-01-01
+image: images/apartment-dog.jpg
 
 tags: ["dog ear infection", "dog ear infection symptoms", "dog ear infection home treatment", "how to treat dog ear infection", "dog ear care"]
 categories: ["Dog Health", "Dog Care"]

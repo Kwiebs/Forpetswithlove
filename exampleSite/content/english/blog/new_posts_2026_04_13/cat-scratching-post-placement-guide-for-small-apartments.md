@@ -1,11 +1,11 @@
 ---
 title: "Cat Scratching Post Placement Guide for Small Apartments"
 description: "Maximize your small apartment space with strategic scratching post placement. Learn how to protect your furniture and keep your cat happy even in limited square footage."
-date: 2026-04-13
+date: 2026-02-17
 author: "For Pets With Love"
 tags: ["cat scratching post placement", "apartment living with cats", "cat furniture", "small space solutions", "cat care"]
 categories: ["Cat Behavior", "Cat Care"]
-image: images/apartment-scratching-post-placement.jpg
+image: images/cat-litter-box-training.jpg
 ---
 
 faq:
