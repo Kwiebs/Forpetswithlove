@@ -1,11 +1,52 @@
 ---
 title: "Cat matted fur: safe removal methods"
 description: "Learn safe ways to remove matted fur from your cat without causing pain or injury. Step-by-step guide covers prevention, tools, and when to see a professional."
-date: 2026-02-15
-image: images/cat-litter-box.jpg
-
+date: 2026-04-07
+datepublished: 2026-04-13
+author: "For Pets With Love"
 tags: ["cat matted fur", "remove cat mats", "cat fur care", "cat grooming", "dematting cat"]
 categories: ["Cat Care", "Grooming"]
+image: images/multi-cat-harmony.jpg
+faq:
+  - question: "Can I cut mats out of my cat's fur with scissors?"
+    answer: "Never use scissors to cut mats. It's nearly impossible to distinguish fur from skin, and cats move unpredictably. Scissor injuries are common and can be severe."
+  - question: "Why does my cat's fur keep matting?"
+    answer: "Mats form from friction (collars, lying in one position), lack of grooming (senior cats, overweight cats), or shedding undercoat that gets trapped. Regular brushing prevents most mats."
+  - question: "Are mats painful for cats?"
+    answer: "Yes, mats pull on skin, restrict movement, and can cause skin irritation, infections, and even open wounds. Severe mats require veterinary attention."
+  - question: "How do I prevent mats in long-haired cats?"
+    answer: "Daily brushing with appropriate tools, keeping your cat at healthy weight, and regular professional grooming prevent most mat formation."
+  - question: "Can I use human detangling spray on my cat?"
+    answer: "No, human products contain ingredients unsafe for cats who groom themselves. Only use products specifically formulated for felines."
+  - question: "When should I take my cat to a groomer for mats?"
+    answer: "If mats are large, close to the skin, in sensitive areas (armpits, groin), or your cat becomes aggressive during home attempts, professional help is safest."
+howto:
+  - name: "Assess the mat"
+    text: "Determine mat size, location, and proximity to skin before attempting removal."
+  - name: "Gather appropriate tools"
+    text: "Collect a dematting comb, slicker brush, cat-safe detangling spray, and treats for reward."
+  - name: "Apply detangling spray"
+    text: "Lightly mist the mat with cat-safe conditioner to loosen fibers."
+  - name: "Hold the skin taut"
+    text: "Place fingers between mat and skin to protect from pulling and cutting tools."
+  - name: "Work the mat apart"
+    text: "Use dematting comb or fingers to gently separate the mat into smaller sections from outside in."
+products:
+  - name: "GoPets Dematting Comb for Cats"
+    price: "14.99"
+    currency: "USD"
+    url: "https://www.amazon.com/dp/B00R0A7NDQ?tag=forpetswith07-20"
+    image: "images/gopets-dematting-comb.jpg"
+  - name: "Burt's Bees for Cats Natural Dander Reducing Spray"
+    price: "10.99"
+    currency: "USD"
+    url: "https://www.amazon.com/dp/B00ZM7M7QC?tag=forpetswith07-20"
+    image: "images/burts-bees-cat-spray.jpg"
+  - name: "Hertzko Cat Brush with Soft Massage Pins"
+    price: "12.99"
+    currency: "USD"
+    url: "https://www.amazon.com/dp/B01DUQ7F0C?tag=forpetswith07-20"
+    image: "images/hertzko-cat-brush.jpg"
 ---
 
 # Cat matted fur: safe removal methods

@@ -1,11 +1,24 @@
 ---
 title: "Why Does My Dog Lick Everything: Explaining the Behavior"
 description: "Discover why dogs lick everything and what it means for their health. Learn when licking is normal and when it might signal a problem."
-date: 2026-04-10
-image: images/dog-bite.jpg
-
+datepublished: 2025-06-15
+author: "For Pets With Love"
 tags: ["dog licking behavior", "why dogs lick", "excessive licking", "dog health", "dog behavior"]
 categories: ["Dog Behavior", "Dog Health"]
+image: images/microchip.jpg
+faq:
+  - question: "Is it normal for dogs to lick everything?"
+    answer: "Yes, moderate licking is normal dog behavior. Dogs explore the world through their tongues and use licking for grooming, showing affection, and tasting. However, excessive or obsessive licking may indicate anxiety, boredom, or health issues."
+  - question: "Why does my dog lick the couch and furniture?"
+    answer: "Dogs often lick furniture because they can smell food residues or scents from skin and sweat that humans left behind. The texture may also feel soothing on their tongue, or they may be bored and seeking stimulation."
+  - question: "Can dog licking be a sign of anxiety?"
+    answer: "Absolutely. Excessive licking is a common displacement behavior when dogs feel anxious, stressed, or overwhelmed. It releases calming endorphins, which can develop into a compulsive habit if the underlying anxiety isn't addressed."
+  - question: "Why does my dog lick my face and hands?"
+    answer: "Face and hand licking is usually a sign of affection and bonding. In wild dog packs, puppies lick their mothers' faces to ask for food. Your dog is showing submission, love, and seeking attention when they lick you."
+  - question: "Should I stop my dog from licking excessively?"
+    answer: "Occasional licking is harmless, but if it's constant or causing skin irritation, intervention is needed. First rule out medical causes with your vet, then address behavioral triggers like boredom or anxiety through enrichment and training."
+  - question: "Is dog saliva clean or dirty?"
+    answer: "Dog saliva contains bacteria, though different from human bacteria. While it's generally not harmful to healthy people, those with compromised immune systems should be cautious. Dog mouths are not cleaner than human mouths despite the myth."
 ---
 
 # Why does my dog lick everything: explaining the behavior

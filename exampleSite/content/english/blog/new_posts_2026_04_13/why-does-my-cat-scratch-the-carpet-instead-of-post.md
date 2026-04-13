@@ -1,11 +1,12 @@
 ---
 title: "Why Does My Cat Scratch the Carpet Instead of Post"
 description: "Discover why your cat prefers scratching the carpet over their scratching post and learn practical solutions to redirect this behavior to appropriate surfaces."
-date: 2026-04-08
+date: 2026-02-13
+datepublished: 2026-04-13
 author: "For Pets With Love"
 tags: ["cat scratching carpet", "cat scratching behavior", "cat training", "cat furniture", "cat care"]
 categories: ["Cat Behavior", "Cat Care"]
-image: images/dog_bed.jpg
+image: images/estrela-mountain-dog.jpg
 ---
 
 faq:

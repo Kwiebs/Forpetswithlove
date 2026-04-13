@@ -1,11 +1,15 @@
 ---
-title: "Bearded Dragon Lighting Setup: UVB Schedule"
+title: Bearded Dragon Lighting Setup: UVB Schedule
 description: Complete guide to bearded dragon lighting and UVB schedules. Learn proper bulb types, placement, timing, and essential tips for optimal health and well-being.
-date: 2026-01-30
-image: images/cat-coat.jpg
+image: images/guinea-pig.jpg
+datepublished: 2026-04-13
+dateModified: 2026-04-13
 permalink: /bearded-dragon-lighting-setup-uvb-schedule/
-tags: bearded dragon lighting, bearded dragon UVB, reptile lighting, bearded dragon care, UVB schedule
 categories: ["Small Pet Care", "Reptile Care"]
+tags: bearded dragon lighting, bearded dragon UVB, reptile lighting, bearded dragon care, UVB schedule
+schema:
+  faqPage: true
+  article: true
 ---
 
 Proper lighting is absolutely essential for bearded dragon health and survival. In the wild, these desert reptiles bask for hours under intense sunlight, absorbing UVB rays that enable them to produce vitamin D3 and metabolize calcium. Without appropriate lighting in captivity, bearded dragons can develop serious, life-threatening conditions. This comprehensive guide will help you create the perfect lighting setup and establish an effective UVB schedule.

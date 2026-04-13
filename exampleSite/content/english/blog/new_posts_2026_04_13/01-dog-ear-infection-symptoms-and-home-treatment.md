@@ -1,11 +1,52 @@
 ---
 title: "Dog Ear Infection Symptoms and Home Treatment: What Every Pet Parent Should Know"
 description: "Learn to spot dog ear infection symptoms early and discover safe home treatments. Expert advice on when to see your vet and how to keep your dog's ears healthy."
-date: 2026-01-01
-image: images/apartment-dog.jpg
-
+date: 2026-03-22
+datepublished: 2026-04-13
+author: "For Pets With Love"
 tags: ["dog ear infection", "dog ear infection symptoms", "dog ear infection home treatment", "how to treat dog ear infection", "dog ear care"]
 categories: ["Dog Health", "Dog Care"]
+image: images/how-often-bathe-puppy.jpg
+faq:
+  - question: "How do I know if my dog has an ear infection?"
+    answer: "Look for symptoms like head shaking, ear scratching, redness, swelling, discharge, or a foul odor. Your dog may also tilt their head to one side or show signs of discomfort when you touch their ears."
+  - question: "Can I treat my dog's ear infection at home?"
+    answer: "Mild ear infections can sometimes be managed at home with cleaning and natural remedies, but moderate to severe infections require veterinary treatment. Always consult your vet before starting home treatment."
+  - question: "How long does a dog ear infection take to clear up?"
+    answer: "With proper treatment, mild infections usually improve within 1-2 weeks. Severe infections or those causing complications may take several weeks to fully resolve."
+  - question: "What causes ear infections in dogs?"
+    answer: "Common causes include bacteria, yeast, ear mites, allergies, moisture trapped in the ear, excessive ear wax, and foreign objects. Some breeds with floppy ears are more prone to infections."
+  - question: "Can dog ear infections go away on their own?"
+    answer: "Ear infections rarely resolve without treatment. Left untreated, they can worsen and lead to serious complications including hearing loss or damage to the ear canal."
+  - question: "How can I prevent ear infections in my dog?"
+    answer: "Regular ear cleaning, keeping ears dry after swimming or baths, managing allergies, and routine veterinary check-ups can help prevent ear infections."
+howto:
+  - name: "Gather Your Supplies"
+    text: "Collect a veterinarian-approved ear cleaner, cotton balls or gauze pads, and treats for rewarding your dog."
+  - name: "Position Your Dog Comfortably"
+    text: "Have your dog sit or lie in a comfortable position where you can easily access their ears."
+  - name: "Apply Ear Cleaner"
+    text: "Gently lift the ear flap and fill the ear canal with cleaner, being careful not to touch the applicator to the ear."
+  - name: "Massage the Ear Base"
+    text: "Gently massage the base of the ear for 20-30 seconds to distribute the cleaner and loosen debris."
+  - name: "Wipe Away Debris"
+    text: "Allow your dog to shake their head, then gently wipe away visible debris and excess cleaner with cotton balls."
+products:
+  - name: "Zymox Pet King Otic Pet Ear Treatment"
+    price: "25.99"
+    currency: "USD"
+    url: "https://www.amazon.com/dp/B002UD4D50?tag=forpetswith07-20"
+    image: "images/zymox-ear-treatment.jpg"
+  - name: "Vet's Best Ear Relief Wash Cleaner"
+    price: "14.49"
+    currency: "USD"
+    url: "https://www.amazon.com/dp/B00IJ8PGRI?tag=forpetswith07-20"
+    image: "images/vets-best-ear-cleaner.jpg"
+  - name: "Virbac Epi-Otic Advanced Ear Cleaner"
+    price: "16.99"
+    currency: "USD"
+    url: "https://www.amazon.com/dp/B0018DSB8W?tag=forpetswith07-20"
+    image: "images/virbac-ear-cleaner.jpg"
 ---
 
 # Dog Ear Infection Symptoms and Home Treatment: What Every Pet Parent Should Know

@@ -1,11 +1,52 @@
 ---
 title: "Dog Crate Training Schedule by Age: Week by Week"
 description: "Complete crate training schedule for dogs of all ages. Learn week-by-week protocols for puppies, adults, and seniors to create a safe, comfortable space."
-date: 2026-02-26
-image: images/cat-scratching-behavior.jpg
-
+date: 2026-02-14
+datepublished: 2026-04-13
+author: "For Pets With Love"
 tags: ["crate training schedule", "dog crate training", "puppy crate training", "crate training by age", "dog training"]
 categories: ["Dog Training", "Dog Care"]
+image: images/feeding-dog.jpg
+faq:
+  - question: "How long can I leave my dog in a crate?"
+    answer: "Puppies under 6 months can typically hold their bladder for their age in months plus one hour. Adult dogs can stay in a crate for up to 8 hours during the day, but never leave any dog crated for more than 9-10 hours total."
+  - question: "Is crate training cruel?"
+    answer: "When done correctly, crate training is not cruel. Dogs are den animals by nature and often seek out small, enclosed spaces for comfort. A crate becomes a safe haven when introduced properly with positive associations."
+  - question: "Should I put water in the crate?"
+    answer: "For short periods (2-3 hours), water isn't necessary. For longer crating, provide a spill-proof water bowl. Remove water 2 hours before bedtime to prevent accidents during the night."
+  - question: "What if my dog cries in the crate?"
+    answer: "Ignore crying unless it's an emergency. Responding teaches them that crying gets attention. Make sure they've had exercise, potty time, and aren't hungry before crating. Gradually increase crate time to build comfort."
+  - question: "Can I crate train an older dog?"
+    answer: "Yes, older dogs can be crate trained, though it may take longer than with puppies. Go slower, be patient, and focus on creating positive associations with treats, toys, and comfort items."
+  - question: "What size crate should I get?"
+    answer: "Your dog should be able to stand up, turn around, and lie down comfortably. For puppies, choose a crate with a divider to adjust the size as they grow. Too much space can lead to accidents in one corner."
+howto:
+  - name: "Choose the right crate size"
+    text: "Select a crate where your dog can stand, turn around, and lie down comfortably. Use a divider for puppies to prevent extra space."
+  - name: "Create positive associations"
+    text: "Place treats, toys, and comfortable bedding in the crate. Feed meals near or inside the crate to build positive connections."
+  - name: "Start with short sessions"
+    text: "Begin with 5-10 minute sessions while you're nearby. Gradually increase duration as your dog becomes comfortable."
+  - name: "Practice leaving the room"
+    text: "Once your dog is comfortable with you nearby, step out of sight for short periods, gradually increasing the time away."
+  - name: "Build up to longer durations"
+    text: "Slowly increase crate time to match your schedule, always ensuring your dog has had exercise and potty breaks before crating."
+products:
+  - name: "MidWest iCrate Double Door Dog Crate"
+    price: "44.99"
+    currency: "USD"
+    url: "https://www.amazon.com/dp/B0002AR0I8?tag=forpetswith07-20"
+    image: "images/dog-crate.jpg"
+  - name: "PetFusion Ultimate Dog Bed"
+    price: "69.99"
+    currency: "USD"
+    url: "https://www.amazon.com/dp/B00K6G8OJ0?tag=forpetswith07-20"
+    image: "images/crate-bed.jpg"
+  - name: "KONG Classic Dog Toy"
+    price: "9.99"
+    currency: "USD"
+    url: "https://www.amazon.com/dp/B003F5XO9O?tag=forpetswith07-20"
+    image: "images/kong-toy.jpg"
 ---
 
 # Dog Crate Training Schedule by Age: Week by Week

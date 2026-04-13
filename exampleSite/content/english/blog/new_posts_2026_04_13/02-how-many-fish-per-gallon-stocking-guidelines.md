@@ -1,11 +1,15 @@
 ---
-title: "How Many Fish Per Gallon: Stocking Guidelines"
+title: How Many Fish Per Gallon: Stocking Guidelines
 description: Discover the right fish stocking guidelines for your aquarium. Learn how many fish per gallon based on fish size, species, and tank conditions.
-date: 2026-01-07
-image: images/birdcage.jpg
+image: images/hamster-biting-cage.jpg
+datepublished: 2026-04-13
+dateModified: 2026-04-13
 permalink: /how-many-fish-per-gallon-stocking-guidelines/
-tags: fish stocking, aquarium capacity, fish per gallon, tank stocking guide, fish tank setup, aquarium planning, fish species guide
 categories: ["Aquarium Care", "Fish Health"]
+tags: fish stocking, aquarium capacity, fish per gallon, tank stocking guide, fish tank setup, aquarium planning, fish species guide
+schema:
+  faqPage: true
+  article: true
 ---
 
 One of the most common questions new aquarium owners ask is "how many fish can I put in my tank?" It's tempting to fill your aquarium with as many beautiful fish as possible, but overcrowding can lead to serious health problems for your aquatic pets. Understanding proper stocking guidelines is essential for maintaining a healthy, thriving aquarium ecosystem.

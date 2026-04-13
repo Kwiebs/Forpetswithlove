@@ -1,11 +1,26 @@
 ---
-title: "Cat litter box problems: causes and solutions"
+title: Cat litter box problems: causes and solutions
 description: Discover why your cat is avoiding the litter box and proven solutions to fix it. Learn about medical issues, litter preferences, and behavioral fixes that actually work.
-date: 2026-02-13
-image: images/cat-intro.jpg
+datepublished: 2026-04-13
+dateModified: 2026-04-13
+image: images/how-long-cat-pregnant.jpg
 permalink: /cat-litter-box-problems-causes-and-solutions/
-tags: cat litter box problems, litter box avoidance, cat not using litter box, litter box solutions, cat urinating outside box
 categories: ["Cat Health", "Cat Behavior"]
+tags: cat litter box problems, litter box avoidance, cat not using litter box, litter box solutions, cat urinating outside box
+toc: true
+faq:
+  - question: "Why is my cat suddenly not using the litter box?"
+    answer: "Sudden litter box avoidance can be caused by urinary tract infections, bladder stones, stress from environmental changes, or dislike of a new litter type. Always rule out medical issues first by consulting your vet."
+  - question: "How many litter boxes should I have for my cat?"
+    answer: "The general rule is one litter box per cat plus one extra. So if you have two cats, you should have three litter boxes placed in different locations around your home."
+  - question: "What type of litter do cats prefer?"
+    answer: "Most cats prefer unscented, clumping clay litter with a fine to medium grain texture. However, preferences vary, and some cats may prefer silica gel, recycled paper, or natural alternatives like pine or wheat."
+  - question: "Where should I place the litter box?"
+    answer: "Place litter boxes in quiet, low-traffic areas away from food and water bowls. Avoid noisy locations like laundry rooms and ensure your cat has easy access without obstacles."
+  - question: "How often should I clean the litter box?"
+    answer: "Scoop solid waste and clumps daily, and completely change the litter every 1-2 weeks. Wash the box with mild soap monthly to remove odors and bacteria buildup."
+  - question: "When should I take my cat to the vet for litter box issues?"
+    answer: "See your vet immediately if your cat strains to urinate, cries in the litter box, has blood in urine, or stops eating. These can indicate serious conditions like urinary blockages."
 ---
 
 Nothing frustrates a cat owner quite like finding urine on the carpet or discovering your cat has been using a corner of the bedroom instead of their litter box. Litter box problems are one of the most common complaints veterinarians hear, and unfortunately, they're also a leading reason cats end up surrendered to shelters.
