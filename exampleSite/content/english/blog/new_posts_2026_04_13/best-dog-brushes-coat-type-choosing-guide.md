@@ -2,7 +2,7 @@
 title: "Best dog brushes by coat type: choosing guide"
 description: "Find the perfect brush for your dog's coat type. Comprehensive guide covers slicker brushes, undercoat rakes, bristle brushes and more for every breed."
 date: 2026-04-13T10:00:00Z
-datepublished: 2026-04-13
+date: 2026-04-13
 author: "For Pets With Love"
 tags: ["dog brushes", "dog grooming tools", "best dog brush", "coat type grooming", "dog coat care"]
 categories: ["Dog Care", "Grooming"]

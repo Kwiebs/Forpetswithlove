@@ -1,7 +1,7 @@
 ---
 title: "Raw Diet vs Kibble for Dogs: Pros and Cons Comparison"
 description: "Comparing raw diet vs kibble for dogs? Learn the pros and cons of each feeding method to make the best choice for your furry friend."
-datepublished: 2026-04-13
+date: 2026-04-13
 author: "For Pets With Love"
 tags: raw diet for dogs, kibble vs raw food, dog nutrition, feeding dogs
 categories: ["Dog Nutrition", "Dog Care"]

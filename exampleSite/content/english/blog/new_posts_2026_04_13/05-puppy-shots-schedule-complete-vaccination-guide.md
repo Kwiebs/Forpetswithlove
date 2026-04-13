@@ -2,7 +2,7 @@
 title: "Puppy Shots Schedule: Complete Vaccination Guide for New Pet Parents"
 description: "Get the complete puppy shots schedule with our easy-to-follow vaccination guide. Learn which vaccines your puppy needs, when to get them, and how to keep your new companion protected."
 date: 2026-04-13T12:00:00Z
-datepublished: 2026-04-13
+date: 2026-04-13
 author: "For Pets With Love"
 tags: ["puppy shots schedule", "puppy vaccination schedule", "dog vaccination guide", "puppy shots", "when do puppies get shots"]
 categories: ["Dog Health", "Puppy Care"]

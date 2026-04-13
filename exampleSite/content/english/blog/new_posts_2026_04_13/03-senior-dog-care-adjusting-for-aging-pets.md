@@ -2,7 +2,7 @@
 title: "Senior Dog Care: Adjusting for Aging Pets with Love and Patience"
 description: "Learn how to care for your aging dog with expert tips on exercise, nutrition, health monitoring, and quality of life. Make your senior dog's golden years truly golden."
 date: 2026-04-13T10:00:00Z
-datepublished: 2026-04-13
+date: 2026-04-13
 author: "For Pets With Love"
 tags: ["senior dog care", "aging dog care", "older dog health", "senior dog nutrition", "caring for elderly dogs"]
 categories: ["Dog Health", "Senior Dog Care"]

@@ -2,7 +2,7 @@
 title: "Cat matted fur: safe removal methods"
 description: "Learn safe ways to remove matted fur from your cat without causing pain or injury. Step-by-step guide covers prevention, tools, and when to see a professional."
 date: 2026-04-13T10:00:00Z
-datepublished: 2026-04-13
+date: 2026-04-13
 author: "For Pets With Love"
 tags: ["cat matted fur", "remove cat mats", "cat fur care", "cat grooming", "dematting cat"]
 categories: ["Cat Care", "Grooming"]

@@ -2,7 +2,7 @@
 title: "Pet camera reviews: monitoring your furry friends while you're away"
 description: "Compare the best pet cameras for monitoring your pets remotely. Our reviews cover video quality, treat dispensers, two-way audio, and night vision features."
 date: 2026-04-13T08:10:00Z
-datepublished: 2026-04-13
+date: 2026-04-13
 author: "For Pets With Love"
 tags: ["pet camera", "dog camera", "cat camera", "pet monitor", "wifi pet camera"]
 categories: ["Pet Tech", "Dog Products", "Cat Products"]

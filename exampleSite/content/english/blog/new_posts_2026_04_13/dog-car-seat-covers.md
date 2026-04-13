@@ -2,7 +2,7 @@
 title: "Dog car seat covers: protecting your vehicle from fur, scratches, and mess"
 description: "Keep your car clean with the best dog car seat covers. Compare waterproof, hammock, and bench covers to find the perfect protection for your vehicle."
 date: 2026-04-13T08:05:00Z
-datepublished: 2026-04-13
+date: 2026-04-13
 author: "For Pets With Love"
 tags: ["dog car seat cover", "pet car protector", "waterproof dog seat cover", "dog hammock car", "car seat cover for dogs"]
 categories: ["Dog Care", "Dog Products"]
