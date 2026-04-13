@@ -16,7 +16,7 @@ faq:
   - question: "What if my cat absolutely refuses tooth brushing?"
     answer: "If brushing is impossible, try alternatives like dental treats, water additives, oral gels, or dental toys. Some dental wipes applied to the gums provide partial benefits. Discuss prescription dental diets with your veterinarian."
   - question: "At what age should I start brushing my cat's teeth?"
-    answer: "Start dental care as early as possibleâideally when your cat is still a kitten. Adult cats can learn to accept brushing with proper gradual introduction, though it may take more patience and time."
+    answer: "Start dental care as early as possible—ideally when your cat is still a kitten. Adult cats can learn to accept brushing with proper gradual introduction, though it may take more patience and time."
   - question: "What are signs my cat has dental problems?"
     answer: "Watch for bad breath, drooling, difficulty eating, pawing at the mouth, red or swollen gums, yellow or brown tartar buildup, weight loss, and changes in eating habits or food preferences."
   - question: "Do indoor cats need dental care?"
@@ -31,9 +31,9 @@ Establishing a dental care routine prevents suffering, reduces veterinary bills,
 
 Dental disease progresses through predictable stages, each more damaging than the last. Understanding this progression motivates consistent care before problems develop.
 
-**Plaque** forms within 24 hours of eating, creating a sticky film of bacteria on tooth surfaces. Within days, plaque hardens into **tartar**âthe yellow-brown substance visible on teeth that irritates gum tissue. Irritated gums develop **gingivitis**, characterized by redness, swelling, and bleeding.
+**Plaque** forms within 24 hours of eating, creating a sticky film of bacteria on tooth surfaces. Within days, plaque hardens into **tartar**—the yellow-brown substance visible on teeth that irritates gum tissue. Irritated gums develop **gingivitis**, characterized by redness, swelling, and bleeding.
 
-Left untreated, gingivitis progresses to **periodontal disease** where infection destroys the structures supporting teeth. **Tooth loss**, **jaw damage**, and **bacterial spread** to organs like the heart, liver, and kidneys follow. Cats also develop **resorptive lesions**âpainful erosions in tooth enamel unique to felines that eventually destroy affected teeth.
+Left untreated, gingivitis progresses to **periodontal disease** where infection destroys the structures supporting teeth. **Tooth loss**, **jaw damage**, and **bacterial spread** to organs like the heart, liver, and kidneys follow. Cats also develop **resorptive lesions**—painful erosions in tooth enamel unique to felines that eventually destroy affected teeth.
 
 The good news? Daily tooth brushing removes plaque before it hardens into tartar, preventing this entire cascade.
 
@@ -43,7 +43,7 @@ Successful cat tooth brushing starts with appropriate tools designed for feline 
 
 **Cat-specific toothbrushes** feature small heads and soft bristles sized for narrow feline jaws. Finger brushes fit over your fingertip and provide excellent control for beginners. Some cats prefer **finger brushes** initially because they feel less invasive than traditional brushes. **Dual-ended brushes** with different head sizes accommodate cats of various sizes.
 
-**Enzymatic cat toothpaste** contains enzymes that continue breaking down plaque after application, unlike human toothpaste which relies entirely on mechanical scrubbing. **Flavor options** include poultry, seafood, and maltâchoose based on your cat's preferences. **Never use human toothpaste**, which contains ingredients toxic to cats.
+**Enzymatic cat toothpaste** contains enzymes that continue breaking down plaque after application, unlike human toothpaste which relies entirely on mechanical scrubbing. **Flavor options** include poultry, seafood, and malt—choose based on your cat's preferences. **Never use human toothpaste**, which contains ingredients toxic to cats.
 
 **Dental treats and chews** complement brushing but don't replace it. They work best as rewards for cooperating with brushing sessions.
 
@@ -67,7 +67,7 @@ Once your cat accepts the tools, begin actual brushing using tiny steps that bui
 
 **Expanding coverage**: Gradually brush two teeth, then three, always following with rewards. Work up to brushing all exterior surfaces of upper teeth first, as these accumulate the most tartar.
 
-**Adding motion**: Use gentle circular motions covering the gum line where plaque accumulates heavily. You don't need vigorous scrubbingâthe enzymatic toothpaste does significant work chemically.
+**Adding motion**: Use gentle circular motions covering the gum line where plaque accumulates heavily. You don't need vigorous scrubbing—the enzymatic toothpaste does significant work chemically.
 
 **Full routine**: Eventually work up to 30-60 seconds of brushing covering all accessible tooth surfaces. Don't worry about the inner surfaces facing the tongue; cat tongues naturally clean those areas somewhat.
 
@@ -77,7 +77,7 @@ Correct technique maximizes cleaning effectiveness while minimizing discomfort a
 
 **Position your cat** comfortably on your lap, a stable surface, or wrapped in a towel if squirmy. Some cats tolerate brushing best when drowsy after meals or during relaxed evening time.
 
-**Hold the brush** at a 45-degree angle toward the gum line, similar to how you brush your own teeth. Apply gentle pressureâyou're cleaning, not scrubbing grout. **Small circular motions** work better than back-and-forth sawing that can irritate gums.
+**Hold the brush** at a 45-degree angle toward the gum line, similar to how you brush your own teeth. Apply gentle pressure—you're cleaning, not scrubbing grout. **Small circular motions** work better than back-and-forth sawing that can irritate gums.
 
 **Focus on problem areas**: The upper back teeth accumulate the most tartar and deserve extra attention. Canines and incisors at the front matter too, but prioritize where plaque builds fastest.
 
@@ -89,7 +89,7 @@ Some cats never accept traditional brushing despite patient introduction. Severa
 
 **Dental wipes** wrapped around your finger allow gum and tooth cleaning without a brush. The texture removes some plaque while enzymes in veterinary formulations provide additional benefit.
 
-**Oral gels and foams** applied to gums require no brushingâyour cat's tongue distributes the product naturally. These contain enzymes and antimicrobial agents reducing bacterial load.
+**Oral gels and foams** applied to gums require no brushing—your cat's tongue distributes the product naturally. These contain enzymes and antimicrobial agents reducing bacterial load.
 
 **Water additives** mix into drinking water and reduce plaque formation systemically. While less effective than mechanical cleaning, they're better than nothing for cats who absolutely won't tolerate mouth handling.
 
@@ -101,7 +101,7 @@ Some cats never accept traditional brushing despite patient introduction. Severa
 
 Even with perfect home care, cats need periodic professional cleaning under anesthesia. This allows thorough examination, cleaning below the gum line, and treatment of issues invisible during awake exams.
 
-**Frequency varies** based on individual catsâtypically every 1-3 years. Your veterinarian assesses dental health during regular checkups and recommends appropriate intervals.
+**Frequency varies** based on individual cats—typically every 1-3 years. Your veterinarian assesses dental health during regular checkups and recommends appropriate intervals.
 
 **Anesthesia safety** concerns prompt some owners to skip professional cleaning. However, modern veterinary anesthesia is quite safe for healthy cats, while untreated dental disease causes far more suffering and health risks than brief anesthetic procedures.
 
@@ -115,7 +115,7 @@ Every cat presents unique challenges requiring customized approaches.
 
 **The biter**: If your cat bites during brushing attempts, stick with gentler alternatives like dental treats and water additives. Aggressive resistance suggests deep discomfort possibly requiring veterinary examination for painful dental conditions.
 
-**The overly sensitive**: Cats with previous negative mouth experiencesâdental disease, injuries, or rough handlingâneed extra patience. Go back to very early introduction steps and proceed slowly based on their comfort level.
+**The overly sensitive**: Cats with previous negative mouth experiences—dental disease, injuries, or rough handling—need extra patience. Go back to very early introduction steps and proceed slowly based on their comfort level.
 
 **The food-motivated**: Use particularly tempting treats as rewards, perhaps even offering a small meal immediately after brushing sessions. Some cats tolerate brushing remarkably well when strong food motivation exists.
 
@@ -123,13 +123,13 @@ Every cat presents unique challenges requiring customized approaches.
 
 Successful dental care requires ongoing commitment, not just initial setup.
 
-**Schedule daily sessions** at consistent timesâperhaps right before your cat's evening meal when they're anticipatory and cooperative. **Track your cat's comfort level** and adjust technique or tools if resistance develops.
+**Schedule daily sessions** at consistent times—perhaps right before your cat's evening meal when they're anticipatory and cooperative. **Track your cat's comfort level** and adjust technique or tools if resistance develops.
 
 **Rotate dental products** periodically to prevent boredom and dropped effectiveness. **Monitor for changes** in breath odor, eating habits, or behavior that might signal developing problems.
 
 **Regular veterinary checkups** assess dental health professionally and catch issues early. Between visits, take periodic photos of your cat's teeth to track tartar accumulation changes over time.
 
-With patience, the right approach, and appropriate tools, most cats eventually accept tooth brushing as simply part of their routineâlike nail trimming or being picked up. Your cat's healthier mouth and longer, pain-free life make the initial effort worthwhile.
+With patience, the right approach, and appropriate tools, most cats eventually accept tooth brushing as simply part of their routine—like nail trimming or being picked up. Your cat's healthier mouth and longer, pain-free life make the initial effort worthwhile.
 
 ---
 
