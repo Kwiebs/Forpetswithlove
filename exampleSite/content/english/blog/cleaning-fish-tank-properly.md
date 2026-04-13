@@ -3,6 +3,8 @@ title: "How to Clean a Fish Tank: Complete Maintenance Guide"
 description: "Learn the right way to clean your aquarium without harming your fish. Step-by-step water change instructions for healthy fish."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["fish tank cleaning", "aquarium maintenance", "water change", "fish care"]
 categories: ["Fish Care"]
 image: images/fish-tank.jpg

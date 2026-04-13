@@ -6,6 +6,8 @@ image: images/puppy.jpg
 categories: ["Dog Care"]
 tags: new puppy, puppy supplies, puppy checklist, must-have puppy supplies, puppy care
 author: "For Pets With Love"
+---
+
 Bringing home a new puppy is an exciting and rewarding experience. However, as a new pet owner, it can be challenging to know exactly what supplies you need for your furry friend. To help make your shopping easier, we've put together a complete checklist of the 5 must-have supplies for your new puppy.
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 ## 1. [High-Quality Puppy Food](https://amzn.to/3Y2lhtQ)

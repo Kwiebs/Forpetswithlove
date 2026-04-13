@@ -3,6 +3,8 @@ title: "Budgie Training Basics: Teach Your Parakeet Cool Tricks"
 description: "Start training your budgie with these easy beginner tricks. From stepping up to talking, unlock your bird's potential."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["budgie training", "parakeet tricks", "bird training", "teach bird to talk"]
 categories: ["Bird Care"]
 image: images/budgie.jpg

@@ -2,6 +2,8 @@
 title: "Heat Lamp vs Heat Mat: Reptile Heating Complete Comparison"
 description: "Detailed comparison of heat lamps and heat mats for reptiles. Learn about temperature control, species needs, humidity effects, and which heating method suits your reptile."
 author: "For Pets With Love"
+---
+
 tags: ["reptile heating", "heat lamp vs heat mat", "reptile care", "reptile temperature"]
 categories: ["Reptile", "Comparisons"]
 image: images/reptile-pets.jpg

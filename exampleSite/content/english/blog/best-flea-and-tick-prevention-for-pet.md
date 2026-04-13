@@ -5,6 +5,8 @@ image: images/dog-tick.jpg
 tags: pet care, flea prevention, tick prevention, pet health
 categories: ["Pet Health"]
 author: "For Pets With Love"
+---
+
 As a pet owner, keeping your furry friend safe and healthy is a top priority. One of the most common concerns for pet owners is flea and tick infestations. Not only can these pests cause discomfort and irritation for your pet, but they can also lead to serious health problems if left untreated. Fortunately, there are several effective methods for preventing and controlling flea and tick infestations. In this article, we'll explore the best flea and tick prevention options for your pet.
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 ## Understanding Fleas and Ticks

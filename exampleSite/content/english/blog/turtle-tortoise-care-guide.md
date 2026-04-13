@@ -3,6 +3,8 @@ title: "Turtle and Tortoise Care: Species-Specific Requirements"
 description: "Turtles and tortoises have incredibly varied needs. Learn about habitat, diet, and care requirements for your shelled friend."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["turtle care", "tortoise care", "reptile pet", "turtle habitat"]
 categories: ["Reptile Care"]
 image: images/turtle.jpg

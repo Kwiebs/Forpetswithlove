@@ -2,6 +2,8 @@
 title: "When Should You Spay Your Puppy: Optimal Timing"
 description: "Learn when to spay your puppy. Discover optimal spay timing by breed, benefits of spaying neutering, and what to consider before surgery."
 author: "For Pets With Love"
+---
+
 tags: ["pet care", "pet health", "when-spay-puppy"]
 categories: ["Pet Care"]
 image: images/when-spay-puppy.jpg

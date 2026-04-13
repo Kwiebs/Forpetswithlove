@@ -2,6 +2,8 @@
 title: "Creative Ways to Cover Up Cat Scratches on Furniture | For Pets With Love"
 description: "Don't despair over cat scratches on your furniture! Discover creative and budget-friendly ways to cover up cat scratches and restore your home's beauty."
 author: "For Pets With Love"
+---
+
 tags: ["cover cat scratches", "repair cat furniture damage", "cat scratching solutions"]
 categories: ["Cat Care"]
 image: images/cover-cat-scratches-furniture.jpg

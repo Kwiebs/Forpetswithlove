@@ -2,6 +2,8 @@
 title: "Best Dog Beds for Arthritis (2026)"
 description: "Comprehensive guide to top-rated orthopedic dog beds for dogs with arthritis. Compare 7 veterinarian-recommended options for joint comfort and pain relief."
 author: "For Pets With Love"
+---
+
 tags: ["arthritis in dogs", "orthopedic dog beds", "dog joint health"]
 categories: ["Dog Health", "Senior Dog Care"]
 image: images/dog-bed.jpg

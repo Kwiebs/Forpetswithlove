@@ -2,6 +2,8 @@
 title: "Best Cat Litter for Odor Control (2026)"
 description: "Comprehensive guide to top-rated cat litter options for superior odor control. Compare 7 effective solutions to keep your home litter box fresh."
 author: "For Pets With Love"
+---
+
 tags: ["cat litter", "odor control", "cat care"]
 categories: ["Cat Care", "Household"]
 image: images/cat-litter-box.jpg

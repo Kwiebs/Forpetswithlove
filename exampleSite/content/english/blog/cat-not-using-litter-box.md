@@ -3,6 +3,8 @@ title: "Cat Not Using Litter Box? Causes and Solutions"
 description: "When your cat stops using the litter box, it's trying to tell you something. We cover medical causes, behavioral issues, and practical fixes."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["litter box problems", "cat not using litter box", "litter box training", "cat bathroom"]
 categories: ["Cat Behavior", "Cat Health"]
 image: images/litter-box-issue.jpg

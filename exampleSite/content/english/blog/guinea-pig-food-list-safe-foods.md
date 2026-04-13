@@ -3,6 +3,8 @@ title: "Guinea Pig Safe Foods List: Complete Feeding Guide"
 description: "Know exactly what your guinea pig can and cannot eat. Our comprehensive guide covers vegetables, fruits, and foods to avoid."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["guinea pig food", "guinea pig diet", "safe vegetables", "pet guinea pig"]
 categories: ["Small Pet Care"]
 image: images/guinea-pig.jpg

@@ -3,6 +3,8 @@ title: "How to Teach Your Dog to Fetch: Beyond Basic Retrieval"
 description: "Turn fetch into a fun bonding activity. Learn variations from basic retrieval to advanced games that challenge your dog's mind and body."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["dog training", "fetch", "playtime", "interactive games"]
 categories: ["Dog Training", "Dog Care"]
 image: images/dog-fetch.jpg

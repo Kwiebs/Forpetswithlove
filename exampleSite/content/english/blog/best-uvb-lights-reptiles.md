@@ -2,6 +2,8 @@
 title: "Best UVB Lights for Reptiles (2026)"
 description: "Comprehensive guide to top-rated UVB lighting for reptiles. Compare 7 essential options for calcium metabolism and overall health."
 author: "For Pets With Love"
+---
+
 tags: ["reptile UVB lighting", "reptile care", "terrarium supplies"]
 categories: ["Reptile Care", "Wellness"]
 image: images/reptile-pets.jpg

@@ -3,6 +3,8 @@ title: "Dog Food Allergies: Identifying and Managing Dietary Sensitivities"
 description: "Is your dog's itchy skin caused by food? Learn to identify food allergies vs environmental allergies and how to manage them with elimination diets."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["dog food allergies", "food elimination diet", "dog itchy skin", "dog nutrition"]
 categories: ["Dog Health", "Nutrition"]
 image: images/dog-food.jpg

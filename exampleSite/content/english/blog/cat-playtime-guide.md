@@ -3,6 +3,8 @@ title: "Cat Playtime: How Much Your Cat Needs and Why It Matters"
 description: "A bored cat is a destructive cat. Learn how to provide proper mental and physical stimulation through play."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["cat play", "cat enrichment", "cat boredom", "cat exercise"]
 categories: ["Cat Care", "Cat Behavior"]
 image: images/cat-play.jpg

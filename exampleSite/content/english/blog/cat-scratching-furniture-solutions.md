@@ -3,6 +3,8 @@ title: "Cat Scratching Furniture? Here's What Actually Works"
 description: "Stop your cat from destroying your couch. We tested the most popular solutions and share what really works to save your furniture."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["cat scratching", "cat training", "protect furniture", "scratching post"]
 categories: ["Cat Behavior", "Cat Training"]
 image: images/cat-scratching.jpg

@@ -3,6 +3,8 @@ title: "Should Dogs Take Vitamins? Complete Supplement Guide 2026"
 description: "Learn which dog vitamins and supplements are worth the money. We cover joint support, omega-3s, probiotics, and more with veterinary input."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["dog vitamins", "dog supplements", "pet nutrition", "dog health"]
 categories: ["Dog Health", "Nutrition"]
 image: images/dog-vitamins.jpg

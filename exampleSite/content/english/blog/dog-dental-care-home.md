@@ -3,6 +3,8 @@ title: "Dog Dental Care at Home: Complete Guide to Healthy Teeth"
 description: "Learn how to brush your dog's teeth, choose dental chews, and prevent periodontal disease. Your dog's long-term health depends on oral health."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["dog dental care", "dog teeth brushing", "periodontal disease", "dog oral health"]
 categories: ["Dog Health"]
 image: images/dog-dental.jpg

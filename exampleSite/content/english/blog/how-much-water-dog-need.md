@@ -2,6 +2,8 @@
 title: "How Much Water Does a Dog Need Daily"
 description: "Learn dog water requirements. Discover how much water to give dogs daily by size age and activity plus factors affecting hydration needs."
 author: "For Pets With Love"
+---
+
 tags: ["pet care", "pet health", "how-much-water-dog-need"]
 categories: ["Pet Care"]
 image: images/how-much-water-dog-need.jpg

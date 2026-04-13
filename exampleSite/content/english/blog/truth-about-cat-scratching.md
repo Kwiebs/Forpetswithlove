@@ -3,6 +3,8 @@ title: "The Truth About Cat Scratching: 7 Myths Debunked"
 description: "Discover the truth about cat scratching behavior! Learn why cats scratch, debunk common myths, and find effective strategies to redirect scratching."
 date: 2025-06-04T08:00:00Z
 author: "For Pets With Love"
+---
+
 tags: ["cat scratching behavior", "stop cat scratching", "cat behavior", "cat psychology", "cat training"]
 categories: ["Cat Behavior", "Cat Care"]
 image: images/cat-scratching-behavior.jpg

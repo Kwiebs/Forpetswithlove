@@ -5,6 +5,8 @@ image: images/estrela-mountain-dog.jpg
 tags: estrela mountain dog, dog breeds, dog care, dog training, dog grooming
 categories: ["Dog Breed Info"]
 author: "For Pets With Love"
+---
+
 The Estrela Mountain Dog is a large and powerful breed that originated in Portugal. They were originally bred to guard livestock and property in the mountainous regions of Portugal, and their loyalty and protective nature make them excellent watchdogs and companions. In this guide, we'll explore the history, characteristics, and care of this majestic breed.
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 ## History of the Estrela Mountain Dog

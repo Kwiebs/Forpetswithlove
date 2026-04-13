@@ -3,6 +3,8 @@ title: "Seasonal Dog Care: Summer Heat and Winter Cold Guide"
 description: "Keep your dog safe in extreme temperatures. Expert tips for summer heat safety and winter cold care."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["dog seasons", "summer dog care", "winter dog care", "dog safety"]
 categories: ["Dog Care", "Pet Safety"]
 image: images/dog-seasons.jpg

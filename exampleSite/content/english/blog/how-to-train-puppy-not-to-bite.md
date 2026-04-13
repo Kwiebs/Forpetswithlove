@@ -2,6 +2,8 @@
 title: "How to Train Puppy Not to Bite: Stop Nipping and Mouthing Fast"
 description: "Learn effective techniques to stop puppy biting and nipping. Discover positive reinforcement methods, toy redirects, and consistency training for a well-behaved dog."
 author: "For Pets With Love"
+---
+
 tags: ["puppy training", "stop biting", "dog behavior", "puppy tips", "training methods"]
 categories: ["Dog Training"]
 image: images/puppy-training-biting.jpg

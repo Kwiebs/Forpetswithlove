@@ -2,6 +2,8 @@
 title: "Best Dog Jackets for Cold Weather (2026)"
 description: "Comprehensive guide to top-rated dog jackets and coats for cold weather. Compare 7 warm, protective options to keep your dog comfortable in winter."
 author: "For Pets With Love"
+---
+
 tags: ["dog jackets", "winter dog wear", "dog clothing"]
 categories: ["Dog Care", "Seasonal"]
 image: images/dog_winter.jpg

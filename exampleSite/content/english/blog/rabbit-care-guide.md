@@ -3,6 +3,8 @@ title: "Rabbit Care 101: Complete Guide for First-Time Owners"
 description: "Rabbits are wonderful pets but have specific needs. Learn about housing, diet, handling, and common health issues."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["rabbit care", "pet rabbit", "rabbit food", "rabbit health"]
 categories: ["Small Pet Care"]
 image: images/rabbit.jpg

@@ -3,6 +3,8 @@ title: "Snake Feeding Problems: Why Your Snake Won't Eat"
 description: "Is your pet snake refusing food? Learn the common causes and solutions for snake feeding issues."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["snake feeding", "snake won't eat", "pet snake care", "reptile health"]
 categories: ["Reptile Care"]
 image: images/snake.jpg

@@ -2,6 +2,8 @@
 title: "The Best Dog Grooming Tools for At-Home Care"
 description: "Want to groom your dog at home like a pro? Discover the best grooming tools to keep your pet clean, healthy, and happy between salon visits!"
 author: "For Pets With Love"
+---
+
 tags: ["dog grooming", "dog care", "pet hygiene"]
 categories: ["Dog Care"]
 image: images/dog-grooming-tools.jpg

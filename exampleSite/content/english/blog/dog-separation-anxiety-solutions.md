@@ -3,6 +3,8 @@ title: "Dog Separation Anxiety: Solutions That Actually Work"
 description: "Does your dog panic when you leave? End destructive behavior and stress with these proven separation anxiety treatments."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["separation anxiety", "dog anxiety", "dog destructive behavior", "dog stress"]
 categories: ["Dog Behavior", "Dog Training"]
 image: images/dog-anxiety.jpg

@@ -6,6 +6,8 @@ image: images/dog_hair.jpg
 categories: ["Dog Care"]
 tags: dogs, grooming, long hair, brushes, shampoos, clippers, pet care
 author: "For Pets With Love"
+---
+
 If you're the proud owner of a dog with long hair, then you know how much time and effort it takes to keep them looking their best. Regular grooming is essential to keep your furry friend's coat healthy and shiny. With the right tools, you can make this process a breeze.
 In this article, we'll explore the six essential grooming tools for dogs with long hair. Whether you have a Shih Tzu, a Poodle, or a Golden Retriever, these tools are a must-have to keep your pup looking and feeling their best.
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*

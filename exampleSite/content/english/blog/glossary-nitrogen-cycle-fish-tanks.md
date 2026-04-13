@@ -2,6 +2,8 @@
 title: "What Is the Nitrogen Cycle in Fish Tanks? Complete Guide"
 description: "Learn how the aquarium nitrogen cycle works, why it's essential for fish health, how to establish colonies of beneficial bacteria, and maintain healthy water parameters."
 author: "For Pets With Love"
+---
+
 tags: ["aquarium nitrogen cycle", "fish tank cycling", "beneficial bacteria", "aquarium maintenance"]
 categories: ["Fish", "Educational"]
 image: images/glossary-nitrogen-cycle.jpg

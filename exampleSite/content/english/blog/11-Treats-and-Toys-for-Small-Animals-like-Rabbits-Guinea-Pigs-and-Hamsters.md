@@ -6,6 +6,8 @@ image: images/happy_hamster.jpg
 categories: ["Small Pet Care"]
 tags: pets, small animals, rabbits, guinea pigs, hamsters, treats, toys, pet supplies
 author: "For Pets With Love"
+---
+
 Small animals like rabbits, guinea pigs, and hamsters are popular pets for good reason. They are cute, cuddly, and make great companions. But taking care of them requires a lot of effort, including providing them with the right food, toys, and treats to keep them healthy and happy. In this article, we've compiled a list of 11 must-have treats and toys for small animals like rabbits, guinea pigs, and hamsters. These products will help you keep your pet entertained, stimulated, and healthy.
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 ## 1. Chew toys for small animals:

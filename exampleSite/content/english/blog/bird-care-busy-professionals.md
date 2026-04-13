@@ -2,6 +2,8 @@
 title: "Bird Care for Busy Professionals: Complete Guide"
 description: "Complete guide to bird care for busy professionals working full-time. Learn about low-maintenance bird species, daily care routines, and automatic solutions for busy owners."
 author: "For Pets With Love"
+---
+
 tags: ["bird care", "busy pet owners", "low-maintenance birds", "parakeets"]
 categories: ["Bird", "Care Guide"]
 image: images/birdcage.jpg

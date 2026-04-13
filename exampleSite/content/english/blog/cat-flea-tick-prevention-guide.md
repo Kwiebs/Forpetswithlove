@@ -3,6 +3,8 @@ title: "Cat Flea and Tick Prevention: Complete 2026 Guide"
 description: "Protect your cat from fleas and ticks year-round. Learn about the best preventatives, natural options, and how to handle infestations."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["cat fleas", "tick prevention cats", "cat parasite control", "cat health"]
 categories: ["Cat Health"]
 image: images/cat-fleas.jpg

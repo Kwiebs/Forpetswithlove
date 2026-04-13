@@ -3,6 +3,8 @@ title: "Pet Adoption Guide: How to Find Your Perfect Pet"
 description: "Ready to add a pet to your family? This guide covers adoption process, shelter pet myths, and how to prepare for a new companion."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["pet adoption", "shelter pet", "adopting a pet", "rescue pet"]
 categories: ["Pet Care"]
 image: images/pet-adoption.jpg

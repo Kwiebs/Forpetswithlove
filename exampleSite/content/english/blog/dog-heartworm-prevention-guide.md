@@ -3,6 +3,8 @@ title: "Dog Heartworm Prevention: What Every Owner Needs to Know"
 description: "Heartworm disease is deadly but preventable. Learn about prevention, treatment costs, and why monthly medication matters."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["heartworm", "dog heartworm prevention", "pet medication", "dog health"]
 categories: ["Dog Health"]
 image: images/heartworm.jpg

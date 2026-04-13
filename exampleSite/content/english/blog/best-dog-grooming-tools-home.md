@@ -3,6 +3,8 @@ title: "Best Dog Grooming Tools for Home: Professional Results"
 description: "Save money with professional-grade grooming tools for home use. Our 2026 reviews cover brushes, clippers, nail trimmers and more."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["dog grooming", "grooming tools", "dog brush", "nail trimming"]
 categories: ["Dog Care", "Dog Grooming"]
 image: images/grooming.jpg

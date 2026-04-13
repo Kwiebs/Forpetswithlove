@@ -3,6 +3,8 @@ title: "Best Dog Breeds for Apartment Living: Size Isn't Everything"
 description: "Find the perfect dog for your apartment. Our guide covers the best breeds for small spaces based on energy level, barking, and temperament."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["apartment dog", "small space dogs", "best dog breeds", "apartment living"]
 categories: ["Dog Care"]
 image: images/apartment-dog.jpg

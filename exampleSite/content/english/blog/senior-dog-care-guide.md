@@ -3,6 +3,8 @@ title: "Senior Dog Care: Comprehensive Guide for Older Dogs"
 description: "Your dog is aging. Learn the signs of aging, common health issues, and how to give your senior dog the best quality of life."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["senior dog", "older dog care", "dog aging", "senior dog health"]
 categories: ["Dog Health", "Dog Care"]
 image: images/senior-dog.jpg

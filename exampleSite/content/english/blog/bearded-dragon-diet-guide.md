@@ -3,6 +3,8 @@ title: "Bearded Dragon Diet: What to Feed Your Dragon at Every Age"
 description: "Complete feeding guide for bearded dragons. Learn proper nutrition for babies, juveniles, and adults with our food list."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["bearded dragon diet", "reptile feeding", "dragon food", "insects for bearded dragons"]
 categories: ["Reptile Care"]
 image: images/bearded-dragon.jpg

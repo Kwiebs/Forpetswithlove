@@ -3,6 +3,8 @@ title: "Most Trainable Dog Breeds: Easiest Dogs to Train"
 description: "These breeds consistently rank as easiest to train. But any dog can learn with the right approach."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["trainable dogs", "easy to train dogs", "dog intelligence", "best dog breeds"]
 categories: ["Dog Training"]
 image: images/trainable-dogs.jpg

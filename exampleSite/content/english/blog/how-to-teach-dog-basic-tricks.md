@@ -2,6 +2,8 @@
 title: "How to Teach Dog Basic Tricks: Easy Training Guide"
 description: "Teach your dog fun and useful tricks with positive reinforcement. Learn sit, stay, come, down, and more with step-by-step instructions for all skill levels."
 author: "For Pets With Love"
+---
+
 tags: ["dog tricks", "dog training", "basic commands", "positive reinforcement", "obedience training"]
 categories: ["Dog Training"]
 image: images/dog-tricks-training.jpg

@@ -3,6 +3,8 @@ title: "Cat Nutrition 101: What Every Cat Owner Should Know"
 description: "Understanding feline nutrition is key to a healthy cat. Learn about obligate carnivores, wet vs dry food, and creating the perfect diet."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["cat nutrition", "cat food", "obligate carnivore", "wet cat food"]
 categories: ["Cat Health", "Cat Care"]
 image: images/cat-nutrition.jpg

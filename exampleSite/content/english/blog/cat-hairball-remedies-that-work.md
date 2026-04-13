@@ -3,6 +3,8 @@ title: "Cat Hairball Remedies That Actually Work: Vet Approved"
 description: "Discover proven solutions for cat hairballs. From specialized diets to simple home remedies, help your cat pass hairballs safely."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["cat hairballs", "cat health", "hairball remedy", "cat digestion"]
 categories: ["Cat Health"]
 image: images/hairball.jpg

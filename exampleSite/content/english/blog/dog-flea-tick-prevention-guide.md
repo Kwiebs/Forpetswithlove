@@ -3,6 +3,8 @@ title: "Dog Flea and Tick Prevention: Complete 2026 Guide"
 description: "Protect your dog from fleas and ticks year-round. Compare top preventatives, learn about natural options, and handle infestations properly."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["dog fleas", "tick prevention dogs", "dog parasite control", "dog health"]
 categories: ["Dog Health"]
 image: images/dog-fleas.jpg

@@ -2,6 +2,8 @@
 title: "Hamster Care for Children Age 8-12: Complete Guide"
 description: "Parents' guide to hamster ownership for children 8-12. Learn about choosing child-friendly hamster breeds, teaching responsibility, and ensuring safe handling."
 author: "For Pets With Love"
+---
+
 tags: ["hamster care", "pets for kids", "small pets", "children and animals"]
 categories: ["Small Pet", "Care Guide"]
 image: images/cat-bed.jpg

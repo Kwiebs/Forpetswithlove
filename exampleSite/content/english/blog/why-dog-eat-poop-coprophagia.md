@@ -2,6 +2,8 @@
 title: "Why Do Dogs Eat Poop (Coprophagia) and How to Stop It"
 description: "Understand why dogs eat poop and learn effective solutions. Discover causes, prevention strategies, and when to seek veterinary help for coprophagia."
 author: "For Pets With Love"
+---
+
 tags: ["dog coprophagia", "dog eating poop", "dog behavior", "dog health", "pet behavior problems"]
 categories: ["Dog Behavior"]
 image: images/dog-eating-poop.jpg

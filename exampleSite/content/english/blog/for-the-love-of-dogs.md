@@ -5,6 +5,8 @@ image: images/love_dogs.jpg
 tags: dogs, pet care, pet ownership, dog care
 categories: ["Dog Care"]
 author: "For Pets With Love"
+---
+
 Dogs are more than just pets, they're family. In this comprehensive guide, we'll provide you with tips and tricks on how to care for your furry best friend, from feeding and grooming to training and bonding.
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 ## Feeding Your Dog

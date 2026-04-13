@@ -3,6 +3,8 @@ title: "How to Stop Dog Barking at the Door: Complete Training Guide"
 description: "End disruptive door barking with these proven training techniques. Learn why dogs bark at doors and how to teach them calm greetings."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["dog training", "dog barking", "door training", "quiet command"]
 categories: ["Dog Training"]
 image: images/dog-barking.jpg

@@ -3,6 +3,8 @@ title: "Is Your Cat Overweight? Cat Weight Management Guide"
 description: "Over half of pet cats are overweight. Learn safe weight loss strategies, ideal weight ranges, and why it matters so much."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["cat weight", "obese cat", "cat diet", "cat nutrition"]
 categories: ["Cat Health", "Cat Care"]
 image: images/cat-weight.jpg

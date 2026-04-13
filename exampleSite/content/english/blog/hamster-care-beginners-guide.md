@@ -3,6 +3,8 @@ title: "Hamster Care 101: Complete Guide for First-Time Owners"
 description: "Everything new hamster owners need to know. From cage setup to diet, handling to health—get started with confidence."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["hamster care", "hamster cage", "hamster food", "pet hamster"]
 categories: ["Small Pet Care"]
 image: images/hamster.jpg

@@ -2,6 +2,8 @@
 title: "How to Train Cat to Use Litter Box: Complete Guide"
 description: "Learn how to litter train kittens and cats effectively. Discover litter box tips, common problems, and solutions for proper litter box habits and cat hygiene."
 author: "For Pets With Love"
+---
+
 tags: ["litter training", "kitten training", "cat behavior", "cat hygiene", "litter box problems"]
 categories: ["Cat Care"]
 image: images/cat-litter-box-training.jpg

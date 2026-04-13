@@ -3,6 +3,8 @@ title: "50 Fun Games to Play with Your Dog"
 description: "Beat boredom with these 50 dog games. From classics to creative new ideas, keep your pup entertained for hours."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["dog games", "dog playtime", "fun with dog", "dog enrichment"]
 categories: ["Dog Care", "Dog Training"]
 image: images/dog-games.jpg

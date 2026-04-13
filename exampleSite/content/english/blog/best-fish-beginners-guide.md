@@ -3,6 +3,8 @@ title: "Best Fish for Beginners: Easiest Freshwater Fish to Care For"
 description: "Start your aquarium journey right. These beginner-friendly fish are beautiful, hardy, and forgiving of common mistakes."
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 tags: ["beginner fish", "freshwater fish", "easy fish to keep", "aquarium setup"]
 categories: ["Fish Care"]
 image: images/beginner-fish.jpg
