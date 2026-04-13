@@ -2,50 +2,10 @@
 title: "Puppy Shots Schedule: Complete Vaccination Guide for New Pet Parents"
 description: "Get the complete puppy shots schedule with our easy-to-follow vaccination guide. Learn which vaccines your puppy needs, when to get them, and how to keep your new companion protected."
 date: 2026-04-13
-author: "For Pets With Love"
+image: images/puppy-vaccinations.jpg
+
 tags: ["puppy shots schedule", "puppy vaccination schedule", "dog vaccination guide", "puppy shots", "when do puppies get shots"]
 categories: ["Dog Health", "Puppy Care"]
-image: images/puppy-vaccinations.jpg
-faq:
-  - question: "What shots do puppies need and when?"
-    answer: "Puppies need a series of core vaccines starting at 6-8 weeks: DHPP (distemper, hepatitis, parainfluenza, parvovirus), rabies at 12-16 weeks, and boosters. Optional vaccines include Bordetella, Leptospirosis, and Lyme disease based on lifestyle and risk."
-  - question: "Can I take my puppy outside before vaccinations are complete?"
-    answer: "Use caution. Keep puppies off unknown surfaces and away from unvaccinated dogs until 2 weeks after their final puppy shots (around 16-18 weeks). Carry your puppy in public and use your own yard if properly contained."
-  - question: "How much do puppy shots cost?"
-    answer: "Puppy vaccination series typically costs $75-$150 at low-cost clinics and $100-$300 at private veterinary practices. Individual vaccines range from $15-$40 each. Many vets offer puppy packages that include vaccinations, deworming, and exams."
-  - question: "What happens if I miss a puppy vaccination?"
-    answer: "If you miss a scheduled vaccination, contact your vet promptly. They'll likely resume the series where it left off rather than starting over, though timing may be adjusted based on your puppy's age and risk factors."
-  - question: "Are there side effects to puppy vaccinations?"
-    answer: "Mild side effects are common and include temporary lethargy, mild fever, decreased appetite, and soreness at the injection site. These usually resolve within 24-48 hours. Seek immediate veterinary care for severe reactions like difficulty breathing or facial swelling."
-  - question: "Do indoor dogs need vaccines?"
-    answer: "Yes. Core vaccines like rabies are required by law in most areas. Distemper and parvovirus can be carried indoors on shoes and clothing. Rabies can be transmitted by wildlife that enters homes or if your dog escapes."
-howto:
-  - name: "Schedule Your First Vet Visit"
-    text: "Take your puppy to the veterinarian within 48 hours of bringing them home for an initial health check and to establish a vaccination plan."
-  - name: "Follow the Vaccination Timeline"
-    text: "Keep accurate records of each vaccine appointment and set reminders for upcoming shots to ensure your puppy stays on schedule."
-  - name: "Limit Exposure Until Fully Protected"
-    text: "Avoid dog parks, pet stores, and sidewalks until 2 weeks after the final puppy shots. Carry your puppy outside for bathroom breaks in unfamiliar areas."
-  - name: "Watch for Side Effects"
-    text: "Monitor your puppy for 24-48 hours after vaccination. Mild lethargy and soreness are normal; contact your vet for severe reactions."
-  - name: "Maintain Records and Schedule Boosters"
-    text: "Keep vaccination certificates in a safe place and schedule annual or 3-year boosters as recommended by your veterinarian."
-products:
-  - name: "Pet Health Record Keeper and Vaccine Tracker"
-    price: "12.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B08N5WRWNW?tag=forpetswith07-20"
-    image: "images/pet-health-record.jpg"
-  - name: "Puppy Training Treats for Vet Visits"
-    price: "11.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B07RDK8PHB?tag=forpetswith07-20"
-    image: "images/puppy-treats.jpg"
-  - name: "Puppy Comfort Carrier for Vet Visits"
-    price: "29.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B07L2W7ZXT?tag=forpetswith07-20"
-    image: "images/puppy-carrier.jpg"
 ---
 
 # Puppy Shots Schedule: Complete Vaccination Guide for New Pet Parents

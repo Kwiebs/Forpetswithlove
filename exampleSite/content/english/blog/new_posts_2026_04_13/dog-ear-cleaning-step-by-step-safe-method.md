@@ -2,50 +2,10 @@
 title: "Dog ear cleaning: step-by-step safe method"
 description: "Learn the safe way to clean your dog's ears at home. Complete guide covers supplies, technique, frequency, and warning signs that require veterinary care."
 date: 2026-04-13
-author: "For Pets With Love"
+image: images/dog-ear-cleaning.jpg
+
 tags: ["dog ear cleaning", "clean dog ears", "dog ear care", "dog grooming", "ear infection prevention"]
 categories: ["Dog Care", "Grooming"]
-image: images/dog-ear-cleaning.jpg
-faq:
-  - question: "How often should I clean my dog's ears?"
-    answer: "Most dogs need monthly ear cleaning. Floppy-eared breeds and those prone to infections benefit from bi-weekly cleaning. Over-cleaning can irritate the ear canal."
-  - question: "Can I use hydrogen peroxide to clean my dog's ears?"
-    answer: "Never use hydrogen peroxide, alcohol, or vinegar in your dog's ears. These irritate sensitive tissue and can worsen existing problems. Only use veterinarian-approved ear cleaners."
-  - question: "What are signs of an ear infection?"
-    answer: "Watch for redness, swelling, foul odor, excessive wax, head shaking, scratching at ears, discharge, or sensitivity to touch. These require veterinary attention."
-  - question: "Should I clean my dog's ears after swimming?"
-    answer: "Yes, drying ears after swimming prevents infections. Use a veterinarian-approved drying solution or gentle cleaner after any water exposure."
-  - question: "How do I clean a dog's ears that hates having them touched?"
-    answer: "Start slowly with positive reinforcement. Touch ears without cleaning first, reward generously. Gradually introduce the cleaner over multiple sessions. Never force a struggling dog."
-  - question: "Why do some dogs get more ear infections than others?"
-    answer: "Floppy ears trap moisture and debris. Allergies, hormonal imbalances, and certain breeds (Cocker Spaniels, Poodles, Retrievers) show higher infection rates due to ear structure."
-howto:
-  - name: "Gather supplies"
-    text: "Collect veterinarian-approved ear cleaner, cotton balls or gauze, treats, and towels before starting."
-  - name: "Position your dog"
-    text: "Have your dog sit or lie comfortably with easy access to ears in a well-lit area."
-  - name: "Apply ear cleaner"
-    text: "Fill the ear canal with cleaning solution until you see it at the opening."
-  - name: "Massage the base"
-    text: "Gently massage the base of the ear for 20-30 seconds to loosen debris."
-  - name: "Wipe away debris"
-    text: "Allow your dog to shake, then gently wipe visible debris from the outer ear with cotton or gauze."
-products:
-  - name: "Virbac Epi-Otic Advanced Ear Cleaner"
-    price: "14.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B00WJEZF9O?tag=forpetswith07-20"
-    image: "images/virbac-ear-cleaner.jpg"
-  - name: "Zymox Otic Pet Ear Treatment"
-    price: "19.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B0002DH2GM?tag=forpetswith07-20"
-    image: "images/zymox-ear-treatment.jpg"
-  - name: "Pet MD Dog Ear Cleaner Wipes"
-    price: "12.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B00HDMREHE?tag=forpetswith07-20"
-    image: "images/petmd-ear-wipes.jpg"
 ---
 
 # Dog ear cleaning: step-by-step safe method

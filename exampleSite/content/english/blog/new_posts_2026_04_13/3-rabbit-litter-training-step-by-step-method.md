@@ -1,15 +1,11 @@
 ---
 title: "Rabbit Litter Training: Step by Step Method"
 description: Learn how to litter train your rabbit with this comprehensive step-by-step guide. Discover proven techniques, common mistakes to avoid, and tips for success.
-image: images/rabbit-litter-training.jpg
 date: 2026-04-13
-lastmod: 2026-04-13
+image: images/rabbit-litter-training.jpg
 permalink: /rabbit-litter-training-step-by-step-method/
-categories: ["Small Pet Care", "Rabbit Care"]
 tags: rabbit litter training, rabbit potty training, house rabbit, rabbit care, rabbit behavior
-schema:
-  faqPage: true
-  article: true
+categories: ["Small Pet Care", "Rabbit Care"]
 ---
 
 Litter training your rabbit is one of the most rewarding aspects of rabbit ownership. A well-trained rabbit can enjoy free roam of your home while maintaining clean habits, making life more enjoyable for both you and your furry friend. While rabbits are naturally clean animals, successful litter training requires patience, consistency, and understanding of rabbit behavior.

@@ -2,50 +2,10 @@
 title: "How to bathe a cat without getting scratched"
 description: "Learn expert techniques to bathe your cat safely without scratches. Step-by-step guide ensures stress-free bathing for you and your feline friend."
 date: 2026-04-13
-author: "For Pets With Love"
+image: images/cat-bath.jpg
+
 tags: ["cat bathing", "how to bathe a cat", "cat grooming", "cat care", "stress-free cat bath"]
 categories: ["Cat Care", "Grooming"]
-image: images/cat-bath.jpg
-faq:
-  - question: "Do I really need to bathe my cat?"
-    answer: "Most cats groom themselves and rarely need baths. However, cats with skin conditions, elderly cats, or those who get into sticky substances benefit from occasional bathing."
-  - question: "How often should I bathe my cat?"
-    answer: "Indoor cats typically only need baths every 4-6 weeks if necessary, while outdoor cats may need more frequent cleaning. Over-bathing can strip natural oils from their coat."
-  - question: "What if my cat absolutely hates water?"
-    answer: "Try waterless cat shampoo or grooming wipes first. If a bath is necessary, take it slow, use treats, and keep sessions short to build positive associations."
-  - question: "Should I trim my cat's nails before bathing?"
-    answer: "Yes, trimming nails 24-48 hours before bathing reduces the risk of scratches. It also gives you time to address any unintentional nicks from trimming."
-  - question: "What temperature should the water be?"
-    answer: "Use lukewarm water around 100-102°F (37-38°C). Test it on your wrist to ensure it's comfortable, similar to temperature for a human baby."
-  - question: "Can I use human shampoo on my cat?"
-    answer: "Never use human shampoo. Cat skin has different pH levels, and human products can cause irritation, dryness, and allergic reactions."
-howto:
-  - name: "Prepare your supplies"
-    text: "Gather cat-specific shampoo, towels, non-slip mat, and treats in advance so everything is within reach."
-  - name: "Trim nails beforehand"
-    text: "Trim your cat's nails 1-2 days before the bath to prevent scratching during the process."
-  - name: "Brush out tangles"
-    text: "Remove mats and loose fur before bathing to prevent them from tightening when wet."
-  - name: "Place non-slip mat in sink"
-    text: "Secure a non-slip mat at the bottom of the sink or tub to give your cat stable footing."
-  - name: "Wet the coat thoroughly"
-    text: "Use a handheld sprayer or cup to wet your cat's coat completely, avoiding face and ears."
-products:
-  - name: "Burt's Bees for Cats Hypoallergenic Shampoo"
-    price: "12.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B00ZK8JWC6?tag=forpetswith07-20"
-    image: "images/burts-bees-cat-shampoo.jpg"
-  - name: "Pet Magasin Cat Nail Clippers"
-    price: "9.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B016VGWY0K?tag=forpetswith07-20"
-    image: "images/cat-nail-clippers.jpg"
-  - name: "Earthbath Hypo-Allergenic Cat Wipes"
-    price: "11.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B00U9W31D4?tag=forpetswith07-20"
-    image: "images/cat-grooming-wipes.jpg"
 ---
 
 # How to bathe a cat without getting scratched

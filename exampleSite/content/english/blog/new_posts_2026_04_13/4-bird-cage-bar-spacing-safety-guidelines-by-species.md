@@ -1,15 +1,11 @@
 ---
 title: "Bird Cage Bar Spacing: Safety Guidelines by Species"
 description: Essential guide to bird cage bar spacing for different bird species. Learn safe distances, prevent escapes and injuries, and choose the right cage for your feathered friend.
-image: images/bird-cage-bar-spacing.jpg
 date: 2026-04-13
-lastmod: 2026-04-13
+image: images/bird-cage-bar-spacing.jpg
 permalink: /bird-cage-bar-spacing-safety-guidelines-by-species/
-categories: ["Small Pet Care", "Bird Care"]
 tags: bird cage bar spacing, bird cage safety, parakeet cage, cockatiel cage, bird care
-schema:
-  faqPage: true
-  article: true
+categories: ["Small Pet Care", "Bird Care"]
 ---
 
 Choosing the right bird cage involves more than just size and shape—the spacing between bars is critically important for your bird's safety and comfort. Bar spacing that's too wide can lead to escapes or serious injuries, while spacing that's too narrow can restrict movement and visibility. This comprehensive guide will help you select the perfect bar spacing for your specific bird species.

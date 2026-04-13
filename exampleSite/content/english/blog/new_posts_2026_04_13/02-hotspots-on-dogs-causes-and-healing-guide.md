@@ -2,50 +2,10 @@
 title: "Hotspots on Dogs: Causes and Healing Guide for Pet Parents"
 description: "Discover what causes hotspots on dogs and how to heal them fast. Learn prevention strategies, home treatments, and when to see your vet for these painful skin irritations."
 date: 2026-04-13
-author: "For Pets With Love"
+image: images/dog-hotspots.jpg
+
 tags: ["hotspots on dogs", "dog hotspots treatment", "what causes hotspots on dogs", "how to heal hotspots on dogs", "dog skin issues"]
 categories: ["Dog Health", "Dog Skin Care"]
-image: images/dog-hotspots.jpg
-faq:
-  - question: "What exactly is a hotspot on a dog?"
-    answer: "A hotspot, also known as acute moist dermatitis, is a localized area of skin inflammation and bacterial infection. It appears as a red, swollen, and often oozing patch that can spread rapidly if not treated."
-  - question: "Why do dogs get hotspots suddenly?"
-    answer: "Hotspots often develop quickly when a dog scratches, licks, or chews at an irritated area. The moisture from licking creates an ideal environment for bacteria to multiply, causing the skin to become inflamed and infected."
-  - question: "Can hotspots heal on their own?"
-    answer: "Hotspots rarely heal without intervention. The itching-pain cycle usually continues, causing the dog to lick and scratch more, which makes the hotspot worse. Treatment is typically needed to break this cycle."
-  - question: "How long do hotspots take to heal?"
-    answer: "With proper treatment, hotspots usually begin improving within 3-5 days and heal completely within 1-2 weeks. Severe cases may take longer and require veterinary intervention."
-  - question: "Are hotspots contagious to other dogs or humans?"
-    answer: "Hotspots themselves are not contagious, but the underlying cause (such as fleas or mites) might be. The bacterial infection in a hotspot is usually from the dog's own normal skin bacteria."
-  - question: "Can I prevent hotspots from recurring?"
-    answer: "Yes, by addressing the underlying cause, maintaining regular flea prevention, grooming your dog regularly, managing allergies, and keeping their coat dry and clean, you can significantly reduce the chances of future hotspots."
-howto:
-  - name: "Clean the Area"
-    text: "Gently clip away fur around the hotspot to expose the skin and allow air circulation. Clean with a mild antiseptic solution, being careful not to scrub."
-  - name: "Apply Topical Treatment"
-    text: "Apply a veterinarian-recommended soothing spray or cream to reduce inflammation and prevent infection."
-  - name: "Prevent Licking and Scratching"
-    text: "Use an Elizabethan collar or protective clothing to stop your dog from accessing the hotspot while it heals."
-  - name: "Address the Underlying Cause"
-    text: "Identify and treat what caused the initial irritation, whether it's fleas, allergies, or another skin condition."
-  - name: "Monitor and Follow Up"
-    text: "Check the hotspot daily for improvement. If it worsens or doesn't improve within 48 hours, consult your veterinarian."
-products:
-  - name: "Vetericyn Plus All Animal Wound and Skin Care"
-    price: "29.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B0043XY0CK?tag=forpetswith07-20"
-    image: "images/vetericyn-spray.jpg"
-  - name: "Zesty Paws Salmon Oil for Dogs"
-    price: "25.97"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B00HVS6BJS?tag=forpetswith07-20"
-    image: "images/salmon-oil.jpg"
-  - name: "PetHonesty Dog Allergy Relief Immunity Supplement"
-    price: "26.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B07WQ8J6PN?tag=forpetswith07-20"
-    image: "images/pethonesty-allergy.jpg"
 ---
 
 # Hotspots on Dogs: Causes and Healing Guide for Pet Parents

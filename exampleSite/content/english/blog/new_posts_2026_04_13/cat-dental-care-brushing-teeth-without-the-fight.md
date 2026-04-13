@@ -2,25 +2,10 @@
 title: "Cat dental care: brushing teeth without the fight"
 description: Learn gentle techniques for brushing your cat's teeth without stress or scratches. Discover the best brushes, toothpastes, and alternatives for maintaining your cat's oral health.
 date: 2026-04-13
-lastmod: 2026-04-13
 image: images/cat-dental-care-brushing.jpg
 permalink: /cat-dental-care-brushing-teeth-without-the-fight/
-categories: ["Cat Health", "Cat Care", "Cat Grooming"]
 tags: cat dental care, brushing cat teeth, cat toothbrush, feline dental health, cat oral hygiene
-toc: true
-faq:
-  - question: "How often should I brush my cat's teeth?"
-    answer: "Ideally, brush your cat's teeth daily. However, even brushing 2-3 times per week provides significant benefits compared to no brushing at all. Consistency matters more than perfect frequency."
-  - question: "Can I use human toothpaste on my cat?"
-    answer: "Never use human toothpaste on cats. Human toothpaste contains fluoride and detergents that are toxic to cats if swallowed. Always use veterinary-approved enzymatic toothpaste formulated specifically for cats."
-  - question: "What if my cat absolutely refuses tooth brushing?"
-    answer: "If brushing is impossible, try alternatives like dental treats, water additives, oral gels, or dental toys. Some dental wipes applied to the gums provide partial benefits. Discuss prescription dental diets with your veterinarian."
-  - question: "At what age should I start brushing my cat's teeth?"
-    answer: "Start dental care as early as possible—ideally when your cat is still a kitten. Adult cats can learn to accept brushing with proper gradual introduction, though it may take more patience and time."
-  - question: "What are signs my cat has dental problems?"
-    answer: "Watch for bad breath, drooling, difficulty eating, pawing at the mouth, red or swollen gums, yellow or brown tartar buildup, weight loss, and changes in eating habits or food preferences."
-  - question: "Do indoor cats need dental care?"
-    answer: "Yes, all cats need dental care regardless of indoor or outdoor status. Indoor cats may actually develop more dental issues because they don't chew on natural prey or grass that helps clean teeth."
+categories: ["Cat Health", "Cat Care", "Cat Grooming"]
 ---
 
 Most cat owners never look inside their pet's mouth, which explains why dental disease affects up to 70% of cats by age three. Tartar buildup, gum inflammation, and tooth decay cause significant pain while remaining largely invisible to owners until advanced stages.

@@ -2,50 +2,10 @@
 title: "Pet camera reviews: monitoring your furry friends while you're away"
 description: "Compare the best pet cameras for monitoring your pets remotely. Our reviews cover video quality, treat dispensers, two-way audio, and night vision features."
 date: 2026-04-13
-author: "For Pets With Love"
+image: images/pet-camera.jpg
+
 tags: ["pet camera", "dog camera", "cat camera", "pet monitor", "wifi pet camera"]
 categories: ["Pet Tech", "Dog Products", "Cat Products"]
-image: images/pet-camera.jpg
-faq:
-  - question: "Do pet cameras help with separation anxiety?"
-    answer: "Pet cameras can help with separation anxiety by allowing you to check on your pet and use two-way audio to comfort them. Some cameras even dispense treats to create positive associations with alone time."
-  - question: "Can pet cameras see in the dark?"
-    answer: "Most quality pet cameras include night vision using infrared LEDs, allowing you to monitor your pet in complete darkness without disturbing them with visible light."
-  - question: "Do you need WiFi for a pet camera?"
-    answer: "Yes, WiFi-enabled pet cameras require an internet connection to stream video to your phone. Some cameras offer local storage options, but remote viewing always needs WiFi."
-  - question: "Can pet cameras be hacked?"
-    answer: "Like any connected device, pet cameras can be vulnerable to hacking. Protect yourself by using strong unique passwords, enabling two-factor authentication, and keeping firmware updated."
-  - question: "Is a pet camera worth it?"
-    answer: "Pet cameras are worth it for peace of mind, checking on sick or elderly pets, monitoring destructive behavior, and interacting with your pet during the day. They pay for themselves in reduced anxiety."
-  - question: "What's the difference between a pet camera and a security camera?"
-    answer: "Pet cameras often include pet-specific features like treat dispensers, two-way audio optimized for pet hearing, wide-angle lenses to capture floor-level activity, and alerts for barking or meowing."
-howto:
-  - name: "Choose camera placement"
-    text: "Position the camera where your pet spends most time, such as their bed area or near the front door where they wait for you."
-  - name: "Connect to WiFi"
-    text: "Follow the manufacturer's app instructions to connect the camera to your home WiFi network. Ensure strong signal strength."
-  - name: "Adjust camera settings"
-    text: "Configure motion detection sensitivity, bark alerts, and night vision settings based on your home environment."
-  - name: "Test two-way audio"
-    text: "Use the app to speak through the camera and see how your pet responds. Adjust volume levels accordingly."
-  - name: "Set up notifications"
-    text: "Enable alerts for motion detection, loud noises, or other activity so you're notified of important events."
-products:
-  - name: "Furbo 360 dog camera"
-    price: "199.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B08D3TXNSG?tag=forpetswith07-20"
-    image: "images/furbo-360-camera.jpg"
-  - name: "Petcube Bites 2 Lite"
-    price: "149.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B09WJH5R11?tag=forpetswith07-20"
-    image: "images/petcube-bites-camera.jpg"
-  - name: "Wyze Cam v3 pet monitoring kit"
-    price: "49.99"
-    currency: "USD"
-    url: "https://www.amazon.com/dp/B08R3GGRVZ?tag=forpetswith07-20"
-    image: "images/wyze-pet-camera.jpg"
 ---
 
 Leaving your pet home alone tugs at the heartstrings. Are they okay? Did they destroy the couch? Will they forgive you for being gone so long? Pet cameras answer these questions instantly, streaming live video of your furry friend right to your smartphone.

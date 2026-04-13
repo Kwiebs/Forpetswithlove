@@ -1,15 +1,11 @@
 ---
 title: "New Tank Syndrome: Cycling Your Aquarium Properly"
 description: Learn how to prevent new tank syndrome and cycle your aquarium properly. A complete guide to establishing a healthy nitrogen cycle for your fish.
-image: images/aquarium-cycling.jpg
 date: 2026-04-13
-lastmod: 2026-04-13
+image: images/aquarium-cycling.jpg
 permalink: /new-tank-syndrome-cycling-your-aquarium-properly/
-categories: ["Aquarium Care", "Fish Health"]
 tags: aquarium cycling, new tank syndrome, nitrogen cycle, fish tank setup, aquarium maintenance, fish health, water quality
-schema:
-  faqPage: true
-  article: true
+categories: ["Aquarium Care", "Fish Health"]
 ---
 
 As a new aquarium owner, there's nothing more exciting than setting up your first fish tank. You've carefully chosen the perfect aquarium, selected beautiful decorations, and can't wait to add your fish. But before you introduce any fish to their new home, there's one crucial step you must complete: cycling your aquarium properly. This process, often called "cycling," is essential for preventing new tank syndrome and ensuring your fish thrive in their new environment.
