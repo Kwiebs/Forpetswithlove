@@ -1,5 +1,5 @@
 ---
-title: Guinea Pig Cage Setup: Minimum Size Requirements
+title: "Guinea Pig Cage Setup: Minimum Size Requirements"
 description: Learn the essential guinea pig cage size requirements for a happy, healthy pet. Discover minimum dimensions, space-saving tips, and expert recommendations for optimal housing.
 image: images/guinea-pig-cage-setup.jpg
 date: 2026-04-13

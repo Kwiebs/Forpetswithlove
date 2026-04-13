@@ -1,5 +1,5 @@
 ---
-title: Cat dental care: brushing teeth without the fight
+title: "Cat dental care: brushing teeth without the fight"
 description: Learn gentle techniques for brushing your cat's teeth without stress or scratches. Discover the best brushes, toothpastes, and alternatives for maintaining your cat's oral health.
 date: 2026-04-13
 lastmod: 2026-04-13

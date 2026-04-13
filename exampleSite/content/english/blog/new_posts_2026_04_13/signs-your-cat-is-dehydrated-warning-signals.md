@@ -1,5 +1,5 @@
 ---
-title: Signs your cat is dehydrated: warning signals
+title: "Signs your cat is dehydrated: warning signals"
 description: Learn the critical warning signs of cat dehydration and how to respond. Discover skin tent tests, gum checks, and prevention strategies to keep your cat properly hydrated.
 date: 2026-04-13
 lastmod: 2026-04-13

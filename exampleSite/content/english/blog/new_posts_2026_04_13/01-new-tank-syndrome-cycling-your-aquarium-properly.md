@@ -1,5 +1,5 @@
 ---
-title: New Tank Syndrome: Cycling Your Aquarium Properly
+title: "New Tank Syndrome: Cycling Your Aquarium Properly"
 description: Learn how to prevent new tank syndrome and cycle your aquarium properly. A complete guide to establishing a healthy nitrogen cycle for your fish.
 image: images/aquarium-cycling.jpg
 date: 2026-04-13

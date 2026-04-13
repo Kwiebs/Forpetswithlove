@@ -1,5 +1,5 @@
 ---
-title: Cat litter box problems: causes and solutions
+title: "Cat litter box problems: causes and solutions"
 description: Discover why your cat is avoiding the litter box and proven solutions to fix it. Learn about medical issues, litter preferences, and behavioral fixes that actually work.
 date: 2026-04-13
 lastmod: 2026-04-13

@@ -1,5 +1,5 @@
 ---
-title: Freshwater vs Saltwater Aquariums: Beginner Comparison
+title: "Freshwater vs Saltwater Aquariums: Beginner Comparison"
 description: Compare freshwater vs saltwater aquariums for beginners. Learn the pros, cons, costs, and maintenance requirements of each type to choose the right aquarium for you.
 image: images/freshwater-saltwater-aquarium-comparison.jpg
 date: 2026-04-13

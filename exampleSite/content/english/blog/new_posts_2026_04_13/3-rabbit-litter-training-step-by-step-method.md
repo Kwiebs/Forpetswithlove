@@ -1,5 +1,5 @@
 ---
-title: Rabbit Litter Training: Step by Step Method
+title: "Rabbit Litter Training: Step by Step Method"
 description: Learn how to litter train your rabbit with this comprehensive step-by-step guide. Discover proven techniques, common mistakes to avoid, and tips for success.
 image: images/rabbit-litter-training.jpg
 date: 2026-04-13

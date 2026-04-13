@@ -1,5 +1,5 @@
 ---
-title: Aquarium Filter Types: Which One Do You Need
+title: "Aquarium Filter Types: Which One Do You Need"
 description: Discover the different types of aquarium filters and learn which one is best for your tank. Complete guide to hang-on-back, canister, sponge, and internal filters.
 image: images/aquarium-filter-types-guide.jpg
 date: 2026-04-13
