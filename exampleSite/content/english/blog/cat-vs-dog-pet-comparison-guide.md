@@ -6,7 +6,7 @@ date: 2026-04-11
 author: "For Pets With Love"
 categories: ["Pet Comparisons", "Dog Care", "Cat Care"]
 tags: ["cat vs dog", "pet comparison", "choosing a pet", "first pet guide", "pet ownership"]
-image: images/cat-vs-dog-comparison.jpg
+image: images/BlueFish.jpg
 ---
 
 # Cat vs Dog: Which Pet Is Right for You?
