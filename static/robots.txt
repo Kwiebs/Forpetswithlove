@@ -7,6 +7,11 @@ Disallow: /wp-json/
 Disallow: /search/
 Disallow: /*?s=*
 Disallow: /*?p=*
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /author/
+Disallow: /page/
+Disallow: /*?page=*
 
 # Block specific crawlers that might cause issues
 User-agent: AhrefsBot
