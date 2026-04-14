@@ -1,17 +1,9 @@
 ---
-title
----
-
-date
----
-
+title: "International Pet Travel: Documentation Checklist"
+date: 2026-02-03
 category: Pet Travel
-tags
----
-
-description
----
-
+tags: [international travel, pet documentation, travel checklist, requirements]
+description: A complete documentation checklist for international pet travel, including visas, health certificates, and country-specific requirements.
 # International Pet Travel: Documentation Checklist
 Taking your pet abroad requires meticulous planning and comprehensive documentation. Each country has unique requirements, and missing even a single document can result in your pet being denied entry or placed in quarantine. This comprehensive checklist ensures you have everything needed for smooth international travel with your furry companion.
 ## Core Documentation Requirements

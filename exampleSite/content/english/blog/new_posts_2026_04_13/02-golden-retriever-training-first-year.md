@@ -1,13 +1,7 @@
 ---
-title
----
-
-date
----
-
-tags
----
-
+title: "Golden Retriever Training: First Year Guide"
+date: 2026-01-16
+tags:
   - golden retriever
   - dog training
   - puppy training

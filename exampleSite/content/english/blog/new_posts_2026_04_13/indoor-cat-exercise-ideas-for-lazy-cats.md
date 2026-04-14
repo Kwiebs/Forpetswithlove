@@ -1,22 +1,12 @@
 ---
-title
----
-
-description
----
-
+title: "Indoor cat exercise ideas for lazy cats"
+description: Get your sedentary cat moving with these engaging exercise ideas. Discover toys, games, and environmental enrichment strategies that motivate even the laziest cats to play.
 datepublished: 2026-04-13
 dateModified: 2026-04-13
-image
----
-
+image: images/how-long-do-hamsters-live.jpg
 permalink: /indoor-cat-exercise-ideas-for-lazy-cats/
-categories
----
-
-tags
----
-
+categories: ["Cat Health", "Cat Behavior", "Cat Care"]
+tags: indoor cat exercise, lazy cat activities, cat play ideas, feline fitness, cat enrichment
 toc: true
 faq:
   - question: "How much exercise does an indoor cat need daily?"

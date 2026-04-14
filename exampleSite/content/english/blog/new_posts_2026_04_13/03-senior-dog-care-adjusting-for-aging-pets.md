@@ -1,26 +1,14 @@
 ---
-title
----
-
-description
----
-
-date
----
-
+title: "Senior Dog Care: Adjusting for Aging Pets with Love and Patience"
+description: "Learn how to care for your aging dog with expert tips on exercise, nutrition, health monitoring, and quality of life. Make your senior dog's golden years truly golden."
+date: 2026-03-25
 datepublished: 2026-04-13
 author: "For Pets With Love"
 ---
 
-tags
----
-
-categories
----
-
-image
----
-
+tags: ["senior dog care", "aging dog care", "older dog health", "senior dog nutrition", "caring for elderly dogs"]
+categories: ["Dog Health", "Senior Dog Care"]
+image: images/how-often-feed-cat.jpg
 faq:
   - question: "At what age is a dog considered a senior?"
     answer: "Most dogs are considered seniors between 7-10 years old, depending on size and breed. Small breeds typically age slower and may not be seniors until 10-12 years, while large and giant breeds often become seniors around 6-7 years."

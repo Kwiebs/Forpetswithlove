@@ -1,17 +1,9 @@
 ---
-title
----
-
-date
----
-
+title: "Road Trip with Dog: Long Distance Travel Tips"
+date: 2026-01-31
 category: Pet Travel
-tags
----
-
-description
----
-
+tags: [road trip, dog, long distance, travel tips]
+description: Essential tips for taking your dog on long distance road trips, including preparation, safety, and comfort strategies.
 # Road Trip with Dog: Long Distance Travel Tips
 Embarking on a road trip with your canine companion can be one of the most rewarding travel experiences. With proper preparation and the right approach, you and your dog can enjoy countless miles of adventure together. This comprehensive guide covers everything you need to know for safe and enjoyable long-distance travel with your dog.
 ## Pre-Trip Preparation

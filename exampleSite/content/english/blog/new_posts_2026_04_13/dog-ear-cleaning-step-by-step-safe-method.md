@@ -1,26 +1,14 @@
 ---
-title
----
-
-description
----
-
-date
----
-
+title: "Dog ear cleaning: step-by-step safe method"
+description: "Learn the safe way to clean your dog's ears at home. Complete guide covers supplies, technique, frequency, and warning signs that require veterinary care."
+date: 2026-04-08
 datepublished: 2026-04-13
 author: "For Pets With Love"
 ---
 
-tags
----
-
-categories
----
-
-image
----
-
+tags: ["dog ear cleaning", "clean dog ears", "dog ear care", "dog grooming", "ear infection prevention"]
+categories: ["Dog Care", "Grooming"]
+image: images/new-cat-dog-introduction.jpg
 faq:
   - question: "How often should I clean my dog's ears?"
     answer: "Most dogs need monthly ear cleaning. Floppy-eared breeds and those prone to infections benefit from bi-weekly cleaning. Over-cleaning can irritate the ear canal."

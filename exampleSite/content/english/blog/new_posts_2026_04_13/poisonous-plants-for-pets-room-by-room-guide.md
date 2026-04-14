@@ -1,13 +1,7 @@
 ---
-title
----
-
-date
----
-
-tags
----
-
+title: "Poisonous Plants for Pets: Room by Room Guide"
+date: 2026-01-26
+tags:
   - pet safety
   - poisonous plants
   - household hazards

@@ -1,22 +1,12 @@
 ---
-title
----
-
-description
----
-
-image
----
-
+title: "Freshwater vs Saltwater Aquariums: Beginner Comparison"
+description: Compare freshwater vs saltwater aquariums for beginners. Learn the pros, cons, costs, and maintenance requirements of each type to choose the right aquarium for you.
+image: images/hamster-feeding.jpg
 datepublished: 2026-04-13
 dateModified: 2026-04-13
 permalink: /freshwater-vs-saltwater-aquariums-beginner-comparison/
-categories
----
-
-tags
----
-
+categories: ["Aquarium Care", "Fish Health"]
+tags: freshwater aquarium, saltwater aquarium, beginner aquarium, aquarium setup, fish tank comparison, marine aquarium, reef tank
 schema:
   faqPage: true
   article: true

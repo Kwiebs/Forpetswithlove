@@ -1,17 +1,9 @@
 ---
-title
----
-
-date
----
-
+title: "Pet Insurance Comparison: What to Look For"
+date: 2026-02-05
 category: Pet Insurance
-tags
----
-
-description
----
-
+tags: [pet insurance, comparison, costs, coverage]
+description: A comprehensive guide to comparing pet insurance plans and finding the right coverage for your furry friend.
 # Pet Insurance Comparison: What to Look For
 Choosing the right pet insurance can feel overwhelming with so many options available. This guide will help you understand what to look for when comparing plans and make an informed decision for your pet's healthcare needs.
 ## Understanding the Basics

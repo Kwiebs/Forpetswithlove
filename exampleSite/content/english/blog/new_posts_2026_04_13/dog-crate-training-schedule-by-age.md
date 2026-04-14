@@ -1,26 +1,14 @@
 ---
-title
----
-
-description
----
-
-date
----
-
+title: "Dog Crate Training Schedule by Age: Week by Week"
+description: "Complete crate training schedule for dogs of all ages. Learn week-by-week protocols for puppies, adults, and seniors to create a safe, comfortable space."
+date: 2026-02-14
 datepublished: 2026-04-13
 author: "For Pets With Love"
 ---
 
-tags
----
-
-categories
----
-
-image
----
-
+tags: ["crate training schedule", "dog crate training", "puppy crate training", "crate training by age", "dog training"]
+categories: ["Dog Training", "Dog Care"]
+image: images/feeding-dog.jpg
 faq:
   - question: "How long can I leave my dog in a crate?"
     answer: "Puppies under 6 months can typically hold their bladder for their age in months plus one hour. Adult dogs can stay in a crate for up to 8 hours during the day, but never leave any dog crated for more than 9-10 hours total."

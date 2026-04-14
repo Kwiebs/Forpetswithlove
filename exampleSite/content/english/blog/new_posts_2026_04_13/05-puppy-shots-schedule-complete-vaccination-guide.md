@@ -1,26 +1,14 @@
 ---
-title
----
-
-description
----
-
-date
----
-
+title: "Puppy Shots Schedule: Complete Vaccination Guide for New Pet Parents"
+description: "Get the complete puppy shots schedule with our easy-to-follow vaccination guide. Learn which vaccines your puppy needs, when to get them, and how to keep your new companion protected."
+date: 2026-03-28
 datepublished: 2026-04-13
 author: "For Pets With Love"
 ---
 
-tags
----
-
-categories
----
-
-image
----
-
+tags: ["puppy shots schedule", "puppy vaccination schedule", "dog vaccination guide", "puppy shots", "when do puppies get shots"]
+categories: ["Dog Health", "Puppy Care"]
+image: images/jolly_ball.jpg
 faq:
   - question: "What shots do puppies need and when?"
     answer: "Puppies need a series of core vaccines starting at 6-8 weeks: DHPP (distemper, hepatitis, parainfluenza, parvovirus), rabies at 12-16 weeks, and boosters. Optional vaccines include Bordetella, Leptospirosis, and Lyme disease based on lifestyle and risk."

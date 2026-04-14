@@ -1,13 +1,7 @@
 ---
-title
----
-
-date
----
-
-tags
----
-
+title: "Heatstroke in Pets: Prevention and Treatment"
+date: 2026-01-22
+tags:
   - pet safety
   - heatstroke
   - summer safety

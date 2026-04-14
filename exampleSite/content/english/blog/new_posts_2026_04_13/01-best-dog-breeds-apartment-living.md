@@ -1,13 +1,7 @@
 ---
-title
----
-
-date
----
-
-tags
----
-
+title: "Best Dog Breeds for Apartment Living"
+date: 2026-01-15
+tags:
   - dog breeds
   - apartment living
   - small dogs

@@ -1,13 +1,7 @@
 ---
-title
----
-
-date
----
-
-tags
----
-
+title: "Signs Your Pet Needs Emergency Vet Care"
+date: 2026-01-28
+tags:
   - pet emergencies
   - veterinary care
   - pet health

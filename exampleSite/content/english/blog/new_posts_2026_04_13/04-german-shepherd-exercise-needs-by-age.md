@@ -1,13 +1,7 @@
 ---
-title
----
-
-date
----
-
-tags
----
-
+title: "German Shepherd Exercise Needs by Age"
+date: 2026-01-19
+tags:
   - german shepherd
   - dog exercise
   - puppy care

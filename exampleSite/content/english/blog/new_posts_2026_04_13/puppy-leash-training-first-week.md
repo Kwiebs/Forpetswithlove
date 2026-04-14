@@ -1,26 +1,14 @@
 ---
-title
----
-
-description
----
-
-date
----
-
+title: "Puppy Leash Training: First Week Step by Step"
+description: "Master puppy leash training in your first week with this step-by-step guide. Learn proper techniques, common mistakes to avoid, and how to make walks enjoyable."
+date: 2026-02-17
 datepublished: 2026-04-13
 author: "For Pets With Love"
 ---
 
-tags
----
-
-categories
----
-
-image
----
-
+tags: ["puppy leash training", "puppy training", "leash walking", "puppy first week", "dog walking"]
+categories: ["Puppy Training", "Dog Training"]
+image: images/fish-swimming-sideways.jpg
 faq:
   - question: "When should I start leash training my puppy?"
     answer: "Start leash training as soon as you bring your puppy home, typically around 8 weeks old. Begin with short sessions indoors and gradually progress to outdoor walks as they complete their vaccination series."

@@ -1,26 +1,14 @@
 ---
-title
----
-
-description
----
-
-date
----
-
+title: "How to bathe a cat without getting scratched"
+description: "Learn expert techniques to bathe your cat safely without scratches. Step-by-step guide ensures stress-free bathing for you and your feline friend."
+date: 2026-04-11
 datepublished: 2026-04-13
 author: "For Pets With Love"
 ---
 
-tags
----
-
-categories
----
-
-image
----
-
+tags: ["cat bathing", "how to bathe a cat", "cat grooming", "cat care", "stress-free cat bath"]
+categories: ["Cat Care", "Grooming"]
+image: images/new-cat-safe-space.jpg
 faq:
   - question: "Do I really need to bathe my cat?"
     answer: "Most cats groom themselves and rarely need baths. However, cats with skin conditions, elderly cats, or those who get into sticky substances benefit from occasional bathing."

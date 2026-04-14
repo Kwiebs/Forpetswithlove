@@ -1,31 +1,15 @@
 ---
-title
----
-
-description
----
-
-date
----
-
+title: "Best Scratching Materials: Sisal vs Cardboard vs Carpet"
+description: "Compare sisal, cardboard, and carpet scratching materials to find the best option for your cat. Learn about the pros, cons, and ideal uses of each material type."
+date: 2026-02-07
 author: "For Pets With Love"
 ---
 
-tags
----
-
-categories
----
-
-image
----
-
-image
----
-
-image
----
-
+tags: ["cat scratching materials", "sisal vs cardboard vs carpet", "cat scratching post", "cat care", "cat behavior"]
+categories: ["Cat Behavior", "Cat Care"]
+image: images/dog-vitamins.jpg
+image: images/smartcat-scratching-post.jpg
+image: images/petfusion-scratcher.jpg
 image: images/frisco-cardboard-scratcher.jpg
 ---
 
