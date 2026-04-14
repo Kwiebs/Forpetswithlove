@@ -2,6 +2,8 @@
 title: "Cat Zoomies at Night: How to Calm Evening Energy"
 description: "Learn why cats get the zoomies at night and discover effective strategies to calm evening energy for peaceful, restful nights together."
 author: "For Pets With Love"
+---
+
 tags: ["cat zoomies", "cat night energy", "hyperactive cat", "cat behavior", "calm cat at night"]
 categories: ["Cat Behavior", "Cat Care"]
 image: images/leash-training.jpg

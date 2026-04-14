@@ -4,6 +4,8 @@ description: "Learn to spot dog ear infection symptoms early and discover safe h
 date: 2026-03-22
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["dog ear infection", "dog ear infection symptoms", "dog ear infection home treatment", "how to treat dog ear infection", "dog ear care"]
 categories: ["Dog Health", "Dog Care"]
 image: images/how-often-bathe-puppy.jpg

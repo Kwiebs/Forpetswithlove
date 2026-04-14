@@ -4,6 +4,8 @@ description: "Compare the best pet cameras for monitoring your pets remotely. Ou
 date: 2026-01-06
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["pet camera", "dog camera", "cat camera", "pet monitor", "wifi pet camera"]
 categories: ["Pet Tech", "Dog Products", "Cat Products"]
 image: images/dog-ears.jpg

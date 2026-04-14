@@ -4,6 +4,8 @@ description: "Help your dog overcome separation anxiety with a proven gradual de
 date: 2026-02-18
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["separation anxiety dogs", "dog desensitization", "dog alone training", "separation anxiety treatment", "dog behavior"]
 categories: ["Dog Behavior", "Dog Training"]
 image: images/dog-separation-anxiety.jpg

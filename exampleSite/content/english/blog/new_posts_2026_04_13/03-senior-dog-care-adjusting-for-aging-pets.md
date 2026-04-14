@@ -4,6 +4,8 @@ description: "Learn how to care for your aging dog with expert tips on exercise,
 date: 2026-03-25
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["senior dog care", "aging dog care", "older dog health", "senior dog nutrition", "caring for elderly dogs"]
 categories: ["Dog Health", "Senior Dog Care"]
 image: images/how-often-feed-cat.jpg

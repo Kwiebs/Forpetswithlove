@@ -4,6 +4,8 @@ description: "Stop your dog from barking at the doorbell with proven training te
 date: 2026-02-20
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["stop dog barking", "doorbell training", "dog behavior", "dog training", "excessive barking"]
 categories: ["Dog Training", "Dog Behavior"]
 image: images/fish-tank.jpg

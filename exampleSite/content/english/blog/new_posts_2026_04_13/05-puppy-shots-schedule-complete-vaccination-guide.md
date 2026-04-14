@@ -4,6 +4,8 @@ description: "Get the complete puppy shots schedule with our easy-to-follow vacc
 date: 2026-03-28
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["puppy shots schedule", "puppy vaccination schedule", "dog vaccination guide", "puppy shots", "when do puppies get shots"]
 categories: ["Dog Health", "Puppy Care"]
 image: images/jolly_ball.jpg

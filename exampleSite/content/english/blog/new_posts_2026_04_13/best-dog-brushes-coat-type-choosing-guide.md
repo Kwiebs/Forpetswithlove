@@ -4,6 +4,8 @@ description: "Find the perfect brush for your dog's coat type. Comprehensive gui
 date: 2026-04-05
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["dog brushes", "dog grooming tools", "best dog brush", "coat type grooming", "dog coat care"]
 categories: ["Dog Care", "Grooming"]
 image: images/mudd-dog.jpg

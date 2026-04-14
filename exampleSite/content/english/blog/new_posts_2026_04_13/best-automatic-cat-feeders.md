@@ -4,6 +4,8 @@ description: "Discover the best automatic cat feeders for scheduled feeding. Kee
 date: 2026-01-01
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["automatic cat feeder", "scheduled cat feeding", "programmable pet feeder", "cat meal dispenser", "timed cat feeder"]
 categories: ["Cat Care", "Cat Products"]
 image: images/dog-cbd.jpg

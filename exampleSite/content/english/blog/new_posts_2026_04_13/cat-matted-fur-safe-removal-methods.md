@@ -4,6 +4,8 @@ description: "Learn safe ways to remove matted fur from your cat without causing
 date: 2026-04-07
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["cat matted fur", "remove cat mats", "cat fur care", "cat grooming", "dematting cat"]
 categories: ["Cat Care", "Grooming"]
 image: images/multi-cat-harmony.jpg

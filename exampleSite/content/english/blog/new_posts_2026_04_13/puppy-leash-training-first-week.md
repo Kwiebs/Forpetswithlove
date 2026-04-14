@@ -4,6 +4,8 @@ description: "Master puppy leash training in your first week with this step-by-s
 date: 2026-02-17
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["puppy leash training", "puppy training", "leash walking", "puppy first week", "dog walking"]
 categories: ["Puppy Training", "Dog Training"]
 image: images/fish-swimming-sideways.jpg

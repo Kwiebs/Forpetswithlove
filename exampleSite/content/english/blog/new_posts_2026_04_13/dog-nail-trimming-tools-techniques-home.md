@@ -4,6 +4,8 @@ description: "Master safe dog nail trimming at home with our complete guide. Lea
 date: 2026-04-10
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["dog nail trimming", "trim dog nails", "dog grooming", "nail clippers", "dog nail care"]
 categories: ["Dog Care", "Grooming"]
 image: images/new-cat-multi-cat.jpg

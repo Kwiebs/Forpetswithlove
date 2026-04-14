@@ -4,6 +4,8 @@ description: "Why cats need water fountains. Learn how flowing water encourages 
 date: 2026-01-02
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["cat water fountain", "pet water fountain", "cat drinking fountain", "flowing water bowl", "cat hydration"]
 categories: ["Cat Care", "Cat Products"]
 image: images/dog-chewing-paws.jpg

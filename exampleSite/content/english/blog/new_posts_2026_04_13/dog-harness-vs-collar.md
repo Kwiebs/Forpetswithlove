@@ -4,6 +4,8 @@ description: "Dog harness vs collar comparison guide. Learn which option is safe
 date: 2026-01-05
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["dog harness vs collar", "dog walking gear", "dog safety equipment", "collar or harness", "dog walking safety"]
 categories: ["Dog Care", "Dog Training", "Dog Products"]
 image: images/dog-dental.jpg

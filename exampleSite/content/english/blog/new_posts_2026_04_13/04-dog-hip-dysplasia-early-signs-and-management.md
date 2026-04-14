@@ -4,6 +4,8 @@ description: "Learn to recognize dog hip dysplasia early signs and discover effe
 date: 2026-03-26
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["dog hip dysplasia", "hip dysplasia in dogs", "dog hip dysplasia symptoms", "hip dysplasia treatment for dogs", "dog joint problems"]
 categories: ["Dog Health", "Joint Health"]
 image: images/hypoallergenic-cat.jpg

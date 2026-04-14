@@ -4,6 +4,8 @@ description: "Complete crate training schedule for dogs of all ages. Learn week-
 date: 2026-02-14
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["crate training schedule", "dog crate training", "puppy crate training", "crate training by age", "dog training"]
 categories: ["Dog Training", "Dog Care"]
 image: images/feeding-dog.jpg

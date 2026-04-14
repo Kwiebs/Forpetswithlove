@@ -4,6 +4,8 @@ description: "Potty training regression is common but frustrating. Learn why it 
 date: 2026-02-15
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["potty training regression", "puppy potty training", "puppy accidents", "housebreaking regression", "puppy training"]
 categories: ["Puppy Training", "Dog Training"]
 image: images/ferrets.jpg

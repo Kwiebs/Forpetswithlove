@@ -4,6 +4,8 @@ description: "Learn expert techniques to bathe your cat safely without scratches
 date: 2026-04-11
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
+
 tags: ["cat bathing", "how to bathe a cat", "cat grooming", "cat care", "stress-free cat bath"]
 categories: ["Cat Care", "Grooming"]
 image: images/new-cat-safe-space.jpg
