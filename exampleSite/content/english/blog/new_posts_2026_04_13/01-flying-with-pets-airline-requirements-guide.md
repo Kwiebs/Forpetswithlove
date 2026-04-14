@@ -4,58 +4,8 @@ date: 2026-01-29
 category: Pet Travel
 tags: [flying, pets, airline, travel guide]
 description: A comprehensive guide to airline requirements when flying with your pet, including documentation, carrier specifications, and booking tips.
-# Flying with Pets: Airline Requirements Guide
-Traveling by air with your furry companion requires careful planning and attention to detail. Each airline has specific requirements, but understanding the general guidelines will help ensure a smooth journey for both you and your pet.
 ---
-## Essential Documentation Requirements
-### Health Certificate
-Most airlines require a health certificate issued within 10 days of travel. This document must:
-- Be signed by a licensed veterinarian
-- Confirm your pet is healthy for travel
-- Include vaccination records
-- State that no contagious diseases are present
-### Vaccination Records
-Keep these vaccinations current:
-- Rabies (required for most destinations)
-- Distemper
-- Parvovirus
-- Bordetella (for dogs)
-- Feline viral rhinotracheitis (for cats)
-## Carrier Specifications
-### In-Cabin Carrier Requirements
-Your pet's carrier must meet these standards:
-- [Sherpa Original Deluxe Pet Carrier](https://www.amazon.com/dp/B0002AR0II?tag=forpetswithlove-20) - Airline approved and meets most size requirements
-- Ventilation on at least three sides
-- Leak-proof bottom with absorbent material
-- Secure latch system
-- Maximum dimensions typically 18" x 14" x 9"
-### Cargo Crate Requirements
-For larger pets traveling in cargo:
-- [Petmate Sky Kennel](https://www.amazon.com/dp/B0002AR0II?tag=forpetswithlove-20) - IATA compliant and airline approved
-- Metal door with secure locking mechanism
-- Ventilation on all four sides
-- Food and water containers attached to door
-- "Live Animal" labels prominently displayed
-## Booking Your Flight
-### Reserve Early
-- Pet spaces are limited, especially in-cabin
-- Book your pet's reservation when you book your ticket
-- Confirm pet availability before finalizing travel plans
-### Choose Direct Flights
-- Minimize connections to reduce stress
-- Avoid extreme weather conditions
-- Consider traveling during off-peak hours
-## Pre-Flight Preparation
-### Visit Your Veterinarian
-- Schedule a checkup 2-4 weeks before travel
-- Discuss sedation options (generally not recommended)
-- Obtain necessary medications
-- Get microchip information updated
-### Acclimate Your Pet to the Carrier
-- Introduce the carrier weeks before travel
-- Place familiar items inside
-- Practice short trips in the carrier
-- Make it a positive experience with treats
+# Flying with Pets: Airline Requirements Guide
 ## Day of Travel Tips
 ### Before the Airport
 - Exercise your pet thoroughly before departure
