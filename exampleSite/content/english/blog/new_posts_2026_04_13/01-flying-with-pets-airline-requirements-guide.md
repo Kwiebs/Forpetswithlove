@@ -7,12 +7,8 @@ description: A comprehensive guide to airline requirements when flying with your
 # Flying with Pets: Airline Requirements Guide
 Traveling by air with your furry companion requires careful planning and attention to detail. Each airline has specific requirements, but understanding the general guidelines will help ensure a smooth journey for both you and your pet.
 ---
-## Understanding Airline Pet Policies
 Before booking your flight, research your chosen airline's pet policy thoroughly. Most airlines fall into two categories:
 ### In-Cabin Travel
-### Cargo Travel
-- Larger pets or those exceeding in-cabin limits
-- Travel in pressurized, temperature-controlled cargo hold
 - Requires an approved crate or carrier
 - Fees vary significantly by airline and weight
 ## Essential Documentation Requirements
