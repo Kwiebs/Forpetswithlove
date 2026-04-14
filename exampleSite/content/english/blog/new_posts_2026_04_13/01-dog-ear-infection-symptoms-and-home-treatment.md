@@ -4,12 +4,12 @@ description: "Learn to spot dog ear infection symptoms early and discover safe h
 date: 2026-03-22
 datepublished: 2026-04-13
 author: "For Pets With Love"
----
 
 tags: ["dog ear infection", "dog ear infection symptoms", "dog ear infection home treatment", "how to treat dog ear infection", "dog ear care"]
 categories: ["Dog Health", "Dog Care"]
 image: images/how-often-bathe-puppy.jpg
 faq:
+
   - question: "How do I know if my dog has an ear infection?"
     answer: "Look for symptoms like head shaking, ear scratching, redness, swelling, discharge, or a foul odor. Your dog may also tilt their head to one side or show signs of discomfort when you touch their ears."
   - question: "Can I treat my dog's ear infection at home?"
@@ -50,7 +50,6 @@ products:
     url: "https://www.amazon.com/dp/B0018DSB8W?tag=forpetswith07-20"
     image: "images/virbac-ear-cleaner.jpg"
 ---
-
 # Dog Ear Infection Symptoms and Home Treatment: What Every Pet Parent Should Know
 
 If you've ever noticed your dog shaking their head repeatedly or scratching at their ears, you might be dealing with an ear infection. As a dog owner, learning to recognize the early warning signs can save your furry friend from discomfort and prevent more serious complications down the road.

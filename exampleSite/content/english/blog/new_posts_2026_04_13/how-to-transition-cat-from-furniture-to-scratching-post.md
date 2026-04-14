@@ -3,14 +3,14 @@ title: "How to Transition Cat from Furniture to Scratching Post"
 description: "Learn step-by-step how to transition your cat from scratching furniture to using scratching posts. Practical training tips and strategies for protecting your home while keeping your cat happy."
 date: 2026-02-10
 author: "For Pets With Love"
----
 
 tags: ["cat scratching furniture", "cat training", "cat scratching post", "cat behavior", "cat care"]
 categories: ["Cat Behavior", "Cat Care"]
 image: images/dog_winter.jpg
 image: images/smartcat-scratching-post.jpg
 image: images/petfusion-scratcher.jpg
-image: images/sticky-paws-strips.jpg
+image: images/sticky-paws-strips.jpg---
+
 ---
 
 # How to Transition Cat from Furniture to Scratching Post

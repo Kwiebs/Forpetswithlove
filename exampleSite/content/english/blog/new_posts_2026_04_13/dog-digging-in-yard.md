@@ -2,11 +2,11 @@
 title: "Dog Digging in Yard: How to Redirect the Instinct"
 description: "Learn effective strategies to stop destructive dog digging in your yard while respecting your dog's natural instincts and keeping them happy."
 author: "For Pets With Love"
----
 
 tags: ["dog digging", "stop dog digging", "dog yard behavior", "dog training", "destructive digging"]
 categories: ["Dog Behavior", "Dog Training"]
-image: images/litter-box-issue.jpg
+image: images/litter-box-issue.jpg---
+
     answer: "Dogs dig for multiple reasons including instinct, seeking comfort, hunting prey, burying treasures, escaping, or relieving boredom and anxiety. Understanding your dog's specific motivation helps you address the behavior effectively."
   - question: "Is digging a normal dog behavior?"
     answer: "Yes, digging is completely natural for dogs. Many breeds were specifically developed for digging, like terriers bred to hunt burrowing animals. It's an instinctive behavior that dogs enjoy and find satisfying."

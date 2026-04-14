@@ -4,12 +4,12 @@ description: "Help your dog overcome separation anxiety with a proven gradual de
 date: 2026-02-18
 datepublished: 2026-04-13
 author: "For Pets With Love"
----
 
 tags: ["separation anxiety dogs", "dog desensitization", "dog alone training", "separation anxiety treatment", "dog behavior"]
 categories: ["Dog Behavior", "Dog Training"]
 image: images/dog-separation-anxiety.jpg
 faq:
+
   - question: "How do I know if my dog has separation anxiety?"
     answer: "Signs include excessive barking or howling when left alone, destructive behavior, pacing, drooling, attempts to escape, and potty accidents in house-trained dogs. These behaviors occur specifically when you're away, not when others are present."
   - question: "How long does it take to treat separation anxiety?"

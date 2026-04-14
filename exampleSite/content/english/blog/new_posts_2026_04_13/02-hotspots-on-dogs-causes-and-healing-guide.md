@@ -4,12 +4,12 @@ description: "Discover what causes hotspots on dogs and how to heal them fast. L
 date: 2026-03-23
 datepublished: 2026-04-13
 author: "For Pets With Love"
----
 
 tags: ["hotspots on dogs", "dog hotspots treatment", "what causes hotspots on dogs", "how to heal hotspots on dogs", "dog skin issues"]
 categories: ["Dog Health", "Dog Skin Care"]
 image: images/how-often-clean-fish-tank.jpg
 faq:
+
   - question: "What exactly is a hotspot on a dog?"
     answer: "A hotspot, also known as acute moist dermatitis, is a localized area of skin inflammation and bacterial infection. It appears as a red, swollen, and often oozing patch that can spread rapidly if not treated."
   - question: "Why do dogs get hotspots suddenly?"

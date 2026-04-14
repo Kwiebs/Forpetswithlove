@@ -4,12 +4,12 @@ description: "Compare the best pet cameras for monitoring your pets remotely. Ou
 date: 2026-01-06
 datepublished: 2026-04-13
 author: "For Pets With Love"
----
 
 tags: ["pet camera", "dog camera", "cat camera", "pet monitor", "wifi pet camera"]
 categories: ["Pet Tech", "Dog Products", "Cat Products"]
 image: images/dog-ears.jpg
 faq:
+
   - question: "Do pet cameras help with separation anxiety?"
     answer: "Pet cameras can help with separation anxiety by allowing you to check on your pet and use two-way audio to comfort them. Some cameras even dispense treats to create positive associations with alone time."
   - question: "Can pet cameras see in the dark?"
