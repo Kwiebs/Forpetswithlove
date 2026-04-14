@@ -6,6 +6,7 @@ tags:
   - poisonous plants
   - household hazards
   - pet health
+---
 # Poisonous Plants for Pets: Room by Room Guide
 Plants bring life and beauty to our homes, but many common houseplants can be dangerous or even deadly to our furry friends. This comprehensive room-by-room guide will help you identify toxic plants and create a safer environment for your pets.
 ## Why Plant Safety Matters
@@ -233,6 +234,5 @@ By following this guide and staying vigilant, you can enjoy both your plants and
 
 **Want More Help?** Don't miss our comprehensive guide. It's packed with expert advice, practical tips, and proven strategies. Available at [books2read.com/u/47jzOq](https://books2read.com/u/47jzOq).
 
----
 
 *Disclosure: This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you. As an Amazon Associate, we earn from qualifying purchases. The information provided is for educational purposes only and is not a substitute for professional veterinary advice. Always consult your veterinarian for specific health concerns.*

@@ -6,6 +6,7 @@ tags:
   - dog diet
   - weight management
   - pet care
+---
 # Labrador retriever diet: managing weight
 Labrador Retrievers are famous for their love of food—and unfortunately, their tendency to gain weight easily. This lovable breed's appetite and efficient metabolism can lead to obesity if not carefully managed. Maintaining a healthy weight is crucial for your Lab's longevity and quality of life. Here's everything you need to know about feeding and weight management for your Labrador.
 ## Why Labs are prone to weight gain
@@ -265,6 +266,5 @@ Ready to help your Lab achieve and maintain a healthy weight? Check out our [wei
 
 **Want More Help?** Don't miss our comprehensive guide. It's packed with expert advice, practical tips, and proven strategies. Available at [books2read.com/u/47jzOq](https://books2read.com/u/47jzOq).
 
----
 
 *Disclosure: This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you. As an Amazon Associate, we earn from qualifying purchases. The information provided is for educational purposes only and is not a substitute for professional veterinary advice. Always consult your veterinarian for specific health concerns.*
