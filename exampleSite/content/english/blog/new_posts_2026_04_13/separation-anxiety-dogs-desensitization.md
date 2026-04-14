@@ -251,7 +251,7 @@ Our comprehensive dog behavior ebook covers separation anxiety in depth along wi
 - Professional techniques used by certified behaviorists
 - Troubleshooting guides for when training doesn't go as planned
 
-[Get the Complete Guide Now →](https://books2read.com/u/47jzOq)
+[Get the Complete Guide Now ](https://books2read.com/u/47jzOq)
 
 ## Frequently Asked Questions
 

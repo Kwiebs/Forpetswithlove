@@ -175,7 +175,7 @@ Yes, it's fine to remove the wheel during the day to encourage your hamster to r
 
 Choosing the right hamster wheel size is one of the most important decisions you'll make for your pet's health and happiness. By following the species-specific guidelines outlined in this guide, you can ensure your hamster has a safe, comfortable, and effective exercise tool.
 
-Remember that these are minimum requirements—whenever possible, choose a wheel slightly larger than the minimum to provide extra comfort and safety. Your hamster will thank you with improved health, increased activity, and those adorable nighttime running sessions that make them such entertaining pets.
+Remember that these are minimum requirementswhenever possible, choose a wheel slightly larger than the minimum to provide extra comfort and safety. Your hamster will thank you with improved health, increased activity, and those adorable nighttime running sessions that make them such entertaining pets.
 
 Invest in a quality, appropriately sized wheel, and you'll be rewarded with a healthier, happier hamster companion for years to come.
 

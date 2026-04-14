@@ -14,18 +14,18 @@ image: images/frisco-cardboard-scratcher.jpg
 
 # Best Scratching Materials: Sisal vs Cardboard vs Carpet
 
-Walk down the cat aisle at any pet store, and you'll find scratching posts covered in all sorts of materials—sisal rope, cardboard, carpet, fabric, and more. Each material claims to be the best, but how do you know which one your cat will actually use?
+Walk down the cat aisle at any pet store, and you'll find scratching posts covered in all sorts of materialssisal rope, cardboard, carpet, fabric, and more. Each material claims to be the best, but how do you know which one your cat will actually use?
 
 The truth is, different cats prefer different scratching materials, just as humans have different preferences for textures and surfaces. What one cat finds irresistible, another might completely ignore. Understanding the characteristics of each material can help you make informed choices and provide options that appeal to your individual cat.
 
-Let's explore the three most common scratching materials—sisal, cardboard, and carpet—and help you determine which might be best for your feline friend.
+Let's explore the three most common scratching materialssisal, cardboard, and carpetand help you determine which might be best for your feline friend.
 
 ## Sisal: The gold standard
 ### What is sisal?
 Sisal is a natural fiber derived from the agave plant. It's twisted into rope or woven into fabric, then used to cover scratching posts and pads. Sisal has been the go-to material for cat scratching products for decades, and for good reason.
 The texture of sisal is rough and fibrous, providing excellent resistance when cats scratch. It's durable enough to withstand enthusiastic scratching while still being gentle enough on claws. This combination makes it nearly ideal for scratching surfaces.
 ### Why cats love sisal
-Most cats find sisal incredibly satisfying to scratch. The rough texture catches claws perfectly, allowing cats to dig in and pull with just the right amount of resistance. This resistance is what makes scratching feel good—it's the tactile feedback cats seek.
+Most cats find sisal incredibly satisfying to scratch. The rough texture catches claws perfectly, allowing cats to dig in and pull with just the right amount of resistance. This resistance is what makes scratching feel goodit's the tactile feedback cats seek.
 Sisal also has a natural scent that many cats find appealing. While humans might not notice it, cats have much more sensitive noses and can detect the subtle earthy aroma of natural fibers.
 ### Durability and longevity
 One of sisal's biggest advantages is its durability. A well-made sisal scratching post can last 1-2 years or even longer with regular use. The fibers are tough and resist fraying, even under vigorous scratching.
@@ -47,7 +47,7 @@ If you're only going to invest in one high-quality scratching post, make it a si
 
 Cardboard scratchers are typically made from corrugated cardboard arranged in layers or cut into shapes. The corrugated texture provides a unique scratching surface that many cats find irresistible.
 
-Cardboard has a different feel than sisal—it's softer and more yielding, yet still provides enough resistance for satisfying scratches. The texture is uniform and predictable, which some cats prefer over the more variable texture of natural fibers.
+Cardboard has a different feel than sisalit's softer and more yielding, yet still provides enough resistance for satisfying scratches. The texture is uniform and predictable, which some cats prefer over the more variable texture of natural fibers.
 
 ### The cardboard appeal
 
@@ -87,7 +87,7 @@ Cardboard and sisal work excellently together. Provide sisal for your main scrat
 
 ## Carpet: The familiar option
 ### The carpet connection
-Carpet-covered scratching posts have been around for a long time, and many cat owners have them in their homes. The logic makes sense—cats often scratch carpet, so covering a post in carpet should make it appealing.
+Carpet-covered scratching posts have been around for a long time, and many cat owners have them in their homes. The logic makes sensecats often scratch carpet, so covering a post in carpet should make it appealing.
 However, this familiarity can actually be a disadvantage. When your carpet-covered post looks and feels like your actual carpet, your cat may have trouble distinguishing between appropriate and inappropriate scratching.
 ### Texture and feel
 Carpet provides a different scratching experience than sisal or cardboard. The texture is softer and less resistant, which some cats prefer. The fibers are more flexible, giving a different kind of tactile feedback.
@@ -114,7 +114,7 @@ The best scratching material for your cat is the one they'll actually use. Obser
 
 - Do they scratch rough surfaces or prefer softer ones?
 - Do they scratch vertically, horizontally, or both?
-- How vigorously do they scratch—gentle or enthusiastic?
+- How vigorously do they scratchgentle or enthusiastic?
 - What surfaces do they currently choose when scratching inappropriately?
 
 These observations can guide you toward materials that match your cat's preferences.

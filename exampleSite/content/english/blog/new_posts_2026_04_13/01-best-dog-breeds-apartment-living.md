@@ -48,7 +48,7 @@ Discover [Shih Tzu grooming supplies on Amazon](https://www.amazon.com/s?k=shih+
 - **Be a considerate neighbor**: Address barking early and keep noise to a minimum
 - **Use vertical space**: Cat trees and elevated beds can give small dogs more territory
 ## Final thoughts
-The best apartment dog is one that matches your lifestyle and energy level. While these breeds are well-suited to apartment living, every dog is an individual. Consider adoption—many mixed breeds in shelters make wonderful apartment companions!
+The best apartment dog is one that matches your lifestyle and energy level. While these breeds are well-suited to apartment living, every dog is an individual. Consider adoptionmany mixed breeds in shelters make wonderful apartment companions!
 Ready to welcome an apartment-friendly pup into your home? Check out our [dog care essentials on Amazon](https://www.amazon.com/s?k=dog+care+essentials) to get started.
 
 

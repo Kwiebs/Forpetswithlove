@@ -92,7 +92,7 @@ Large tanks allow for more diverse stocking:
 
 ### Goldfish
 
-Goldfish are often misunderstood when it comes to stocking. They produce significant waste and grow quite large. A single fancy goldfish needs at least 20 gallons, with 10 additional gallons for each additional goldfish. Common goldfish need even more space—30 gallons for the first fish and 15 gallons for each additional one.
+Goldfish are often misunderstood when it comes to stocking. They produce significant waste and grow quite large. A single fancy goldfish needs at least 20 gallons, with 10 additional gallons for each additional goldfish. Common goldfish need even more space30 gallons for the first fish and 15 gallons for each additional one.
 
 <a href="https://www.amazon.com/Tetra-Goldfish-Floating-Crisps-5-29-Ounce/dp/B0002559G6?crid=4X6Y8Z0W2V3B4&keywords=goldfish+food&qid=1679312566&sprefix=goldfish+food%2Caps%2C241&sr=8-1&linkCode=li2&tag=forpetswith07-20&linkId=ghi789jkl012&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0002559G6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith07-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith07-20&language=en_US&l=li2&o=1&a=B0002559G6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -127,7 +127,7 @@ Proper filtration is crucial when determining stocking levels. A good rule of th
 
 <a href="https://www.amazon.com/Marineland-Penguin-BIO-Wheel-Power-Filter/dp/B0002604WQ?crid=5X7Y9Z1W3V4B5&keywords=aquarium+filter&qid=1679312953&sprefix=aquarium+filter%2Caps%2C247&sr=8-3&linkCode=li2&tag=forpetswith07-20&linkId=jkl012mno345&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0002604WQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=forpetswith07-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=forpetswith07-20&language=en_US&l=li2&o=1&a=B0002604WQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-Remember that filtration doesn't replace the need for proper stocking—it just helps manage the bioload more effectively.
+Remember that filtration doesn't replace the need for proper stockingit just helps manage the bioload more effectively.
 
 ## Adding Fish Gradually
 
@@ -151,7 +151,7 @@ Mix active swimmers with more sedentary species to create visual interest throug
 
 ### Water Column Zones
 
-Include fish that occupy different levels of the tank—surface dwellers, mid-level swimmers, and bottom-dwellers—to make full use of the available space.
+Include fish that occupy different levels of the tanksurface dwellers, mid-level swimmers, and bottom-dwellersto make full use of the available space.
 
 ## Special Considerations for Planted Tanks
 
@@ -179,7 +179,7 @@ No, the one inch per gallon rule is overly simplistic and often misleading. It d
 
 ### How many goldfish can I keep in a 20-gallon tank?
 
-A single fancy goldfish needs at least 20 gallons, with 10 additional gallons for each additional goldfish. Common goldfish need even more space—30 gallons for the first fish and 15 gallons for each additional one. A 20-gallon tank is only suitable for one fancy goldfish.
+A single fancy goldfish needs at least 20 gallons, with 10 additional gallons for each additional goldfish. Common goldfish need even more space30 gallons for the first fish and 15 gallons for each additional one. A 20-gallon tank is only suitable for one fancy goldfish.
 
 ### Can I keep different fish species together?
 
@@ -215,7 +215,7 @@ While better filtration helps manage bioload more effectively, it doesn't replac
       "name": "How many goldfish can I keep in a 20-gallon tank?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A single fancy goldfish needs at least 20 gallons, with 10 additional gallons for each additional goldfish. Common goldfish need even more space—30 gallons for the first fish and 15 gallons for each additional one. A 20-gallon tank is only suitable for one fancy goldfish."
+        "text": "A single fancy goldfish needs at least 20 gallons, with 10 additional gallons for each additional goldfish. Common goldfish need even more space30 gallons for the first fish and 15 gallons for each additional one. A 20-gallon tank is only suitable for one fancy goldfish."
       }
     },
     {

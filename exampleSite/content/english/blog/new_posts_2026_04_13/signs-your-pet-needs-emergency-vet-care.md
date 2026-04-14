@@ -97,9 +97,9 @@ These situations typically warrant a call to your regular veterinarian during bu
 However, if these symptoms worsen or your pet seems distressed, seek emergency care.
 ## How to Assess Your Pet's Condition Quickly
 ### Check Vital Signs
-**Temperature:** Normal is 100.5-102.5°F for dogs and cats
+**Temperature:** Normal is 100.5-102.5F for dogs and cats
 - Use a [pet thermometer](https://www.amazon.com/dp/B07X3JQZ7V?tag=forpetswithlove-20)
-- Temperatures above 103°F or below 100°F need attention
+- Temperatures above 103F or below 100F need attention
 **Heart Rate:**
 - Dogs: 60-140 beats per minute (varies by size)
 - Cats: 140-220 beats per minute

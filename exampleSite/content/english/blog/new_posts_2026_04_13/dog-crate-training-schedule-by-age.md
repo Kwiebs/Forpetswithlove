@@ -235,7 +235,7 @@ Our comprehensive dog training ebook covers crate training in detail along with 
 - Advanced training techniques for well-behaved dogs
 - Professional tips for creating a happy, well-trained companion
 
-[Get the Complete Guide Now →](https://books2read.com/u/47jzOq)
+[Get the Complete Guide Now ](https://books2read.com/u/47jzOq)
 
 ## Frequently Asked Questions
 

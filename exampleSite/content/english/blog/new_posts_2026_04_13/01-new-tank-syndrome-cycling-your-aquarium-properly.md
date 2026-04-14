@@ -63,7 +63,7 @@ Choose hardy fish species like zebra danios, platies, or guppies. Add only 2-3 f
 
 The cycling process typically takes 4-6 weeks, but can vary depending on several factors:
 
-- Temperature: Warmer water (78-82°F) speeds up bacterial growth
+- Temperature: Warmer water (78-82F) speeds up bacterial growth
 - Oxygen levels: Good surface agitation helps bacteria thrive
 - Bacteria starter: Adding beneficial bacteria products can shorten the cycle
 - Tank size: Larger tanks may take longer to cycle
@@ -145,7 +145,7 @@ Test your water daily during the cycling process to monitor ammonia, nitrite, an
 
 ### Can I speed up the cycling process?
 
-You can speed up cycling by maintaining warmer water temperatures (78-82°F), adding bacteria starter products, and using filter media or substrate from an established tank. However, never rush the process by adding fish too early.
+You can speed up cycling by maintaining warmer water temperatures (78-82F), adding bacteria starter products, and using filter media or substrate from an established tank. However, never rush the process by adding fish too early.
 
 ### What are the signs that my tank is fully cycled?
 
@@ -193,7 +193,7 @@ Your tank is fully cycled when ammonia and nitrite consistently read 0 ppm, nitr
       "name": "Can I speed up the cycling process?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You can speed up cycling by maintaining warmer water temperatures (78-82°F), adding bacteria starter products, and using filter media or substrate from an established tank. However, never rush the process by adding fish too early."
+        "text": "You can speed up cycling by maintaining warmer water temperatures (78-82F), adding bacteria starter products, and using filter media or substrate from an established tank. However, never rush the process by adding fish too early."
       }
     },
     {

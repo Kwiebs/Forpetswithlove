@@ -33,7 +33,7 @@ Begin with simple commands:
 1. **Sit**: Hold a treat above their nose, move it back over their head
 2. **Stay**: Start with just a few seconds
 3. **Come**: Always reward heavily when they come to you
-Keep training sessions short—5 minutes maximum for young puppies.
+Keep training sessions short5 minutes maximum for young puppies.
 ## Month 3-4: Building on basics
 ### Leash training
 Golden Retrievers can be enthusiastic pullers! Start leash training early:

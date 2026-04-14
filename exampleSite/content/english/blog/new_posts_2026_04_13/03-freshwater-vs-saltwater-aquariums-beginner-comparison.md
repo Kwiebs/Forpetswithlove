@@ -137,14 +137,14 @@ Beyond the basic filter and heater, saltwater tanks often need protein skimmers,
 - Ammonia: 0 ppm
 - Nitrite: 0 ppm
 - Nitrate: Under 40 ppm
-- Temperature: 74-82°F (varies by species)
+- Temperature: 74-82F (varies by species)
 
 **Saltwater parameters to monitor:**
 - pH: 8.1-8.4
 - Ammonia: 0 ppm
 - Nitrite: 0 ppm
 - Nitrate: Under 10 ppm (lower for reef tanks)
-- Temperature: 76-82°F
+- Temperature: 76-82F
 - Salinity: 1.020-1.026 specific gravity
 - Calcium: 400-450 ppm (for reef tanks)
 - Alkalinity: 8-12 dKH (for reef tanks)
@@ -155,12 +155,12 @@ Beyond the basic filter and heater, saltwater tanks often need protein skimmers,
 **Freshwater:**
 - Frequency: Weekly to bi-weekly
 - Amount: 10-25% of tank volume
-- Complexity: Simple—just treat tap water with conditioner
+- Complexity: Simplejust treat tap water with conditioner
 
 **Saltwater:**
 - Frequency: Weekly
 - Amount: 10-20% of tank volume
-- Complexity: More involved—must mix saltwater to proper salinity 24 hours before use
+- Complexity: More involvedmust mix saltwater to proper salinity 24 hours before use
 
 ## Fish Species Comparison
 
@@ -264,7 +264,7 @@ Some aquarists choose brackish water aquariums, which fall between freshwater an
 
 Both freshwater and saltwater aquariums offer rewarding experiences, but they cater to different experience levels, budgets, and time commitments. Freshwater aquariums are perfect for beginners, offering easier maintenance and lower costs while still providing beautiful displays. Saltwater aquariums deliver stunning biodiversity and visual appeal but require more investment, knowledge, and dedication.
 
-The right choice depends on your experience level, budget, available time, and personal preferences. There's no wrong answer—both paths can lead to years of enjoyment and learning. Start with what feels manageable for your situation, and remember that many successful saltwater aquarists began with freshwater tanks. The most important thing is to start with proper research and commit to providing the best care for your aquatic pets, regardless of which type you choose.
+The right choice depends on your experience level, budget, available time, and personal preferences. There's no wrong answerboth paths can lead to years of enjoyment and learning. Start with what feels manageable for your situation, and remember that many successful saltwater aquarists began with freshwater tanks. The most important thing is to start with proper research and commit to providing the best care for your aquatic pets, regardless of which type you choose.
 
 ## Frequently Asked Questions About Freshwater vs Saltwater Aquariums
 
@@ -290,7 +290,7 @@ Generally, yes. Saltwater fish are often more sensitive to water parameter fluct
 
 ### Can I have both freshwater and saltwater tanks?
 
-Absolutely! Many aquarists maintain both types of tanks. Just be sure to keep equipment separate—never use the same nets, buckets, or tools for both freshwater and saltwater, as cross-contamination can harm your livestock.
+Absolutely! Many aquarists maintain both types of tanks. Just be sure to keep equipment separatenever use the same nets, buckets, or tools for both freshwater and saltwater, as cross-contamination can harm your livestock.
 
 <script type="application/ld+json">
 {
@@ -342,7 +342,7 @@ Absolutely! Many aquarists maintain both types of tanks. Just be sure to keep eq
       "name": "Can I have both freshwater and saltwater tanks?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Absolutely! Many aquarists maintain both types of tanks. Just be sure to keep equipment separate—never use the same nets, buckets, or tools for both freshwater and saltwater, as cross-contamination can harm your livestock."
+        "text": "Absolutely! Many aquarists maintain both types of tanks. Just be sure to keep equipment separatenever use the same nets, buckets, or tools for both freshwater and saltwater, as cross-contamination can harm your livestock."
       }
     }
   ]

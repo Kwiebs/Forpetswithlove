@@ -195,7 +195,7 @@ Turn off your filter, heater, and any other electrical equipment. This prevents 
 
 **Step 3: Remove water**
 
-Use your gravel vacuum to remove water from the tank. As you siphon, gently vacuum the substrate to remove debris, but don't dig too deep—you want to remove waste without disturbing beneficial bacteria.
+Use your gravel vacuum to remove water from the tank. As you siphon, gently vacuum the substrate to remove debris, but don't dig too deepyou want to remove waste without disturbing beneficial bacteria.
 
 **Step 4: Add replacement water**
 
@@ -300,7 +300,7 @@ Adding water that's too hot or too cold can stress or shock your fish. Always ma
 
 ### Neglecting Substrate Cleaning
 
-Water changes are the perfect time to vacuum your substrate. Don't just remove water—clean the gravel or sand to remove accumulated waste.
+Water changes are the perfect time to vacuum your substrate. Don't just remove waterclean the gravel or sand to remove accumulated waste.
 
 ## Automating Water Changes
 
@@ -322,7 +322,7 @@ Drip systems continuously add small amounts of fresh water while removing old wa
 
 Establishing and maintaining a proper water change schedule is one of the most important things you can do for your aquarium. The right schedule depends on your tank size, stocking level, filtration, and other factors, but regular water changes are non-negotiable for maintaining a healthy aquatic environment.
 
-Start with the guidelines for your tank size, then adjust based on your specific situation and water test results. Remember that consistency is key—regular, moderate water changes are better than occasional large changes. Your fish will reward you with better health, more vibrant colors, and longer lifespans when you maintain proper water quality through regular water changes.
+Start with the guidelines for your tank size, then adjust based on your specific situation and water test results. Remember that consistency is keyregular, moderate water changes are better than occasional large changes. Your fish will reward you with better health, more vibrant colors, and longer lifespans when you maintain proper water quality through regular water changes.
 
 Water changes may seem like a chore, but they're the foundation of successful aquarium keeping. Develop a routine, stick to your schedule, and your aquarium will thrive for years to come.
 

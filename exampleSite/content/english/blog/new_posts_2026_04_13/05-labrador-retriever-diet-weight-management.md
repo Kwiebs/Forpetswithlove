@@ -8,7 +8,7 @@ tags:
   - pet care
 ---
 # Labrador retriever diet: managing weight
-Labrador Retrievers are famous for their love of food—and unfortunately, their tendency to gain weight easily. This lovable breed's appetite and efficient metabolism can lead to obesity if not carefully managed. Maintaining a healthy weight is crucial for your Lab's longevity and quality of life. Here's everything you need to know about feeding and weight management for your Labrador.
+Labrador Retrievers are famous for their love of foodand unfortunately, their tendency to gain weight easily. This lovable breed's appetite and efficient metabolism can lead to obesity if not carefully managed. Maintaining a healthy weight is crucial for your Lab's longevity and quality of life. Here's everything you need to know about feeding and weight management for your Labrador.
 ## Why Labs are prone to weight gain
 Several factors make Labrador Retrievers susceptible to obesity:
 - **Genetic predisposition**: Many Labs carry a gene mutation affecting appetite regulation
@@ -105,7 +105,7 @@ Find [portion control tools on Amazon](https://www.amazon.com/s?k=dog+food+measu
 ## Treat management
 ### The treat trap
 Treats can easily sabotage weight management efforts:
-- Treats should be ≤10% of daily calories
+- Treats should be 10% of daily calories
 - Choose low-calorie options
 - Account for treats in meal portions
 - Use non-food rewards too
@@ -260,7 +260,7 @@ Shop our [Labrador feeding essentials on Amazon](https://www.amazon.com/s?k=dog+
 Adjust portions based on your Lab's specific needs and activity level.
 ## Final thoughts
 Managing your Labrador Retriever's weight requires commitment, but the rewards are immeasurable. A healthy-weight Lab is happier, more active, and likely to live longer. Their food motivation can be a challenge, but it's also a powerful tool for training and bonding.
-Remember: you're not depriving your Lab by controlling their weight—you're giving them the gift of health and longevity. Those pleading eyes will thank you with years of active, joyful companionship!
+Remember: you're not depriving your Lab by controlling their weightyou're giving them the gift of health and longevity. Those pleading eyes will thank you with years of active, joyful companionship!
 Ready to help your Lab achieve and maintain a healthy weight? Check out our [weight management essentials on Amazon](https://www.amazon.com/s?k=labrador+weight+management).
 
 

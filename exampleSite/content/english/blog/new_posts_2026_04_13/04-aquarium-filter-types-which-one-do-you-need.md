@@ -22,7 +22,7 @@ Before diving into filter types, it's important to understand what filters actua
 
 ### Mechanical Filtration
 
-This is the process of removing physical particles from the water—uneaten food, fish waste, plant debris, and other visible debris. Mechanical filtration is what keeps your water looking clear and clean.
+This is the process of removing physical particles from the wateruneaten food, fish waste, plant debris, and other visible debris. Mechanical filtration is what keeps your water looking clear and clean.
 
 ### Biological Filtration
 
@@ -302,7 +302,7 @@ Your fish depend on clean, healthy water, and a good filter is the foundation of
 
 ### Can I have too much filtration in my aquarium?
 
-Generally, no—you can't have too much filtration, but you can have too much water flow. Oversized filters can be adjusted with flow valves or by using spray bars to distribute flow more gently. More filtration capacity is always better for water quality.
+Generally, noyou can't have too much filtration, but you can have too much water flow. Oversized filters can be adjusted with flow valves or by using spray bars to distribute flow more gently. More filtration capacity is always better for water quality.
 
 ### How often should I clean my aquarium filter?
 
@@ -334,7 +334,7 @@ Signs of excessive flow include fish struggling to swim, plants being blown arou
       "name": "Can I have too much filtration in my aquarium?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Generally, no—you can't have too much filtration, but you can have too much water flow. Oversized filters can be adjusted with flow valves or by using spray bars to distribute flow more gently. More filtration capacity is always better for water quality."
+        "text": "Generally, noyou can't have too much filtration, but you can have too much water flow. Oversized filters can be adjusted with flow valves or by using spray bars to distribute flow more gently. More filtration capacity is always better for water quality."
       }
     },
     {

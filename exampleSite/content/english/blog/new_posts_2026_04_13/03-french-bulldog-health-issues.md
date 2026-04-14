@@ -116,7 +116,7 @@ Many Frenchies have sensitive stomachs:
 - Probiotics may help
 Browse [sensitive stomach dog food on Amazon](https://www.amazon.com/s?k=sensitive+stomach+dog+food)
 ### Flatulence
-Let's be honest—Frenchies are gassy! This is normal but can be managed:
+Let's be honestFrenchies are gassy! This is normal but can be managed:
 **Tips**:
 - Slow feeders to prevent gulping
 - High-quality, easily digestible food

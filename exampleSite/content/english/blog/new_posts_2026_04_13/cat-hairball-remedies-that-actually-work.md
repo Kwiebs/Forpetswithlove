@@ -12,18 +12,18 @@ faq:
   - question: "Why do cats get hairballs?"
     answer: "Cats develop hairballs when swallowed fur accumulates in the digestive tract faster than it can pass through. Cats' barbed tongues trap loose hair during grooming, which they inevitably swallow. Most hair passes through normally, but excessive amounts sometimes clump together in the stomach."
   - question: "How often should cats have hairballs?"
-    answer: "Occasional hairballs (monthly or less) are generally normal for cats, especially long-haired breeds. However, frequent vomiting of hairballsâweekly or dailyâindicates excessive shedding, over-grooming, or underlying medical issues requiring attention."
+    answer: "Occasional hairballs (monthly or less) are generally normal for cats, especially long-haired breeds. However, frequent vomiting of hairballsweekly or dailyindicates excessive shedding, over-grooming, or underlying medical issues requiring attention."
   - question: "What foods help with hairballs?"
     answer: "High-fiber foods, specialized hairball control formulas with added fibers, and increased omega fatty acids help move hair through the digestive tract. Wet food also aids passage compared to dry kibble alone."
   - question: "Are hairball remedies safe for cats?"
-    answer: "Most commercial hairball gels and pastes containing petroleum or vegetable oil are safe when used as directed. However, they should complementânot replaceâproper grooming and dietary management. Avoid mineral oil, which can cause serious aspiration pneumonia if inhaled."
+    answer: "Most commercial hairball gels and pastes containing petroleum or vegetable oil are safe when used as directed. However, they should complementnot replaceproper grooming and dietary management. Avoid mineral oil, which can cause serious aspiration pneumonia if inhaled."
   - question: "When should I be concerned about hairballs?"
     answer: "Seek veterinary care if hairballs occur more than twice monthly, if accompanied by lethargy, appetite loss, constipation, or diarrhea, if your cat strains unproductively in the litter box, or if vomiting contains blood or unusual material."
   - question: "Does brushing really help prevent hairballs?"
-    answer: "Yes, regular brushing removes loose hair before cats swallow it during grooming. Daily brushing significantly reduces hairball formation, especially for long-haired breeds. The right brush type mattersâslicker brushes and deshedding tools are most effective."
+    answer: "Yes, regular brushing removes loose hair before cats swallow it during grooming. Daily brushing significantly reduces hairball formation, especially for long-haired breeds. The right brush type mattersslicker brushes and deshedding tools are most effective."
 ---
 
-You know the soundâthat distinctive retching that sends you scrambling for paper towels while hoping your cat aims for tile rather than carpet. Hairballs might seem like an inevitable part of cat ownership, but they don't have to be a weekly (or daily) occurrence.
+You know the soundthat distinctive retching that sends you scrambling for paper towels while hoping your cat aims for tile rather than carpet. Hairballs might seem like an inevitable part of cat ownership, but they don't have to be a weekly (or daily) occurrence.
 
 Understanding why hairballs form and applying proven remedies significantly reduces vomiting episodes while keeping your cat comfortable and your floors clean. The most effective approaches combine multiple strategies rather than relying on a single magic solution.
 
@@ -31,7 +31,7 @@ Understanding why hairballs form and applying proven remedies significantly redu
 
 Hairballs form through a natural process that occasionally goes wrong. Understanding the mechanics helps you prevent problems at the source.
 
-Your cat's tongue features backward-facing barbs called papillaeâperfectly designed for removing meat from bones but equally effective at trapping loose fur during grooming. This fur travels down the throat into the stomach, where most passes normally through the digestive tract and exits in feces.
+Your cat's tongue features backward-facing barbs called papillaeperfectly designed for removing meat from bones but equally effective at trapping loose fur during grooming. This fur travels down the throat into the stomach, where most passes normally through the digestive tract and exits in feces.
 
 **Trouble develops** when hair accumulates faster than the digestive system processes it. Long-haired breeds face obvious challenges with greater fur volume, but excessive shedding, seasonal coat changes, or compulsive over-grooming cause problems even for short-haired cats.
 
@@ -63,7 +63,7 @@ Petroleum-based and vegetable oil products coat hair masses, allowing easier pas
 
 **Hairball gels and pastes** containing petroleum jelly or mineral oil lubricate accumulated hair. Most cats accept these readily due to flavored formulations. **Malt-flavored pastes** prove particularly palatable to feline taste preferences.
 
-**Dosing frequency** varies by product and individual needsâsome cats need daily administration during heavy shedding, others weekly maintenance. **Follow package directions** and veterinary guidance rather than guessing amounts.
+**Dosing frequency** varies by product and individual needssome cats need daily administration during heavy shedding, others weekly maintenance. **Follow package directions** and veterinary guidance rather than guessing amounts.
 
 **Important safety note**: Never give straight mineral oil to cats. Unlike thickened gels, liquid mineral oil travels easily down the windpipe into lungs, causing aspiration pneumonia. Only use products specifically formulated for cats.
 
@@ -81,7 +81,7 @@ Dehydrated cats develop sluggish digestion where hair accumulates rather than pa
 
 Some cats groom excessively, swallowing far more hair than normal and dramatically increasing hairball formation.
 
-**Stress and anxiety** commonly trigger compulsive grooming. **Environmental enrichment**âtoys, climbing spaces, interactive playâreduces anxiety-driven behaviors. **Pheromone diffusers** like Feliway create calming atmospheres for anxious cats.
+**Stress and anxiety** commonly trigger compulsive grooming. **Environmental enrichment**toys, climbing spaces, interactive playreduces anxiety-driven behaviors. **Pheromone diffusers** like Feliway create calming atmospheres for anxious cats.
 
 **Skin conditions** causing itchiness also increase grooming. **Flea allergies**, **food sensitivities**, and **dry skin** all prompt excessive licking that worsens hairball issues. Treating underlying conditions reduces grooming behavior.
 
@@ -111,7 +111,7 @@ While occasional hairballs are normal, certain patterns indicate underlying heal
 
 **Frequency matters**: Weekly or daily hairballs suggest excessive shedding, over-grooming, or medical problems rather than normal physiology. **Age changes**: New onset hairballs in older cats may indicate illness rather than "just getting older."
 
-**Accompanying symptoms**âweight loss, appetite changes, lethargy, diarrhea, constipation, or strainingâindicate disorders beyond simple hair accumulation. **Failed passage** where your cat repeatedly vomits without producing a hairball suggests obstruction concerns.
+**Accompanying symptoms**weight loss, appetite changes, lethargy, diarrhea, constipation, or strainingindicate disorders beyond simple hair accumulation. **Failed passage** where your cat repeatedly vomits without producing a hairball suggests obstruction concerns.
 
 **Blood in vomit** or stool, **unusual vomiting patterns**, or **behavioral changes** accompanying hairballs all warrant veterinary examination. Don't dismiss these as "just hairballs."
 
@@ -131,11 +131,11 @@ Effective hairball control combines multiple strategies customized to your cat's
 
 **Assess severity**: Occasional monthly hairballs need less intervention than weekly episodes. **Identify triggers**: Seasonal shedding periods, stress events, or dietary changes might explain timing patterns. **Implement grooming**: Daily brushing forms the foundation regardless of other measures.
 
-**Dietary modifications** provide additional supportâfiber increase, wet food addition, or specialized formulas. **Lubricating products** serve as needed supplements during high-risk periods. **Environmental changes** address stress or boredom contributing to over-grooming.
+**Dietary modifications** provide additional supportfiber increase, wet food addition, or specialized formulas. **Lubricating products** serve as needed supplements during high-risk periods. **Environmental changes** address stress or boredom contributing to over-grooming.
 
 **Monitor results** and adjust approaches. What works for one cat may fail for another. Patience and persistence eventually find the right combination for your situation.
 
-Remember that hairballs represent a symptom of incomplete hair passage through the digestive system. The goal isn't eliminating all hairballs foreverâit's preventing frequent episodes that cause discomfort while maintaining your cat's overall health and happiness.
+Remember that hairballs represent a symptom of incomplete hair passage through the digestive system. The goal isn't eliminating all hairballs foreverit's preventing frequent episodes that cause discomfort while maintaining your cat's overall health and happiness.
 
 
 *As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust. Consult your veterinarian if your cat experiences frequent hairballs, especially with accompanying symptoms like appetite loss or lethargy.*

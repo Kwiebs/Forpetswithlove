@@ -66,10 +66,10 @@ The UVB bulb should span the length of the enclosure, with the basking spot posi
 While UVB provides essential radiation, heat lighting creates the temperature gradient bearded dragons need for thermoregulation, digestion, and overall health.
 
 ### Basking Spot Temperature
-The basking spot should reach 95-110°F (35-43°C) for adult dragons and slightly warmer (100-110°F) for babies and juveniles. Use a digital thermometer with a probe to measure temperature at the basking spot, not just ambient temperature.
+The basking spot should reach 95-110F (35-43C) for adult dragons and slightly warmer (100-110F) for babies and juveniles. Use a digital thermometer with a probe to measure temperature at the basking spot, not just ambient temperature.
 
 ### Cool Side Temperature
-The cool side of the enclosure should maintain 75-85°F (24-29°C). This temperature gradient allows your dragon to move between warmer and cooler areas as needed.
+The cool side of the enclosure should maintain 75-85F (24-29C). This temperature gradient allows your dragon to move between warmer and cooler areas as needed.
 
 ### Heat Bulb Options
 
@@ -90,7 +90,7 @@ Bearded dragons need 12-14 hours of light and 10-12 hours of darkness daily. Thi
 - **Lights on:** 7:00 AM - 8:00 PM (12-13 hours)
 - **Lights off:** 8:00 PM - 7:00 AM (11-12 hours)
 
-Adjust these times based on your schedule, but maintain the 12-14 hour light period. Consistency is key—try to turn lights on and off at the same times each day.
+Adjust these times based on your schedule, but maintain the 12-14 hour light period. Consistency is keytry to turn lights on and off at the same times each day.
 
 ### Using Timers
 Plug your lights into timers to automate the cycle. This ensures consistency even when you're not home and prevents accidentally leaving lights on too long or forgetting to turn them on.
@@ -215,9 +215,9 @@ Some mercury vapor bulbs provide both UVB and heat, but they require careful pla
 
 Proper lighting is the foundation of bearded dragon health and cannot be overlooked. By understanding their UVB and heat requirements, selecting appropriate bulbs, and maintaining a consistent schedule, you'll provide your bearded dragon with the essential elements they need to thrive.
 
-Remember that lighting is just one aspect of proper bearded dragon care—combine it with appropriate diet, enclosure size, and regular veterinary care for optimal health. Monitor your dragon closely, adjust as needed, and don't hesitate to consult with reptile specialists if you have concerns.
+Remember that lighting is just one aspect of proper bearded dragon carecombine it with appropriate diet, enclosure size, and regular veterinary care for optimal health. Monitor your dragon closely, adjust as needed, and don't hesitate to consult with reptile specialists if you have concerns.
 
-Invest in quality lighting equipment, maintain a consistent schedule, and replace bulbs on schedule. Your bearded dragon will reward you with vibrant health, active behavior, and many years of companionship. Proper lighting isn't just important—it's essential for your bearded dragon's life and well-being.
+Invest in quality lighting equipment, maintain a consistent schedule, and replace bulbs on schedule. Your bearded dragon will reward you with vibrant health, active behavior, and many years of companionship. Proper lighting isn't just importantit's essential for your bearded dragon's life and well-being.
 
 <script type="application/ld+json">
 {

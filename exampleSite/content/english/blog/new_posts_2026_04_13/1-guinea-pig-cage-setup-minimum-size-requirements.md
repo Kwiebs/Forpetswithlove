@@ -12,7 +12,7 @@ schema:
   article: true
 ---
 
-Creating the perfect home for your guinea pig starts with understanding their space needs. These adorable, social creatures require more room than many pet owners realize. A properly sized cage isn't just about comfort—it's essential for your guinea pig's physical health, mental well-being, and overall happiness.
+Creating the perfect home for your guinea pig starts with understanding their space needs. These adorable, social creatures require more room than many pet owners realize. A properly sized cage isn't just about comfortit's essential for your guinea pig's physical health, mental well-being, and overall happiness.
 
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 
@@ -148,7 +148,7 @@ Aquariums are not recommended due to poor ventilation and potential overheating.
 
 Providing your guinea pig with an appropriately sized cage is one of the most important investments you can make in their health and happiness. While it may require more space and initial cost than smaller enclosures, the benefits are clear: healthier, more active, and more content pets.
 
-Remember that minimum requirements are just that—minimums. Whenever possible, go bigger. Your guinea pig will thank you with increased activity, better health, and those adorable popcorns of joy that make them such wonderful companions.
+Remember that minimum requirements are just thatminimums. Whenever possible, go bigger. Your guinea pig will thank you with increased activity, better health, and those adorable popcorns of joy that make them such wonderful companions.
 
 By following these guidelines and avoiding common mistakes, you'll create a safe, comfortable, and enriching environment where your guinea pig can thrive for years to come.
 

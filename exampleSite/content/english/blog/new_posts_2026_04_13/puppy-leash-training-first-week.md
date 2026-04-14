@@ -203,7 +203,7 @@ Our comprehensive puppy training ebook covers everything from leash training to 
 - Socialization techniques to raise a confident, well-adjusted dog
 - Professional training tips used by expert trainers
 
-[Get the Complete Guide Now →](https://books2read.com/u/47jzOq)
+[Get the Complete Guide Now ](https://books2read.com/u/47jzOq)
 
 ## Frequently Asked Questions
 

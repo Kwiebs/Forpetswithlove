@@ -14,9 +14,9 @@ image: images/orthopedic-cat-bed.jpg
 
 # Senior Cat Scratching Solutions for Arthritic Paws
 
-Watching your beloved cat age is bittersweet. You cherish every moment with your senior companion, but it's hard to see them struggle with activities that used to be effortless. One of the changes you might notice is in their scratching behavior—the once-enthusiastic scratcher now seems hesitant, less frequent, or avoids scratching altogether.
+Watching your beloved cat age is bittersweet. You cherish every moment with your senior companion, but it's hard to see them struggle with activities that used to be effortless. One of the changes you might notice is in their scratching behaviorthe once-enthusiastic scratcher now seems hesitant, less frequent, or avoids scratching altogether.
 
-Arthritis is incredibly common in senior cats, affecting up to 90% of cats over age 12 and nearly all cats over age 15. This condition doesn't just make movement painful—it changes how your cat interacts with their environment, including how they scratch.
+Arthritis is incredibly common in senior cats, affecting up to 90% of cats over age 12 and nearly all cats over age 15. This condition doesn't just make movement painfulit changes how your cat interacts with their environment, including how they scratch.
 
 The good news is that with understanding and appropriate accommodations, your arthritic senior cat can continue to enjoy comfortable scratching throughout their golden years. Let's explore how to support your older cat's changing needs.
 
@@ -25,21 +25,21 @@ The good news is that with understanding and appropriate accommodations, your ar
 Arthritis is inflammation of the joints that causes pain, stiffness, and reduced mobility. In cats, it most commonly affects the elbows, hips, knees, and spine. The condition develops gradually over time, often going unnoticed in its early stages because cats are masters at hiding pain.
 As arthritis progresses, the cartilage that cushions joints wears away, causing bones to rub against each other. This creates inflammation and pain, especially during movement. Even simple activities like jumping, stretching, or scratching can become uncomfortable.
 ### How arthritis affects scratching
-Scratching requires complex joint movement—extending the legs, flexing the spine, putting weight on limbs, and coordinating multiple muscle groups. For an arthritic cat, these movements can be painful or difficult.
+Scratching requires complex joint movementextending the legs, flexing the spine, putting weight on limbs, and coordinating multiple muscle groups. For an arthritic cat, these movements can be painful or difficult.
 You might notice your senior cat:
 - Scratching less frequently than before
 - Avoiding tall scratching posts they used to love
 - Showing hesitation before starting to scratch
 - Choosing lower surfaces or scratching while lying down
 - Vocalizing or seeming uncomfortable during scratching
-These changes aren't behavioral problems—they're your cat adapting to physical limitations.
+These changes aren't behavioral problemsthey're your cat adapting to physical limitations.
 ### The importance of continued scratching
 Even with arthritis, scratching remains essential for your cat's health. It helps:
 - Remove dead nail sheaths to prevent overgrowth
 - Maintain joint flexibility and muscle tone
 - Mark territory through scent and visual marks
 - Relieve stress and provide emotional comfort
-The goal isn't to stop scratching but to make it comfortable and accessible. Your senior cat still needs to scratch—they just need accommodations to do so safely.
+The goal isn't to stop scratching but to make it comfortable and accessible. Your senior cat still needs to scratchthey just need accommodations to do so safely.
 
 ## Choosing the right scratching surfaces
 
@@ -47,7 +47,7 @@ The goal isn't to stop scratching but to make it comfortable and accessible. You
 
 Senior cats with arthritis often struggle with tall scratching posts that require reaching or jumping. Low-profile scratching surfaces are much more accessible and comfortable.
 
-Horizontal scratchers that sit on the floor are ideal. These allow your cat to scratch while standing or even lying down, reducing the need to extend joints painfully. Look for scratchers that are close to ground level—no more than a few inches high.
+Horizontal scratchers that sit on the floor are ideal. These allow your cat to scratch while standing or even lying down, reducing the need to extend joints painfully. Look for scratchers that are close to ground levelno more than a few inches high.
 
 Low vertical posts, around 12-18 inches tall, can also work well. These provide some vertical scratching without requiring the full extension that taller posts demand.
 
@@ -67,7 +67,7 @@ Choose scratching posts with wide, heavy bases that won't tip. For horizontal sc
 
 The material of the scratching surface matters for arthritic cats. Rough, harsh materials might be uncomfortable on sore joints. Softer materials provide a gentler scratching experience.
 
-Cardboard is often excellent for senior cats—it's soft enough to be gentle yet still effective for removing dead nail sheaths. Plush fabric or softer carpet can also work well. Avoid extremely rough sisal if your cat seems to find it uncomfortable.
+Cardboard is often excellent for senior catsit's soft enough to be gentle yet still effective for removing dead nail sheaths. Plush fabric or softer carpet can also work well. Avoid extremely rough sisal if your cat seems to find it uncomfortable.
 
 ### Multiple accessible locations
 
@@ -99,7 +99,7 @@ These scratchers are particularly good for cats who still want some vertical scr
 Wall-mounted scratchers can be positioned at the perfect height for your senior cat. By mounting them lower than traditional posts, you can create accessible scratching surfaces that don't require jumping or reaching.
 For rental situations, look for wall-mounted scratchers that use removable adhesive strips rather than permanent mounting. This allows you to customize the height without damaging walls.
 ### Multi-level solutions
-Some scratching posts offer multiple levels at different heights. These are excellent for senior cats because they provide options—your cat can choose the height that's most comfortable on any given day.
+Some scratching posts offer multiple levels at different heights. These are excellent for senior cats because they provide optionsyour cat can choose the height that's most comfortable on any given day.
 Look for posts with:
 - Low levels close to the ground
 - Medium levels for moderate stretching
@@ -143,7 +143,7 @@ These rugs provide traction and stability, making movement safer and more comfor
 
 Bending down to eat and drink can strain arthritic necks and backs. Raised food and water dishes reduce this strain and make mealtime more comfortable.
 
-Choose raised dishes that are the appropriate height for your cat—typically around 4-6 inches off the ground, depending on your cat's size.
+Choose raised dishes that are the appropriate height for your cattypically around 4-6 inches off the ground, depending on your cat's size.
 
 ## Nail care for arthritic cats
 ### Regular trimming importance
@@ -178,7 +178,7 @@ Modern veterinary medicine offers many options for managing arthritis pain in ca
 - Anti-inflammatory medications
 - Alternative therapies like acupuncture or laser therapy
 
-Never give human pain medications to cats—many are toxic and can be fatal. Only use medications prescribed by your veterinarian.
+Never give human pain medications to catsmany are toxic and can be fatal. Only use medications prescribed by your veterinarian.
 
 ### Regular monitoring
 

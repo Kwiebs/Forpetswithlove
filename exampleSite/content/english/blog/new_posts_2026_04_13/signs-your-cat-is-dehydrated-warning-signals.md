@@ -10,7 +10,7 @@ tags: cat dehydration, dehydrated cat symptoms, cat not drinking water, feline d
 toc: true
 faq:
   - question: "How can I tell if my cat is dehydrated at home?"
-    answer: "Perform the skin tent test by gently pinching the skin between your cat's shoulder blades. If it doesn't snap back quickly, your cat may be dehydrated. Also check gum moisture and capillary refill time by pressing on gums until they turn whiteâcolor should return within 2 seconds."
+    answer: "Perform the skin tent test by gently pinching the skin between your cat's shoulder blades. If it doesn't snap back quickly, your cat may be dehydrated. Also check gum moisture and capillary refill time by pressing on gums until they turn whitecolor should return within 2 seconds."
   - question: "How much water should my cat drink daily?"
     answer: "Cats generally need about 3.5 to 4.5 ounces of water per 5 pounds of body weight daily. A 10-pound cat should drink roughly 7-9 ounces, or about one cup of water per day from all sources including wet food."
   - question: "Why isn't my cat drinking water?"

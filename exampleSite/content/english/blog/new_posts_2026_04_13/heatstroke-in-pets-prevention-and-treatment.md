@@ -10,7 +10,7 @@ tags:
 # Heatstroke in Pets: Prevention and Treatment
 Heatstroke is a life-threatening emergency that can affect pets quickly and without warning. Unlike humans, pets can't sweat effectively to cool themselves down, making them extremely vulnerable to overheating. Understanding how to prevent and treat heatstroke could save your pet's life.
 ## Understanding Heatstroke in Pets
-Heatstroke occurs when a pet's body temperature rises to dangerous levels, typically above 103°F (39.4°C). When body temperature reaches 106°F (41.1°C) or higher, cellular damage begins to occur, and multiple organ systems can fail.
+Heatstroke occurs when a pet's body temperature rises to dangerous levels, typically above 103F (39.4C). When body temperature reaches 106F (41.1C) or higher, cellular damage begins to occur, and multiple organ systems can fail.
 **Why Pets Are Vulnerable:**
 - Dogs and cats only sweat through their paw pads
 - They primarily cool themselves by panting
@@ -37,11 +37,11 @@ Heatstroke occurs when a pet's body temperature rises to dangerous levels, typic
 ## Common Causes of Heatstroke
 ### Environmental Triggers
 **Hot Weather:**
-- Temperatures above 80°F (26.7°C)
+- Temperatures above 80F (26.7C)
 - High humidity makes cooling difficult
 - Direct sun exposure
 **Enclosed Spaces:**
-- **Cars** - Even with windows cracked, temperatures can reach 120°F (49°C) in minutes
+- **Cars** - Even with windows cracked, temperatures can reach 120F (49C) in minutes
 - **Small rooms** without ventilation
 - **Crates** in direct sunlight
 - **Garages** without air conditioning
@@ -71,14 +71,14 @@ Heatstroke occurs when a pet's body temperature rises to dangerous levels, typic
 - Confusion or disorientation
 - Excessive thirst
 - Dark red or purple gums
-- Body temperature above 103°F (39.4°C)
+- Body temperature above 103F (39.4C)
 ### Severe Heatstroke Signs
 **Life-threatening symptoms:**
 - Seizures or tremors
 - Collapse or unconsciousness
 - Blue or gray gums
 - Difficulty standing or walking
-- Body temperature above 106°F (41.1°C)
+- Body temperature above 106F (41.1C)
 - Organ failure signs
 ## Immediate Action: What to Do If You Suspect Heatstroke
 ### Step 1: Move to a Cool Area
@@ -101,7 +101,7 @@ Heatstroke occurs when a pet's body temperature rises to dangerous levels, typic
 ### Step 3: Monitor Temperature
 **Use a [pet thermometer](https://www.amazon.com/dp/B07X3JQZ7V?tag=forpetswithlove-20):**
 - Take rectal temperature if possible
-- Stop cooling when temperature reaches 103°F (39.4°C)
+- Stop cooling when temperature reaches 103F (39.4C)
 - Continued cooling can lead to hypothermia
 ### Step 4: Get to a Veterinarian
 **Heatstroke is a medical emergency:**
@@ -207,7 +207,7 @@ Even if your pet appears to recover, heatstroke can cause:
 - Heavy panting
 - Excessive drooling
 - Mild weakness
-- Elevated temperature (below 103°F)
+- Elevated temperature (below 103F)
 **Treatment:**
 - Move to cool area
 - Provide water
@@ -218,7 +218,7 @@ Even if your pet appears to recover, heatstroke can cause:
 - All heat exhaustion signs plus:
 - Vomiting or diarrhea
 - Collapse or seizures
-- Temperature above 103°F
+- Temperature above 103F
 - Organ dysfunction signs
 **Treatment:**
 - Immediate cooling measures
@@ -274,7 +274,7 @@ Even if your pet appears to recover, heatstroke can cause:
 3. **Use fans to increase evaporation**
 4. **Offer cool water if able to drink**
 5. **Monitor temperature**
-6. **Stop cooling at 103°F (39.4°C)**
+6. **Stop cooling at 103F (39.4C)**
 7. **Get to veterinarian immediately**
 8. **Call ahead if possible**
 ### Prevention Checklist:

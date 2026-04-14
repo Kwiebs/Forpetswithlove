@@ -309,7 +309,7 @@ Our comprehensive puppy training ebook covers potty training in detail along wit
 - Step-by-step training schedules and troubleshooting guides
 - Professional tips for raising a well-trained, happy puppy
 
-[Get the Complete Guide Now →](https://books2read.com/u/47jzOq)
+[Get the Complete Guide Now ](https://books2read.com/u/47jzOq)
 
 ## Frequently Asked Questions
 

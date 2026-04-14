@@ -26,7 +26,7 @@ Believe it or not, small apartments actually offer some advantages for scratchin
 Small apartments also force you to be intentional about placement. Every decision counts, which often leads to better, more strategic choices rather than scattering posts randomly throughout a larger home.
 ### The vertical thinking approach
 In small spaces, think vertically rather than horizontally. Your apartment has height that you can utilize for scratching posts, climbing structures, and perches. Tall, narrow scratching posts take up minimal floor space while providing maximum functionality for your cat.
-This vertical approach not only saves floor space but also appeals to cats' natural desire to climb and survey their territory from above. A tall scratching post can serve multiple purposes—scratching surface, climbing structure, and observation perch all in one.
+This vertical approach not only saves floor space but also appeals to cats' natural desire to climb and survey their territory from above. A tall scratching post can serve multiple purposesscratching surface, climbing structure, and observation perch all in one.
 ### Multi-functional solutions
 Small apartments demand multi-functional furniture, and cat furniture is no exception. Look for scratching posts that also serve as climbing trees, perches, or even storage pieces. The more functions a single piece can serve, the more valuable it becomes in your limited space.
 Some scratching posts come with built-in hiding spots, toys, or platforms. Others can be integrated with existing furniture or serve as room dividers. These multi-functional pieces provide excellent value in small apartments.
@@ -37,7 +37,7 @@ Some scratching posts come with built-in hiding spots, toys, or platforms. Other
 
 Every cat needs a scratching post near where they sleep. Cats naturally stretch and scratch after waking up, so having a post within easy reach of their bed is essential.
 
-In a small apartment, this might mean placing a scratching post next to your bed if your cat sleeps with you, or near their favorite napping spot. Look for tall posts that allow for full-body stretching—32 inches or taller is ideal.
+In a small apartment, this might mean placing a scratching post next to your bed if your cat sleeps with you, or near their favorite napping spot. Look for tall posts that allow for full-body stretching32 inches or taller is ideal.
 
 If floor space is extremely limited, consider a wall-mounted scratcher near the sleeping area. These take up zero floor space and can be positioned at the perfect height for your cat's morning stretches.
 
@@ -51,7 +51,7 @@ In small apartments, windows often become the main entertainment center for cats
 
 ### Zone 3: The main living area
 
-Your main living area—whether it's a living room, family room, or combined space—needs at least one scratching post. This is where you and your cat spend the most time together, and it's a prime territory-marking location.
+Your main living areawhether it's a living room, family room, or combined spaceneeds at least one scratching post. This is where you and your cat spend the most time together, and it's a prime territory-marking location.
 
 Place a scratching post near your main seating area, ideally within a few feet of furniture your cat might be tempted to scratch. This proximity makes redirection natural and easy.
 
@@ -73,7 +73,7 @@ Some vertical posts come with multiple levels or platforms, adding climbing and 
 ### Corner scratchers
 Corners are often wasted space in apartments, but they're perfect for scratching posts. Corner scratchers fit snugly into unused corners, providing scratching surfaces without disrupting your room's flow.
 Look for triangular or wedge-shaped scratchers designed specifically for corners. Some are vertical posts that fit in corners, while others are horizontal pads that sit on the floor. Both types are excellent space-savers.
-Corner placement also has the advantage of being naturally stable—the walls provide support, reducing the risk of tipping during enthusiastic scratching.
+Corner placement also has the advantage of being naturally stablethe walls provide support, reducing the risk of tipping during enthusiastic scratching.
 ### Wall-mounted options
 Wall-mounted scratchers are the ultimate space-saving solution. They take up zero floor space and can be positioned at various heights to suit your cat's preferences.
 These scratchers attach directly to walls and can be placed anywhere you have wall space. Some are simple pads, while others are more elaborate with multiple levels or integrated perches.

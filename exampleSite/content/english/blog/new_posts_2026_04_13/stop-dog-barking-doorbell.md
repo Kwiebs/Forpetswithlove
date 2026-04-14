@@ -163,7 +163,7 @@ Our comprehensive dog training ebook covers everything from basic obedience to a
 - Professional training techniques you can use at home
 - Troubleshooting guides for when training doesn't go as planned
 
-[Get the Complete Guide Now →](https://books2read.com/u/47jzOq)
+[Get the Complete Guide Now ](https://books2read.com/u/47jzOq)
 
 ## Frequently Asked Questions
 
