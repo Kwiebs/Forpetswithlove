@@ -10,9 +10,6 @@ Traveling by air with your furry companion requires careful planning and attenti
 ## Understanding Airline Pet Policies
 Before booking your flight, research your chosen airline's pet policy thoroughly. Most airlines fall into two categories:
 ### In-Cabin Travel
-- Must fit in a carrier under the seat
-- Usually limited to one pet per passenger
-- Additional fees range from $75-$200 each way
 ### Cargo Travel
 - Larger pets or those exceeding in-cabin limits
 - Travel in pressurized, temperature-controlled cargo hold
