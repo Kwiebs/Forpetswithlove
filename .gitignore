@@ -9,3 +9,12 @@ builds
 package-lock.json
 Public
 resources
+
+# OpenClaw workspace files
+NIGHT-TASKS-STRATEGY.md
+README.md
+TASKS.md
+content_inventory.txt
+/logs
+/memory
+/.openclaw
