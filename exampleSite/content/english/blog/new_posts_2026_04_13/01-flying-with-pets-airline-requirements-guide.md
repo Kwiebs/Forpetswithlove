@@ -6,10 +6,10 @@ tags: [flying, pets, airline, travel guide]
 description: A comprehensive guide to airline requirements when flying with your pet, including documentation, carrier specifications, and booking tips.
 # Flying with Pets: Airline Requirements Guide
 Traveling by air with your furry companion requires careful planning and attention to detail. Each airline has specific requirements, but understanding the general guidelines will help ensure a smooth journey for both you and your pet.
+---
 ## Understanding Airline Pet Policies
 Before booking your flight, research your chosen airline's pet policy thoroughly. Most airlines fall into two categories:
 ### In-Cabin Travel
-- Small pets typically under 15-20 pounds
 - Must fit in a carrier under the seat
 - Usually limited to one pet per passenger
 - Additional fees range from $75-$200 each way
@@ -119,6 +119,5 @@ Remember to always prioritize your pet's safety and well-being above convenience
 
 **Want More Help?** Don't miss our comprehensive guide. It's packed with expert advice, practical tips, and proven strategies. Available at [books2read.com/u/47jzOq](https://books2read.com/u/47jzOq).
 
----
 
 *Disclosure: This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you. As an Amazon Associate, we earn from qualifying purchases. The information provided is for educational purposes only and is not a substitute for professional veterinary advice. Always consult your veterinarian for specific health concerns.*
