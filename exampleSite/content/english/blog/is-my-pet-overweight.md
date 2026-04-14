@@ -7,6 +7,8 @@ tags: pet weight, dog weight, cat weight, body condition score, pet health, dog 
 Meta description: Worried about your pet's weight? Learn simple, at-home checks to assess your dog or cat's body condition and ensure they live a long, healthy, and happy life. #pethealth #doghealth #cathealth
 date: 2026-04-09
 author: "For Pets With Love"
+---
+
 # Is my pet overweight? simple ways to check your dog or cat's body condition at home
 Is your pet overweight? It's a common concern for pet owners.
 As a devoted pet parent, and having personally helped my own golden retriever shed those extra pounds, I understand the constant worry about our furry friends' well-being. We want them to be happy, healthy, and by our sides for as long as possible. One common concern I often hear from fellow pet owners is, "Is my pet overweight?" It's a valid question! Just like humans, maintaining a healthy weight is important for our dogs and cats to prevent various health issues and ensure a good quality of life.

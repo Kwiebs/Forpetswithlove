@@ -6,6 +6,8 @@ categories: ["Dog Care"]
 tags: freeze-dried, dog treats, healthy snacks, Amazon
 date: 2026-04-11
 author: "For Pets With Love"
+---
+
 <h1>The Top 5 Freeze-Dried Dog Treats for Your Pup's Delight</h1>
 <meta name="description" content="Looking for the best freeze-dried dog treats for your furry friend? Look no further! Check out our top 5 picks for the best freeze-dried dog treats on the market.">
 <h2>Introduction</h2>

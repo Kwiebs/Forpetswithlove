@@ -5,6 +5,8 @@ image: images/dog-treat.jpg
 tags: dogs, treats, homemade, healthy
 categories: ["Dog Nutrition"]
 author: "For Pets With Love"
+---
+
 # Introduction:
 As a dog owner, you want to make sure your furry friend is happy and healthy. One way to show your love is by treating them to homemade snacks that are not only delicious but also nutritious. In this article, we'll share with you 5 homemade treats your dog will love. These snacks are easy to make and are made with natural ingredients that are safe for your dog to consume. So, get ready to spoil your pooch with these tasty and healthy treats!
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*

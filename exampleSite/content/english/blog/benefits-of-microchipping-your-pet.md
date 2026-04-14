@@ -6,6 +6,7 @@ image: images/pet_vet.jpg
 tags: pets, microchipping, pet safety
 categories: ["Pet Care"]
 author: "For Pets With Love"
+---
 <h1>The Benefits of Microchipping Your Pet</h1>
 <h2>Introduction</h2>
 As a pet owner, you want to ensure your furry friend is safe and secure. One of the best ways to do this is by microchipping your pet. Microchipping is a safe, quick, and easy procedure that can be done at your veterinarian's office. It involves inserting a small chip, about the size of a grain of rice, under your pet's skin. This chip contains a unique identification number that can be used to help identify your pet if they are lost or stolen. In this article, we will explore the benefits of microchipping your pet.
