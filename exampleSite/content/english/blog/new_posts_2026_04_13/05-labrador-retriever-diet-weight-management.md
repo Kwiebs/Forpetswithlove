@@ -1,7 +1,13 @@
 ---
-title: "Labrador Retriever Diet: Managing Weight"
-date: 2026-01-21
-tags:
+title
+---
+
+date
+---
+
+tags
+---
+
   - labrador retriever
   - dog diet
   - weight management

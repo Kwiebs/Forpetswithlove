@@ -1,14 +1,26 @@
 ---
-title: "Potty Training Regression in Puppies: How to Fix"
-description: "Potty training regression is common but frustrating. Learn why it happens, how to identify causes, and proven strategies to get your puppy back on track quickly."
-date: 2026-02-15
+title
+---
+
+description
+---
+
+date
+---
+
 datepublished: 2026-04-13
 author: "For Pets With Love"
 ---
 
-tags: ["potty training regression", "puppy potty training", "puppy accidents", "housebreaking regression", "puppy training"]
-categories: ["Puppy Training", "Dog Training"]
-image: images/ferrets.jpg
+tags
+---
+
+categories
+---
+
+image
+---
+
 faq:
   - question: "Why is my potty trained puppy having accidents again?",
     answer: "Regression is common and can be caused by medical issues, changes in routine, stress, incomplete training, or developmental stages. Most cases are temporary and resolve with consistent training."

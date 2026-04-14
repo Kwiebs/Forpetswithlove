@@ -1,9 +1,17 @@
 ---
-title: "Ragdoll Cat Care: Complete Guide for New Owners"
-date: 2026-01-12
+title
+---
+
+date
+---
+
 category: Cat Care
-tags: [ragdoll, cat care, new owners, cat breeds]
-description: Everything you need to know about caring for a ragdoll cat. From feeding and grooming to health tips and behavior, this complete guide covers it all.
+tags
+---
+
+description
+---
+
 # Ragdoll cat care: complete guide for new owners
 Ragdolls are one of the most popular cat breeds for good reason. They're large, fluffy, gentle, and affectionate. But like any breed, they have specific needs that new owners should understand.
 I've helped several friends and family members with their ragdolls over the years, and I've learned what works and what doesn't. Here's everything you need to know about keeping your ragdoll happy and healthy.

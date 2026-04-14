@@ -1,11 +1,18 @@
 ---
-title: "Best Dog Breeds for Apartment Living"
-date: 2026-01-15
-tags:
+title
+---
+
+date
+---
+
+tags
+---
+
   - dog breeds
   - apartment living
   - small dogs
   - pet care
+---
 # Best dog breeds for apartment living
 Living in an apartment doesn't mean you can't enjoy the companionship of a furry friend. Many dog breeds thrive in smaller spaces and adapt beautifully to apartment life. Here's our guide to the best apartment-friendly dogs.
 ## What makes a breed apartment-friendly?

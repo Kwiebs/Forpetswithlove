@@ -1,7 +1,13 @@
 ---
-title: "French Bulldog Health Issues to Watch For"
-date: 2026-01-18
-tags:
+title
+---
+
+date
+---
+
+tags
+---
+
   - french bulldog
   - dog health
   - brachycephalic breeds

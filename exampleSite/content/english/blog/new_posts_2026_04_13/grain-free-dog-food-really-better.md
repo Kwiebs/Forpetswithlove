@@ -1,12 +1,22 @@
 ---
-title: "Grain-Free Dog Food: Is It Really Better?"
-description: "Is grain-free dog food better for your pet? Learn the truth about grain-free diets, potential risks, and how to choose the right food for your dog."
+title
+---
+
+description
+---
+
 author: "For Pets With Love"
 ---
 
-tags: grain-free dog food, dog nutrition, dog food ingredients, dog diet
-categories: ["Dog Nutrition", "Dog Care"]
-image: images/glossary-bloat-in-dogs.jpg
+tags
+---
+
+categories
+---
+
+image
+---
+
 # Grain-Free Dog Food: Is It Really Better?
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 ## Introduction

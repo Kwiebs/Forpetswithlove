@@ -1,12 +1,22 @@
 ---
-title: "Hamster Wheel Size Guide by Species"
-description: Complete guide to hamster wheel sizes for Syrian, dwarf, and Roborovski hamsters. Learn proper dimensions, safety features, and expert recommendations to prevent injury.
-image: images/glossary-nitrogen-cycle.jpg
+title
+---
+
+description
+---
+
+image
+---
+
 datepublished: 2026-04-13
 dateModified: 2026-04-13
 permalink: /hamster-wheel-size-guide-by-species/
-categories: ["Small Pet Care", "Hamster Care"]
-tags: hamster wheel size, hamster exercise wheel, Syrian hamster wheel, dwarf hamster wheel, hamster care
+categories
+---
+
+tags
+---
+
 schema:
   faqPage: true
   article: true

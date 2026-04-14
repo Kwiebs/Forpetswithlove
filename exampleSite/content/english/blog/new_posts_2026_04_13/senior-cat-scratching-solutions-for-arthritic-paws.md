@@ -1,15 +1,31 @@
 ---
-title: "Senior Cat Scratching Solutions for Arthritic Paws"
-description: "Discover gentle scratching solutions for senior cats with arthritis. Learn how to accommodate your older cat's changing needs while keeping them comfortable and happy."
-date: 2026-02-11
+title
+---
+
+description
+---
+
+date
+---
+
 author: "For Pets With Love"
 ---
 
-tags: ["senior cat care", "cat arthritis", "cat scratching", "elderly cat", "cat health"]
-categories: ["Cat Behavior", "Cat Care", "Senior Pet Care"]
-image: images/ebook-cover-art-small.jpg
-image: images/petfusion-scratcher.jpg
-image: images/frisco-cardboard-scratcher.jpg
+tags
+---
+
+categories
+---
+
+image
+---
+
+image
+---
+
+image
+---
+
 image: images/orthopedic-cat-bed.jpg
 ---
 

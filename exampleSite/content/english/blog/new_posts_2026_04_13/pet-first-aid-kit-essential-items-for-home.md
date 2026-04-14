@@ -1,7 +1,13 @@
 ---
-title: "Pet First Aid Kit: Essential Items for Home"
-date: 2026-01-25
-tags:
+title
+---
+
+date
+---
+
+tags
+---
+
   - pet safety
   - first aid
   - emergency preparedness

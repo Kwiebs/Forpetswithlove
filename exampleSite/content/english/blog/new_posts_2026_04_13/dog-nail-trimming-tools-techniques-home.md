@@ -1,14 +1,26 @@
 ---
-title: "Dog nail trimming: tools and techniques for home"
-description: "Master safe dog nail trimming at home with our complete guide. Learn about the best tools, proper techniques, and tips for nervous dogs."
-date: 2026-04-10
+title
+---
+
+description
+---
+
+date
+---
+
 datepublished: 2026-04-13
 author: "For Pets With Love"
 ---
 
-tags: ["dog nail trimming", "trim dog nails", "dog grooming", "nail clippers", "dog nail care"]
-categories: ["Dog Care", "Grooming"]
-image: images/new-cat-multi-cat.jpg
+tags
+---
+
+categories
+---
+
+image
+---
+
 faq:
   - question: "How often should I trim my dog's nails?"
     answer: "Most dogs need nail trims every 3-4 weeks. Active dogs who walk on concrete may naturally wear nails down and need less frequent trimming."

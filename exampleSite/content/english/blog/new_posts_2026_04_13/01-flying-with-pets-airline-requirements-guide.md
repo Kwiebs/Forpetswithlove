@@ -1,9 +1,17 @@
 ---
-title: "Flying with Pets: Airline Requirements Guide"
-date: 2026-01-29
+title
+---
+
+date
+---
+
 category: Pet Travel
-tags: [flying, pets, airline, travel guide]
-description: A comprehensive guide to airline requirements when flying with your pet, including documentation, carrier specifications, and booking tips.
+tags
+---
+
+description
+---
+
 # Flying with Pets: Airline Requirements Guide
 Traveling by air with your furry companion requires careful planning and attention to detail. Each airline has specific requirements, but understanding the general guidelines will help ensure a smooth journey for both you and your pet.
 ## Understanding Airline Pet Policies

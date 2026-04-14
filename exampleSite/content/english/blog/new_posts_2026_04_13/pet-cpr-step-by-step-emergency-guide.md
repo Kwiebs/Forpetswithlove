@@ -1,7 +1,13 @@
 ---
-title: "Pet CPR: Step by Step Emergency Guide"
-date: 2026-01-23
-tags:
+title
+---
+
+date
+---
+
+tags
+---
+
   - pet emergencies
   - CPR
   - first aid

@@ -1,12 +1,22 @@
 ---
-title: "Cat dental care: brushing teeth without the fight"
-description: Learn gentle techniques for brushing your cat's teeth without stress or scratches. Discover the best brushes, toothpastes, and alternatives for maintaining your cat's oral health.
+title
+---
+
+description
+---
+
 datepublished: 2026-04-13
 dateModified: 2026-04-13
-image: images/heartworm.jpg
+image
+---
+
 permalink: /cat-dental-care-brushing-teeth-without-the-fight/
-categories: ["Cat Health", "Cat Care", "Cat Grooming"]
-tags: cat dental care, brushing cat teeth, cat toothbrush, feline dental health, cat oral hygiene
+categories
+---
+
+tags
+---
+
 toc: true
 faq:
   - question: "How often should I brush my cat's teeth?"

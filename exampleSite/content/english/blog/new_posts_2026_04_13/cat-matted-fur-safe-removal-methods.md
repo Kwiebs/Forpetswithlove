@@ -1,14 +1,26 @@
 ---
-title: "Cat matted fur: safe removal methods"
-description: "Learn safe ways to remove matted fur from your cat without causing pain or injury. Step-by-step guide covers prevention, tools, and when to see a professional."
-date: 2026-04-07
+title
+---
+
+description
+---
+
+date
+---
+
 datepublished: 2026-04-13
 author: "For Pets With Love"
 ---
 
-tags: ["cat matted fur", "remove cat mats", "cat fur care", "cat grooming", "dematting cat"]
-categories: ["Cat Care", "Grooming"]
-image: images/multi-cat-harmony.jpg
+tags
+---
+
+categories
+---
+
+image
+---
+
 faq:
   - question: "Can I cut mats out of my cat's fur with scissors?"
     answer: "Never use scissors to cut mats. It's nearly impossible to distinguish fur from skin, and cats move unpredictably. Scissor injuries are common and can be severe."

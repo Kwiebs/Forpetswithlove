@@ -1,14 +1,26 @@
 ---
-title: "Best automatic cat feeders: scheduled feeding guide for busy pet parents"
-description: "Discover the best automatic cat feeders for scheduled feeding. Keep your cat fed on time every day with our top-rated programmable feeders reviewed."
-date: 2026-01-01
+title
+---
+
+description
+---
+
+date
+---
+
 datepublished: 2026-04-13
 author: "For Pets With Love"
 ---
 
-tags: ["automatic cat feeder", "scheduled cat feeding", "programmable pet feeder", "cat meal dispenser", "timed cat feeder"]
-categories: ["Cat Care", "Cat Products"]
-image: images/dog-cbd.jpg
+tags
+---
+
+categories
+---
+
+image
+---
+
 faq:
   - question: "How long can you leave a cat with an automatic feeder?"
     answer: "Most automatic feeders can dispense food for 2-4 weeks depending on capacity, but it's recommended not to leave cats alone for more than 24-48 hours even with a feeder. Someone should check on them daily."

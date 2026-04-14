@@ -1,12 +1,22 @@
 ---
-title: "Introducing Pets to New Baby: Step-by-Step Preparation"
-description: " Prepare your pets for a new baby with our comprehensive guide. Learn step-by-step strategies for smooth introductions and safe, happy cohabitation."
+title
+---
+
+description
+---
+
 author: "For Pets With Love"
 ---
 
-tags: ["pets and babies", "introducing dog to baby", "cat and baby safety", "new baby preparation", "pet baby introduction"]
-categories: ["Pet Safety", "Pet Behavior"]
-image: images/litter-box.jpg
+tags
+---
+
+categories
+---
+
+image
+---
+
     answer: "Begin preparations at least two to three months before your due date. This gives adequate time for gradual adjustments and ensures your pet feels secure when changes occur. Earlier preparation reduces stress for both you and your pet."
   - question: "Should I let my dog smell the baby first?"
     answer: "Yes, controlled scent introduction helps your dog familiarize themselves. Bring home a blanket or clothing item with your baby's scent before the baby arrives home. Let your dog sniff it calmly while praising gentle behavior."

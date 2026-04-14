@@ -1,14 +1,26 @@
 ---
-title: "How to Stop Dog Barking at Doorbell - Training Guide"
-description: "Stop your dog from barking at the doorbell with proven training techniques. Learn desensitization, positive reinforcement, and practical solutions for a quieter home."
-date: 2026-02-20
+title
+---
+
+description
+---
+
+date
+---
+
 datepublished: 2026-04-13
 author: "For Pets With Love"
 ---
 
-tags: ["stop dog barking", "doorbell training", "dog behavior", "dog training", "excessive barking"]
-categories: ["Dog Training", "Dog Behavior"]
-image: images/fish-tank.jpg
+tags
+---
+
+categories
+---
+
+image
+---
+
 faq:
   - question: "Why does my dog bark at the doorbell?"
     answer: "Dogs bark at doorbells because they're alerting you to potential intruders, expressing excitement, or responding to the sudden sound. It's a natural protective instinct that can become excessive without training."

@@ -1,9 +1,17 @@
 ---
-title: "Best Pet Carriers for Airline Travel"
-date: 2026-02-01
+title
+---
+
+date
+---
+
 category: Pet Travel
-tags: [pet carriers, airline travel, product review, travel gear]
-description: A comprehensive review of the best pet carriers for airline travel, including in-cabin and cargo options with detailed recommendations.
+tags
+---
+
+description
+---
+
 # Best Pet Carriers for Airline Travel
 Choosing the right pet carrier for air travel is crucial for your furry friend's safety, comfort, and compliance with airline regulations. With so many options available, finding the perfect carrier can be overwhelming. This guide breaks down the best carriers for different travel needs and helps you make an informed decision.
 ## Understanding Airline Carrier Requirements

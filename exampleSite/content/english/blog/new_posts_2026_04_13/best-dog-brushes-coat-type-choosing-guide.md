@@ -1,14 +1,26 @@
 ---
-title: "Best dog brushes by coat type: choosing guide"
-description: "Find the perfect brush for your dog's coat type. Comprehensive guide covers slicker brushes, undercoat rakes, bristle brushes and more for every breed."
-date: 2026-04-05
+title
+---
+
+description
+---
+
+date
+---
+
 datepublished: 2026-04-13
 author: "For Pets With Love"
 ---
 
-tags: ["dog brushes", "dog grooming tools", "best dog brush", "coat type grooming", "dog coat care"]
-categories: ["Dog Care", "Grooming"]
-image: images/mudd-dog.jpg
+tags
+---
+
+categories
+---
+
+image
+---
+
 faq:
   - question: "How often should I brush my dog?"
     answer: "Frequency depends on coat type—short coats need weekly brushing, long coats daily or every other day, and double-coated breeds benefit from several sessions per week during shedding season."

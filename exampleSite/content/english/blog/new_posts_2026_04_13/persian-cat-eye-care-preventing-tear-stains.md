@@ -1,9 +1,17 @@
 ---
-title: "Persian Cat Eye Care: Preventing Tear Stains"
-date: 2026-01-11
+title
+---
+
+date
+---
+
 category: Cat Breeds
-tags: [persian cats, eye care, tear stains, cat grooming]
-description: Persian cats are prone to eye problems and tear stains. Learn how to clean their eyes properly, prevent staining, and keep your Persian's face healthy and beautiful.
+tags
+---
+
+description
+---
+
 # Persian cat eye care: preventing tear stains
 If you own a Persian cat, you know the struggle. Those beautiful flat faces come with a price - constant eye discharge and those stubborn reddish-brown tear stains that seem impossible to remove.
 I've been caring for Persians for over 15 years, and I've tried everything. Some products work, some don't, and some make things worse. Here's what actually works for keeping Persian eyes clean and preventing those dreaded tear stains.

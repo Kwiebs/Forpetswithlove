@@ -1,9 +1,17 @@
 ---
-title: "Maine Coon Grooming: Managing That Thick Coat"
-date: 2026-01-09
+title
+---
+
+date
+---
+
 category: Cat Grooming
-tags: [maine coon, grooming, cat care, cat breeds]
-description: Maine coons have magnificent coats, but they require serious grooming. Learn how to manage that thick fur and keep your maine coon looking and feeling great.
+tags
+---
+
+description
+---
+
 # Maine coon grooming: managing that thick coat
 Maine coons are famous for their impressive coats. That thick, water-resistant fur is beautiful, but it's also a lot of work. If you're not prepared for regular grooming, you'll end up with a matted mess and an uncomfortable cat.
 I've seen what happens when Maine coon grooming gets neglected. My cousin learned the hard way with her first Maine coon - by the time she realized the coat needed attention, there were serious mats that had to be shaved out. Don't let that happen to you.
