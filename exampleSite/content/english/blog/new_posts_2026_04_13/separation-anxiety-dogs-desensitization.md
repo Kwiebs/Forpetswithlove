@@ -4,12 +4,12 @@ description: "Help your dog overcome separation anxiety with a proven gradual de
 date: 2026-02-18
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
 
 tags: ["separation anxiety dogs", "dog desensitization", "dog alone training", "separation anxiety treatment", "dog behavior"]
 categories: ["Dog Behavior", "Dog Training"]
 image: images/dog-separation-anxiety.jpg
 faq:
-
   - question: "How do I know if my dog has separation anxiety?"
     answer: "Signs include excessive barking or howling when left alone, destructive behavior, pacing, drooling, attempts to escape, and potty accidents in house-trained dogs. These behaviors occur specifically when you're away, not when others are present."
   - question: "How long does it take to treat separation anxiety?"
@@ -49,7 +49,6 @@ products:
     currency: "USD"
     url: "https://www.amazon.com/dp/B003F5XO9O?tag=forpetswith07-20"
     image: "images/calming-bites.jpg"
----
 
 # Separation Anxiety in Dogs: Gradual Desensitization Plan
 
@@ -284,6 +283,5 @@ Medication isn't always necessary but can be helpful for severe cases or when co
 
 Separation anxiety is challenging, but with patience, consistency, and a systematic approach, most dogs can learn to be more comfortable when left alone. The gradual desensitization plan outlined here provides a roadmap for success. Remember that progress isn't always linear - setbacks are normal and part of the process. Stay patient, celebrate small victories, and don't hesitate to seek professional help if needed. Your dog can learn to feel safe and secure, even when you're not there.
 
----
 
 *Affiliate Disclosure: This post contains affiliate links. If you purchase through these links, we may earn a commission at no additional cost to you. We only recommend products we believe will benefit our readers.*

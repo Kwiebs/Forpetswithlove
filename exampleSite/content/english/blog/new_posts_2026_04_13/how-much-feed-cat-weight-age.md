@@ -2,11 +2,11 @@
 title: "How Much Should I Feed My Cat by Weight and Age"
 description: "Wondering how much to feed your cat? Learn the right portions based on weight and age to keep your feline friend healthy and at an ideal weight."
 author: "For Pets With Love"
+---
 
 tags: cat feeding guide, how much to feed cat, cat nutrition, cat weight management
 categories: ["Cat Nutrition", "Cat Care"]
-image: images/glossary-cat-spraying-behavior.jpg---
-
+image: images/glossary-cat-spraying-behavior.jpg
 # How Much Should I Feed My Cat by Weight and Age
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 ## Introduction
@@ -94,6 +94,5 @@ Feeding your cat the right amount based on their weight and age is essential for
 
 **Want More Help?** Don't miss our comprehensive guide. It's packed with expert advice, practical tips, and proven strategies. Available at [books2read.com/u/47jzOq](https://books2read.com/u/47jzOq).
 
----
 
 *Disclosure: This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you. As an Amazon Associate, we earn from qualifying purchases. The information provided is for educational purposes only and is not a substitute for professional veterinary advice. Always consult your veterinarian for specific health concerns.*

@@ -2,11 +2,11 @@
 title: "Best Fish Oil Supplements for Dogs: Omega-3 Guide"
 description: "Looking for the best fish oil for dogs? Our comprehensive guide covers omega-3 benefits, what to look for, and top recommendations for your furry friend."
 author: "For Pets With Love"
+---
 
 tags: fish oil for dogs, omega-3 for dogs, dog supplements, dog skin and coat health
 categories: ["Dog Health", "Dog Nutrition"]
-image: images/fish_tank.jpg---
-
+image: images/fish_tank.jpg
 # Best Fish Oil Supplements for Dogs: Omega-3 Guide
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 ## Introduction
@@ -165,6 +165,5 @@ Fish oil supplements offer numerous health benefits for dogs, from improving coa
 
 **Want More Help?** Don't miss our comprehensive guide. It's packed with expert advice, practical tips, and proven strategies. Available at [books2read.com/u/47jzOq](https://books2read.com/u/47jzOq).
 
----
 
 *Disclosure: This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you. As an Amazon Associate, we earn from qualifying purchases. The information provided is for educational purposes only and is not a substitute for professional veterinary advice. Always consult your veterinarian for specific health concerns.*

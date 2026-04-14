@@ -4,12 +4,12 @@ description: "Learn how to care for your aging dog with expert tips on exercise,
 date: 2026-03-25
 datepublished: 2026-04-13
 author: "For Pets With Love"
+---
 
 tags: ["senior dog care", "aging dog care", "older dog health", "senior dog nutrition", "caring for elderly dogs"]
 categories: ["Dog Health", "Senior Dog Care"]
 image: images/how-often-feed-cat.jpg
 faq:
-
   - question: "At what age is a dog considered a senior?"
     answer: "Most dogs are considered seniors between 7-10 years old, depending on size and breed. Small breeds typically age slower and may not be seniors until 10-12 years, while large and giant breeds often become seniors around 6-7 years."
   - question: "How much exercise does a senior dog need?"
@@ -49,7 +49,6 @@ products:
     currency: "USD"
     url: "https://www.amazon.com/dp/B001BMRXVE?tag=forpetswith07-20"
     image: "images/petsafe-steps.jpg"
----
 
 # Senior Dog Care: Adjusting for Aging Pets with Love and Patience
 
@@ -337,6 +336,5 @@ Remember, age is just a number. Your senior dog still has plenty of life to live
 
 **Want More Help?** Our comprehensive guide covers everything from nutrition and exercise to end-of-life care. It's the resource you need for every stage of your dog's journey. Available now at [books2read.com/u/47jzOq](https://books2read.com/u/47jzOq).
 
----
 
 *Disclosure: This article contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you. As an Amazon Associate, we earn from qualifying purchases. The information provided is for educational purposes only and is not a substitute for professional veterinary advice. Always consult your veterinarian for specific health concerns.*
