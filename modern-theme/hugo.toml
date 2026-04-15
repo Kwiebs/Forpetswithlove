@@ -7,7 +7,7 @@
 baseurl = "https://forpetswithlove.netlify.app/"
 languageCode = "en-us"
 title = "For Pets With Love"
-theme = "vex-hugo"  # Keep existing theme; modern-theme overlays
+# theme = "vex-hugo"  # Removed - modern-theme is standalone
 
 ###############################################################################
 # MULTILINGUAL SETTINGS  
