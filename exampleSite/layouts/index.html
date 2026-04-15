@@ -56,7 +56,7 @@
   <div class="container">
     <h2 style="font-size: 1.75rem; text-align: center; margin-bottom: 2rem;">Latest Articles</h2>
     <div class="grid grid-3">
-      {{ range first 3 (where site.RegularPages "Section" "blog") }}
+      {{ range first 6 (where site.RegularPages "Section" "blog") }}
       <article class="card">
         {{ with .Params.image }}
         <img src="{{ . | absURL }}" alt="{{ $.Title }}" class="card-image" loading="lazy" decoding="async">

@@ -40,21 +40,25 @@ weight = 1
   url = "/blog/"
   weight = 1
 [[menu.main]]
+  name = "Archive"
+  url = "/archive/"
+  weight = 2
+[[menu.main]]
   name = "Cat Care"
   url = "/categories/cat-care/"
-  weight = 2
+  weight = 3
 [[menu.main]]
   name = "Dog Care"
   url = "/categories/dog-care/"
-  weight = 3
+  weight = 4
 [[menu.main]]
   name = "Ebook"
   url = "/cat-scratching-solution-ebook/"
-  weight = 4
+  weight = 5
 [[menu.main]]
   name = "About"
   url = "/about/"
-  weight = 5
+  weight = 6
 
 [params]
   author = "|Kweebs"

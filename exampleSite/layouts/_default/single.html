@@ -3,7 +3,9 @@
   Implements: H1->H2->H3 hierarchy, related posts, reading progress
 */}}
 {{ define "main" }}
-{{ $related := site.RegularPages.Related . | first 3 }}
+{{ $related := site.RegularPages.Related . | first 6 }}
+{{ $category := index .Params.categories 0 }}
+{{ $categoryPosts := where site.RegularPages "Section" "blog" | where .Params.categories "intersect" (slice $category) | first 6 }}
 
 <article class="single">
   {{/* Post Header */}}
@@ -81,6 +83,33 @@
         </div>
       </article>
       {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{/* More in Category */}}
+  {{ if and $category $categoryPosts }}
+  <section class="more-category container" aria-labelledby="category-heading" style="margin-top: 3rem;">
+    <h2 id="category-heading" style="font-size: 1.5rem; margin-bottom: 2rem;">More in {{ $category | title }}</h2>
+    <div class="grid grid-3">
+      {{ range $categoryPosts }}
+      {{ if ne .Permalink $.Permalink }}
+      <article class="card">
+        {{ with .Params.image }}
+        <img src="{{ . | absURL }}" alt="{{ $.Title }}" class="card-image" loading="lazy" decoding="async">
+        {{ end }}
+        <div class="card-content">
+          <h3 class="card-title" style="font-size: 1.125rem;">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </h3>
+          <p class="card-meta">{{ .Date.Format "Jan 2, 2006" }}</p>
+        </div>
+      </article>
+      {{ end }}
+      {{ end }}
+    </div>
+    <div style="text-align: center; margin-top: 2rem;">
+      <a href="{{ "/categories/" | relURL }}{{ $category | urlize }}" class="btn btn-secondary">View All {{ $category | title }} Articles →</a>
     </div>
   </section>
   {{ end }}
