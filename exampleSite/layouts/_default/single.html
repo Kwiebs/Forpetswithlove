@@ -9,8 +9,10 @@
 {{ with .Params.categories }}
   {{ if gt (len .) 0 }}
     {{ $category = index . 0 }}
-    {{ $categoryPosts = where site.RegularPages "Section" "blog" | where .Params.categories "intersect" (slice $category) | first 6 }}
   {{ end }}
+{{ end }}
+{{ if ne $category "" }}
+  {{ $categoryPosts = where site.RegularPages "Section" "blog" | where .Params.categories "intersect" (slice $category) | first 6 }}
 {{ end }}
 
 <article class="single">
