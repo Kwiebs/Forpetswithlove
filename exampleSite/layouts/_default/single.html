@@ -4,8 +4,14 @@
 */}}
 {{ define "main" }}
 {{ $related := site.RegularPages.Related . | first 6 }}
-{{ $category := index .Params.categories 0 }}
-{{ $categoryPosts := where site.RegularPages "Section" "blog" | where .Params.categories "intersect" (slice $category) | first 6 }}
+{{ $category := "" }}
+{{ $categoryPosts := slice }}
+{{ with .Params.categories }}
+  {{ if gt (len .) 0 }}
+    {{ $category = index . 0 }}
+    {{ $categoryPosts = where site.RegularPages "Section" "blog" | where .Params.categories "intersect" (slice $category) | first 6 }}
+  {{ end }}
+{{ end }}
 
 <article class="single">
   {{/* Post Header */}}
@@ -88,7 +94,7 @@
   {{ end }}
 
   {{/* More in Category */}}
-  {{ if and $category $categoryPosts }}
+  {{ if and (ne $category "") (gt (len $categoryPosts) 0) }}
   <section class="more-category container" aria-labelledby="category-heading" style="margin-top: 3rem;">
     <h2 id="category-heading" style="font-size: 1.5rem; margin-bottom: 2rem;">More in {{ $category | title }}</h2>
     <div class="grid grid-3">
