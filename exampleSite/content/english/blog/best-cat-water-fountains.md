@@ -2,11 +2,11 @@
 title: "Best Cat Water Fountains (2026)"
 description: "Comprehensive guide to top-rated cat water fountains. Compare 7 appealing and functional options to keep your cat hydrated."
 author: "For Pets With Love"
----
-
 tags: ["cat water fountains", "cat hydration", "cat care"]
 categories: ["Cat Care", "Household"]
 image: images/cat-toys.jpg
+---
+
 ---
 
 ## Final Thoughts

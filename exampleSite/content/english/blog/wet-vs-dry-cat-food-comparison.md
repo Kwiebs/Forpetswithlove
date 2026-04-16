@@ -2,11 +2,11 @@
 title: "Wet vs Dry Cat Food: Which Is Better? Complete Comparison"
 description: "Comprehensive comparison of wet and dry cat food. Learn about nutrition, benefits, downsides, and which type suits your cat's needs best."
 author: "For Pets With Love"
----
-
 tags: ["cat food comparison", "wet vs dry cat food", "cat nutrition", "feeding cats"]
 categories: ["Cat", "Comparisons"]
 image: images/cat_food.jpg
+---
+
 ---
 
 **Confused about feeding your cat the best diet?**

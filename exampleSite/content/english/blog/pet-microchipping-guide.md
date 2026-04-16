@@ -3,11 +3,11 @@ title: "Pet Microchipping: Everything You Need to Know"
 description: "Does microchipping hurt? How does it work? Why your pet needs one. Complete guide to this essential pet safety device."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["microchip pet", "pet safety", "lost pet", "pet identification"]
 categories: ["Pet Safety"]
 image: images/microchip.jpg
+---
+
 # Pet Microchipping Guide
 A microchip could save your pet's life. Here's what you need to know.
 ## What Is a Microchip?

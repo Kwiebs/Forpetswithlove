@@ -3,11 +3,11 @@ title: "Dog Allergies: Signs, Symptoms, and Solutions"
 description: "Is your dog constantly scratching, licking, or having digestive issues? It could be allergies. Learn the types, causes, and treatments."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["dog allergies", "dog skin problems", "dog itching", "food allergies dogs"]
 categories: ["Dog Health"]
 image: images/dog-allergies.jpg
+---
+
 # Dog Allergies: Complete Guide
 Allergies are one of the most common reasons for vet visits. Here's how to identify and address them.
 ## Types of Dog Allergies

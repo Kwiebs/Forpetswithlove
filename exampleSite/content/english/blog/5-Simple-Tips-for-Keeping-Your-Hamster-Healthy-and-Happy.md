@@ -1,11 +1,11 @@
 ---
 title: 5 Simple Tips for Keeping Your Hamster Healthy and Happy
 description: 5 Simple Tips for Keeping Your Hamster Healthy and Happy
-image: images/happy_hamster.jpg
 date: 2025-01-01
+author: "For Pets With Love"
+image: images/happy_hamster.jpg
 categories: ["Small Pet Care"]
 tags: hamster care, hamster health, pet hamster, hamster cage, hamster nutrition, hamster exercise, hamster toys, hamster grooming, hamster vet visit, hamster happiness
-author: "For Pets With Love"
 ---
 
 As pet owners, we all want to give our furry friends the best possible life. Hamsters make great pets and with a little bit of care, they can live happy and healthy lives. Here are 5 simple tips to help keep your hamster healthy and happy.

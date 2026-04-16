@@ -1,11 +1,11 @@
 ---
 title: The Importance of Regular Vet Visits for Your Pet
 description: The Importance of Regular Vet Visits for Your Pet
-image: images/pet_vet.jpg
 Tags: pet care, regular vet visits, preventive care, early detection, health problems, optimal weight, dental health, behavioral health, nutrition, senior pet care, parasite prevention, emergency care planning, strong bond, personalized care plan.
-categories: ["Pet Health"]
 date: 2026-03-23
 author: "For Pets With Love"
+image: images/pet_vet.jpg
+categories: ["Pet Health"]
 ---
 
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*

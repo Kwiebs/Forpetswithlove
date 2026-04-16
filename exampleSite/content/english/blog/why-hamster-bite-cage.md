@@ -2,11 +2,11 @@
 title: "Why Does My Hamster Bite Their Cage? Causes and Prevention"
 description: "Understand why hamsters bite cage bars. Learn about boredom, need for chewing, stress, and natural behavior, plus effective solutions to prevent cage-biting."
 author: "For Pets With Love"
----
-
 tags: ["hamster cage biting", "hamster behavior", "hamster enrichment", "hamster care", "small pet"]
 categories: ["Small Pet Care"]
 image: images/hamster-biting-cage.jpg
+---
+
 ---
 
 ### 📚 Free eBook: Complete Pet Care Guide

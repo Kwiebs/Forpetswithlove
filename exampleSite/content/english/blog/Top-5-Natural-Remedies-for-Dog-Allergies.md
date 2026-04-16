@@ -2,11 +2,11 @@
 title: "Top 5 Natural Remedies for Dog Allergies"
 description: "Is your dog suffering from allergies? Discover 5 effective and natural remedies to relieve itching, sneezing, and irritation—safely and gently!"
 author: "For Pets With Love"
----
-
 tags: ["dog allergies", "natural remedies", "pet health"]
 categories: ["Dog Health"]
 image: images/dog-allergy.jpg
+---
+
 # Top 5 Natural Remedies for Dog Allergies
 If your dog is constantly itching, licking, or sneezing, allergies may be to blame. Environmental allergens, food sensitivities, and seasonal changes can all trigger uncomfortable symptoms in your pet. The good news? There are safe, natural ways to help!
 In this article, we’ll share 5 vet-recommended natural remedies to relieve your dog’s allergies and improve their quality of life.

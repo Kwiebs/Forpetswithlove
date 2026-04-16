@@ -3,11 +3,11 @@ title: "Best Bird Toys for Bored Parrots (2026)"
 description: "Comprehensive guide to top-rated parrot toys for mental stimulation and enrichment. Compare 7 engaging options for Intelligent parrots."
 date: 2026-03-21
 author: "For Pets With Love"
----
-
 tags: ["parrot toys", "bird enrichment", "parrot care"]
 categories: ["Bird Care", "Enrichment"]
 image: images/birdcage.jpg
+---
+
 ---
 
 ## Final Thoughts

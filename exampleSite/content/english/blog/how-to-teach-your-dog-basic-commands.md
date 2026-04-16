@@ -1,11 +1,11 @@
 ---
 title: How to Teach Your Dog Basic Commands - A Comprehensive Guide
 description: In this comprehensive guide, you will learn everything you need to know about teaching your dog basic commands. From sit to stay, come to heel, we've got you covered!
+date: 2026-03-23
+author: "For Pets With Love"
 image: images/dog_fetch.jpg
 tags: dog, basic commands, pet training, positive reinforcement
 categories: ["Dog Training"]
-date: 2026-03-23
-author: "For Pets With Love"
 ---
 
 Teaching your furry friend basic commands is an essential part of being a responsible dog owner. Not only does it help keep them safe, but it also strengthens the bond between you and your pup. Basic commands like sit, stay, come, and leave it are important skills that can help prevent accidents and make daily life more manageable. In this comprehensive guide, we'll walk you through a step-by-step process to teach your dog basic commands effectively. So, grab some treats, a positive attitude, and let's get started.

@@ -2,11 +2,11 @@
 title: "Best Dog Training Treats (2026)"
 description: "Comprehensive guide to top-rated training treats for dogs. Compare 7 delicious, motivating options for effective positive reinforcement training."
 author: "For Pets With Love"
----
-
 tags: ["dog training treats", "dog training", "positive reinforcement"]
 categories: ["Dog Training", "Dog Care"]
 image: images/dog_treat.jpg
+---
+
 ---
 
 ## Final Thoughts

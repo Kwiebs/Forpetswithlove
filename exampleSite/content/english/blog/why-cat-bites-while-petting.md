@@ -3,11 +3,11 @@ title: "Why Does My Cat Bite Me While I'm Petting? Understanding Petting Aggress
 description: "Decode your cat's body language. Learn why cats suddenly bite during petting and how to prevent this confusing cat behavior."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["cat biting", "cat aggression", "cat body language", "cat behavior"]
 categories: ["Cat Behavior"]
 image: images/cat-biting.jpg
+---
+
 # Why Does My Cat Bite During Petting?
 One minute your cat is purring contentedly, the next they're chomping down on your hand. Here's why.
 ## It's Called Petting Aggression

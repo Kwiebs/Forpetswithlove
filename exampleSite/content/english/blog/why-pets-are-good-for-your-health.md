@@ -1,11 +1,11 @@
 ---
 title: Why Pets are Good for Your Health
 description: Learn about the physical and mental health benefits of having a pet and how they can improve your overall well-being.
+date: 2026-04-09
+author: "For Pets With Love"
 image: images/pets_health.jpg
 tags: pets, health, well-being, mental health, physical health
 categories: ["Pet Care"]
-date: 2026-04-09
-author: "For Pets With Love"
 ---
 
 For many people, pets are more than just furry or feathered companions - they're a part of the family. But did you know that owning a pet can also have numerous health benefits? From improving your physical health to boosting your mental well-being, pets have been proven to be good for us in a variety of ways.

@@ -3,11 +3,11 @@ title: "5 Best Dental Chews for Dogs | For Pets With Love"
 description: "Discover the 5 best dental chews for dogs that will keep your canine companion's teeth clean, breath fresh, and tail wagging."
 date: 2025-05-24
 author: "For Pets With Love"
----
-
 tags: ["dog dental chews", "dental care", "pet health"]
 categories: ["Dog Health"]
 image: images/dog-dental-chew.jpg
+---
+
 # 5 Best Dental Chews for Dogs | For Pets With Love
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 ## Introduction

@@ -3,14 +3,11 @@ title: "How to Stop Cat From Scratching Furniture: Complete Guide"
 description: "Stop your cat from destroying furniture with proven solutions. Learn about scratching posts, deterrents, positive reinforcement, and understanding cat scratching behavior."
 date: 2025-03-23T08:00:00Z
 author: "For Pets With Love"
----
-
 tags: ["cat scratching", "furniture protection", "cat behavior", "cat training", "scratching posts"]
 categories: ["Cat Behavior", "Cat Care"]
 image: images/cat-scratching-furniture.jpg
-image: images/smartcat-scratching-post.jpg
-image: images/sticky-paws-strips.jpg
-image: images/feliway-diffuser.jpg
+---
+
 ---
 
 ## Common mistakes to avoid

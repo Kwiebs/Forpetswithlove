@@ -2,10 +2,10 @@
 title: "The Benefits of Playing with Your Pet: Why Spending Time with Your Furry Friend is Important"
 description: "Playing with your pet isn't just fun—it's also beneficial for both you and your furry friend. Discover the many benefits of playing with your pet in this informative article."
 date: 2025-06-04
+author: "For Pets With Love"
 image: images/playing-cat.jpg
 categories: ["Cat Care"]
 tags: ["pets", "playtime", "health", "bonding"]
-author: "For Pets With Love"
 ---
 
 # Introduction:

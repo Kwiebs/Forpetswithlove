@@ -3,11 +3,11 @@ title: "Best Automatic Dog Feeders (2026)"
 description: "Comprehensive guide to top-rated automatic dog feeders. Compare 7 reliable options for consistent feeding schedules and portion control."
 date: 2026-03-21
 author: "For Pets With Love"
----
-
 tags: ["automatic dog feeders", "dog feeding", "dog care"]
 categories: ["Dog Care", "Pet Products"]
 image: images/dog_toys.jpg
+---
+
 ---
 
 ## Final Thoughts

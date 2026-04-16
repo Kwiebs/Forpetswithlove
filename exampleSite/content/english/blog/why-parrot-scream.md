@@ -2,11 +2,11 @@
 title: "Why Does My Parrot Scream: Causes and Solutions"
 description: "Understand why parrots scream excessively. Learn about communication, boredom, anxiety, and environmental causes of parrot vocalization with effective management strategies."
 author: "For Pets With Love"
----
-
 tags: ["parrot screaming", "parrot behavior", "parrot vocalization", "parrot care", "pet bird"]
 categories: ["Bird Behavior"]
 image: images/parrot-screaming.jpg
+---
+
 ---
 
 ### 📚 Free eBook: Complete Pet Care Guide

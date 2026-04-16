@@ -3,11 +3,11 @@ title: "Puppy's First Night Home: Complete Survival Guide"
 description: "Prepare for your puppy's first night. Tips for sleeping through the night, managing whining, and creating a safe space."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["new puppy", "puppy first night", "puppy sleep", "puppy adjustment"]
 categories: ["Puppy Care"]
 image: images/puppy-first-night.jpg
+---
+
 # Puppy's First Night Home
 The first night sets the tone. Here's how to make it easier for everyone.
 ## Before Bedtime

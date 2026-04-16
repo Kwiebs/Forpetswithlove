@@ -3,11 +3,11 @@ title: "Best Dog Toothpaste: Why Brushing Matters and How to Start"
 description: "Your dog's dental health affects their whole body. Learn how to brush, what toothpaste to use, and make it enjoyable."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["dog dental care", "dog toothpaste", "dog teeth brushing", "dog oral health"]
 categories: ["Dog Health", "Dog Care"]
 image: images/dog-toothpaste.jpg
+---
+
 # Dog Toothpaste and Brushing Guide
 80% of dogs have periodontal disease by age 3. Start brushing today.
 ## Why Dog Toothpaste is Special

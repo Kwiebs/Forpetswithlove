@@ -3,11 +3,11 @@ title: "Dog Nutrition: Complete Guide to Feeding Your Dog"
 description: "From puppies to seniors, dogs have changing nutritional needs. Learn what to feed, how much, and how often."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["dog nutrition", "dog food", "dog feeding guide", "puppy nutrition"]
 categories: ["Dog Health", "Nutrition"]
 image: images/dog-nutrition.jpg
+---
+
 # Dog Nutrition Guide
 Good nutrition is the foundation of your dog's health.
 ## Life Stage Nutrition

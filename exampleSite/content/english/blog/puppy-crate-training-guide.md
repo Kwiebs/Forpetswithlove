@@ -3,11 +3,11 @@ title: "Puppy Crate Training: The Complete Beginner's Guide"
 description: "Everything you need to know about crate training your puppy. Create a positive experience that helps with housetraining and provides a safe space."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["puppy training", "crate training", "housetraining", "puppy care"]
 categories: ["Dog Training", "Puppy Care"]
 image: images/crate-training.jpg
+---
+
 # Puppy Crate Training Guide
 Crate training done right creates a safe haven for your puppy, not a prison.
 ## Benefits of Crate Training

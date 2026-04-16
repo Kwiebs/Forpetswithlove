@@ -3,11 +3,11 @@ title: "How Often Should Cats See the Vet? Complete Wellness Guide"
 description: "Regular vet visits catch problems early. Learn recommended checkup schedules, what to expect, and how to reduce vet stress."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["cat vet visits", "cat wellness exam", "feline health", "vet checkups"]
 categories: ["Cat Health"]
 image: images/cat-vet.jpg
+---
+
 # Cat Veterinary Checkup Guide
 Cats hide illness exceptionally well. Regular vet visits are crucial.
 ## Recommended Schedule

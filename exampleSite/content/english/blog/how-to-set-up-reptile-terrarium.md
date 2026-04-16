@@ -2,11 +2,11 @@
 title: "How to Set Up a Reptile Terrarium: Complete Setup Guide"
 description: "Create the perfect reptile habitat with our complete terrarium setup guide. Learn about heating, lighting, substrate, humidity, and species-specific requirements."
 author: "For Pets With Love"
----
-
 tags: ["reptile terrarium", "reptile habitat", "terrarium setup", "reptile care", "reptile heating"]
 categories: ["Reptile Care"]
 image: images/reptile-terrarium-setup.jpg
+---
+
 ---
 
 ### 📚 Free eBook: Complete Pet Care Guide

@@ -3,11 +3,11 @@ title: "How to Trim Cat Nails: Stress-Free Guide"
 description: "Regular nail trims protect your furniture and your cat's health. Learn how to trim without the drama."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["cat nail trim", "cat grooming", "cat claws", "cat care"]
 categories: ["Cat Care", "Cat Grooming"]
 image: images/cat-nails.jpg
+---
+
 # Cat Nail Trimming Guide
 Nail trims every 2-3 weeks keeps claws healthy and reduces damage.
 ## Why Trim Nails?

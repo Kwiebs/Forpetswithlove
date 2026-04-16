@@ -3,11 +3,11 @@ title: "Emergency Warning Signs: When Your Pet Needs Vet Care Now"
 description: "Don't wait when your pet shows these symptoms. Complete guide to pet emergencies that require immediate veterinary attention."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["pet emergency", "vet care", "pet health", "animal first aid"]
 categories: ["Pet Health"]
 image: images/vet-care.jpg
+---
+
 # Emergency Warning Signs in Pets
 Knowing when to rush your pet to the vet can save their life.
 ## Absolute Emergencies (See Vet Immediately)

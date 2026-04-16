@@ -1,11 +1,11 @@
 ---
 title: The Pros and Cons of Adopting a Rescue Pet
 description: Are you considering adopting a rescue pet? Read on to learn about the advantages and disadvantages of rescuing a furry friend.
+date: 2026-03-23
+author: "For Pets With Love"
 image: images/rescue-pet.jpg
 tags: rescue pet, adoption, pet ownership
 categories: ["Pet Care"]
-date: 2026-03-23
-author: "For Pets With Love"
 ---
 
 # Introduction

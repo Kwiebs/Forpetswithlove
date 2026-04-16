@@ -1,11 +1,11 @@
 ---
 title: When Can You Bathe Your Puppy?
 description:   Are you wondering when to give your puppy its first bath? This article provides a step-by-step guide on when to bathe your puppy, including essential tips to ensure your pup's safety and comfort.
+date: 2026-03-23
+author: "For Pets With Love"
 image: images/puppy_bath.jpg
 categories: ["Dog Care"]
 tags: puppy care, grooming, bathing, pet health, dog breeds, puppy training
-date: 2026-03-23
-author: "For Pets With Love"
 ---
 
 Puppies are adorable, and taking care of them is a rewarding experience. However, new pet owners often have questions about the right time to bathe their furry friends. While you want your puppy to stay clean and fresh, giving them a bath too soon can be harmful to their health. In this article, we will answer the question, "When can you bathe your [puppy](https://forpetswithlove.com/5-must-have-supplies-for-your-new-puppy-a-complete-checklist/)?" and provide a step-by-step guide to help you make the right decision.

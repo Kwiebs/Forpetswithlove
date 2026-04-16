@@ -1,11 +1,11 @@
 ---
 title: "Best Flea and Tick Prevention for Dogs (2026)"
 author: "For Pets With Love"
----
-
 tags: ["flea prevention", "tick prevention", "dog health"]
 categories: ["Dog Health", "Parasite Prevention"]
 image: images/Dog-tick.jpg
+---
+
 ---
 
 ## Final Thoughts

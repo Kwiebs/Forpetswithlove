@@ -2,11 +2,11 @@
 title: "How to Introduce a New Cat to a Multi-Cat Household | For Pets With Love"
 description: "Bringing a new cat home? Learn the best tips for introducing a new cat to a multi-cat household and ensure a peaceful transition."
 author: "For Pets With Love"
----
-
 tags: ["introduce new cat", "multi-cat household", "cat introduction tips"]
 categories: ["Cat Care"]
 image: images/new-cat-multi-cat.jpg
+---
+
 # How to Introduce a New Cat to a Multi-Cat Household | For Pets With Love
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 ## Introduction

@@ -2,10 +2,10 @@
 title: 7 Safe and Fun Chew Toys for Your Teething Kitten
 description:   Keep your teething kitten happy and healthy with these 7 safe and fun chew toys. Our list includes a variety of textures and materials to satisfy your kitten's natural urge to chew.
 date: 2025-01-01
+author: "For Pets With Love"
 image: images/cat-chew.jpg
 categories: ["Cat Care"]
 tags: pet toys, kitten toys, cat chew toys, teething toys, safe cat toys, fun cat toys, KONG, Hartz, Petstages, Nylabone, SmartyKat, Yeowww!
-author: "For Pets With Love"
 ---
 
 Teething can be a difficult time for kittens and their owners. As their baby teeth fall out and permanent teeth come in, kittens can experience discomfort, pain, and an increased urge to chew. Providing your kitten with safe and appropriate chew toys can help alleviate these issues and prevent destructive chewing behavior. In this article, we'll share our top 7 safe and fun chew toys for your teething kitten.

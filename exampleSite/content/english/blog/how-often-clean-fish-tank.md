@@ -3,11 +3,11 @@ title: "How Often Should I Clean My Fish Tank: Complete Guide"
 description: "Discover fish tank cleaning frequency. Learn about partial water changes, gravel cleaning, and routine maintenance tasks for healthy aquarium."
 date: 2025-03-23
 author: "For Pets With Love"
----
-
 tags: ["pet care", "pet health", "how-often-clean-fish-tank"]
 categories: ["Pet Care"]
 image: images/how-often-clean-fish-tank.jpg
+---
+
 ---
 
 ### 📚 Free eBook: Complete Pet Care Guide

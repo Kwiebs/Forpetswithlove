@@ -2,11 +2,11 @@
 title: "Best Cat Food Gravy for Seniors (2026)"
 description: "Comprehensive guide to top-rated gravy-based cat foods for seniors. Compare 7 palatable options for older cats with dental or appetite issues."
 author: "For Pets With Love"
----
-
 tags: ["senior cat food", "cat food gravy", "senior cat care"]
 categories: ["Cat Health", "Senior Care", "Nutrition"]
 image: images/cat_food.jpg
+---
+
 ---
 
 ## Final Thoughts

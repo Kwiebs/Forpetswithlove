@@ -3,11 +3,11 @@ title: "How to Introduce a New Cat to Your Home: 7-Day Plan"
 description: "Follow our proven 7-day cat introduction method. Reduce stress for both cats with slow, controlled introductions."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["cat introduction", "multi-cat household", "cat behavior", "new cat"]
 categories: ["Cat Behavior"]
 image: images/cat-intro.jpg
+---
+
 # How to Introduce a New Cat to Your Home
 Proper introduction prevents behavioral problems and builds lasting feline friendships.
 ## The 7-Day Plan

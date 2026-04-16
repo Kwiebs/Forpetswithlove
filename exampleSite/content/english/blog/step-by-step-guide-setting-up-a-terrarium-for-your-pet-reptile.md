@@ -1,11 +1,11 @@
 ---
 title: "Step-by-Step Guide - Setting Up a Terrarium for Your Pet Reptile"
 description: Learn how to create the perfect terrarium for your pet reptile with this comprehensive step-by-step guide. From selecting the right enclosure to providing the ideal temperature, lighting, and nutrition, we've got you covered!
+date: 2026-03-23
+author: "For Pets With Love"
 image: images/terrarium-reptile-pets.jpg
 tags: reptiles, terrarium, pet care, reptile habitats, pet reptiles
 categories: ["Reptile Care"]
-date: 2026-03-23
-author: "For Pets With Love"
 ---
 
 **Internal Links:**

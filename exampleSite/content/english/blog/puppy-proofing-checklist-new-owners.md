@@ -3,11 +3,11 @@ title: "New Puppy Checklist: Everything You Need Before Bringing Puppy Home"
 description: "Prepare for your new puppy with our comprehensive shopping list. From bedding to training supplies, get set up for success."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["new puppy", "puppy checklist", "puppy supplies", "puppy ownership"]
 categories: ["Puppy Care", "Dog Care"]
 image: images/puppy-checklist.jpg
+---
+
 # New Puppy Checklist: Everything You Need
 Don't wait until bring-home day to realize you're missing essential supplies.
 ## Essential Supplies

@@ -2,10 +2,10 @@
 title: A Beginner's Guide to Raising Fish as Pets
 description: A Beginner's Guide to Raising Fish as Pets
 date: 2025-06-01
+author: "For Pets With Love"
 image: images/fish_tank.jpg
 tags: A Beginner's Guide to Raising Fish as Pets, Fishkeeping, Pet Fish, Raising Fish, Fish Care, Fish Tank, Cleaning Fish Tank, Feeding Fish, Fish Health, Fish Diseases, Fish Illness, Aquarium Salt, Fish Medicine, Fish Feeding Guide
 categories: ["Fish Care"]
-author: "For Pets With Love"
 ---
 
 Raising fish as pets has become increasingly popular over the years. Not only do fish make for a beautiful addition to your home, but they are also low-maintenance and can help create a peaceful atmosphere. If you're new to the world of fishkeeping, it can seem a little overwhelming at first. However, with the right guidance, raising fish can be an enjoyable and rewarding experience. In this beginner's guide, we'll cover everything you need to know about raising fish as pets.

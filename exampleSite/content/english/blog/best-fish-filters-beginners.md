@@ -2,11 +2,11 @@
 title: "Best Fish Filters for Beginners (2026)"
 description: "Comprehensive guide to top-rated fish filters for new aquarium owners. Compare 7 easy-to-use options for clean, healthy aquarium water."
 author: "For Pets With Love"
----
-
 tags: ["aquarium filters", "fish care", "beginner aquarium"]
 categories: ["Fish Care", "Equipment"]
 image: images/fish_tank.jpg
+---
+
 ---
 
 ## Final Thoughts

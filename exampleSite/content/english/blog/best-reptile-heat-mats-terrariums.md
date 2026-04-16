@@ -2,11 +2,11 @@
 title: "Best Reptile Heat Mats for Terrariums (2026)"
 description: "Comprehensive guide to top-rated reptile heating mats. Compare 7 reliable, safe options to maintain proper temperature in your terrarium."
 author: "For Pets With Love"
----
-
 tags: ["reptile heating", "heat mats", "terrarium supplies"]
 categories: ["Reptile Care", "Equipment"]
 image: images/reptile-pets.jpg
+---
+
 ---
 
 ## Final Thoughts

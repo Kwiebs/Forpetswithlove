@@ -2,11 +2,11 @@
 title: "What Is Cat Spraying Behavior? Complete Guide for Cat Owners"
 description: "Learn what cat spraying is, what causes this territorial behavior, how to distinguish spraying from inappropriate urination, and practical solutions to stop or prevent spraying."
 author: "For Pets With Love"
----
-
 tags: ["cat spraying", "cat behavior", "cat marking", "cat problems"]
 categories: ["Cat", "Educational"]
 image: images/glossary-cat-spraying-behavior.jpg
+---
+
 ---
 
 **Solve cat spraying problems with expert guidance**

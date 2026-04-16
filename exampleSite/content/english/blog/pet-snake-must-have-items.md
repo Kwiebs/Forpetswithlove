@@ -1,11 +1,11 @@
 ---
 title: Essential Items for Keeping a Pet Snake
 description: Discover the essential items you need to keep your pet snake happy and healthy. From habitat to food and accessories, we cover everything you need to know.
+date: 2026-04-11
+author: "For Pets With Love"
 image: images/snake-pet.jpg
 tags: pet snake, snake habitat, snake food, snake accessories
 categories: ["Reptile Care"]
-date: 2026-04-11
-author: "For Pets With Love"
 ---
 
 # Essential Items for Keeping a Pet Snake

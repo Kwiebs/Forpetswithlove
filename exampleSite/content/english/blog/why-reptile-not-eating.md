@@ -2,11 +2,11 @@
 title: "Why Is My Reptile Not Eating? Anorexia Causes and Treatment"
 description: "Discover why your reptile isn't eating and learn solutions. Common causes include temperature issues, illness, stress, and shedding. Get treatment advice for appetite loss."
 author: "For Pets With Love"
----
-
 tags: ["reptile not eating", "reptile appetite loss", "reptile health", "reptile care", "pet reptile"]
 categories: ["Reptile Health"]
 image: images/reptile-not-eating.jpg
+---
+
 ---
 
 ### 📚 Free eBook: Complete Pet Care Guide

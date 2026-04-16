@@ -1,11 +1,11 @@
 ---
 title: Choosing the Right Frog Species as a Pet - A Comprehensive Overview
 description: Explore the world of pet frogs and discover the perfect species for your home. This comprehensive guide covers everything you need to know about choosing the right frog as a pet. From habitat requirements to feeding habits and more, we've got you covered!
+date: 2026-04-09
+author: "For Pets With Love"
 image: images/frog.jpg
 tags: pet frogs, choosing the right frog, frog species, pet care, frog habitats
 categories: ["Amphibian Care"]
-date: 2026-04-09
-author: "For Pets With Love"
 ---
 
 > Are you ready to hop into the world of pet frogs? These fascinating creatures make unique and captivating companions, but it's essential to choose the right frog species that suits your lifestyle and preferences. In this comprehensive overview, we'll dive into the enchanting world of pet frogs, exploring various species, their care requirements, and more. Whether you're a beginner or an experienced reptile enthusiast, this guide will help you make an informed decision and create a suitable environment for your new froggy friend.

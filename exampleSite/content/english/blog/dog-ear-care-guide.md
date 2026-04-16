@@ -3,11 +3,11 @@ title: "Dog Ear Care: Preventing and Treating Ear Infections"
 description: "Ear infections are painful and common. Learn how to clean ears properly, spot early signs, and prevent chronic problems."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["dog ear infection", "dog ear care", "dog ear cleaning", "dog health"]
 categories: ["Dog Health", "Dog Care"]
 image: images/dog-ears.jpg
+---
+
 # Dog Ear Care Guide
 Ear infections are one of the top reasons for vet visits. Here's how to prevent them.
 ## Anatomy Matters

@@ -1,11 +1,11 @@
 ---
 title: The Fascinating World of Snapping Turtles
 description: Snapping turtles are fascinating creatures that have been around for millions of years. In this guide, we'll explore the world of snapping turtles, including their habitat, diet, behavior, and more.
+date: 2026-03-23
+author: "For Pets With Love"
 image: images/snapping-turtle.jpg
 tags: snapping turtle, reptiles, turtle care, turtle habitat
 categories: ["Reptile Care"]
-date: 2026-03-23
-author: "For Pets With Love"
 ---
 
 Snapping turtles are fascinating creatures that have been around for millions of years. These prehistoric-looking reptiles are known for their powerful jaws and aggressive behavior, but there's much more to them than meets the eye. In this guide, we'll explore the world of snapping turtles, including their habitat, diet, behavior, and more.

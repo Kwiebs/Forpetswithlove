@@ -2,10 +2,10 @@
 title: 6 Essential Grooming Tools for Dogs with Long Hair
 description: Keep your dog's long hair looking healthy and tangle-free with these 6 essential grooming tools. From brushes to shampoos, we've got you covered.
 date: 2025-01-01
+author: "For Pets With Love"
 image: images/dog_hair.jpg
 categories: ["Dog Care"]
 tags: dogs, grooming, long hair, brushes, shampoos, clippers, pet care
-author: "For Pets With Love"
 ---
 
 If you're the proud owner of a dog with long hair, then you know how much time and effort it takes to keep them looking their best. Regular grooming is essential to keep your furry friend's coat healthy and shiny. With the right tools, you can make this process a breeze.

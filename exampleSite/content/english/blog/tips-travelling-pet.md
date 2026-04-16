@@ -1,11 +1,11 @@
 ---
 title: Tips for Traveling with Your Pet
 description: Get ready for an unforgettable adventure with your furry friend! Discover expert tips and advice to ensure a stress-free and enjoyable travel experience for both you and your beloved pet. From pre-trip preparations to essential supplies and safety measures, this guide has everything you need to make your journey pawsome. Embark on a journey of a lifetime with these invaluable tips for traveling with your pet.
+date: 2026-03-23
+author: "For Pets With Love"
 image: images/travel-dog.jpg
 categories: ["Dog Care"]
 tags: pet travel, traveling with pets, pet safety, pet comfort, pet essentials
-date: 2026-03-23
-author: "For Pets With Love"
 ---
 
 > Get ready for a pawsome adventure! Discover invaluable tips and tricks for a smooth and enjoyable travel experience with your furry friend. From preparing for the trip to packing essentials and ensuring your pet's safety and comfort, we've got you covered. Learn how to make traveling with your pet a tail-wagging success!

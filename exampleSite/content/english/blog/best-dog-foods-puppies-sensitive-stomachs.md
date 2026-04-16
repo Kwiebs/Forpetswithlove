@@ -2,11 +2,11 @@
 title: "Best Dog Foods for Puppies with Sensitive Stomachs (2026)"
 description: "Comprehensive guide to top-rated dog foods for puppies with sensitive stomachs. Compare 7 vet-recommended options with detailed reviews."
 author: "For Pets With Love"
----
-
 tags: ["puppy food", "sensitive stomach", "dog nutrition"]
 categories: ["Dog Health", "Nutrition"]
 image: images/puppy.jpg
+---
+
 ---
 
 ## Final Thoughts

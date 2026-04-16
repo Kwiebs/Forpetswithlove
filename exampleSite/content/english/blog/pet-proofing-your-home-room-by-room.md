@@ -3,11 +3,11 @@ title: "Pet-Proof Your Home Room-by-Room: Complete Safety Guide"
 description: "Keep your pets safe with this comprehensive room-by-room hazard guide. Identify and eliminate dangers before accidents happen."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["pet safety", "home pet-proofing", "pet hazards", "pet-proofing"]
 categories: ["Pet Care", "Pet Safety"]
 image: images/pet-proof.jpg
+---
+
 # Pet-Proof Your Home Room-by-Room
 Pets explore with their mouths and paws. Make your home safe before bringing any new pet home.
 ## Kitchen Hazards

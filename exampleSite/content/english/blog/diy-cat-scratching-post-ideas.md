@@ -3,14 +3,11 @@ title: "DIY Cat Scratching Post: 5 Easy Projects That Save Money"
 description: "Create your own cat scratching post with these 5 easy DIY projects. Save money while protecting your furniture with these creative homemade solutions."
 date: 2025-05-27T08:00:00Z
 author: "For Pets With Love"
----
-
 tags: ["diy cat scratching post", "homemade cat furniture", "cat scratching solutions", "cat crafts", "budget cat furniture"]
 categories: ["Cat Behavior", "Cat Care", "DIY Projects"]
 image: images/diy-cat-scratching-post.jpg
-image: images/sisal-rope.jpg
-image: images/wood-glue.jpg
-image: images/corrugated-cardboard.jpg
+---
+
 ---
 
 # DIY Cat Scratching Post: 5 Easy Projects That Save Money

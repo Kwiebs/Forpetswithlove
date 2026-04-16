@@ -3,11 +3,11 @@ title: "Senior Cat Care: Comprehensive Guide for Older Cats"
 description: "Your senior cat has different needs. Learn about nutrition, health monitoring, and quality of life for cats 11 years and older."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["senior cat", "older cat care", "cat aging", "senior cat health"]
 categories: ["Cat Health", "Cat Care"]
 image: images/senior-cat.jpg
+---
+
 # Senior Cat Care Guide
 Cats are considered seniors around age 11. Here's how to give them their best life.
 ## Signs of Aging

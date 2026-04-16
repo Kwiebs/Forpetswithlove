@@ -3,11 +3,11 @@ title: "Best Cat Breeds for Allergy Sufferers: Hypoallergenic Cats"
 description: "Thinking about getting a cat but have allergies? These cat breeds produce fewer allergens and may work for sensitive owners."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["hypoallergenic cat", "cat breeds", "cat allergies", "allergy-friendly cats"]
 categories: ["Cat Care"]
 image: images/hypoallergenic-cat.jpg
+---
+
 # Best Cat Breeds for Allergy Sufferers
 While no cat is truly 100% hypoallergenic, some breeds produce fewer allergens than others.
 ## Understanding Cat Allergies

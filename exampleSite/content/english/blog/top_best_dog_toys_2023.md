@@ -1,11 +1,11 @@
 ---
 title: Top 10 Best Toys for Dogs in 2023 - The Ultimate Guide for Pet Owners
 description: Want to keep your furry friend entertained? Here's a list of the top 10 best toys for dogs in 2023 to keep your pooch entertained and engaged.
-image: images/dog_toys.jpg
 permalink : /top_best_dog_toys_2023/
-categories: ["Dog Care"]
 date: 2026-04-11
 author: "For Pets With Love"
+image: images/dog_toys.jpg
+categories: ["Dog Care"]
 ---
 
 Dogs are man's best friend, and they deserve the best in life. Whether you have a new puppy or an adult dog, providing them with toys is an essential way to keep them happy, healthy, and entertained. With the ever-increasing number of toys available in the market, it can be challenging to choose the right one for your furry friend. In this article, we will be discussing the top 10 best toys for dogs in 2023, which are not only fun but also provide a range of benefits for your pet.

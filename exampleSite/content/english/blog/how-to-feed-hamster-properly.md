@@ -2,11 +2,11 @@
 title: "How to Feed a Hamster Properly: Complete Nutrition Guide"
 description: "Learn the proper hamster diet and feeding schedule. Discover safe foods, portion sizes, treat guidelines, and what to avoid for optimal hamster health."
 author: "For Pets With Love"
----
-
 tags: ["hamster diet", "hamster feeding", "hamster nutrition", "small pet care", "hamster food"]
 categories: ["Small Pet Care"]
 image: images/hamster-feeding.jpg
+---
+
 ---
 
 ### 📚 Free eBook: Complete Pet Care Guide

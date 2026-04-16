@@ -1,11 +1,11 @@
 ---
 title: The Pros and Cons of Owning a Reptile - Is a Slithery Friend Right for You?
 description: If you're considering getting a pet reptile, it's important to weigh the pros and cons. From low-maintenance care to unique companionship, reptiles offer many benefits, but they also require special attention and can pose health risks. Read on to discover if a slithery friend is the right fit for you.
+date: 2026-03-23
+author: "For Pets With Love"
 image: images/turtles.jpg
 tags: reptiles, pets, exotic pets, pet ownership, animal care
 categories: ["Reptile Care"]
-date: 2026-03-23
-author: "For Pets With Love"
 ---
 
 Are you tired of the traditional cat or dog as a pet? Looking for a unique and exotic companion? A reptile may be the answer. Reptiles, including snakes, lizards, and turtles, can make fascinating pets, but there are both pros and cons to consider before bringing one into your home.

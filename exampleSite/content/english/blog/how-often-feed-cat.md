@@ -2,11 +2,11 @@
 title: "How Often Should I Feed My Cat"
 description: "Learn the optimal cat feeding schedule. Discover how many times to feed cats daily, appropriate portion sizes, and feeding guidelines for kittens and adults."
 author: "For Pets With Love"
----
-
 tags: ["pet care", "pet health", "how-often-feed-cat"]
 categories: ["Pet Care"]
 image: images/how-often-feed-cat.jpg
+---
+
 ---
 
 ### 📚 Free eBook: Complete Pet Care Guide

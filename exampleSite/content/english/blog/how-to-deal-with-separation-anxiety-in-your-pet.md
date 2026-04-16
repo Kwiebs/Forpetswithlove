@@ -1,10 +1,10 @@
 ---
 title: How to Help Your Pet Cope with Separation Anxiety
 description: Is your pet struggling with separation anxiety? Learn effective techniques and strategies to help them feel more comfortable and secure when you're not around.
+author: "For Pets With Love"
 image: images/dog_anxiety.jpg
 tags: pet care, separation anxiety, pet behavior, anxiety, pets
 categories: ["Pet Behavior"]
-author: "For Pets With Love"
 ---
 
 Do you come home to find your furry friend has chewed up your favorite shoes or destroyed your furniture? If so, it's possible that they're suffering from separation anxiety. Just like humans, pets can struggle with being away from their loved ones, and it can cause them a lot of distress.

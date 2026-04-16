@@ -2,11 +2,11 @@
 title: "Best Scratching Posts for Large Cats (2026)"
 description: "Comprehensive guide to top-rated scratching posts for large and big-breed cats. Compare 7 sturdy, stable options to protect your furniture."
 author: "For Pets With Love"
----
-
 tags: ["cat scratching posts", "large cats", "cat furniture"]
 categories: ["Cat Care", "Furniture"]
 image: images/cat-scratching-post.jpg
+---
+
 ---
 
 ## Final Thoughts

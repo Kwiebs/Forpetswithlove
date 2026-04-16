@@ -2,11 +2,11 @@
 title: "Creating a Safe Space for Your New Cat | For Pets With Love"
 description: "Learn how to create a safe space for your new cat to help them adjust to their new home and reduce stress during the transition."
 author: "For Pets With Love"
----
-
 tags: ["new cat safe space", "cat adoption tips", "reduce cat stress"]
 categories: ["Cat Care"]
 image: images/new-cat-safe-space.jpg
+---
+
 # Creating a Safe Space for Your New Cat | For Pets With Love
 *Disclosure: As an Amazon Associate, ForPetsWithLove earns from qualifying purchases. We only recommend products we trust.*
 ## Introduction

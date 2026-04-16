@@ -1,11 +1,11 @@
 ---
 title: The Top 5 Freeze-Dried Dog Treats for Your Pup's Delight
 description: Looking for a healthy and delicious treat for your furry friend? Check out our guide to the top 5 freeze-dried dog treats available on Amazon.
+date: 2026-04-11
+author: "For Pets With Love"
 image: images/dog_treat.jpg
 categories: ["Dog Care"]
 tags: freeze-dried, dog treats, healthy snacks, Amazon
-date: 2026-04-11
-author: "For Pets With Love"
 ---
 
 <h1>The Top 5 Freeze-Dried Dog Treats for Your Pup's Delight</h1>

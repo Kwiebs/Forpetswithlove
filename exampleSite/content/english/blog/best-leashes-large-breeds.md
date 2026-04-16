@@ -2,11 +2,11 @@
 title: "Best Leashes for Large Breeds (2026)"
 description: "Comprehensive guide to top-rated leashes for large and giant breed dogs. Compare 7 durable, comfortable options for big dog owners."
 author: "For Pets With Love"
----
-
 tags: ["large breed leashes", "dog leashes", "large dog care"]
 categories: ["Dog Care", "Large Breeds"]
 image: images/dog-walking.jpg
+---
+
 ---
 
 ## Final Thoughts

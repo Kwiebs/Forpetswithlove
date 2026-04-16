@@ -2,11 +2,11 @@
 title: "Best Dog Toothbrushes (2026)"
 description: "Comprehensive guide to top-rated dog toothbrushes for canine dental care. Compare 7 vet-recommended options to keep your dog's teeth clean and healthy."
 author: "For Pets With Love"
----
-
 tags: ["dog dental care", "dog toothbrushes", "dog health"]
 categories: ["Dog Health", "Grooming"]
 image: images/dog-dental.jpg
+---
+
 ---
 
 ## Final Thoughts

@@ -2,11 +2,11 @@
 title: "What Is Feline Leukemia? Complete Guide for Cat Owners"
 description: "Learn what feline leukemia virus (FeLV) is, how it affects cats, transmission risks, testing, prevention, and when to see your veterinarian."
 author: "For Pets With Love"
----
-
 tags: ["feline leukemia", "cat health", "cat diseases", "veterinary care"]
 categories: ["Cat", "Educational"]
 image: images/glossary-feline-leukemia.jpg
+---
+
 ---
 
 **Help ensure your cat's lifelong health with comprehensive care guidance**

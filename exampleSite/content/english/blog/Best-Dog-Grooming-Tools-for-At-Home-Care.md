@@ -2,11 +2,11 @@
 title: "The Best Dog Grooming Tools for At-Home Care"
 description: "Want to groom your dog at home like a pro? Discover the best grooming tools to keep your pet clean, healthy, and happy between salon visits!"
 author: "For Pets With Love"
----
-
 tags: ["dog grooming", "dog care", "pet hygiene"]
 categories: ["Dog Care"]
 image: images/dog-grooming-tools.jpg
+---
+
 # The Best Dog Grooming Tools for At-Home Care
 Grooming your dog at home doesn’t have to be overwhelming. With the right tools, you can keep your furry friend clean, tangle-free, and healthy between professional grooming sessions. Plus, grooming is a great way to bond with your pet and monitor their health closely.
 In this article, we’ll walk you through the essential grooming tools every dog owner should have, how to use them, and when. Let's get grooming!

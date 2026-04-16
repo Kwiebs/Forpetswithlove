@@ -3,11 +3,11 @@ title: "Leash Training: Walk Nicely on a Leash"
 description: "Stop pulling, lunging, and leash aggression. Complete guide to teaching your dog loose-leash walking."
 date: 2026-04-11
 author: "For Pets With Love"
----
-
 tags: ["leash training", "loose leash walking", "dog walking", "dog training"]
 categories: ["Dog Training"]
 image: images/leash-training.jpg
+---
+
 # Leash Training Guide
 Loose-leash walking is one of the most valuable skills you can teach.
 ## Why Loose-Leash Matters
