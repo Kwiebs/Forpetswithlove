@@ -1,0 +1,2 @@
+# Redirect old blog URLs to new root-level URLs
+/blog/:slug /:slug 301
