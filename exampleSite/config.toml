@@ -3,7 +3,7 @@ disableLanguages = ["fr"]
 googleAnalytics = "G-GW45MT4LE0"
 summarylength = "20"
 theme = "modern-theme"
-title = "For Pets With Love! Everything you want for your pet's needs."
+title = "For Pets With Love | Expert Pet Care Tips, Reviews & Guides for Cats, Dogs & More"
 
 
 # Add outputs for proper sitemap generation (updated) 
@@ -64,7 +64,7 @@ weight = 1
   author = "|Kweebs"
   contact_form_action = "#"
   currency = "$"
-  description = "Welcome to ForPetsWithLove.com, your one-stop shop for all things pet-related! We are a passionate team of pet lovers who are dedicated to providing you with the best products and services for your furry friends."
+  description = "Get expert pet care advice, honest product reviews, and proven training tips. Your trusted source for happier, healthier cats, dogs, birds, and small pets."
   logo = "images/logo.png"
   logo_width = "200px"
   search = true
