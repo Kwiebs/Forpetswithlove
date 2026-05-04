@@ -1,0 +1,5 @@
+#!/bin/sh
+# Pre-push hook: Run Hugo blog post audit before pushing
+echo "🔍 Running pre-push audit..."
+python3 pre_push_audit.py
+exit $?
