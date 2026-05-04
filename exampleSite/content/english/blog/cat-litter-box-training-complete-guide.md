@@ -1,5 +1,5 @@
 ---
-title: Cat Litter Box Training: Complete Guide for Kittens and Cats
+title: "Cat Litter Box Training: Complete Guide for Kittens and Cats"
 description: Learn how to litter box train kittens and cats effectively. Solve litter box problems, choose the right litter, and maintain a clean litter box for a happy cat.
 datepublished: 2026-04-24
 dateModified: 2026-04-24

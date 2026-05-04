@@ -1,5 +1,5 @@
 ---
-title: Persian Cat Eye Care: Preventing Tear Stains
+title: "Persian Cat Eye Care: Preventing Tear Stains"
 date: 2026-01-11
 category: Cat Breeds
 tags: [persian cats, eye care, tear stains, cat grooming]

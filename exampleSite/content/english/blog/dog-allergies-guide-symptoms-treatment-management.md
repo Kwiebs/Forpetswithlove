@@ -1,5 +1,5 @@
 ---
-title: Dog Allergies Guide: Symptoms, Treatment, and Management
+title: "Dog Allergies Guide: Symptoms, Treatment, and Management"
 description: Complete guide to dog allergies. Learn about allergy symptoms, treatment options, prevention strategies, and how to help your allergic dog live comfortably.
 datepublished: 2026-04-22
 dateModified: 2026-04-22

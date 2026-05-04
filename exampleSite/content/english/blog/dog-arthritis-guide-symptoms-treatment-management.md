@@ -1,5 +1,5 @@
 ---
-title: Dog Arthritis Guide: Symptoms, Treatment, and Management
+title: "Dog Arthritis Guide: Symptoms, Treatment, and Management"
 description: Complete guide to dog arthritis. Learn about arthritis symptoms, treatment options, natural remedies, pain management, and how to improve your dog's quality of life.
 datepublished: 2026-04-22
 dateModified: 2026-04-22

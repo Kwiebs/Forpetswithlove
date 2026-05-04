@@ -1,5 +1,5 @@
 ---
-title: Best Dog Food 2026: Complete Comparison and Buying Guide
+title: "Best Dog Food 2026: Complete Comparison and Buying Guide"
 description: Complete guide to the best dog food in 2026. Compare dry vs wet food, top brands, nutritional requirements, and find the perfect food for your dog.
 datepublished: 2026-04-24
 dateModified: 2026-04-24

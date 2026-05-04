@@ -1,5 +1,5 @@
 ---
-title: Best Cat Food 2026: Complete Comparison and Buying Guide
+title: "Best Cat Food 2026: Complete Comparison and Buying Guide"
 description: Complete guide to the best cat food in 2026. Compare wet vs dry food, top brands, nutritional requirements, and find the perfect food for your cat.
 datepublished: 2026-04-22
 dateModified: 2026-04-22

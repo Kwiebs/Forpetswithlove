@@ -1,5 +1,5 @@
 ---
-title: Best Pet Insurance 2026: Complete Comparison and Buying Guide
+title: "Best Pet Insurance 2026: Complete Comparison and Buying Guide"
 description: Complete guide to the best pet insurance in 2026. Compare coverage, prices, and find the perfect pet insurance plan for your dog or cat.
 datepublished: 2026-04-22
 dateModified: 2026-04-22

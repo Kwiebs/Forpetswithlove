@@ -1,5 +1,5 @@
 ---
-title: French Bulldog Complete Guide: Care, Health, and Training
+title: "French Bulldog Complete Guide: Care, Health, and Training"
 description: Complete guide to French Bulldog care. Learn about Frenchie health issues, training tips, grooming needs, nutrition, and how to keep your French Bulldog happy and healthy.
 datepublished: 2026-04-22
 dateModified: 2026-04-22

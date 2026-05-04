@@ -1,5 +1,5 @@
 ---
-title: Siamese Cat Behavior: Understanding Vocal Cats
+title: "Siamese Cat Behavior: Understanding Vocal Cats"
 date: 2026-01-13
 category: Cat Behavior
 tags: [siamese, cat behavior, vocal cats, cat breeds]

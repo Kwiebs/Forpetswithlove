@@ -1,5 +1,5 @@
 ---
-title: Puppy Training Guide: Essential Tips for New Puppy Owners
+title: "Puppy Training Guide: Essential Tips for New Puppy Owners"
 description: Complete guide to puppy training. Learn about house training, crate training, basic commands, socialization, and how to raise a well-behaved puppy.
 datepublished: 2026-04-22
 dateModified: 2026-04-22

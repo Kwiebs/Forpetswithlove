@@ -1,5 +1,5 @@
 ---
-title: Siberian Husky Complete Guide: Care, Training, and Health
+title: "Siberian Husky Complete Guide: Care, Training, and Health"
 description: Complete guide to Siberian Husky care. Learn about Husky temperament, training tips, health issues, nutrition, and how to keep your Husky happy and healthy.
 datepublished: 2026-04-22
 dateModified: 2026-04-22

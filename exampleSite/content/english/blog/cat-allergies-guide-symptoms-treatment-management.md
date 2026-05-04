@@ -1,5 +1,5 @@
 ---
-title: Cat Allergies Guide: Symptoms, Treatment, and Management
+title: "Cat Allergies Guide: Symptoms, Treatment, and Management"
 description: Complete guide to cat allergies. Learn about allergy symptoms, treatment options, prevention strategies, and how to help your allergic cat live comfortably.
 datepublished: 2026-04-22
 dateModified: 2026-04-22

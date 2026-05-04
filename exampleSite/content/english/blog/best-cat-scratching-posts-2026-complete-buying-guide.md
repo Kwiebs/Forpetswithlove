@@ -1,5 +1,5 @@
 ---
-title: Best Cat Scratching Posts 2026: Complete Buying Guide
+title: "Best Cat Scratching Posts 2026: Complete Buying Guide"
 description: Discover the best cat scratching posts of 2026. Compare different types, materials, and features to find the perfect scratching solution for your cat.
 datepublished: 2026-04-24
 dateModified: 2026-04-24

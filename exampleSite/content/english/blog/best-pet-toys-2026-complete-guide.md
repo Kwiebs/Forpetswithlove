@@ -1,5 +1,5 @@
 ---
-title: Best Pet Toys 2026: Complete Guide to Enrichment and Fun
+title: "Best Pet Toys 2026: Complete Guide to Enrichment and Fun"
 description: Discover the best pet toys of 2026 for dogs and cats. Learn about different types of toys, enrichment benefits, and how to choose safe, engaging toys for your pets.
 datepublished: 2026-04-24
 dateModified: 2026-04-24

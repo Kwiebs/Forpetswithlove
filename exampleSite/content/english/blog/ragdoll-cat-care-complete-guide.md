@@ -1,5 +1,5 @@
 ---
-title: Ragdoll Cat Care: Complete Guide for New Owners
+title: "Ragdoll Cat Care: Complete Guide for New Owners"
 date: 2026-01-12
 category: Cat Care
 tags: [ragdoll, cat care, new owners, cat breeds]

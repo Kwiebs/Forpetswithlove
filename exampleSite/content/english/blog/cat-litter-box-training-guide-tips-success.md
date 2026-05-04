@@ -1,5 +1,5 @@
 ---
-title: Cat Litter Box Training Guide: Tips for Success
+title: "Cat Litter Box Training Guide: Tips for Success"
 description: Complete guide to cat litter box training. Learn how to litter train kittens, solve litter box problems, choose the right litter, and maintain good litter box habits.
 datepublished: 2026-04-22
 dateModified: 2026-04-22

@@ -1,5 +1,5 @@
 ---
-title: Best Dog Crates 2026: Complete Buying Guide and Reviews
+title: "Best Dog Crates 2026: Complete Buying Guide and Reviews"
 description: Complete guide to the best dog crates in 2026. Learn about crate types, sizes, materials, and find the perfect crate for your dog's needs.
 datepublished: 2026-04-22
 dateModified: 2026-04-22

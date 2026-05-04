@@ -1,5 +1,5 @@
 ---
-title: Cat Dental Care Guide: Brushing Teeth and Oral Health
+title: "Cat Dental Care Guide: Brushing Teeth and Oral Health"
 description: Complete guide to cat dental care. Learn how to brush your cat's teeth, prevent dental disease, recognize oral health problems, and maintain your cat's oral hygiene.
 datepublished: 2026-04-22
 dateModified: 2026-04-22

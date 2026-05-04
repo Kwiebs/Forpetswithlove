@@ -1,5 +1,5 @@
 ---
-title: Maine Coon Grooming: Managing That Thick Coat
+title: "Maine Coon Grooming: Managing That Thick Coat"
 date: 2026-01-09
 category: Cat Grooming
 tags: [maine coon, grooming, cat care, cat breeds]

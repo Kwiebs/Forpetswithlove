@@ -1,5 +1,5 @@
 ---
-title: Ragdoll Cat Complete Guide: Care, Personality, and Health
+title: "Ragdoll Cat Complete Guide: Care, Personality, and Health"
 description: Complete guide to Ragdoll cat care. Learn about Ragdoll personality, grooming needs, health issues, nutrition, and how to keep your Ragdoll cat happy and healthy.
 datepublished: 2026-04-22
 dateModified: 2026-04-22

@@ -1,5 +1,5 @@
 ---
-title: Pet First Aid Guide: Essential Skills Every Pet Owner Should Know
+title: "Pet First Aid Guide: Essential Skills Every Pet Owner Should Know"
 description: Complete guide to pet first aid. Learn essential first aid skills, emergency preparedness, CPR, and how to handle common pet emergencies.
 datepublished: 2026-04-22
 dateModified: 2026-04-22

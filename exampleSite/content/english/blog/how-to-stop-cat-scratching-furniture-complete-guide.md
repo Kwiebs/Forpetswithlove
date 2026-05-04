@@ -1,5 +1,5 @@
 ---
-title: How to Stop Cat Scratching Furniture: Complete Guide
+title: "How to Stop Cat Scratching Furniture: Complete Guide"
 description: Learn how to stop cats from scratching furniture with proven methods. Understand why cats scratch, provide alternatives, and protect your home while keeping your cat happy.
 datepublished: 2026-04-24
 dateModified: 2026-04-24

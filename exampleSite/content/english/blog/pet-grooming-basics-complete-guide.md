@@ -1,5 +1,5 @@
 ---
-title: Pet Grooming Basics: Complete Guide for Dogs and Cats
+title: "Pet Grooming Basics: Complete Guide for Dogs and Cats"
 description: Learn essential pet grooming basics for dogs and cats. Discover grooming tools, techniques, schedules, and tips to keep your pet clean, healthy, and comfortable.
 datepublished: 2026-04-24
 dateModified: 2026-04-24

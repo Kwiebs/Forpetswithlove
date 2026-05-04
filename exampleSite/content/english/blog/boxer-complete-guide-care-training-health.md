@@ -1,5 +1,5 @@
 ---
-title: Boxer Complete Guide: Care, Training, and Health
+title: "Boxer Complete Guide: Care, Training, and Health"
 description: Complete guide to Boxer care. Learn about Boxer temperament, training tips, health issues, nutrition, and how to keep your Boxer happy and healthy.
 datepublished: 2026-04-22
 dateModified: 2026-04-22
