@@ -21,6 +21,7 @@ faq:
     answer: "No, cats should not eat dog food regularly. Cats are obligate carnivores with different nutritional requirements than dogs. Dog food lacks adequate taurine, arachidonic acid, and other nutrients essential for cats. Occasional small amounts won't cause immediate harm, but long-term feeding of dog food can lead to serious nutritional deficiencies and health problems. Always feed cat-specific food formulated for feline nutritional needs."
   - question: "How do I transition my cat to new food?"
     answer: "Transition gradually over 7-10 days to avoid digestive upset. Start with 25% new food mixed with 75% old food for 2-3 days, then 50/50 for 2-3 days, then 75% new/25% old for 2-3 days, and finally 100% new food. Monitor for digestive issues during transition. If problems occur, slow the transition. Some cats may need longer transition periods. Patience is key for successful food changes."
+---
 
 Choosing the right cat food is one of the most important decisions you'll make for your feline companion's health and well-being. With countless options available, from premium brands to budget-friendly choices, finding the best food for your cat can be overwhelming. This comprehensive guide covers everything you need to know about cat nutrition, comparing different types of food, and helping you make informed decisions about your cat's diet.
 
