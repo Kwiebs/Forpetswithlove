@@ -9,17 +9,17 @@ categories: ["Dog Breeds", "Dog Care", "Dog Health"]
 tags: french bulldog, frenchie, bulldog care, dog health, dog training
 toc: true
 faq:
-  - question: "Are French Bulldogs good family dogs?",
+  - question: "Are French Bulldogs good family dogs?""
     answer: "French Bulldogs make excellent family dogs! They're affectionate, playful, and generally good with children. Their moderate energy level makes them suitable for various households. However, they can be stubborn during training and may not tolerate rough play. Always supervise interactions between dogs and young children. Frenchies thrive on companionship and don't like being left alone for long periods."
-  - question: "How long do French Bulldogs live?",
+  - question: "How long do French Bulldogs live?""
     answer: "French Bulldogs typically live 10-12 years, though some can reach 14 years with excellent care. Their lifespan is influenced by genetics, health management, and quality of life. Responsible breeding, proper nutrition, regular veterinary care, and maintaining a healthy weight can help maximize your Frenchie's lifespan. Be aware that brachycephalic breeds may face more health challenges that affect longevity."
-  - question: "Do French Bulldogs have breathing problems?",
+  - question: "Do French Bulldogs have breathing problems?""
     answer: "Yes, French Bulldogs are brachycephalic (flat-faced) dogs and commonly experience breathing difficulties. Their shortened airways can cause snoring, snorting, and exercise intolerance. Severe cases may require surgical intervention. Avoid overheating, excessive exercise, and stressful situations. Use harnesses instead of collars to prevent pressure on their throat. Regular veterinary monitoring of respiratory health is essential."
-  - question: "How much exercise does a French Bulldog need?",
+  - question: "How much exercise does a French Bulldog need?""
     answer: "French Bulldogs need moderate exercise - about 30-60 minutes daily, split into shorter sessions. They're not built for intense exercise or long-distance running. Short walks, gentle play sessions, and indoor activities are ideal. Avoid exercise in hot or humid weather due to their breathing difficulties. Mental stimulation is just as important as physical exercise for this intelligent breed."
-  - question: "Are French Bulldogs hard to train?",
+  - question: "Are French Bulldogs hard to train?""
     answer: "French Bulldogs can be challenging to train due to their stubborn nature, but they're also eager to please. Positive reinforcement methods work best - use treats, praise, and consistency. Keep training sessions short and engaging. Early socialization and puppy training classes are highly recommended. Patience and consistency are key - harsh methods will cause your Frenchie to shut down."
-  - question: "What health problems are common in French Bulldogs?",
+  - question: "What health problems are common in French Bulldogs?""
     answer: "Common health issues include breathing problems (brachycephalic syndrome), skin allergies, hip dysplasia, eye problems, and spinal disorders. They're also prone to obesity, which worsens other health issues. Regular veterinary care, maintaining healthy weight, and choosing a responsible breeder who health tests parents can help minimize these risks. Pet insurance is often recommended for this breed."
 ---
 

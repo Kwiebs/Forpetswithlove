@@ -9,17 +9,17 @@ categories: ["Dog Training", "Puppy Care", "Dog Care"]
 tags: puppy training, puppy care, dog training, house training, puppy socialization
 toc: true
 faq:
-  - question: "When should I start training my puppy?",
-    answer: "Start training immediately! Puppies can begin learning basic behaviors as early as 8 weeks old. Early training establishes good habits and prevents bad ones from forming. While formal training classes typically start around 12-16 weeks after vaccinations, you can begin house training, crate training, and basic manners right away. The earlier you start, the easier training will be.",
-  - question: "How long does it take to house train a puppy?",
-    answer: "House training typically takes 4-6 months with consistent training, though some puppies learn faster and others take longer. Factors include breed, individual temperament, and consistency of training. Puppies can usually hold their bladder for their age in months plus one - a 3-month-old puppy can typically hold it for about 4 hours. Consistency, patience, and positive reinforcement are key to successful house training.",
-  - question: "What are the most important commands to teach a puppy?",
-    answer: "The most essential commands are: sit, stay, come, down, and leave it. These commands form the foundation for good behavior and safety. 'Sit' teaches impulse control, 'stay' prevents dangerous situations, 'come' is crucial for safety, 'down' promotes calm behavior, and 'leave it' prevents eating dangerous items. Master these basics before moving to more advanced training.",
-  - question: "How do I stop my puppy from biting?",
-    answer: "Puppy biting is normal but needs to be managed. When your puppy bites too hard, yelp like a hurt puppy and stop play immediately. This teaches bite inhibition. Redirect biting to appropriate chew toys. Provide plenty of exercise and mental stimulation to reduce biting from boredom. Never use physical punishment - it can make biting worse. Consistency is essential - everyone in the household must use the same approach.",
-  - question: "How much exercise does a puppy need?",
-    answer: "Puppy exercise needs vary by breed and age, but a good rule is 5 minutes of exercise per month of age, twice daily. A 3-month-old puppy needs about 15 minutes of exercise, twice a day. Avoid forced exercise like long walks or jogging until growth plates close (around 12-18 months). Focus on short, frequent play sessions and mental stimulation. Too much exercise can damage developing joints.",
-  - question: "Should I crate train my puppy?",
+  - question: "When should I start training my puppy?""
+    answer: "Start training immediately! Puppies can begin learning basic behaviors as early as 8 weeks old. Early training establishes good habits and prevents bad ones from forming. While formal training classes typically start around 12-16 weeks after vaccinations, you can begin house training, crate training, and basic manners right away. The earlier you start, the easier training will be.""
+  - question: "How long does it take to house train a puppy?""
+    answer: "House training typically takes 4-6 months with consistent training, though some puppies learn faster and others take longer. Factors include breed, individual temperament, and consistency of training. Puppies can usually hold their bladder for their age in months plus one - a 3-month-old puppy can typically hold it for about 4 hours. Consistency, patience, and positive reinforcement are key to successful house training.""
+  - question: "What are the most important commands to teach a puppy?""
+    answer: "The most essential commands are: sit, stay, come, down, and leave it. These commands form the foundation for good behavior and safety. 'Sit' teaches impulse control, 'stay' prevents dangerous situations, 'come' is crucial for safety, 'down' promotes calm behavior, and 'leave it' prevents eating dangerous items. Master these basics before moving to more advanced training.""
+  - question: "How do I stop my puppy from biting?""
+    answer: "Puppy biting is normal but needs to be managed. When your puppy bites too hard, yelp like a hurt puppy and stop play immediately. This teaches bite inhibition. Redirect biting to appropriate chew toys. Provide plenty of exercise and mental stimulation to reduce biting from boredom. Never use physical punishment - it can make biting worse. Consistency is essential - everyone in the household must use the same approach.""
+  - question: "How much exercise does a puppy need?""
+    answer: "Puppy exercise needs vary by breed and age, but a good rule is 5 minutes of exercise per month of age, twice daily. A 3-month-old puppy needs about 15 minutes of exercise, twice a day. Avoid forced exercise like long walks or jogging until growth plates close (around 12-18 months). Focus on short, frequent play sessions and mental stimulation. Too much exercise can damage developing joints.""
+  - question: "Should I crate train my puppy?""
     answer: "Yes, crate training is highly recommended for puppies. Crates provide a safe space, help with house training, and prevent destructive behavior when you can't supervise. When properly introduced, most puppies come to love their crates. Use the crate for sleeping, meals, and short confinement periods. Never use the crate for punishment or leave puppies in too long. A crate is an invaluable tool for raising a well-behaved puppy."
 ---
 

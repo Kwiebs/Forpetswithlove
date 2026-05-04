@@ -9,17 +9,17 @@ categories: ["Cat Training", "Cat Care", "Cat Behavior"]
 tags: cat litter box training, kitten litter training, cat litter box problems, cat care, cat behavior
 toc: true
 faq:
-  - question: "How long does it take to litter box train a kitten?",
-    answer: "Most kittens learn to use a litter box within 2-4 weeks with consistent training. Some kittens learn as quickly as a few days, while others may take up to 6 weeks. The key is consistency, patience, and positive reinforcement. Start training as soon as you bring your kitten home, ideally at 8 weeks old or younger.",
-  - question: "Why is my cat not using the litter box?",
-    answer: "Cats may avoid the litter box for several reasons: medical issues (urinary tract infections, kidney problems), dirty litter box, wrong type of litter, box location issues, stress or anxiety, or negative associations. Always rule out medical problems first by consulting your veterinarian, then address behavioral and environmental factors.",
-  - question: "How many litter boxes do I need for multiple cats?",
-    answer: "The general rule is one litter box per cat, plus one extra. For example, if you have 2 cats, you need 3 litter boxes. This prevents competition, reduces stress, and ensures there's always a clean box available. Place boxes in different locations throughout your home to give cats options.",
-  - question: "What type of litter is best for cats?",
-    answer: "Most cats prefer fine-grained, unscented clumping clay litter. It feels similar to sand and allows cats to dig and bury naturally. Avoid heavily scented litters as cats dislike strong fragrances. Some cats prefer natural alternatives like pine, paper, or wheat litter. Experiment to find what your cat prefers.",
-  - question: "How often should I clean the litter box?",
-    answer: "Scoop solid waste and clumped urine daily - ideally twice daily for multiple cats. Completely change the litter and clean the box with mild soap and water every 2-4 weeks. More frequent cleaning may be needed for multiple cats or if using non-clumping litter. Regular cleaning prevents odor and encourages consistent use.",
-  - question: "Where should I place the litter box?",
+  - question: "How long does it take to litter box train a kitten?""
+    answer: "Most kittens learn to use a litter box within 2-4 weeks with consistent training. Some kittens learn as quickly as a few days, while others may take up to 6 weeks. The key is consistency, patience, and positive reinforcement. Start training as soon as you bring your kitten home, ideally at 8 weeks old or younger.""
+  - question: "Why is my cat not using the litter box?""
+    answer: "Cats may avoid the litter box for several reasons: medical issues (urinary tract infections, kidney problems), dirty litter box, wrong type of litter, box location issues, stress or anxiety, or negative associations. Always rule out medical problems first by consulting your veterinarian, then address behavioral and environmental factors.""
+  - question: "How many litter boxes do I need for multiple cats?""
+    answer: "The general rule is one litter box per cat, plus one extra. For example, if you have 2 cats, you need 3 litter boxes. This prevents competition, reduces stress, and ensures there's always a clean box available. Place boxes in different locations throughout your home to give cats options.""
+  - question: "What type of litter is best for cats?""
+    answer: "Most cats prefer fine-grained, unscented clumping clay litter. It feels similar to sand and allows cats to dig and bury naturally. Avoid heavily scented litters as cats dislike strong fragrances. Some cats prefer natural alternatives like pine, paper, or wheat litter. Experiment to find what your cat prefers.""
+  - question: "How often should I clean the litter box?""
+    answer: "Scoop solid waste and clumped urine daily - ideally twice daily for multiple cats. Completely change the litter and clean the box with mild soap and water every 2-4 weeks. More frequent cleaning may be needed for multiple cats or if using non-clumping litter. Regular cleaning prevents odor and encourages consistent use.""
+  - question: "Where should I place the litter box?""
     answer: "Place litter boxes in quiet, low-traffic areas where your cat feels safe and private. Avoid high-traffic areas, near appliances that make noise, or close to food and water bowls. Have at least one box on each level of multi-story homes. Ensure locations are easily accessible 24/7."
 ---
 

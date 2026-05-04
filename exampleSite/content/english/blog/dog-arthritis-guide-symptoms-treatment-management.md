@@ -9,17 +9,17 @@ categories: ["Dog Health", "Dog Care", "Pet Health"]
 tags: dog arthritis, dog joint pain, dog mobility, dog health, senior dog care
 toc: true
 faq:
-  - question: "What are the first signs of arthritis in dogs?",
-    answer: "Early signs of arthritis include stiffness after rest, reluctance to jump or climb stairs, decreased activity, limping, and changes in gait. You might notice your dog taking longer to get up, being less enthusiastic about walks, or having difficulty with previously easy activities. Some dogs become irritable or lick at painful joints. Early detection is crucial for effective management - don't dismiss these signs as normal aging.",
-  - question: "Can arthritis in dogs be cured?",
-    answer: "Arthritis cannot be cured, but it can be effectively managed to improve quality of life. Treatment focuses on reducing pain, inflammation, and maintaining mobility. With proper management, many dogs with arthritis live comfortable, active lives. Early intervention and consistent treatment are key to slowing progression and maintaining function. Work closely with your veterinarian to develop a comprehensive management plan.",
-  - question: "What can I give my dog for arthritis pain?",
-    answer: "Never give human medications without veterinary approval - many human pain relievers are toxic to dogs. Your veterinarian may prescribe NSAIDs specifically formulated for dogs, joint supplements, or other pain medications. Natural options like omega-3 fatty acids, turmeric, and CBD (where legal) may help. Always consult your veterinarian before starting any treatment, as proper dosage and monitoring are essential for safety.",
-  - question: "How can I help my dog with arthritis at home?",
-    answer: "Home management includes providing soft, supportive bedding, maintaining healthy weight, gentle exercise, and environmental modifications. Use ramps instead of stairs, provide non-slip surfaces, and keep nails trimmed. Gentle massage and heat therapy can provide comfort. Maintain a consistent routine and monitor for changes in condition. Small adjustments to daily life can significantly improve comfort and mobility.",
-  - question: "What foods help dogs with arthritis?",
-    answer: "Anti-inflammatory foods can help manage arthritis. Omega-3 rich foods like fish oil, foods containing turmeric, and those with natural anti-inflammatory properties may be beneficial. Some dogs benefit from joint-supporting diets formulated for mobility. Avoid foods that promote inflammation like excessive grains or processed foods. Consult your veterinarian about dietary changes and supplements that may help your individual dog.",
-  - question: "When should I euthanize a dog with arthritis?",
+  - question: "What are the first signs of arthritis in dogs?""
+    answer: "Early signs of arthritis include stiffness after rest, reluctance to jump or climb stairs, decreased activity, limping, and changes in gait. You might notice your dog taking longer to get up, being less enthusiastic about walks, or having difficulty with previously easy activities. Some dogs become irritable or lick at painful joints. Early detection is crucial for effective management - don't dismiss these signs as normal aging.""
+  - question: "Can arthritis in dogs be cured?""
+    answer: "Arthritis cannot be cured, but it can be effectively managed to improve quality of life. Treatment focuses on reducing pain, inflammation, and maintaining mobility. With proper management, many dogs with arthritis live comfortable, active lives. Early intervention and consistent treatment are key to slowing progression and maintaining function. Work closely with your veterinarian to develop a comprehensive management plan.""
+  - question: "What can I give my dog for arthritis pain?""
+    answer: "Never give human medications without veterinary approval - many human pain relievers are toxic to dogs. Your veterinarian may prescribe NSAIDs specifically formulated for dogs, joint supplements, or other pain medications. Natural options like omega-3 fatty acids, turmeric, and CBD (where legal) may help. Always consult your veterinarian before starting any treatment, as proper dosage and monitoring are essential for safety.""
+  - question: "How can I help my dog with arthritis at home?""
+    answer: "Home management includes providing soft, supportive bedding, maintaining healthy weight, gentle exercise, and environmental modifications. Use ramps instead of stairs, provide non-slip surfaces, and keep nails trimmed. Gentle massage and heat therapy can provide comfort. Maintain a consistent routine and monitor for changes in condition. Small adjustments to daily life can significantly improve comfort and mobility.""
+  - question: "What foods help dogs with arthritis?""
+    answer: "Anti-inflammatory foods can help manage arthritis. Omega-3 rich foods like fish oil, foods containing turmeric, and those with natural anti-inflammatory properties may be beneficial. Some dogs benefit from joint-supporting diets formulated for mobility. Avoid foods that promote inflammation like excessive grains or processed foods. Consult your veterinarian about dietary changes and supplements that may help your individual dog.""
+  - question: "When should I euthanize a dog with arthritis?""
     answer: "This is a deeply personal decision made in consultation with your veterinarian. Consider quality of life indicators: is your dog eating well, able to move around, enjoying interaction, and free from unmanageable pain? When good days outnumber bad days, and pain can't be controlled despite treatment, it may be time to discuss end-of-life options. Focus on your dog's comfort and dignity rather than extending life at all costs."
 ---
 

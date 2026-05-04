@@ -9,17 +9,17 @@ categories: ["Cat Products", "Cat Care", "Cat Nutrition"]
 tags: best cat food, cat food comparison, cat nutrition, wet cat food, dry cat food
 toc: true
 faq:
-  - question: "Is wet or dry cat food better?",
-    answer: "Both wet and dry cat food have advantages. Wet food provides hydration, higher protein content, and is often more palatable. Dry food is convenient, helps with dental health, and is more economical. Many veterinarians recommend a mixed diet - wet food for hydration and nutrition, dry food for convenience and dental benefits. The best choice depends on your cat's preferences, health needs, and your budget.",
-  - question: "How much should I feed my cat?",
-    answer: "Feeding amounts vary based on your cat's weight, age, activity level, and food type. Generally, adult cats need 20-30 calories per pound of body weight daily. Follow feeding guidelines on food packaging as a starting point, then adjust based on your cat's body condition. Monitor weight regularly and adjust portions accordingly. Consult your veterinarian for personalized feeding recommendations.",
-  - question: "What ingredients should I avoid in cat food?",
-    answer: "Avoid cat foods with unnamed meat by-products, excessive fillers (corn, wheat, soy as main ingredients), artificial colors, flavors, and preservatives, and vague ingredient descriptions like 'meat meal' without specifying the source. Look for foods with named protein sources (chicken, salmon, etc.) as first ingredients, whole foods, and minimal artificial additives. Quality ingredients support better health and nutrition.",
-  - question: "How often should I feed my cat?",
-    answer: "Adult cats typically do well with 2-3 meals daily. Kittens need 4-6 small meals until about 6 months old. Consistent meal times help with digestion and prevent begging. Free-feeding (leaving food out all day) can lead to overeating and obesity. Some cats prefer grazing, while others do better with scheduled meals. Find what works for your cat and stick to a consistent routine.",
-  - question: "Can cats eat dog food?",
-    answer: "No, cats should not eat dog food regularly. Cats are obligate carnivores with different nutritional requirements than dogs. Dog food lacks adequate taurine, arachidonic acid, and other nutrients essential for cats. Occasional small amounts won't cause immediate harm, but long-term feeding of dog food can lead to serious nutritional deficiencies and health problems. Always feed cat-specific food formulated for feline nutritional needs.",
-  - question: "How do I transition my cat to new food?",
+  - question: "Is wet or dry cat food better?"
+    answer: "Both wet and dry cat food have advantages. Wet food provides hydration, higher protein content, and is often more palatable. Dry food is convenient, helps with dental health, and is more economical. Many veterinarians recommend a mixed diet - wet food for hydration and nutrition, dry food for convenience and dental benefits. The best choice depends on your cat's preferences, health needs, and your budget."
+  - question: "How much should I feed my cat?"
+    answer: "Feeding amounts vary based on your cat's weight, age, activity level, and food type. Generally, adult cats need 20-30 calories per pound of body weight daily. Follow feeding guidelines on food packaging as a starting point, then adjust based on your cat's body condition. Monitor weight regularly and adjust portions accordingly. Consult your veterinarian for personalized feeding recommendations."
+  - question: "What ingredients should I avoid in cat food?""
+    answer: "Avoid cat foods with unnamed meat by-products, excessive fillers (corn, wheat, soy as main ingredients), artificial colors, flavors, and preservatives, and vague ingredient descriptions like 'meat meal' without specifying the source. Look for foods with named protein sources (chicken, salmon, etc.) as first ingredients, whole foods, and minimal artificial additives. Quality ingredients support better health and nutrition.""
+  - question: "How often should I feed my cat?""
+    answer: "Adult cats typically do well with 2-3 meals daily. Kittens need 4-6 small meals until about 6 months old. Consistent meal times help with digestion and prevent begging. Free-feeding (leaving food out all day) can lead to overeating and obesity. Some cats prefer grazing, while others do better with scheduled meals. Find what works for your cat and stick to a consistent routine.""
+  - question: "Can cats eat dog food?""
+    answer: "No, cats should not eat dog food regularly. Cats are obligate carnivores with different nutritional requirements than dogs. Dog food lacks adequate taurine, arachidonic acid, and other nutrients essential for cats. Occasional small amounts won't cause immediate harm, but long-term feeding of dog food can lead to serious nutritional deficiencies and health problems. Always feed cat-specific food formulated for feline nutritional needs.""
+  - question: "How do I transition my cat to new food?""
     answer: "Transition gradually over 7-10 days to avoid digestive upset. Start with 25% new food mixed with 75% old food for 2-3 days, then 50/50 for 2-3 days, then 75% new/25% old for 2-3 days, and finally 100% new food. Monitor for digestive issues during transition. If problems occur, slow the transition. Some cats may need longer transition periods. Patience is key for successful food changes."
 ---
 

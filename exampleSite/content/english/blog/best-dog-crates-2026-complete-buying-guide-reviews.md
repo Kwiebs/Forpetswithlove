@@ -9,17 +9,17 @@ categories: ["Dog Products", "Dog Care", "Pet Supplies"]
 tags: best dog crates, dog crate reviews, crate training, dog supplies, pet products
 toc: true
 faq:
-  - question: "What size crate does my dog need?",
-    answer: "Your dog's crate should be large enough for them to stand up, turn around, and lie down comfortably, but not so large that they can use one end as a bathroom. Measure your dog from nose to tail base and add 4-6 inches for length. For height, measure from floor to top of head when standing. Puppies need crates with dividers to adjust size as they grow. When in doubt, choose slightly larger rather than too small.",
-  - question: "Are wire crates better than plastic crates?",
-    answer: "Both wire and plastic crates have advantages. Wire crates offer better ventilation and visibility, are often collapsible for storage, and many dogs prefer the openness. Plastic crates provide more privacy and security, are better for travel, and are often easier to clean. Wire crates are generally better for home use, while plastic crates excel for travel and anxious dogs who prefer enclosed spaces.",
-  - question: "How long can a dog stay in a crate?",
-    answer: "Adult dogs can typically stay in a crate for up to 8 hours maximum, but this should be occasional, not daily. Puppies need much more frequent breaks - every 2-4 hours depending on age. No dog should be crated for extended periods regularly. Crates are for temporary confinement, not long-term housing. Ensure dogs get adequate exercise, socialization, and time outside the crate.",
-  - question: "Should I put a bed in the dog crate?",
-    answer: "Yes, a comfortable bed makes the crate more inviting and comfortable. Choose a bed that fits the crate properly and is machine washable. For puppies, use absorbent bedding or puppy pads until they're reliably house trained. Some dogs may destroy beds initially - start with inexpensive bedding until your dog is crate trained. Avoid beds with loose stuffing that could be dangerous if ingested.",
-  - question: "Do dogs like being in crates?",
-    answer: "When properly introduced and used, most dogs come to love their crates and see them as safe, comfortable spaces. Dogs are den animals by nature and appreciate having their own secure space. However, crates should never be used for punishment or confinement for extended periods. With positive association and proper use, crates become comfortable retreats that dogs choose to use voluntarily.",
-  - question: "What's the difference between a crate and a carrier?",
+  - question: "What size crate does my dog need?""
+    answer: "Your dog's crate should be large enough for them to stand up, turn around, and lie down comfortably, but not so large that they can use one end as a bathroom. Measure your dog from nose to tail base and add 4-6 inches for length. For height, measure from floor to top of head when standing. Puppies need crates with dividers to adjust size as they grow. When in doubt, choose slightly larger rather than too small.""
+  - question: "Are wire crates better than plastic crates?""
+    answer: "Both wire and plastic crates have advantages. Wire crates offer better ventilation and visibility, are often collapsible for storage, and many dogs prefer the openness. Plastic crates provide more privacy and security, are better for travel, and are often easier to clean. Wire crates are generally better for home use, while plastic crates excel for travel and anxious dogs who prefer enclosed spaces.""
+  - question: "How long can a dog stay in a crate?""
+    answer: "Adult dogs can typically stay in a crate for up to 8 hours maximum, but this should be occasional, not daily. Puppies need much more frequent breaks - every 2-4 hours depending on age. No dog should be crated for extended periods regularly. Crates are for temporary confinement, not long-term housing. Ensure dogs get adequate exercise, socialization, and time outside the crate.""
+  - question: "Should I put a bed in the dog crate?""
+    answer: "Yes, a comfortable bed makes the crate more inviting and comfortable. Choose a bed that fits the crate properly and is machine washable. For puppies, use absorbent bedding or puppy pads until they're reliably house trained. Some dogs may destroy beds initially - start with inexpensive bedding until your dog is crate trained. Avoid beds with loose stuffing that could be dangerous if ingested.""
+  - question: "Do dogs like being in crates?""
+    answer: "When properly introduced and used, most dogs come to love their crates and see them as safe, comfortable spaces. Dogs are den animals by nature and appreciate having their own secure space. However, crates should never be used for punishment or confinement for extended periods. With positive association and proper use, crates become comfortable retreats that dogs choose to use voluntarily.""
+  - question: "What's the difference between a crate and a carrier?""
     answer: "Crates are typically larger, heavier, and designed for home use or training. They're often wire or heavy-duty plastic. Carriers are smaller, lighter, and designed for transport. They're usually soft-sided or hard plastic with ventilation holes. While some carriers can be used as crates for small dogs, crates are generally too large and heavy for travel. Choose based on primary use - home/training vs. transport."
 ---
 

@@ -9,17 +9,17 @@ categories: ["Pet Products", "Pet Care", "Pet Health"]
 tags: best pet insurance, pet insurance comparison, pet insurance reviews, dog insurance, cat insurance
 toc: true
 faq:
-  - question: "Is pet insurance worth it?",
-    answer: "Pet insurance can be worth it for many pet owners, especially those who want financial protection against unexpected veterinary costs. It's most valuable when purchased young before pre-existing conditions develop. Consider your pet's breed risks, your financial situation, and risk tolerance. For many, the peace of mind and ability to afford necessary care without financial stress makes pet insurance worthwhile.",
-  - question: "What does pet insurance cover?",
-    answer: "Pet insurance typically covers accidents and illnesses, including diagnostics, treatments, surgeries, medications, and hospitalization. Some plans cover wellness care, dental, behavioral issues, and alternative therapies. Coverage varies by provider and plan level. Pre-existing conditions are never covered. Most policies have annual or lifetime limits, deductibles, and co-pays that affect coverage.",
-  - question: "How much does pet insurance cost?",
-    answer: "Pet insurance costs vary based on factors like pet species, breed, age, location, and coverage level. Dog insurance typically costs $30-60 monthly, while cat insurance costs $15-40 monthly. Premiums increase as pets age. Higher coverage levels and lower deductibles cost more. Get quotes from multiple providers to compare costs for your specific situation.",
-  - question: "Can I get pet insurance for older pets?",
-    answer: "Yes, you can get pet insurance for older pets, but coverage may be limited and premiums higher. Some providers have age limits for new enrollments (often 10-14 years). Older pets may have exclusions for age-related conditions. While more expensive, insurance can still be valuable for seniors who are more likely to need veterinary care. Consider your pet's health status when deciding.",
-  - question: "What are pre-existing conditions in pet insurance?",
-    answer: "Pre-existing conditions are health issues that existed before the insurance policy's effective date or during waiting periods. These are never covered by pet insurance. Some conditions considered curable may be covered after a waiting period if the pet has been symptom-free for a specified time. Always disclose your pet's full medical history when applying to avoid coverage denials.",
-  - question: "How do pet insurance deductibles work?",
+  - question: "Is pet insurance worth it?""
+    answer: "Pet insurance can be worth it for many pet owners, especially those who want financial protection against unexpected veterinary costs. It's most valuable when purchased young before pre-existing conditions develop. Consider your pet's breed risks, your financial situation, and risk tolerance. For many, the peace of mind and ability to afford necessary care without financial stress makes pet insurance worthwhile.""
+  - question: "What does pet insurance cover?""
+    answer: "Pet insurance typically covers accidents and illnesses, including diagnostics, treatments, surgeries, medications, and hospitalization. Some plans cover wellness care, dental, behavioral issues, and alternative therapies. Coverage varies by provider and plan level. Pre-existing conditions are never covered. Most policies have annual or lifetime limits, deductibles, and co-pays that affect coverage.""
+  - question: "How much does pet insurance cost?""
+    answer: "Pet insurance costs vary based on factors like pet species, breed, age, location, and coverage level. Dog insurance typically costs $30-60 monthly, while cat insurance costs $15-40 monthly. Premiums increase as pets age. Higher coverage levels and lower deductibles cost more. Get quotes from multiple providers to compare costs for your specific situation.""
+  - question: "Can I get pet insurance for older pets?""
+    answer: "Yes, you can get pet insurance for older pets, but coverage may be limited and premiums higher. Some providers have age limits for new enrollments (often 10-14 years). Older pets may have exclusions for age-related conditions. While more expensive, insurance can still be valuable for seniors who are more likely to need veterinary care. Consider your pet's health status when deciding.""
+  - question: "What are pre-existing conditions in pet insurance?""
+    answer: "Pre-existing conditions are health issues that existed before the insurance policy's effective date or during waiting periods. These are never covered by pet insurance. Some conditions considered curable may be covered after a waiting period if the pet has been symptom-free for a specified time. Always disclose your pet's full medical history when applying to avoid coverage denials.""
+  - question: "How do pet insurance deductibles work?""
     answer: "Pet insurance deductibles work differently than human insurance. You choose an annual deductible amount ($100-$1,000 typically) that you must pay before the insurance starts covering costs. Once you meet the deductible for the year, the insurance pays a percentage (usually 70-90%) of covered expenses. Some plans have per-incident deductibles instead of annual. Lower deductibles mean higher premiums."
 ---
 

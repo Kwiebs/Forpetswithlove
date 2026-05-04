@@ -9,17 +9,17 @@ categories: ["Cat Behavior", "Cat Training", "Cat Care"]
 tags: cat scratching, cat behavior, cat training, furniture protection, cat scratching posts
 toc: true
 faq:
-  - question: "Why do cats scratch furniture?",
-    answer: "Cats scratch for several natural reasons: to mark territory with scent glands in their paws, to remove dead outer nail sheaths, to stretch their muscles, and to relieve stress. It's a normal, instinctive behavior that can't be eliminated entirely. The goal is to redirect scratching to appropriate surfaces rather than stop the behavior itself.",
-  - question: "Do declawing cats stop scratching?",
-    answer: "Declawing is not recommended and is illegal in many countries. It's a major surgery that removes the last bone of each toe, causing pain and potential long-term complications. Declawed cats may develop behavioral problems like biting or litter box avoidance. Instead, provide appropriate scratching surfaces and use positive reinforcement to redirect scratching behavior.",
-  - question: "What type of scratching post do cats prefer?",
-    answer: "Most cats prefer tall, sturdy scratching posts (at least 30 inches tall) covered in rough materials like sisal rope or cardboard. The post should be stable and not wobble when used. Some cats prefer vertical posts, others horizontal scratchers, and some like both. Offer multiple options to find what your cat prefers.",
-  - question: "How do I train my cat to use a scratching post?",
-    answer: "Place scratching posts near furniture your cat currently scratches. Encourage use with catnip, treats, and praise. When you see your cat scratching appropriate surfaces, reward them immediately. Never punish cats for scratching - this creates fear and anxiety. Redirect unwanted scratching to appropriate surfaces gently and consistently.",
-  - question: "Can I use deterrent sprays on furniture?",
-    answer: "Yes, cat-safe deterrent sprays can help protect furniture. Look for products with bitter apple, citrus scents, or other natural deterrents. Test on a small area first to ensure it doesn't damage the fabric. Combine deterrents with providing attractive alternatives for best results. Deterrents alone rarely work without appropriate scratching options.",
-  - question: "How many scratching posts does a cat need?",
+  - question: "Why do cats scratch furniture?""
+    answer: "Cats scratch for several natural reasons: to mark territory with scent glands in their paws, to remove dead outer nail sheaths, to stretch their muscles, and to relieve stress. It's a normal, instinctive behavior that can't be eliminated entirely. The goal is to redirect scratching to appropriate surfaces rather than stop the behavior itself.""
+  - question: "Do declawing cats stop scratching?""
+    answer: "Declawing is not recommended and is illegal in many countries. It's a major surgery that removes the last bone of each toe, causing pain and potential long-term complications. Declawed cats may develop behavioral problems like biting or litter box avoidance. Instead, provide appropriate scratching surfaces and use positive reinforcement to redirect scratching behavior.""
+  - question: "What type of scratching post do cats prefer?""
+    answer: "Most cats prefer tall, sturdy scratching posts (at least 30 inches tall) covered in rough materials like sisal rope or cardboard. The post should be stable and not wobble when used. Some cats prefer vertical posts, others horizontal scratchers, and some like both. Offer multiple options to find what your cat prefers.""
+  - question: "How do I train my cat to use a scratching post?""
+    answer: "Place scratching posts near furniture your cat currently scratches. Encourage use with catnip, treats, and praise. When you see your cat scratching appropriate surfaces, reward them immediately. Never punish cats for scratching - this creates fear and anxiety. Redirect unwanted scratching to appropriate surfaces gently and consistently.""
+  - question: "Can I use deterrent sprays on furniture?""
+    answer: "Yes, cat-safe deterrent sprays can help protect furniture. Look for products with bitter apple, citrus scents, or other natural deterrents. Test on a small area first to ensure it doesn't damage the fabric. Combine deterrents with providing attractive alternatives for best results. Deterrents alone rarely work without appropriate scratching options.""
+  - question: "How many scratching posts does a cat need?""
     answer: "Provide at least one scratching post per cat, plus one extra. Place them in different areas of your home where your cat spends time. Having multiple options prevents competition between cats and ensures there's always an appropriate surface available when the urge to scratch strikes."
 ---
 

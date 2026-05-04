@@ -9,17 +9,17 @@ categories: ["Cat Health", "Cat Care", "Pet Health"]
 tags: cat dental care, cat teeth brushing, cat oral health, cat health, pet dental care
 toc: true
 faq:
-  - question: "How often should I brush my cat's teeth?",
-    answer: "Ideally, brush your cat's teeth daily for optimal dental health. If daily brushing isn't possible, aim for at least 3-4 times per week. Consistency is more important than frequency - regular brushing is more effective than occasional long sessions. Start slowly and gradually work up to more frequent brushing as your cat becomes comfortable with the process.",
-  - question: "What happens if I don't brush my cat's teeth?",
-    answer: "Without regular dental care, cats develop plaque that hardens into tartar, leading to gingivitis, periodontal disease, tooth loss, and potentially serious systemic health problems. Dental disease can affect the heart, liver, and kidneys. By age 3, most cats have some form of dental disease without proper care. Prevention through brushing and regular veterinary dental care is essential for overall health.",
-  - question: "Can I use human toothpaste on my cat?",
-    answer: "Never use human toothpaste on cats - it's toxic and can be fatal. Human toothpaste contains ingredients like fluoride and xylitol that are poisonous to cats. Always use toothpaste specifically formulated for cats, which is safe if swallowed (cats can't spit). Cat toothpaste comes in flavors cats enjoy, making the process more pleasant for both of you.",
-  - question: "How do I get my cat to let me brush their teeth?",
-    answer: "Start slowly and make it positive. Begin by touching their lips and gums, then progress to rubbing with gauze, then introduce the toothbrush. Use lots of praise and treats. Choose a time when your cat is calm and relaxed. Be patient - it may take weeks or months to work up to full brushing. Never force it, as this will create negative associations.",
-  - question: "What are signs of dental problems in cats?",
-    answer: "Signs include bad breath, difficulty eating, drooling, pawing at the mouth, red or swollen gums, loose or missing teeth, and decreased appetite. Cats may also become irritable or hide when in dental pain. Since cats hide pain well, regular veterinary dental exams are crucial. Any changes in eating behavior or mouth odor should be evaluated by a veterinarian.",
-  - question: "Do dental treats really work for cats?",
+  - question: "How often should I brush my cat's teeth?""
+    answer: "Ideally, brush your cat's teeth daily for optimal dental health. If daily brushing isn't possible, aim for at least 3-4 times per week. Consistency is more important than frequency - regular brushing is more effective than occasional long sessions. Start slowly and gradually work up to more frequent brushing as your cat becomes comfortable with the process.""
+  - question: "What happens if I don't brush my cat's teeth?""
+    answer: "Without regular dental care, cats develop plaque that hardens into tartar, leading to gingivitis, periodontal disease, tooth loss, and potentially serious systemic health problems. Dental disease can affect the heart, liver, and kidneys. By age 3, most cats have some form of dental disease without proper care. Prevention through brushing and regular veterinary dental care is essential for overall health.""
+  - question: "Can I use human toothpaste on my cat?""
+    answer: "Never use human toothpaste on cats - it's toxic and can be fatal. Human toothpaste contains ingredients like fluoride and xylitol that are poisonous to cats. Always use toothpaste specifically formulated for cats, which is safe if swallowed (cats can't spit). Cat toothpaste comes in flavors cats enjoy, making the process more pleasant for both of you.""
+  - question: "How do I get my cat to let me brush their teeth?""
+    answer: "Start slowly and make it positive. Begin by touching their lips and gums, then progress to rubbing with gauze, then introduce the toothbrush. Use lots of praise and treats. Choose a time when your cat is calm and relaxed. Be patient - it may take weeks or months to work up to full brushing. Never force it, as this will create negative associations.""
+  - question: "What are signs of dental problems in cats?""
+    answer: "Signs include bad breath, difficulty eating, drooling, pawing at the mouth, red or swollen gums, loose or missing teeth, and decreased appetite. Cats may also become irritable or hide when in dental pain. Since cats hide pain well, regular veterinary dental exams are crucial. Any changes in eating behavior or mouth odor should be evaluated by a veterinarian.""
+  - question: "Do dental treats really work for cats?""
     answer: "Dental treats and chews can help reduce plaque and tartar when used as part of a comprehensive dental care program. However, they're not a substitute for brushing. Look for products with the Veterinary Oral Health Council (VOHC) seal of approval. These treats work best when combined with regular brushing and professional veterinary dental cleanings. Use them as supplements, not replacements, for proper dental care."
 ---
 
