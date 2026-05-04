@@ -1,10 +1,14 @@
 ---
-title: Estrela Mountain Dog - A Loyal and Protective Companion
-description: The Estrela Mountain Dog is a large and powerful breed known for their loyalty and protective nature. In this guide, we'll explore the history, characteristics, and care of this majestic breed.
-author: "For Pets With Love"
+author: For Pets With Love
+categories:
+- Dog Breed Info
+datepublished: '2026-04-22'
+description: The Estrela Mountain Dog is a large and powerful breed known for their
+  loyalty and protective nature. In this guide, we'll explore the history, characteristics,
+  and care of this majestic breed.
 image: images/estrela-mountain-dog.jpg
 tags: estrela mountain dog, dog breeds, dog care, dog training, dog grooming
-categories: ["Dog Breed Info"]
+title: Estrela Mountain Dog - A Loyal and Protective Companion
 ---
 
 The Estrela Mountain Dog is a large and powerful breed that originated in Portugal. They were originally bred to guard livestock and property in the mountainous regions of Portugal, and their loyalty and protective nature make them excellent watchdogs and companions. In this guide, we'll explore the history, characteristics, and care of this majestic breed.

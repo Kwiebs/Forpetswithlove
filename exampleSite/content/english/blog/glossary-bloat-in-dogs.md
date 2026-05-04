@@ -1,10 +1,19 @@
 ---
-title: "What Is Bloat in Dogs? Complete Guide for Dog Owners"
-description: "Learn what bloat (gastric dilatation-volvulus) is, early warning signs, risk factors, emergency treatment, and prevention strategies to protect your dog from this life-threatening condition."
-author: "For Pets With Love"
-tags: ["dog bloat", "GDV in dogs", "dog health emergency", "bloat prevention"]
-categories: ["Dog", "Educational"]
+author: For Pets With Love
+categories:
+- Dog
+- Educational
+datepublished: '2026-04-22'
+description: Learn what bloat (gastric dilatation-volvulus) is, early warning signs,
+  risk factors, emergency treatment, and prevention strategies to protect your dog
+  from this life-threatening condition.
 image: images/glossary-bloat-in-dogs.jpg
+tags:
+- dog bloat
+- GDV in dogs
+- dog health emergency
+- bloat prevention
+title: What Is Bloat in Dogs? Complete Guide for Dog Owners
 ---
 
 ---

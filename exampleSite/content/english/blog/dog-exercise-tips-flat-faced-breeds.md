@@ -1,10 +1,19 @@
 ---
-title: "Dog Exercise Tips for Flat-Faced Breeds"
-description: "Expert guide to exercising flat-faced (brachycephalic) dogs safely. Learn about exercise limitations, heat safety, and appropriate activities for bulldogs and pugs."
-author: "For Pets With Love"
-tags: ["flat-faced dogs", "brachycephalic dogs", "dog exercise", "bulldog care"]
-categories: ["Dog", "Health"]
+author: For Pets With Love
+categories:
+- Dog
+- Health
+datepublished: '2026-04-22'
+description: Expert guide to exercising flat-faced (brachycephalic) dogs safely. Learn
+  about exercise limitations, heat safety, and appropriate activities for bulldogs
+  and pugs.
 image: images/dog_bed.jpg
+tags:
+- flat-faced dogs
+- brachycephalic dogs
+- dog exercise
+- bulldog care
+title: Dog Exercise Tips for Flat-Faced Breeds
 ---
 
 ---

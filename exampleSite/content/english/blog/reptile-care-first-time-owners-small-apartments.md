@@ -1,10 +1,18 @@
 ---
-title: "Reptile Care for First-Time Owners in Small Apartments"
-description: "Complete guide to keeping reptiles in apartments. Learn about space-efficient reptile choices, setup requirements, and care tips for small spaces."
-author: "For Pets With Love"
-tags: ["reptile care", "apartment pets", "first-time reptile owner", "small pets"]
-categories: ["Reptile", "Care Guide"]
+author: For Pets With Love
+categories:
+- Reptile
+- Care Guide
+datepublished: '2026-04-22'
+description: Complete guide to keeping reptiles in apartments. Learn about space-efficient
+  reptile choices, setup requirements, and care tips for small spaces.
 image: images/reptile-pets.jpg
+tags:
+- reptile care
+- apartment pets
+- first-time reptile owner
+- small pets
+title: Reptile Care for First-Time Owners in Small Apartments
 ---
 
 ---

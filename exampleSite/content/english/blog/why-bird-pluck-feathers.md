@@ -1,10 +1,19 @@
 ---
-title: "Why Do Birds Pluck Feathers: Causes and Solutions"
-description: "Understand feather plucking in birds. Learn causes including medical issues, stress, and boredom, plus effective solutions to prevent and treat feather picking."
-author: "For Pets With Love"
-tags: ["bird feather plucking", "parrot plucking", "bird behavior", "bird health", "pet bird care"]
-categories: ["Bird Health"]
+author: For Pets With Love
+categories:
+- Bird Health
+datepublished: '2026-04-22'
+description: Understand feather plucking in birds. Learn causes including medical
+  issues, stress, and boredom, plus effective solutions to prevent and treat feather
+  picking.
 image: images/bird-feather-plucking.jpg
+tags:
+- bird feather plucking
+- parrot plucking
+- bird behavior
+- bird health
+- pet bird care
+title: 'Why Do Birds Pluck Feathers: Causes and Solutions'
 ---
 
 ---

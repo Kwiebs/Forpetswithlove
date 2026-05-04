@@ -1,10 +1,16 @@
 ---
-title: "How Long Are Cats Pregnant: Cat Pregnancy Timeline"
-description: "Learn cat pregnancy duration. Discover gestation period, pregnancy stages, signs of pregnancy, and what to expect during feline pregnancy."
-author: "For Pets With Love"
-tags: ["pet care", "pet health", "how-long-cat-pregnant"]
-categories: ["Pet Care"]
+author: For Pets With Love
+categories:
+- Pet Care
+datepublished: '2026-04-22'
+description: Learn cat pregnancy duration. Discover gestation period, pregnancy stages,
+  signs of pregnancy, and what to expect during feline pregnancy.
 image: images/how-long-cat-pregnant.jpg
+tags:
+- pet care
+- pet health
+- how-long-cat-pregnant
+title: 'How Long Are Cats Pregnant: Cat Pregnancy Timeline'
 ---
 
 ---

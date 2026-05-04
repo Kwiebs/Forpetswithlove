@@ -1,10 +1,14 @@
 ---
-title: For the Love of Dogs - A Guide to Caring for Your Furry Best Friend
-description: Dogs are more than just pets, they're family. In this comprehensive guide, we'll provide you with tips and tricks on how to care for your furry best friend, from feeding and grooming to training and bonding.
-author: "For Pets With Love"
+author: For Pets With Love
+categories:
+- Dog Care
+datepublished: '2026-04-22'
+description: Dogs are more than just pets, they're family. In this comprehensive guide,
+  we'll provide you with tips and tricks on how to care for your furry best friend,
+  from feeding and grooming to training and bonding.
 image: images/love_dogs.jpg
 tags: dogs, pet care, pet ownership, dog care
-categories: ["Dog Care"]
+title: For the Love of Dogs - A Guide to Caring for Your Furry Best Friend
 ---
 
 Dogs are more than just pets, they're family. In this comprehensive guide, we'll provide you with tips and tricks on how to care for your furry best friend, from feeding and grooming to training and bonding.

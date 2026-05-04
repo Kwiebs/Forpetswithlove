@@ -1,10 +1,18 @@
 ---
-title: "Why Is My Fish Swimming Sideways? Causes and Treatment"
-description: "Learn why fish swim sideways and what causes swim bladder disease. Discover symptoms, treatments, and prevention strategies for fish with swimming problems."
-author: "For Pets With Love"
-tags: ["fish swimming sideways", "swim bladder disease", "fish illness", "aquarium problems", "fish health"]
-categories: ["Fish Health"]
+author: For Pets With Love
+categories:
+- Fish Health
+datepublished: '2026-04-22'
+description: Learn why fish swim sideways and what causes swim bladder disease. Discover
+  symptoms, treatments, and prevention strategies for fish with swimming problems.
 image: images/fish-swimming-sideways.jpg
+tags:
+- fish swimming sideways
+- swim bladder disease
+- fish illness
+- aquarium problems
+- fish health
+title: Why Is My Fish Swimming Sideways? Causes and Treatment
 ---
 
 ---

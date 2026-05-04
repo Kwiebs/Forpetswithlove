@@ -1,10 +1,16 @@
 ---
-title: "How Often Should I Bathe My Puppy"
-description: "Learn puppy bathing frequency. Discover how often to bathe puppies, puppy bathing tips, and age-appropriate guidelines for keeping puppies clean."
-author: "For Pets With Love"
-tags: ["pet care", "pet health", "how-often-bathe-puppy"]
-categories: ["Pet Care"]
+author: For Pets With Love
+categories:
+- Pet Care
+datepublished: '2026-04-22'
+description: Learn puppy bathing frequency. Discover how often to bathe puppies, puppy
+  bathing tips, and age-appropriate guidelines for keeping puppies clean.
 image: images/how-often-bathe-puppy.jpg
+tags:
+- pet care
+- pet health
+- how-often-bathe-puppy
+title: How Often Should I Bathe My Puppy
 ---
 
 ---

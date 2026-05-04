@@ -1,10 +1,19 @@
 ---
-title: "How to Reduce Dog Separation Anxiety: Effective Strategies"
-description: "Help your dog overcome separation anxiety with proven techniques. Learn behavior modification, crate training, desensitization methods, and when to seek professional help."
-author: "For Pets With Love"
-tags: ["dog separation anxiety", "dog behavior", "dog training", "canine anxiety", "dog psychology"]
-categories: ["Dog Behavior"]
+author: For Pets With Love
+categories:
+- Dog Behavior
+datepublished: '2026-04-22'
+description: Help your dog overcome separation anxiety with proven techniques. Learn
+  behavior modification, crate training, desensitization methods, and when to seek
+  professional help.
 image: images/dog-separation-anxiety.jpg
+tags:
+- dog separation anxiety
+- dog behavior
+- dog training
+- canine anxiety
+- dog psychology
+title: 'How to Reduce Dog Separation Anxiety: Effective Strategies'
 ---
 
 ---

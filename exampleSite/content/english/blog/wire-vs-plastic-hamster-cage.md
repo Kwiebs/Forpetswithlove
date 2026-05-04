@@ -1,10 +1,18 @@
 ---
-title: "Wire vs Plastic Hamster Cage: Complete Comparison"
-description: "Detailed comparison of wire and plastic hamster cages. Learn about ventilation, cleaning, safety, and which cage type suits your hamster's needs best."
-author: "For Pets With Love"
-tags: ["hamster cage comparison", "wire vs plastic cages", "hamster housing", "hamster care"]
-categories: ["Small Pet", "Comparisons"]
+author: For Pets With Love
+categories:
+- Small Pet
+- Comparisons
+datepublished: '2026-04-22'
+description: Detailed comparison of wire and plastic hamster cages. Learn about ventilation,
+  cleaning, safety, and which cage type suits your hamster's needs best.
 image: images/cat-bed.jpg
+tags:
+- hamster cage comparison
+- wire vs plastic cages
+- hamster housing
+- hamster care
+title: 'Wire vs Plastic Hamster Cage: Complete Comparison'
 ---
 
 ---

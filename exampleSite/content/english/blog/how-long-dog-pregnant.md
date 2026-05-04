@@ -1,10 +1,17 @@
 ---
-title: "How Long Are Dogs Pregnant: Pregnancy Timeline and Signs"
-description: "Complete guide to dog pregnancy duration. Learn about gestation period, pregnancy stages, signs of pregnancy, and what to expect during canine pregnancy."
-author: "For Pets With Love"
-tags: ["dog pregnancy", "gestation period", "dog pregnancy timeline", "pregnant dog"]
-categories: ["Dog Health"]
+author: For Pets With Love
+categories:
+- Dog Health
+datepublished: '2026-04-22'
+description: Complete guide to dog pregnancy duration. Learn about gestation period,
+  pregnancy stages, signs of pregnancy, and what to expect during canine pregnancy.
 image: images/dog-pregnant.jpg
+tags:
+- dog pregnancy
+- gestation period
+- dog pregnancy timeline
+- pregnant dog
+title: 'How Long Are Dogs Pregnant: Pregnancy Timeline and Signs'
 ---
 
 ---

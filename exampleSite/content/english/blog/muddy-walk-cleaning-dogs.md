@@ -1,10 +1,16 @@
 ---
-title: "How to Keep Your Dog Safe and Clean After a Muddy Walk"
-description: "Tired of muddy paw prints after walks? Discover how to clean and care for your dog after a muddy outing—without the stress or mess!"
-author: "For Pets With Love"
-tags: ["muddy dog", "dog hygiene", "outdoor walks"]
-categories: ["Dog Care"]
+author: For Pets With Love
+categories:
+- Dog Care
+datepublished: '2026-04-22'
+description: Tired of muddy paw prints after walks? Discover how to clean and care
+  for your dog after a muddy outing—without the stress or mess!
 image: images/mudd-dog.jpg
+tags:
+- muddy dog
+- dog hygiene
+- outdoor walks
+title: How to Keep Your Dog Safe and Clean After a Muddy Walk
 ---
 
 # How to Keep Your Dog Safe and Clean After a Muddy Walk

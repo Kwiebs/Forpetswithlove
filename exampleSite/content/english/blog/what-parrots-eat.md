@@ -1,10 +1,16 @@
 ---
-title: "What Do Parrots Eat: Complete Parrot Diet Guide"
-description: "Discover what parrots eat. Learn about appropriate parrot diets including pellets seeds fruits vegetables nuts and feeding guidelines for healthy parrot nutrition."
-author: "For Pets With Love"
-tags: ["pet care", "pet health", "what-parrots-eat"]
-categories: ["Pet Care"]
+author: For Pets With Love
+categories:
+- Pet Care
+datepublished: '2026-04-22'
+description: Discover what parrots eat. Learn about appropriate parrot diets including
+  pellets seeds fruits vegetables nuts and feeding guidelines for healthy parrot nutrition.
 image: images/what-parrots-eat.jpg
+tags:
+- pet care
+- pet health
+- what-parrots-eat
+title: 'What Do Parrots Eat: Complete Parrot Diet Guide'
 ---
 
 ---

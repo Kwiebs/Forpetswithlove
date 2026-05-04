@@ -1,10 +1,18 @@
 ---
-title: "Wood Pellet vs Clay Litter: Full Comparison for Cat Owners"
-description: "Detailed comparison of wood pellet and clay cat litter. Learn about odor control, dust levels, environmental impact, and which type suits your household."
-author: "For Pets With Love"
-tags: ["cat litter comparison", "wood pellet litter", "clay litter", "cat care"]
-categories: ["Cat", "Comparisons"]
+author: For Pets With Love
+categories:
+- Cat
+- Comparisons
+datepublished: '2026-04-22'
+description: Detailed comparison of wood pellet and clay cat litter. Learn about odor
+  control, dust levels, environmental impact, and which type suits your household.
 image: images/cat-litter-box.jpg
+tags:
+- cat litter comparison
+- wood pellet litter
+- clay litter
+- cat care
+title: 'Wood Pellet vs Clay Litter: Full Comparison for Cat Owners'
 ---
 
 ---

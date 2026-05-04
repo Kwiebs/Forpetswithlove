@@ -1,10 +1,19 @@
 ---
-title: "What Is UV Lighting for Reptiles? Complete Guide"
-description: "Learn about UV lighting requirements for reptiles, types of UV radiation, how to provide appropriate UV exposure, and prevent common health problems from inadequate lighting."
-author: "For Pets With Love"
-tags: ["reptile UV lighting", "reptile care", "UVB radiation", "reptile health"]
-categories: ["Reptile", "Educational"]
+author: For Pets With Love
+categories:
+- Reptile
+- Educational
+datepublished: '2026-04-22'
+description: Learn about UV lighting requirements for reptiles, types of UV radiation,
+  how to provide appropriate UV exposure, and prevent common health problems from
+  inadequate lighting.
 image: images/glossary-uv-lighting-reptiles.jpg
+tags:
+- reptile UV lighting
+- reptile care
+- UVB radiation
+- reptile health
+title: What Is UV Lighting for Reptiles? Complete Guide
 ---
 
 ---

@@ -1,10 +1,16 @@
 ---
-title: "Long-Term Harmony: Maintaining a Peaceful Multi-Cat Home | For Pets With Love"
-description: "Successfully introduced your new cat? Learn how to maintain long-term harmony in a multi-cat home with these essential tips."
-author: "For Pets With Love"
-tags: ["multi-cat home harmony", "cat behavior tips", "peaceful cat environment"]
-categories: ["Cat Care"]
+author: For Pets With Love
+categories:
+- Cat Care
+datepublished: '2026-04-22'
+description: Successfully introduced your new cat? Learn how to maintain long-term
+  harmony in a multi-cat home with these essential tips.
 image: images/multi-cat-harmony.jpg
+tags:
+- multi-cat home harmony
+- cat behavior tips
+- peaceful cat environment
+title: 'Long-Term Harmony: Maintaining a Peaceful Multi-Cat Home | For Pets With Love'
 ---
 
 # Long-Term Harmony: Maintaining a Peaceful Multi-Cat Home | For Pets With Love

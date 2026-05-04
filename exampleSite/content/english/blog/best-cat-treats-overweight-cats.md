@@ -1,10 +1,17 @@
 ---
-title: "Best Cat Treats for Overweight Cats (2026)"
-description: "Comprehensive guide to top-rated treats for overweight cats. Compare 7 low-calorie, healthy options to manage weight while rewarding your cat."
-author: "For Pets With Love"
-tags: ["overweight cats", "cat treats", "cat weight management"]
-categories: ["Cat Health", "Nutrition"]
+author: For Pets With Love
+categories:
+- Cat Health
+- Nutrition
+datepublished: '2026-04-22'
+description: Comprehensive guide to top-rated treats for overweight cats. Compare
+  7 low-calorie, healthy options to manage weight while rewarding your cat.
 image: images/cat-toys.jpg
+tags:
+- overweight cats
+- cat treats
+- cat weight management
+title: Best Cat Treats for Overweight Cats (2026)
 ---
 
 ---

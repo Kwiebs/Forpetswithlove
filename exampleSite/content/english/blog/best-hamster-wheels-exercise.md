@@ -1,10 +1,17 @@
 ---
-title: "Best Hamster Wheels for Exercise (2026)"
-description: "Comprehensive guide to top-rated hamster wheels for exercise and enrichment. Compare 7 safe, quiet options for healthy active hamsters."
-author: "For Pets With Love"
-tags: ["hamster wheels", "hamster exercise", "hamster care"]
-categories: ["Small Pet Care", "Enrichment"]
+author: For Pets With Love
+categories:
+- Small Pet Care
+- Enrichment
+datepublished: '2026-04-22'
+description: Comprehensive guide to top-rated hamster wheels for exercise and enrichment.
+  Compare 7 safe, quiet options for healthy active hamsters.
 image: images/happy_hamster.jpg
+tags:
+- hamster wheels
+- hamster exercise
+- hamster care
+title: Best Hamster Wheels for Exercise (2026)
 ---
 
 ---

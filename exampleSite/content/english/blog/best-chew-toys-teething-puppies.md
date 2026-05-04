@@ -1,10 +1,17 @@
 ---
-title: "Best Chew Toys for Teething Puppies (2026)"
-description: "Comprehensive guide to top-rated chew toys for teething puppies. Compare 7 vet-recommended options to soothe pain and protect your home."
-author: "For Pets With Love"
-tags: ["teething puppies", "puppy chew toys", "puppy care"]
-categories: ["Dog Health", "Puppy Care"]
+author: For Pets With Love
+categories:
+- Dog Health
+- Puppy Care
+datepublished: '2026-04-22'
+description: Comprehensive guide to top-rated chew toys for teething puppies. Compare
+  7 vet-recommended options to soothe pain and protect your home.
 image: images/dog-chewing-paws.jpg
+tags:
+- teething puppies
+- puppy chew toys
+- puppy care
+title: Best Chew Toys for Teething Puppies (2026)
 ---
 
 ---

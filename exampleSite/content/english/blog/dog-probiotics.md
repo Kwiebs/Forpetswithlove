@@ -1,10 +1,20 @@
 ---
-title: Dog Probiotics, Bite-Sized Dog Treats Everyone Is Talking About
-description: Discover the latest trend in pet nutrition with dog probiotics. Learn about the benefits of these bite-sized dog treats and why they're becoming so popular among pet owners. Find out where to buy them and how they can improve your furry friend's overall health and well-being.
-author: "For Pets With Love"
+author: For Pets With Love
+categories:
+- Dog Health
+datepublished: '2026-04-22'
+description: Discover the latest trend in pet nutrition with dog probiotics. Learn
+  about the benefits of these bite-sized dog treats and why they're becoming so popular
+  among pet owners. Find out where to buy them and how they can improve your furry
+  friend's overall health and well-being.
 image: images/probiotic-bites.jpg
-tags: [dog probiotics, pet nutrition, dog treats, pet health, dog supplements]
-categories: ["Dog Health"]
+tags:
+- dog probiotics
+- pet nutrition
+- dog treats
+- pet health
+- dog supplements
+title: Dog Probiotics, Bite-Sized Dog Treats Everyone Is Talking About
 ---
 
 Introduction:

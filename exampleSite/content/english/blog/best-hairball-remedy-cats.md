@@ -1,10 +1,17 @@
 ---
-title: "Best Hairball Remedy for Cats (2026)"
-description: "Comprehensive guide to top-rated hairball remedies for cats. Compare 7 effective options to reduce hairballs and support digestive health."
-author: "For Pets With Love"
-tags: ["cat hairballs", "cat digestive health", "cat care"]
-categories: ["Cat Health", "Digestive Health"]
+author: For Pets With Love
+categories:
+- Cat Health
+- Digestive Health
+datepublished: '2026-04-22'
+description: Comprehensive guide to top-rated hairball remedies for cats. Compare
+  7 effective options to reduce hairballs and support digestive health.
 image: images/cat-toys.jpg
+tags:
+- cat hairballs
+- cat digestive health
+- cat care
+title: Best Hairball Remedy for Cats (2026)
 ---
 
 ---

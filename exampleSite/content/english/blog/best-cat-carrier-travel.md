@@ -1,10 +1,17 @@
 ---
-title: "Best Cat Carrier for Travel (2026)"
-description: "Comprehensive guide to top-rated cat carriers for travel. Compare 7 secure, comfortable options for safe car and air travel."
-author: "For Pets With Love"
-tags: ["cat carriers", "cat travel", "pet supplies"]
-categories: ["Cat Care", "Travel"]
+author: For Pets With Love
+categories:
+- Cat Care
+- Travel
+datepublished: '2026-04-22'
+description: Comprehensive guide to top-rated cat carriers for travel. Compare 7 secure,
+  comfortable options for safe car and air travel.
 image: images/cat-toys.jpg
+tags:
+- cat carriers
+- cat travel
+- pet supplies
+title: Best Cat Carrier for Travel (2026)
 ---
 
 ---

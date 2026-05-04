@@ -1,10 +1,18 @@
 ---
-title: "Why Do Cats Hide When They're Sick: Understanding Sick Cat Behavior"
-description: "Learn why sick cats hide and how to tell if your cat is ill. Discover hidden symptoms to watch for and when to seek veterinary care for sick cats."
-author: "For Pets With Love"
-tags: ["sick cat", "cat hiding", "cat illness symptoms", "cat health", "cat behavior"]
-categories: ["Cat Health"]
+author: For Pets With Love
+categories:
+- Cat Health
+datepublished: '2026-04-22'
+description: Learn why sick cats hide and how to tell if your cat is ill. Discover
+  hidden symptoms to watch for and when to seek veterinary care for sick cats.
 image: images/cat-hiding-sick.jpg
+tags:
+- sick cat
+- cat hiding
+- cat illness symptoms
+- cat health
+- cat behavior
+title: 'Why Do Cats Hide When They''re Sick: Understanding Sick Cat Behavior'
 ---
 
 ---

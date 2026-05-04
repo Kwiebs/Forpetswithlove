@@ -1,10 +1,19 @@
 ---
-title: "Cat Grooming Guide for Long-Haired Breeds"
-description: "Complete grooming guide for long-haired cat breeds. Learn about brushing techniques, detangling matting, and preventing hairballs in Persian, Maine Coon, and Ragdoll cats."
-author: "For Pets With Love"
-tags: ["cat grooming", "long-haired cats", "Persian cat care", "Maine Coon grooming"]
-categories: ["Cat", "Grooming"]
+author: For Pets With Love
+categories:
+- Cat
+- Grooming
+datepublished: '2026-04-22'
+description: Complete grooming guide for long-haired cat breeds. Learn about brushing
+  techniques, detangling matting, and preventing hairballs in Persian, Maine Coon,
+  and Ragdoll cats.
 image: images/cat-coat.jpg
+tags:
+- cat grooming
+- long-haired cats
+- Persian cat care
+- Maine Coon grooming
+title: Cat Grooming Guide for Long-Haired Breeds
 ---
 
 ---

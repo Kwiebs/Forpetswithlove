@@ -1,10 +1,16 @@
 ---
-title: "Understanding Cat Body Language During Introductions | For Pets With Love"
-description: "Learn how to interpret cat body language during introductions to help ensure a smooth and stress-free transition for your new feline friend."
-author: "For Pets With Love"
-tags: ["cat body language", "cat introduction signs", "cat behavior"]
-categories: ["Cat Care"]
+author: For Pets With Love
+categories:
+- Cat Care
+datepublished: '2026-04-22'
+description: Learn how to interpret cat body language during introductions to help
+  ensure a smooth and stress-free transition for your new feline friend.
 image: images/cat-body-language.jpg
+tags:
+- cat body language
+- cat introduction signs
+- cat behavior
+title: Understanding Cat Body Language During Introductions | For Pets With Love
 ---
 
 # Understanding cat body language during introductions | for pets with love

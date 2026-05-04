@@ -1,10 +1,13 @@
 ---
-title: Common Health Problems in Senior Dogs - What You Need to Know
-description: Learn about the most common health problems that senior dogs face and how to prevent them. Keep your furry friend healthy and happy in their golden years.
-author: "For Pets With Love"
+author: For Pets With Love
+categories:
+- Dog Health
+datepublished: '2026-04-22'
+description: Learn about the most common health problems that senior dogs face and
+  how to prevent them. Keep your furry friend healthy and happy in their golden years.
 image: images/senior-dog.jpg
 tags: senior dogs, health problems, pet care, aging, veterinary care
-categories: ["Dog Health"]
+title: Common Health Problems in Senior Dogs - What You Need to Know
 ---
 
 As dogs age, their bodies go through changes that can leave them vulnerable to certain health issues. As a responsible pet owner, it's important to be aware of the most common health problems in senior dogs and how to prevent them. This article will cover everything you need to know to keep your furry friend healthy and happy in their golden years.

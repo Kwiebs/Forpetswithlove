@@ -1,10 +1,18 @@
 ---
-title: "Fish Tank Setup for Beginners: Step-by-Step Guide"
-description: "Complete beginner's guide to setting up a freshwater fish tank. Learn about equipment, cycling, fish selection, and maintenance for first-time fish keepers."
-author: "For Pets With Love"
-tags: ["fish tank setup", "aquarium setup", "freshwater fish", "beginner aquarium"]
-categories: ["Fish", "Care Guide"]
+author: For Pets With Love
+categories:
+- Fish
+- Care Guide
+datepublished: '2026-04-22'
+description: Complete beginner's guide to setting up a freshwater fish tank. Learn
+  about equipment, cycling, fish selection, and maintenance for first-time fish keepers.
 image: images/fish_tank.jpg
+tags:
+- fish tank setup
+- aquarium setup
+- freshwater fish
+- beginner aquarium
+title: 'Fish Tank Setup for Beginners: Step-by-Step Guide'
 ---
 
 ---

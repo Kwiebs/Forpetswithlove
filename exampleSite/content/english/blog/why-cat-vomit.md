@@ -1,10 +1,18 @@
 ---
-title: "Why Does My Cat Vomit? Common Causes and When to Worry"
-description: "Understand why cats vomit and learn when it's serious. Discover common causes like hairballs, diet issues, and medical conditions that cause cat vomiting."
-author: "For Pets With Love"
-tags: ["cat vomiting", "cat health", "cat illness", "cat digestion", "pet cat care"]
-categories: ["Cat Health"]
+author: For Pets With Love
+categories:
+- Cat Health
+datepublished: '2026-04-22'
+description: Understand why cats vomit and learn when it's serious. Discover common
+  causes like hairballs, diet issues, and medical conditions that cause cat vomiting.
 image: images/cat-vomiting.jpg
+tags:
+- cat vomiting
+- cat health
+- cat illness
+- cat digestion
+- pet cat care
+title: Why Does My Cat Vomit? Common Causes and When to Worry
 ---
 
 ---

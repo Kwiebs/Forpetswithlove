@@ -1,10 +1,19 @@
 ---
-title: "How to Introduce a New Cat to Dog: Complete Guide"
-description: "Successfully introduce a new cat to your resident dog with proven protocols. Learn phased introductions, body language reading, and creating positive associations for pet harmony."
-author: "For Pets With Love"
-tags: ["cat dog introduction", "pet introductions", "cat dog harmony", "multi-pet household", "pet behavior"]
-categories: ["Dog Training"]
+author: For Pets With Love
+categories:
+- Dog Training
+datepublished: '2026-04-22'
+description: Successfully introduce a new cat to your resident dog with proven protocols.
+  Learn phased introductions, body language reading, and creating positive associations
+  for pet harmony.
 image: images/cat-dog-introduction.jpg
+tags:
+- cat dog introduction
+- pet introductions
+- cat dog harmony
+- multi-pet household
+- pet behavior
+title: 'How to Introduce a New Cat to Dog: Complete Guide'
 ---
 
 ---

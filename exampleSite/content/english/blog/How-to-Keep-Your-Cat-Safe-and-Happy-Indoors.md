@@ -1,10 +1,14 @@
 ---
-title: "How to Keep Your Cat Safe and Happy Indoors: An In-Depth Guide"
-description: "How to Keep Your Cat Safe and Happy Indoors: An In-Depth Guide"
-author: "For Pets With Love"
+author: For Pets With Love
+categories:
+- Cat Care
+datepublished: '2026-04-22'
+description: 'How to Keep Your Cat Safe and Happy Indoors: An In-Depth Guide'
 image: images/catindoor.jpg
-tags: Cat safety, indoor cat happiness, cat care, pet health, indoor cat environment, cat toys, cat exercise, cat nutrition, cat behavior, cat behavior modification, cat-proofing your home, cat mental stimulation, feline health, indoor cat activities
-categories: ["Cat Care"]
+tags: Cat safety, indoor cat happiness, cat care, pet health, indoor cat environment,
+  cat toys, cat exercise, cat nutrition, cat behavior, cat behavior modification,
+  cat-proofing your home, cat mental stimulation, feline health, indoor cat activities
+title: 'How to Keep Your Cat Safe and Happy Indoors: An In-Depth Guide'
 ---
 
 # Introduction:

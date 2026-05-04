@@ -1,10 +1,18 @@
 ---
-title: "Why Does My Dog Chew Their Paws: Causes and Treatment"
-description: "Learn why dogs chew their paws excessively. Discover allergies, injuries, anxiety, infections, and other medical causes of paw chewing in dogs."
-author: "For Pets With Love"
-tags: ["dog chewing paws", "dog allergies", "dog behavior", "dog health", "pet dog care"]
-categories: ["Dog Health"]
+author: For Pets With Love
+categories:
+- Dog Health
+datepublished: '2026-04-22'
+description: Learn why dogs chew their paws excessively. Discover allergies, injuries,
+  anxiety, infections, and other medical causes of paw chewing in dogs.
 image: images/dog-chewing-paws.jpg
+tags:
+- dog chewing paws
+- dog allergies
+- dog behavior
+- dog health
+- pet dog care
+title: 'Why Does My Dog Chew Their Paws: Causes and Treatment'
 ---
 
 ---

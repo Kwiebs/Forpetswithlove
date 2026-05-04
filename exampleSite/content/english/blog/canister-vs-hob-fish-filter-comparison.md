@@ -1,10 +1,19 @@
 ---
-title: "Canister vs Hang-on-Back Fish Filter: Complete Comparison"
-description: "Detailed comparison of canister and hang-on-back (HOB) aquarium filters. Learn about filtration capacity, maintenance, installation, and which filter suits your aquarium."
-author: "For Pets With Love"
-tags: ["aquarium filter comparison", "canister vs HOB filter", "fish tank equipment", "aquarium setup"]
-categories: ["Fish", "Comparisons"]
+author: For Pets With Love
+categories:
+- Fish
+- Comparisons
+datepublished: '2026-04-22'
+description: Detailed comparison of canister and hang-on-back (HOB) aquarium filters.
+  Learn about filtration capacity, maintenance, installation, and which filter suits
+  your aquarium.
 image: images/fish_tank.jpg
+tags:
+- aquarium filter comparison
+- canister vs HOB filter
+- fish tank equipment
+- aquarium setup
+title: 'Canister vs Hang-on-Back Fish Filter: Complete Comparison'
 ---
 
 ---

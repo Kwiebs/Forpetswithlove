@@ -1,10 +1,19 @@
 ---
-title: "Why Does My Dog Lick Their Paws: Causes and Solutions"
-description: "Discover why dogs lick their paws constantly. Learn about allergies, injuries anxiety, boredom, and medical causes of excessive paw licking and when to see a vet."
-author: "For Pets With Love"
-tags: ["dog licking paws", "dog allergies", "dog behavior", "dog health", "pet dog care"]
-categories: ["Dog Health"]
+author: For Pets With Love
+categories:
+- Dog Health
+datepublished: '2026-04-22'
+description: Discover why dogs lick their paws constantly. Learn about allergies,
+  injuries anxiety, boredom, and medical causes of excessive paw licking and when
+  to see a vet.
 image: images/dog-licking-paws.jpg
+tags:
+- dog licking paws
+- dog allergies
+- dog behavior
+- dog health
+- pet dog care
+title: 'Why Does My Dog Lick Their Paws: Causes and Solutions'
 ---
 
 ---

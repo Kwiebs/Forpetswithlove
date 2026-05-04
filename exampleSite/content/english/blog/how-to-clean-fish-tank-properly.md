@@ -1,10 +1,19 @@
 ---
-title: "How to Clean a Fish Tank Properly: Step-by-Step Guide"
-description: "Learn the correct way to clean your fish tank without harming your fish. Master aquarium maintenance including water changes, gravel cleaning, and algae control."
-author: "For Pets With Love"
-tags: ["aquarium maintenance", "fish tank cleaning", "water changes", "fish care", "aquarium care"]
-categories: ["Fish Care"]
+author: For Pets With Love
+categories:
+- Fish Care
+datepublished: '2026-04-22'
+description: Learn the correct way to clean your fish tank without harming your fish.
+  Master aquarium maintenance including water changes, gravel cleaning, and algae
+  control.
 image: images/fish-tank-cleaning.jpg
+tags:
+- aquarium maintenance
+- fish tank cleaning
+- water changes
+- fish care
+- aquarium care
+title: 'How to Clean a Fish Tank Properly: Step-by-Step Guide'
 ---
 
 ---

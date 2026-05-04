@@ -1,10 +1,17 @@
 ---
-title: "Best Dog Crates for Anxiety Issues (2026)"
-description: "Comprehensive guide to top-rated dog crates for dogs with anxiety. Compare 7 vet-recommended options to create safe, calming spaces for anxious dogs."
-author: "For Pets With Love"
-tags: ["anxious dogs", "dog crates", "dog anxiety"]
-categories: ["Dog Behavior", "Dog Care"]
+author: For Pets With Love
+categories:
+- Dog Behavior
+- Dog Care
+datepublished: '2026-04-22'
+description: Comprehensive guide to top-rated dog crates for dogs with anxiety. Compare
+  7 vet-recommended options to create safe, calming spaces for anxious dogs.
 image: images/dog_toys.jpg
+tags:
+- anxious dogs
+- dog crates
+- dog anxiety
+title: Best Dog Crates for Anxiety Issues (2026)
 ---
 
 ---

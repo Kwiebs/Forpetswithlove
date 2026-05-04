@@ -1,10 +1,19 @@
 ---
-title: "How to Potty Train a Dog: Complete House Training Guide"
-description: "Master dog potty training with proven techniques. Learn crate training, scheduling, positive reinforcement, and common mistakes to avoid for housebreaking success."
-author: "For Pets With Love"
-tags: ["potty training", "house training", "dog training", "puppy training", "crate training"]
-categories: ["Dog Training"]
+author: For Pets With Love
+categories:
+- Dog Training
+datepublished: '2026-04-22'
+description: Master dog potty training with proven techniques. Learn crate training,
+  scheduling, positive reinforcement, and common mistakes to avoid for housebreaking
+  success.
 image: images/dog-potty-training.jpg
+tags:
+- potty training
+- house training
+- dog training
+- puppy training
+- crate training
+title: 'How to Potty Train a Dog: Complete House Training Guide'
 ---
 
 ---

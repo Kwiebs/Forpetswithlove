@@ -1,10 +1,17 @@
 ---
-title: "Best Cat Toys for Bored Indoor Cats (2026)"
-description: "Comprehensive guide to top-rated cat toys for indoor stimulation. Compare 7 engaging options to keep your indoor cat entertained and mentally stimulated."
-author: "For Pets With Love"
-tags: ["cat toys", "indoor cats", "cat enrichment"]
-categories: ["Cat Care", "Enrichment"]
+author: For Pets With Love
+categories:
+- Cat Care
+- Enrichment
+datepublished: '2026-04-22'
+description: Comprehensive guide to top-rated cat toys for indoor stimulation. Compare
+  7 engaging options to keep your indoor cat entertained and mentally stimulated.
 image: images/cat-toys.jpg
+tags:
+- cat toys
+- indoor cats
+- cat enrichment
+title: Best Cat Toys for Bored Indoor Cats (2026)
 ---
 
 ---
