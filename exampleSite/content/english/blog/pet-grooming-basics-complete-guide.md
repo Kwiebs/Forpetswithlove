@@ -9,17 +9,17 @@ categories: ["Pet Care", "Pet Health", "Dog Care", "Cat Care"]
 tags: pet grooming, dog grooming, cat grooming, pet care, pet hygiene
 toc: true
 faq:
-  - question: "How often should I groom my pet?""
-    answer: "Grooming frequency varies by pet type, breed, and coat length. Dogs typically need brushing 1-3 times weekly and bathing every 4-8 weeks. Cats need brushing 1-2 times weekly, though long-haired cats may need daily brushing. Nail trimming every 2-4 weeks, ear cleaning monthly, and dental care daily. Establish a regular schedule based on your pet's specific needs.""
-  - question: "Can I use human shampoo on my pet?""
-    answer: "No, never use human shampoo on pets. Human skin has a different pH balance than pet skin, and human shampoos can be too harsh, causing dryness, irritation, and skin problems. Use only pet-specific shampoos formulated for your pet's skin pH and needs. If you're unsure, consult your veterinarian for recommendations.""
-  - question: "How do I trim my pet's nails safely?""
-    answer: "Trim nails carefully using pet-specific nail clippers. Identify the quick (the pink part containing blood vessels) and avoid cutting into it. Trim small amounts at a time, especially if the quick is visible in light-colored nails. For dark nails, trim gradually and stop when you see a black dot in the center. If unsure, have a professional groomer or veterinarian demonstrate the technique.""
-  - question: "How do I clean my pet's ears?""
-    answer: "Use a pet-specific ear cleaner and cotton balls or pads. Gently wipe the visible outer ear, avoiding the ear canal. Never insert anything deep into the ear canal. For pets with ear infections or excessive wax, consult your veterinarian. Some breeds with floppy ears or those prone to infections need more frequent cleaning. Watch for signs of infection like odor, redness, or discharge.""
-  - question: "What tools do I need for basic pet grooming?""
-    answer: "Essential grooming tools include: brush appropriate for your pet's coat type, comb, pet-specific shampoo, nail clippers, styptic powder (for nail accidents), ear cleaner, cotton balls, toothbrush and pet toothpaste, and towels. Additional tools might include deshedding tools, mat removers, or grooming wipes depending on your pet's needs.""
-  - question: "How can I make grooming less stressful for my pet?""
+  - question: "How often should I groom my pet?"
+    answer: "Grooming frequency varies by pet type, breed, and coat length. Dogs typically need brushing 1-3 times weekly and bathing every 4-8 weeks. Cats need brushing 1-2 times weekly, though long-haired cats may need daily brushing. Nail trimming every 2-4 weeks, ear cleaning monthly, and dental care daily. Establish a regular schedule based on your pet's specific needs."
+  - question: "Can I use human shampoo on my pet?"
+    answer: "No, never use human shampoo on pets. Human skin has a different pH balance than pet skin, and human shampoos can be too harsh, causing dryness, irritation, and skin problems. Use only pet-specific shampoos formulated for your pet's skin pH and needs. If you're unsure, consult your veterinarian for recommendations."
+  - question: "How do I trim my pet's nails safely?"
+    answer: "Trim nails carefully using pet-specific nail clippers. Identify the quick (the pink part containing blood vessels) and avoid cutting into it. Trim small amounts at a time, especially if the quick is visible in light-colored nails. For dark nails, trim gradually and stop when you see a black dot in the center. If unsure, have a professional groomer or veterinarian demonstrate the technique."
+  - question: "How do I clean my pet's ears?"
+    answer: "Use a pet-specific ear cleaner and cotton balls or pads. Gently wipe the visible outer ear, avoiding the ear canal. Never insert anything deep into the ear canal. For pets with ear infections or excessive wax, consult your veterinarian. Some breeds with floppy ears or those prone to infections need more frequent cleaning. Watch for signs of infection like odor, redness, or discharge."
+  - question: "What tools do I need for basic pet grooming?"
+    answer: "Essential grooming tools include: brush appropriate for your pet's coat type, comb, pet-specific shampoo, nail clippers, styptic powder (for nail accidents), ear cleaner, cotton balls, toothbrush and pet toothpaste, and towels. Additional tools might include deshedding tools, mat removers, or grooming wipes depending on your pet's needs."
+  - question: "How can I make grooming less stressful for my pet?"
     answer: "Start grooming when pets are young to acclimate them. Keep sessions short and positive, using treats and praise. Gradually introduce tools and handling. Be gentle and patient, never force grooming. Associate grooming with positive experiences. If your pet shows fear or aggression, consider professional grooming or behavior training. Regular, gentle handling helps pets become comfortable with grooming."
 ---
 

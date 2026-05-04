@@ -9,17 +9,17 @@ categories: ["Pet Safety", "Pet Health", "Emergency Care"]
 tags: pet first aid, pet emergencies, pet CPR, pet safety, emergency preparedness
 toc: true
 faq:
-  - question: "What should be in a pet first aid kit?""
-    answer: "A comprehensive pet first aid kit should include: gauze pads and rolls, adhesive tape, bandages, antiseptic wipes/solution, tweezers, scissors, thermometer, disposable gloves, blanket, muzzle, leash, emergency contact numbers, pet first aid book, and any medications your pet takes. Include copies of vaccination records and your veterinarian's information. Check and restock your kit regularly.""
-  - question: "How do I perform CPR on a dog or cat?""
-    answer: "Pet CPR differs from human CPR. For dogs and cats: check for breathing and pulse, lay pet on right side, extend head and neck to open airway, give rescue breaths (close mouth, breathe into nose), then perform chest compressions. The ratio is 30 compressions to 2 breaths for dogs, similar for cats. Compress at 100-120 compressions per minute. Learn proper technique from a certified instructor - hands-on training is essential.""
-  - question: "What are common pet emergencies that require immediate veterinary care?""
-    answer: "Emergencies requiring immediate care include: difficulty breathing, choking, severe bleeding, poisoning, seizures, heatstroke, trauma (hit by car, falls), inability to urinate, severe vomiting/diarrhea with blood, eye injuries, broken bones, and any situation where your pet is in extreme pain or distress. When in doubt, contact your veterinarian or emergency clinic immediately - it's better to be safe than sorry.""
-  - question: "How do I know if my pet is in pain?""
-    answer: "Pets hide pain well, but watch for these signs: changes in behavior (hiding, aggression), decreased appetite, excessive panting, restlessness, reluctance to move or be touched, changes in posture, excessive licking or grooming of specific areas, vocalization (whining, growling), and changes in normal activities. Any sudden change in behavior warrants investigation. Trust your instincts - if something seems wrong, it probably is.""
-  - question: "What should I do if my pet is poisoned?""
-    answer: "If you suspect poisoning: call your veterinarian or poison control immediately (have numbers ready). Do NOT induce vomiting unless instructed - some substances cause more damage when vomited. Bring the poison container with you to the veterinarian. Time is critical in poisoning cases - don't wait to see if symptoms improve. Keep the ASPCA Animal Poison Control Center number (888-426-4435) in your phone.""
-  - question: "How do I handle a pet that is bleeding heavily?""
+  - question: "What should be in a pet first aid kit?"
+    answer: "A comprehensive pet first aid kit should include: gauze pads and rolls, adhesive tape, bandages, antiseptic wipes/solution, tweezers, scissors, thermometer, disposable gloves, blanket, muzzle, leash, emergency contact numbers, pet first aid book, and any medications your pet takes. Include copies of vaccination records and your veterinarian's information. Check and restock your kit regularly."
+  - question: "How do I perform CPR on a dog or cat?"
+    answer: "Pet CPR differs from human CPR. For dogs and cats: check for breathing and pulse, lay pet on right side, extend head and neck to open airway, give rescue breaths (close mouth, breathe into nose), then perform chest compressions. The ratio is 30 compressions to 2 breaths for dogs, similar for cats. Compress at 100-120 compressions per minute. Learn proper technique from a certified instructor - hands-on training is essential."
+  - question: "What are common pet emergencies that require immediate veterinary care?"
+    answer: "Emergencies requiring immediate care include: difficulty breathing, choking, severe bleeding, poisoning, seizures, heatstroke, trauma (hit by car, falls), inability to urinate, severe vomiting/diarrhea with blood, eye injuries, broken bones, and any situation where your pet is in extreme pain or distress. When in doubt, contact your veterinarian or emergency clinic immediately - it's better to be safe than sorry."
+  - question: "How do I know if my pet is in pain?"
+    answer: "Pets hide pain well, but watch for these signs: changes in behavior (hiding, aggression), decreased appetite, excessive panting, restlessness, reluctance to move or be touched, changes in posture, excessive licking or grooming of specific areas, vocalization (whining, growling), and changes in normal activities. Any sudden change in behavior warrants investigation. Trust your instincts - if something seems wrong, it probably is."
+  - question: "What should I do if my pet is poisoned?"
+    answer: "If you suspect poisoning: call your veterinarian or poison control immediately (have numbers ready). Do NOT induce vomiting unless instructed - some substances cause more damage when vomited. Bring the poison container with you to the veterinarian. Time is critical in poisoning cases - don't wait to see if symptoms improve. Keep the ASPCA Animal Poison Control Center number (888-426-4435) in your phone."
+  - question: "How do I handle a pet that is bleeding heavily?"
     answer: "For severe bleeding: apply direct pressure with clean gauze or cloth, maintain pressure for at least 5-10 minutes without lifting to check. If blood soaks through, add more layers without removing original. Elevate the injured area if possible. Apply a pressure bandage if bleeding continues. For limb injuries, apply a tourniquet only as last resort and note the time applied. Seek immediate veterinary care for severe bleeding."
 ---
 

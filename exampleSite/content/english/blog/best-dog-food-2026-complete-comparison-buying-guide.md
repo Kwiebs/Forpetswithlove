@@ -9,17 +9,17 @@ categories: ["Dog Products", "Dog Care", "Dog Nutrition"]
 tags: best dog food, dog food comparison, dog nutrition, dry dog food, wet dog food
 toc: true
 faq:
-  - question: "Is dry or wet dog food better?""
-    answer: "Both dry and wet dog food have advantages. Dry food is convenient, helps with dental health, and is more economical. Wet food provides hydration, higher protein content, and is often more palatable. Many veterinarians recommend a mixed diet - wet food for hydration and nutrition, dry food for convenience and dental benefits. The best choice depends on your dog's preferences, health needs, and your budget.""
-  - question: "How much should I feed my dog?""
-    answer: "Feeding amounts vary based on your dog's weight, age, activity level, and food type. Generally, adult dogs need 25-30 calories per pound of body weight daily. Follow feeding guidelines on food packaging as a starting point, then adjust based on your dog's body condition. Monitor weight regularly and adjust portions accordingly. Consult your veterinarian for personalized feeding recommendations.""
-  - question: "What ingredients should I avoid in dog food?""
-    answer: "Avoid dog foods with unnamed meat by-products, excessive fillers (corn, wheat, soy as main ingredients), artificial colors, flavors, and preservatives, and vague ingredient descriptions like 'meat meal' without specifying the source. Look for foods with named protein sources (chicken, beef, etc.) as first ingredients, whole foods, and minimal artificial additives. Quality ingredients support better health and nutrition.""
-  - question: "How often should I feed my dog?""
-    answer: "Adult dogs typically do well with 2 meals daily. Puppies need 3-4 small meals until about 6 months old. Consistent meal times help with digestion and prevent begging. Free-feeding (leaving food out all day) can lead to overeating and obesity. Some dogs prefer grazing, while others do better with scheduled meals. Find what works for your dog and stick to a consistent routine.""
-  - question: "Can dogs eat cat food?""
-    answer: "No, dogs should not eat cat food regularly. Cat food is higher in protein and fat than dog food, which can cause digestive upset and pancreatitis in dogs. Occasional small amounts won't cause immediate harm, but long-term feeding of cat food can lead to obesity and nutritional imbalances. Always feed dog-specific food formulated for canine nutritional needs.""
-  - question: "How do I transition my dog to new food?""
+  - question: "Is dry or wet dog food better?"
+    answer: "Both dry and wet dog food have advantages. Dry food is convenient, helps with dental health, and is more economical. Wet food provides hydration, higher protein content, and is often more palatable. Many veterinarians recommend a mixed diet - wet food for hydration and nutrition, dry food for convenience and dental benefits. The best choice depends on your dog's preferences, health needs, and your budget."
+  - question: "How much should I feed my dog?"
+    answer: "Feeding amounts vary based on your dog's weight, age, activity level, and food type. Generally, adult dogs need 25-30 calories per pound of body weight daily. Follow feeding guidelines on food packaging as a starting point, then adjust based on your dog's body condition. Monitor weight regularly and adjust portions accordingly. Consult your veterinarian for personalized feeding recommendations."
+  - question: "What ingredients should I avoid in dog food?"
+    answer: "Avoid dog foods with unnamed meat by-products, excessive fillers (corn, wheat, soy as main ingredients), artificial colors, flavors, and preservatives, and vague ingredient descriptions like 'meat meal' without specifying the source. Look for foods with named protein sources (chicken, beef, etc.) as first ingredients, whole foods, and minimal artificial additives. Quality ingredients support better health and nutrition."
+  - question: "How often should I feed my dog?"
+    answer: "Adult dogs typically do well with 2 meals daily. Puppies need 3-4 small meals until about 6 months old. Consistent meal times help with digestion and prevent begging. Free-feeding (leaving food out all day) can lead to overeating and obesity. Some dogs prefer grazing, while others do better with scheduled meals. Find what works for your dog and stick to a consistent routine."
+  - question: "Can dogs eat cat food?"
+    answer: "No, dogs should not eat cat food regularly. Cat food is higher in protein and fat than dog food, which can cause digestive upset and pancreatitis in dogs. Occasional small amounts won't cause immediate harm, but long-term feeding of cat food can lead to obesity and nutritional imbalances. Always feed dog-specific food formulated for canine nutritional needs."
+  - question: "How do I transition my dog to new food?"
     answer: "Transition gradually over 7-10 days to avoid digestive upset. Start with 25% new food mixed with 75% old food for 2-3 days, then 50/50 for 2-3 days, then 75% new/25% old for 2-3 days, and finally 100% new food. Monitor for digestive issues during transition. If problems occur, slow the transition. Some dogs may need longer transition periods. Patience is key for successful food changes."
 ---
 

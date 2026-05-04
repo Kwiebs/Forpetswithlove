@@ -9,17 +9,17 @@ categories: ["Cat Breeds", "Cat Care", "Cat Health"]
 tags: ragdoll cat, ragdoll care, cat personality, cat health, cat grooming
 toc: true
 faq:
-  - question: "Are Ragdoll cats good family pets?""
-    answer: "Ragdolls make excellent family pets! They're known for their gentle, docile nature and love of human companionship. They're generally good with children and other pets when properly socialized. Their large size and calm temperament make them wonderful companions. However, they shouldn't be left unsupervised with very young children who might handle them roughly. Ragdolls thrive on attention and don't like being left alone for long periods.""
-  - question: "How long do Ragdoll cats live?""
-    answer: "Ragdolls typically live 12-17 years, with some reaching 20+ years with excellent care. Their lifespan is influenced by genetics, health management, and quality of life. Responsible breeding, proper nutrition, regular veterinary care, and keeping them indoors can help maximize your Ragdoll's lifespan. They're generally healthy cats but prone to certain breed-specific conditions that require monitoring.""
-  - question: "Do Ragdoll cats shed a lot?""
-    answer: "Ragdolls have semi-longhair coats that shed moderately. They have a single coat rather than the double coat of some longhair breeds, which means less shedding than expected. Regular brushing (2-3 times weekly) helps control shedding and prevents matting. They shed more during seasonal changes. While not low-shedding, their coat is manageable with regular grooming.""
-  - question: "Are Ragdoll cats high maintenance?""
-    answer: "Ragdolls are moderately high maintenance due to their grooming needs and social nature. Their semi-longhair coat requires regular brushing to prevent matting, especially in areas like the armpits and behind the ears. They're also very social and require significant human interaction. However, they're not as demanding as some breeds in terms of activity level - they're calm and relatively low-energy.""
-  - question: "Do Ragdoll cats have health problems?""
-    answer: "Ragdolls are generally healthy but prone to certain breed-specific conditions. Common issues include hypertrophic cardiomyopathy (heart disease), kidney disease (polycystic kidney disease), and dental issues. Some lines may be prone to bladder stones. Regular veterinary checkups, genetic testing of parents, and maintaining healthy weight can help minimize these risks. Pet insurance is often recommended for this breed.""
-  - question: "Are Ragdoll cats affectionate?""
+  - question: "Are Ragdoll cats good family pets?"
+    answer: "Ragdolls make excellent family pets! They're known for their gentle, docile nature and love of human companionship. They're generally good with children and other pets when properly socialized. Their large size and calm temperament make them wonderful companions. However, they shouldn't be left unsupervised with very young children who might handle them roughly. Ragdolls thrive on attention and don't like being left alone for long periods."
+  - question: "How long do Ragdoll cats live?"
+    answer: "Ragdolls typically live 12-17 years, with some reaching 20+ years with excellent care. Their lifespan is influenced by genetics, health management, and quality of life. Responsible breeding, proper nutrition, regular veterinary care, and keeping them indoors can help maximize your Ragdoll's lifespan. They're generally healthy cats but prone to certain breed-specific conditions that require monitoring."
+  - question: "Do Ragdoll cats shed a lot?"
+    answer: "Ragdolls have semi-longhair coats that shed moderately. They have a single coat rather than the double coat of some longhair breeds, which means less shedding than expected. Regular brushing (2-3 times weekly) helps control shedding and prevents matting. They shed more during seasonal changes. While not low-shedding, their coat is manageable with regular grooming."
+  - question: "Are Ragdoll cats high maintenance?"
+    answer: "Ragdolls are moderately high maintenance due to their grooming needs and social nature. Their semi-longhair coat requires regular brushing to prevent matting, especially in areas like the armpits and behind the ears. They're also very social and require significant human interaction. However, they're not as demanding as some breeds in terms of activity level - they're calm and relatively low-energy."
+  - question: "Do Ragdoll cats have health problems?"
+    answer: "Ragdolls are generally healthy but prone to certain breed-specific conditions. Common issues include hypertrophic cardiomyopathy (heart disease), kidney disease (polycystic kidney disease), and dental issues. Some lines may be prone to bladder stones. Regular veterinary checkups, genetic testing of parents, and maintaining healthy weight can help minimize these risks. Pet insurance is often recommended for this breed."
+  - question: "Are Ragdoll cats affectionate?"
     answer: "Ragdolls are exceptionally affectionate cats! They're known for their dog-like devotion to their humans and often follow their owners from room to room. They love being held and will often go limp when picked up (hence the name 'Ragdoll'). They're not typically aloof or independent - they crave human companionship and attention. This breed is perfect for people who want a highly interactive, loving cat."
 ---
 
