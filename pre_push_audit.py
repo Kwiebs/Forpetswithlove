@@ -39,6 +39,9 @@ def check_front_matter(file_path):
         if not data:
             add_error(file_path.name, "Empty front matter")
             return False
+        if not isinstance(data, dict):
+            add_error(file_path.name, f"Invalid YAML front matter (parsed as {type(data).__name__})")
+            return False
     except yaml.YAMLError as e:
         add_error(file_path.name, f"YAML parse error: {e}")
         return False
