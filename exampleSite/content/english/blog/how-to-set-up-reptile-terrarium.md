@@ -13,7 +13,7 @@ tags:
 - terrarium setup
 - reptile care
 - reptile heating
-title: 'How to Set Up a Reptile Terrarium: Complete Setup Guide'
+title: "How to Set Up a Reptile Terrarium: Complete Setup Guide"
 ---
 
 ---

@@ -13,7 +13,7 @@ tags:
 - busy pet owners
 - low-maintenance birds
 - parakeets
-title: 'Bird Care for Busy Professionals: Complete Guide'
+title: "Bird Care for Busy Professionals: Complete Guide"
 ---
 
 ---

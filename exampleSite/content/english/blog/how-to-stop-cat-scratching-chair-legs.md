@@ -109,6 +109,11 @@ Compact sisal posts or scratching barrels for dining areas placed directly next 
 ### What does it cost if I don't stop chair legs scratching?
 $50-200 per chair reupholstery/refinishing in replacement costs.
 
+## Related Posts
+- [Best Scratching Posts for Your Cat](/best-scratching-posts-for-apartment-cats/)
+- [Cat Claw Care Guide](/cat-claw-care-guide/)
+- [Get Free Ebook: Cat Scratching Solutions](/ebook/)
+
 ## Conclusion
 
 Stopping chair legs scratching requires understanding why cats target this surface, then providing better alternatives in the same location. With Compact sisal posts or scratching barrels for dining areas and consistent redirection, you can save your chair legs and your wallet.

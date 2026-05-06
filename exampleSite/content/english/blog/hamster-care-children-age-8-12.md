@@ -12,7 +12,7 @@ tags:
 - pets for kids
 - small pets
 - children and animals
-title: 'Hamster Care for Children Age 8-12: Complete Guide'
+title: "Hamster Care for Children Age 8-12: Complete Guide"
 ---
 
 ---

@@ -12,7 +12,7 @@ tags:
 - cat behavior
 - cat hygiene
 - litter box problems
-title: 'How to Train Cat to Use Litter Box: Complete Guide'
+title: "How to Train Cat to Use Litter Box: Complete Guide"
 ---
 
 ---

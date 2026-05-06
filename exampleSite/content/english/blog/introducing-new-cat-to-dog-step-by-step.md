@@ -10,7 +10,7 @@ tags:
 - introduce cat to dog
 - cat and dog introduction
 - pet compatibility
-title: 'Introducing a New Cat to Your Dog: A Step-by-Step Guide | For Pets With Love'
+title: "Introducing a New Cat to Your Dog: A Step-by-Step Guide | For Pets With Love"
 ---
 
 # Introducing a New Cat to Your Dog: A Step-by-Step Guide | For Pets With Love

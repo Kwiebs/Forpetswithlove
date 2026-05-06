@@ -13,7 +13,7 @@ tags:
 - parrot vocalization
 - parrot care
 - pet bird
-title: 'Why Does My Parrot Scream: Causes and Solutions'
+title: "Why Does My Parrot Scream: Causes and Solutions"
 ---
 
 ---

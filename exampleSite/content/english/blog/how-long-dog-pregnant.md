@@ -11,7 +11,7 @@ tags:
 - gestation period
 - dog pregnancy timeline
 - pregnant dog
-title: 'How Long Are Dogs Pregnant: Pregnancy Timeline and Signs'
+title: "How Long Are Dogs Pregnant: Pregnancy Timeline and Signs"
 ---
 
 ---

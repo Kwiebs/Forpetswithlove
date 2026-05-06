@@ -139,6 +139,11 @@ May ignore scratching post if placed in high-traffic area Provide appropriate al
 ### How often should I replace my British Shorthair cat's scratching post?
 Replace every 6-12 months. British Shorthair cats have moderate claws that wear down materials faster than other breeds.
 
+## Related Posts
+- [How to Stop Cat Scratching Couch](/how-to-stop-cat-scratching-couch/)
+- [Best Cat Scratching Posts for Large Breeds](/best-scratching-posts-for-large-breed-cats/)
+- [Cat Claw Care Guide](/cat-claw-care-guide/)
+
 ## Conclusion
 
 British Shorthair cats deserve scratching posts tailored to their medium-large size and steady, methodical scratchers style. Invest in 28-32 inches tall posts with 20x20 inches bases and sisal rope or cardboard. Your furniture will thank you.

@@ -10,7 +10,7 @@ tags:
 - pet care
 - pet health
 - how-long-cat-pregnant
-title: 'How Long Are Cats Pregnant: Cat Pregnancy Timeline'
+title: "How Long Are Cats Pregnant: Cat Pregnancy Timeline"
 ---
 
 ---

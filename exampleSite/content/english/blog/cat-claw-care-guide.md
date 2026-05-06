@@ -10,8 +10,7 @@ tags:
 - cat claw care
 - cat claw trimming
 - cat claw caps
-title: 'The Ultimate Guide to Cat Claw Care: Trimming, Caps, and More | For Pets With
-  Love'
+title: "The Ultimate Guide to Cat Claw Care: Trimming, Caps, and More | For Pets With Love"
 ---
 
 # The Ultimate Guide to Cat Claw Care: Trimming, Caps, and More | For Pets With Love

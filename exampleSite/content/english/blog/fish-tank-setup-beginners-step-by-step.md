@@ -12,7 +12,7 @@ tags:
 - aquarium setup
 - freshwater fish
 - beginner aquarium
-title: 'Fish Tank Setup for Beginners: Step-by-Step Guide'
+title: "Fish Tank Setup for Beginners: Step-by-Step Guide"
 ---
 
 ---

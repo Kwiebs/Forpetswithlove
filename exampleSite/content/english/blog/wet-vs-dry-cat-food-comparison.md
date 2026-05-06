@@ -12,7 +12,7 @@ tags:
 - wet vs dry cat food
 - cat nutrition
 - feeding cats
-title: 'Wet vs Dry Cat Food: Which Is Better? Complete Comparison'
+title: "Wet vs Dry Cat Food: Which Is Better? Complete Comparison"
 ---
 
 ---

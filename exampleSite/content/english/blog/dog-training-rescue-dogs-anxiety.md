@@ -12,7 +12,7 @@ tags:
 - rescue dogs
 - anxiety
 - dog behavior
-title: 'Dog Training for Rescue Dogs with Anxiety: Complete Guide'
+title: "Dog Training for Rescue Dogs with Anxiety: Complete Guide"
 ---
 
 ---

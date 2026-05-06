@@ -13,7 +13,7 @@ tags:
 - heat lamp vs heat mat
 - reptile care
 - reptile temperature
-title: 'Heat Lamp vs Heat Mat: Reptile Heating Complete Comparison'
+title: "Heat Lamp vs Heat Mat: Reptile Heating Complete Comparison"
 ---
 
 ---

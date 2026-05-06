@@ -12,7 +12,7 @@ tags:
 - hamster nutrition
 - small pet care
 - hamster food
-title: 'How to Feed a Hamster Properly: Complete Nutrition Guide'
+title: "How to Feed a Hamster Properly: Complete Nutrition Guide"
 ---
 
 ---

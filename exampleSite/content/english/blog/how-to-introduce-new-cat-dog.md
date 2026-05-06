@@ -13,7 +13,7 @@ tags:
 - cat dog harmony
 - multi-pet household
 - pet behavior
-title: 'How to Introduce a New Cat to Dog: Complete Guide'
+title: "How to Introduce a New Cat to Dog: Complete Guide"
 ---
 
 ---

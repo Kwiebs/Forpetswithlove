@@ -13,7 +13,7 @@ tags:
 - dog training
 - puppy training
 - crate training
-title: 'How to Potty Train a Dog: Complete House Training Guide'
+title: "How to Potty Train a Dog: Complete House Training Guide"
 ---
 
 ---

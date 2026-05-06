@@ -12,7 +12,7 @@ tags:
 - wood pellet litter
 - clay litter
 - cat care
-title: 'Wood Pellet vs Clay Litter: Full Comparison for Cat Owners'
+title: "Wood Pellet vs Clay Litter: Full Comparison for Cat Owners"
 ---
 
 ---

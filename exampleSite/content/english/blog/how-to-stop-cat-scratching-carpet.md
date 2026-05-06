@@ -109,6 +109,11 @@ Horizontal cardboard scratchers or sisal mats placed directly next to the carpet
 ### What does it cost if I don't stop carpet scratching?
 $1000-5000 carpet replacement per room in replacement costs.
 
+## Related Posts
+- [Best Scratching Posts for Your Cat](/best-scratching-posts-for-apartment-cats/)
+- [Cat Claw Care Guide](/cat-claw-care-guide/)
+- [Get Free Ebook: Cat Scratching Solutions](/ebook/)
+
 ## Conclusion
 
 Stopping carpet scratching requires understanding why cats target this surface, then providing better alternatives in the same location. With Horizontal cardboard scratchers or sisal mats and consistent redirection, you can save your carpet and your wallet.

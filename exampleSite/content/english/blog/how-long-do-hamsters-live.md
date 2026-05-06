@@ -10,7 +10,7 @@ tags:
 - pet care
 - pet health
 - how-long-do-hamsters-live
-title: 'How Long Do Hamsters Live: Life Expectancy by Breed'
+title: "How Long Do Hamsters Live: Life Expectancy by Breed"
 ---
 
 ---

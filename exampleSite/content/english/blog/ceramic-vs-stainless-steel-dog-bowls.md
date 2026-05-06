@@ -12,7 +12,7 @@ tags:
 - ceramic vs stainless steel bowls
 - dog feeding equipment
 - dog supplies
-title: 'Ceramic vs Stainless Steel Dog Bowls: Complete Comparison'
+title: "Ceramic vs Stainless Steel Dog Bowls: Complete Comparison"
 ---
 
 ---

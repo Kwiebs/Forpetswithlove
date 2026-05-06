@@ -13,7 +13,7 @@ tags:
 - dog behavior
 - puppy tips
 - training methods
-title: 'How to Train Puppy Not to Bite: Stop Nipping and Mouthing Fast'
+title: "How to Train Puppy Not to Bite: Stop Nipping and Mouthing Fast"
 ---
 
 ---

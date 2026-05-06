@@ -12,7 +12,7 @@ tags:
 - basic commands
 - positive reinforcement
 - obedience training
-title: 'How to Teach Dog Basic Tricks: Easy Training Guide'
+title: "How to Teach Dog Basic Tricks: Easy Training Guide"
 ---
 
 ---

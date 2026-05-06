@@ -12,7 +12,7 @@ tags:
 - cat illness symptoms
 - cat health
 - cat behavior
-title: 'Why Do Cats Hide When They''re Sick: Understanding Sick Cat Behavior'
+title: "Why Do Cats Hide When They're Sick: Understanding Sick Cat Behavior"
 ---
 
 ---

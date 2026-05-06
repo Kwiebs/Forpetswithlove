@@ -13,7 +13,7 @@ tags:
 - bird behavior
 - bird health
 - pet bird care
-title: 'Why Do Birds Pluck Feathers: Causes and Solutions'
+title: "Why Do Birds Pluck Feathers: Causes and Solutions"
 ---
 
 ---

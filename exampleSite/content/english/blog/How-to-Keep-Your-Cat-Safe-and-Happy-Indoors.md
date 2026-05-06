@@ -8,7 +8,7 @@ image: images/catindoor.jpg
 tags: Cat safety, indoor cat happiness, cat care, pet health, indoor cat environment,
   cat toys, cat exercise, cat nutrition, cat behavior, cat behavior modification,
   cat-proofing your home, cat mental stimulation, feline health, indoor cat activities
-title: 'How to Keep Your Cat Safe and Happy Indoors: An In-Depth Guide'
+title: "How to Keep Your Cat Safe and Happy Indoors: An In-Depth Guide"
 ---
 
 # Introduction:

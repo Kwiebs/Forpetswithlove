@@ -12,7 +12,7 @@ tags:
 - dog behavior
 - dog health
 - pet dog care
-title: 'Why Does My Dog Chew Their Paws: Causes and Treatment'
+title: "Why Does My Dog Chew Their Paws: Causes and Treatment"
 ---
 
 ---

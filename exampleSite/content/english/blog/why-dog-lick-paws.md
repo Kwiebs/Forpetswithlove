@@ -13,7 +13,7 @@ tags:
 - dog behavior
 - dog health
 - pet dog care
-title: 'Why Does My Dog Lick Their Paws: Causes and Solutions'
+title: "Why Does My Dog Lick Their Paws: Causes and Solutions"
 ---
 
 ---

@@ -13,7 +13,7 @@ tags:
 - canister vs HOB filter
 - fish tank equipment
 - aquarium setup
-title: 'Canister vs Hang-on-Back Fish Filter: Complete Comparison'
+title: "Canister vs Hang-on-Back Fish Filter: Complete Comparison"
 ---
 
 ---

@@ -12,7 +12,7 @@ tags:
 - wire vs plastic cages
 - hamster housing
 - hamster care
-title: 'Wire vs Plastic Hamster Cage: Complete Comparison'
+title: "Wire vs Plastic Hamster Cage: Complete Comparison"
 ---
 
 ---

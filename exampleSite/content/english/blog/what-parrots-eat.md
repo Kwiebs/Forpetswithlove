@@ -10,7 +10,7 @@ tags:
 - pet care
 - pet health
 - what-parrots-eat
-title: 'What Do Parrots Eat: Complete Parrot Diet Guide'
+title: "What Do Parrots Eat: Complete Parrot Diet Guide"
 ---
 
 ---
